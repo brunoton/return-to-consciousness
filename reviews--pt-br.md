@@ -14,7 +14,7 @@ description: Avaliações críticas de "Retorno à Consciência" por principais 
 
 **Notas:** 
 - Respostas de IA são não-determinísticas—executar o mesmo prompt novamente provavelmente produziria resenhas diferentes, embora as avaliações gerais e pontuações provavelmente permanecessem similares.
-- Esta é uma tradução do original em inglês. O prompt utilizado com as IAs foi aplicado à versão em inglês, conforme disponível em [Reviews]({{ site.baseurl }}/reviews.md)
+- Esta é uma tradução do original em inglês. O prompt utilizado com as IAs foi aplicado à versão em inglês, conforme disponível em [Reviews]({{ site.baseurl }}/reviews/)
 
 ---
 
