@@ -750,8 +750,6 @@ Moseley, J. B., O'Malley, K., Petersen, N. J., et al. (2002). A controlled trial
 
 Nahm, M., & Greyson, B. (2009). Terminal lucidity in patients with chronic schizophrenia and dementia: A survey of the literature. *Journal of Nervous and Mental Disease*, 197(12), 942-944.
 
-Nahm, M., & Greyson, B. (2009). Already in your list. Core survey of the literature.
-
 Nahm, M., & Greyson, B. (2010). Terminal lucidity in people with mental illness and other conditions: A review and implications for research. Journal of Nervous and Mental Disease, 198(7), 498–506.
 
 Nahm, M. (2013). Terminal lucidity: A review and a case collection. Archives of Gerontology and Geriatrics, 57(2), 138–142.
