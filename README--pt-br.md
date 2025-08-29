@@ -45,7 +45,7 @@ Este trabalho convida engajamento acadêmico e exame crítico. Discussões subst
 
 ```
 Tonetto, B. (2025). Retorno à Consciência: Uma Jornada Filosófica do Materialismo ao Significado. 
-DOI: http://dx.doi.org/10.13140/RG.2.2.27104.96007
+DOI: http://dx.doi.org/10.13140/RG.2.2.34015.73120
 Recuperado de https://brunoton.github.io/return-to-consciousness/
 ```
 

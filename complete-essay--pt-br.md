@@ -39,6 +39,7 @@ description: Ensaio filosófico completo explorando a metafísica consciência-p
 **Autor:** Bruno Tonetto  
 **Formação:** B.S. Física e Ciência da Computação, Professor CEB Certificado (Santa Barbara Institute for Consciousness Studies)  
 **Data de Publicação:** 23 de agosto de 2025  
+**DOI:** 10.13140/RG.2.2.34015.73120  
 *Tradução de: "Return to Consciousness: A Philosophical Journey from Materialism to Meaning" (DOI: 10.13140/RG.2.2.27104.96007)*
 
 ---
