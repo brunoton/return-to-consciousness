@@ -66,7 +66,7 @@ What makes this moment particularly poignant is the recognition that what we're 
 
 ## Part I: The Foundational Challenges Facing Contemporary Thought {#part-i-challenges}
 
-*This section examines the fundamental problems that resist solution within materialist frameworks: the hard problem of consciousness, quantum mechanics' measurement problem, fine-tuning puzzles, emergence challenges, and the integration crisis between scientific and experiential worldviews. These aren't mere puzzles awaiting better theories but may indicate fundamental limitations in matter-first thinking. For extensive empirical evidence that supports consciousness-first alternatives to these challenges, see [Appendix II](#appendix-ii-anomalies).*
+*This section examines fundamental challenges facing contemporary thought: the hard problem of consciousness, quantum mechanics' measurement problem, fine-tuning puzzles, emergence challenges, and the integration crisis between scientific and experiential worldviews. After presenting these challenges, we'll explore how they arose historically and consider whether they point toward deeper conceptual issues with our current philosophical foundations. For extensive empirical evidence relevant to these challenges, see [Appendix II](#appendix-ii-anomalies).*
 
 ### The Cracks in the Materialist Foundation
 
