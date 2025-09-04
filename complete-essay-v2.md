@@ -96,11 +96,13 @@ But how did we arrive at this peculiar situation where our most successful metho
 
 ### The Dualist Foundations of Modern Science
 
-The architects of the scientific revolution were not materialists. René Descartes explicitly posited two distinct substances: res extensa (extended substance/matter) and res cogitans (thinking substance/mind). His mechanical philosophy applied to the physical world while preserving a realm for consciousness, soul, and divine action.
+The architects of the scientific revolution were not materialists. René Descartes explicitly posited two irreducible substances: res extensa (extended matter) and res cogitans (thinking mind). His mechanical philosophy applied only to the physical domain, while he reserved an autonomous realm for consciousness, the soul, and divine action.
 
 Isaac Newton, despite developing the mathematical framework that would later support materialist interpretations, maintained a profoundly dualist worldview. He believed space itself was God's "sensorium"—the medium through which divine consciousness perceived and acted upon creation. Newton actually devoted far more time to theology, alchemy, and biblical prophecy than to physics, writing over a million words on religious subjects and believing that understanding God's design was the ultimate purpose of natural philosophy.
 
-Galileo's focus on mathematical description was methodological, not metaphysical. He famously wrote that "the book of nature is written in mathematical language," and distinguished between primary qualities (measurable properties like size and motion) and secondary qualities (experiential properties like color and taste). He remained a devout Catholic throughout his life and saw his work as revealing God's design. His primary/secondary quality distinction reinforced dualism—if secondary qualities like color and taste exist only in the perceiving mind, this requires both mind (where experiences occur) and matter (the objects that lack these qualities).
+Galileo Galilei likewise framed his science methodologically, not metaphysically. Declaring that “the book of nature is written in mathematical language,” he distinguished between primary qualities (measurable features like size and motion) and secondary qualities (subjective experiences like color and taste). This very distinction presupposes dualism: mind, as the locus of experiential qualities, and matter, stripped to bare quantities.
+
+Thus, the scientific revolution did not begin as a triumph of materialism but as a dualist synthesis. Only later did a conflation of method with metaphysics give rise to the illusion that science itself demanded a materialist worldview.
 
 ### The Strategic Adoption of Objective Empiricism
 
