@@ -92,7 +92,7 @@ But how did we arrive at this peculiar situation where our most successful metho
 
 ## Part II: Historical Origins {#part-ii-origins}
 
-*This section traces how objective empiricism—a research methodology that studies quantifiable patterns in experience—became conflated with metaphysical materialism through conceptual confusion rather than empirical necessity. Understanding this historical trajectory reveals that materialism's current dominance reflects methodological success misattributed to metaphysical assumptions, while clarifying what's fundamentally at stake in debates about consciousness and reality.*
+*This section traces how objective empiricism—a research methodology that studies quantifiable patterns in experience—became conflated with metaphysical materialism through conceptual confusion rather than empirical necessity. Understanding this historical trajectory reveals that materialism dominates today not because evidence proves it true, but because we mistakenly credited its metaphysical assumptions for science's methodological success. This clarifies what's fundamentally at stake in debates about consciousness and reality.*
 
 ### The Dualist Foundations of Modern Science
 
