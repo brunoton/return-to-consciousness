@@ -96,7 +96,7 @@ But how did we arrive at this peculiar situation where our most successful metho
 
 ### The Dualist Foundations of Modern Science
 
-The architects of the scientific revolution were not materialists. René Descartes explicitly posited two irreducible substances: res extensa (extended matter) and res cogitans (thinking mind). His mechanical philosophy applied only to the physical domain, while he reserved an autonomous realm for consciousness, the soul, and divine action.
+The architects of the scientific revolution were not materialists. René Descartes explicitly posited two distinct substances: res extensa (extended substance/matter) and res cogitans (thinking substance/mind). His mechanical philosophy applied to the physical world while preserving a realm for consciousness, soul, and divine action.
 
 Isaac Newton, despite developing the mathematical framework that would later support materialist interpretations, maintained a profoundly dualist worldview. He believed space itself was God's "sensorium"—the medium through which divine consciousness perceived and acted upon creation. Newton actually devoted far more time to theology, alchemy, and biblical prophecy than to physics, writing over a million words on religious subjects and believing that understanding God's design was the ultimate purpose of natural philosophy.
 
