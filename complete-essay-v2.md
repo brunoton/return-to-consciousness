@@ -81,6 +81,8 @@ The fine-tuning of physical constants presents another puzzle. The fundamental p
 
 The emergence problem challenges our understanding of how higher-level properties arise from lower levels. How do the laws of thermodynamics emerge from quantum mechanics? How does biological function arise from chemistry? How does meaningful information emerge from syntax? Strong emergence seems mysterious if not impossible, yet without it, are all higher-level sciences merely useful fictions?
 
+Perhaps most tellingly, the proliferation of incompatible physicalist theories about consciousness—from eliminativism to functionalism to illusionism—reveals not healthy debate but repeated failure to address the core mystery. Each new position represents another strategic retreat rather than progress toward explanation. We don't need to address every variation when they all share the same fundamental flaw: attempting to derive subjective experience from purely objective processes. The latest sophisticated attempt, illusionism, exemplifies this retreat: it uses consciousness to argue against consciousness's own self-evident nature, creating a performative contradiction that reveals physicalism's bankruptcy rather than solving its problems.
+
 ### The Integration Crisis
 
 Perhaps most importantly, we face what might be called the integration crisis: the seemingly irreconcilable gap between the manifest image (our lived experience as conscious agents in a meaningful world) and the scientific image (humans as collections of particles governed by impersonal physical laws). This isn't merely an intellectual puzzle but an existential crisis that affects how we understand human dignity, moral responsibility, free will, and the very possibility of meaning.
