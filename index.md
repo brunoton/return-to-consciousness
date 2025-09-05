@@ -33,11 +33,10 @@ As we develop artificial intelligence and confront civilizational challenges tha
 
 **Core Content:**
 - **[Main Essay]({{ site.baseurl }}/complete-essay)** - The complete philosophical argument across 7 parts
-- **[Appendix I: Cosmic Journey]({{ site.baseurl }}/complete-essay#appendix-i-cosmic)** - Reincarnation, soul evolution, and extraterrestrial perspectives  
-- **[Appendix II: Anomalous Phenomena]({{ site.baseurl }}/complete-essay#appendix-ii-anomalies)** - NDEs, psi effects, and evidence challenging materialism
-- **[Appendix III: Evidence Convergence]({{ site.baseurl }}/complete-essay#appendix-iii-integration)** - Integration of scientific and contemplative insights
+- **[Appendix I: Anomalous Phenomena]({{ site.baseurl }}/complete-essay#appendix-i-anomalies)** - NDEs, psi effects, and evidence challenging materialism
+- **[Epilogue: The Cosmic Journey]({{ site.baseurl }}/complete-essay#epilogue-cosmic)** - Reincarnation, soul evolution, and consciousness hierarchy
 
-**For specific interests**: Navigate directly to [AI implications]({{ site.baseurl }}/complete-essay#part-iv-implications), [anomalous phenomena evidence]({{ site.baseurl }}/complete-essay#appendix-ii-anomalies), or [consciousness evolution framework]({{ site.baseurl }}/complete-essay#appendix-i-cosmic)
+**For specific interests**: Navigate directly to [AI implications]({{ site.baseurl }}/complete-essay#part-v-applications), [anomalous phenomena evidence]({{ site.baseurl }}/complete-essay#appendix-i-anomalies), or [consciousness evolution framework]({{ site.baseurl }}/complete-essay#epilogue-cosmic)
 
 ## Academic Platforms
 

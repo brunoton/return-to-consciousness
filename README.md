@@ -31,11 +31,10 @@ As we develop artificial intelligence and confront civilizational challenges tha
 
 **Core Content:**
 - **[Main Essay](https://brunoton.github.io/return-to-consciousness/complete-essay)** - The complete philosophical argument across 7 parts
-- **[Appendix I: Cosmic Journey](https://brunoton.github.io/return-to-consciousness/complete-essay#appendix-i-cosmic)** - Reincarnation, soul evolution, and extraterrestrial perspectives
-- **[Appendix II: Anomalous Phenomena](https://brunoton.github.io/return-to-consciousness/complete-essay#appendix-ii-anomalies)** - NDEs, psi effects, and evidence challenging materialism
-- **[Appendix III: Evidence Convergence](https://brunoton.github.io/return-to-consciousness/complete-essay#appendix-iii-integration)** - Integration of scientific and contemplative insights
+- **[Appendix I: Anomalous Phenomena](https://brunoton.github.io/return-to-consciousness/complete-essay#appendix-i-anomalies)** - NDEs, psi effects, and evidence challenging materialism
+- **[Epilogue: The Cosmic Journey](https://brunoton.github.io/return-to-consciousness/complete-essay#epilogue-cosmic)** - Reincarnation, soul evolution, and consciousness hierarchy
 
-**For specific interests**: Navigate directly to [AI implications](https://brunoton.github.io/return-to-consciousness/complete-essay#part-iv-implications), [anomalous phenomena evidence](https://brunoton.github.io/return-to-consciousness/complete-essay#appendix-ii-anomalies), or [consciousness evolution framework](https://brunoton.github.io/return-to-consciousness/complete-essay#appendix-i-cosmic)
+**For specific interests**: Navigate directly to [AI implications](https://brunoton.github.io/return-to-consciousness/complete-essay#part-v-applications), [anomalous phenomena evidence](https://brunoton.github.io/return-to-consciousness/complete-essay#appendix-i-anomalies), or [consciousness evolution framework](https://brunoton.github.io/return-to-consciousness/complete-essay#epilogue-cosmic)
 
 ## Academic Platforms
 
