@@ -743,11 +743,11 @@ The idealist framework doesn't just explain these anomalies but suggests they're
 
 ## Epilogue: The Cosmic Journey {#epilogue-cosmic}
 
-Having established consciousness as fundamental to reality, we now turn to the profound implications this recognition holds for humanity's cosmic journey. If individual minds are dissociated aspects of universal consciousness, what possibilities emerge for personal evolution, death and rebirth, and our species' place in a conscious cosmos?
+Having established the philosophical and empirical case for consciousness as fundamental, this epilogue now ventures into a different mode of inquiry: a speculative and imaginative exploration of what this worldview might imply for our cosmic journey. The ideas that follow are not presented as proven facts but as a logically consistent extension of the idealist framework—a meditation on the profound possibilities that open when we take consciousness seriously.
 
-This epilogue ventures into speculative yet logically consistent territory—exploring what becomes possible when we take consciousness-first metaphysics to its natural conclusions. The ideas presented draw on wisdom traditions spanning cultures and millennia, yet require no supernatural assumptions. They emerge organically from the idealist framework developed in this essay, offering a visionary glimpse of what human existence might mean within a fundamentally conscious universe.
+If individual minds are dissociated aspects of universal consciousness, what possibilities emerge for personal evolution, death and rebirth, and our species' place in a conscious cosmos? Drawing on wisdom traditions spanning cultures and millennia—yet requiring no supernatural assumptions—these explorations emerge organically from the idealist framework developed in this essay.
 
-While these explorations extend beyond empirical proof, they provide a coherent extension of the philosophical foundation established in the main essay. For the empirical evidence supporting consciousness-first metaphysics, see [Appendix I](#appendix-i-anomalies). What follows is an invitation to consider the transformative possibilities that open when we recognize consciousness not as an accident but as the very ground of being.
+This is an invitation to wonder, intended to provoke thought rather than command belief, and to explore the meaning that might be woven into the fabric of a conscious cosmos. What follows offers a visionary glimpse of what human existence might mean when we recognize consciousness not as an accident but as the very ground of being.
 
 ### The Extended Framework of Dissociation
 
