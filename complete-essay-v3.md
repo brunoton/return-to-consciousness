@@ -356,7 +356,9 @@ Analytic idealism offers a fundamentally different picture. Under the idealist f
 
 The environmental crisis too takes on new dimensions through an idealist lens. If nature is mere dead matter obeying blind laws, then our relationship with it is purely instrumental—it exists for our use. But if the natural world is the extrinsic appearance of conscious processes, if Earth participates in consciousness, then our relationship becomes one of participation rather than domination.
 
-Indigenous peoples who maintained animistic worldviews—seeing nature as alive and conscious—sustained their environments for thousands of years. While they lacked the technological power for large-scale destruction, their cultures developed deep structures of reverence that would have constrained such use even if available. The cultures that adopted mechanistic materialism, upon developing such technological power, have brought the biosphere to the brink of collapse in mere centuries. This correlation suggests that worldviews may profoundly influence how we deploy our technological capabilities—whether toward harmony or domination.
+The relationship between worldviews and ecological outcomes is complex, involving technological capability, population density, resource availability, and social organization alongside belief systems. While some indigenous societies with animistic worldviews maintained relatively sustainable practices over long periods, this often reflected technological limitations and smaller populations rather than purely philosophical constraints. Archaeological evidence shows that some indigenous societies did cause significant ecological damage when they had the means—from megafauna extinctions to deforestation.
+
+However, the correlation between mechanistic materialism and large-scale environmental destruction remains noteworthy, even accounting for these complexities. The worldview that treats nature as dead matter to be exploited has coincided with unprecedented ecological damage as technological power increased. This suggests that while worldviews aren't deterministic, they may influence how societies choose to deploy their technological capabilities—whether toward extraction or integration with natural systems.
 
 ### The Technological Challenge: Artificial Intelligence
 
@@ -526,7 +528,9 @@ The choice before us isn't between competing worldviews but between partial and 
 
 As we face challenges that neither science nor spirituality alone can solve—the development of artificial intelligence, the environmental crisis, the meaning epidemic—this integration becomes not just philosophically interesting but practically essential. The question isn't whether to honor both objective and subjective knowledge, but whether we'll do so in time to navigate the crises created by honoring only one.
 
-Consider how different worldviews correlate with ecological practices. Indigenous peoples who experience nature as conscious have maintained sustainable relationships for millennia. Modern industrial civilization, viewing nature as resource, has brought the biosphere near collapse in mere centuries. When humans understand themselves as biological machines in a meaningless universe, no amount of therapy or medication fully addresses the existential vacuum. The consciousness-first framework offers not false comfort but recognition of genuine meaning inherent in reality's structure.
+Consider how different worldviews may correlate with ecological practices, while acknowledging the complex interplay of factors involved. The mechanistic worldview that treats nature as dead matter for exploitation has accompanied unprecedented environmental destruction as technological capabilities expanded. While indigenous societies varied greatly in their ecological impacts—some causing significant damage when circumstances allowed—the correlation between consciousness-excluding worldviews and large-scale environmental destruction at industrial scales remains striking.
+
+When humans understand themselves as biological machines in a meaningless universe, no amount of therapy or medication fully addresses the existential vacuum. The consciousness-first framework offers not false comfort but recognition of genuine meaning inherent in reality's structure.
 
 ### The Spiral Return
 
