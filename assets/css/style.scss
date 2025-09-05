@@ -281,7 +281,7 @@
     left: 20px;
     width: auto;
     transform: none;
-    max-height: 50vh;
+    max-height: 60vh; /* Increased from 50vh */
   }
 
   .floating-toc.collapsed {
@@ -289,6 +289,41 @@
     height: 50px;
     right: 20px;
     left: auto;
+  }
+  
+  /* Ensure TOC content is properly scrollable on mobile */
+  .toc-content {
+    max-height: calc(60vh - 60px); /* Account for header height */
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
+  }
+  
+  /* Make scrollbar more visible on mobile */
+  .toc-content::-webkit-scrollbar {
+    width: 8px; /* Wider scrollbar for mobile */
+  }
+  
+  .toc-content::-webkit-scrollbar-thumb {
+    background: #afb8c1; /* More visible by default */
+    border-radius: 4px;
+  }
+  
+  /* Ensure TOC doesn't get cut off by bottom safe areas on mobile */
+  .floating-toc {
+    bottom: max(20px, env(safe-area-inset-bottom, 0px));
+  }
+  
+  /* Add scroll indicator for mobile to show more content below */
+  .toc-content::after {
+    content: '';
+    position: sticky;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 20px;
+    background: linear-gradient(transparent, white 70%);
+    pointer-events: none;
+    display: block;
   }
 
   .wrapper {

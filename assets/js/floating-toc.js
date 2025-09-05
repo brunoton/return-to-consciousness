@@ -184,7 +184,8 @@ document.addEventListener('DOMContentLoaded', function() {
         window.addEventListener('scroll', function() {
             const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
             
-            if (Math.abs(scrollTop - lastScrollTop) > hideThreshold) {
+            // Only hide if TOC is not actively being used (collapsed)
+            if (toc.classList.contains('collapsed') && Math.abs(scrollTop - lastScrollTop) > hideThreshold) {
                 if (scrollTop > lastScrollTop && scrollTop > 200) {
                     // Scrolling down - hide TOC
                     toc.style.transform = 'translateY(150%)';
@@ -193,6 +194,9 @@ document.addEventListener('DOMContentLoaded', function() {
                     toc.style.transform = 'translateY(0)';
                 }
                 lastScrollTop = scrollTop;
+            } else if (!toc.classList.contains('collapsed')) {
+                // If TOC is expanded, always show it
+                toc.style.transform = 'translateY(0)';
             }
         }, { passive: true });
     }
