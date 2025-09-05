@@ -26,11 +26,15 @@
   <!-- Canonical URL -->
   <link rel="canonical" href="{{ page.url | absolute_url }}">
   
-  <!-- Favicon -->
-  <link rel="icon" type="image/x-icon" href="{{ '/favicon.ico' | absolute_url }}">
+  <!-- Favicons -->
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ '/favicon/apple-touch-icon.png' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/favicon/favicon-32x32.png' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ '/favicon/favicon-16x16.png' | relative_url }}">
+  <link rel="manifest" href="{{ '/favicon/site.webmanifest' | relative_url }}">
+  <link rel="icon" type="image/x-icon" href="{{ '/favicon/favicon.ico' | relative_url }}">
   
   <!-- CSS -->
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | absolute_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   
   <!-- Jekyll SEO Tag -->
   {% seo %}
@@ -42,13 +46,13 @@
 <body>
   <header class="site-header">
     <div class="wrapper">
-      <a class="site-title" href="{{ '/' | absolute_url }}">{{ site.title | escape }}</a>
+      <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
       <nav class="site-nav">
         <div class="trigger">
           {% for path in site.header_pages %}
             {% assign my_page = site.pages | where: "path", path | first %}
             {% if my_page.title %}
-            <a class="page-link" href="{{ my_page.url | absolute_url }}">{{ my_page.title | escape }}</a>
+            <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {% endif %}
           {% endfor %}
         </div>
@@ -79,8 +83,8 @@
             </li>
             {% endif %}
             <li>
-              <a href="{{ site.url }}{{ site.baseurl }}">
-                <span class="username">GitHub</span>
+              <a href="{{ '/' | absolute_url }}">
+                <span class="username">Website</span>
               </a>
             </li>
           </ul>
