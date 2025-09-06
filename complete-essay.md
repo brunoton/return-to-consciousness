@@ -900,7 +900,7 @@ This is an invitation to wonder, intended to provoke thought rather than command
 
 If we take the idealist framework seriously—that individual minds are dissociated alters of universal consciousness—then death and birth take on new meaning. The dissolution of a dissociative boundary (death) doesn't annihilate consciousness but returns it to a less constrained state, while the formation of new boundaries (birth) creates new loci of experience. This opens profound questions about the continuity and evolution of consciousness across multiple embodiments.
 
-The concept of reincarnation, found in Hindu, Buddhist, Jain, and many indigenous traditions, suddenly becomes philosophically coherent within this framework. Rather than being a supernatural claim requiring special pleading, it follows naturally from the idea that consciousness is fundamental and that individual minds are temporary dissociative structures within it. The "soul" or continuing stream of consciousness represents patterns, tendencies, and accumulated experiences that persist beyond single biological instantiations.
+The concept of reincarnation, found in Hindu, Buddhist, Jain, and many indigenous traditions, gains philosophical coherence within this framework. Rather than requiring supernatural assumptions, it becomes a natural extension of the idea that consciousness is fundamental and that individual minds are temporary dissociative structures within it. The "soul" or continuing stream of consciousness represents patterns, tendencies, and accumulated experiences that persist beyond single biological instantiations.
 
 ### The Evolutionary Ladder of Consciousness
 
