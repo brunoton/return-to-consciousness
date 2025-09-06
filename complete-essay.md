@@ -806,19 +806,19 @@ Yet even this analysis reveals the limitations of traditional categories. They t
 
 Rather than asking whether consciousness is material or immaterial, fundamental or emergent, we might ask: What happens to the stream of individual conscious experience at biological death? This reframing reveals three distinct categories that cut across traditional metaphysical boundaries:
 
-#### Individual-Terminating Worldviews
+**Individual-Terminating Worldviews**
 
 These positions hold that your stream of consciousness, your subjective perspective, your sense of being "you," ceases entirely at biological death. Standard physicalism exemplifies this view, but it's not limited to materialist metaphysics. Even some forms of idealism or panpsychism might hold that individual conscious streams terminate while acknowledging that consciousness itself persists in other forms.
 
 The individual-terminating view treats death as a genuine ending - not just of bodily functions but of the subjective perspective that makes you who you are. This position demands a certain existential courage: it asks us to accept that our deepest sense of selfhood is temporary and fragile.
 
-#### Individual-Preserving Worldviews
+**Individual-Preserving Worldviews**
 
 These frameworks maintain that your individual stream of consciousness survives bodily death while retaining its essential character and continuity. Classical substance dualism exemplifies this position, as do many traditional religious doctrines that posit personal survival in heaven, hell, or other post-mortem states.
 
 Individual-preserving views offer comfort to those who find the prospect of personal extinction unbearable. They suggest that death is not an ending but a transition, that the "you" who experiences these words will continue experiencing in some other context after your body dies.
 
-#### Individual-Transforming Worldviews
+**Individual-Transforming Worldviews**
 
 This third category, perhaps the most philosophically sophisticated, holds that something essential continues beyond biological death while undergoing fundamental transformation. The individual stream of consciousness neither simply ends nor remains static but evolves, dissolves boundaries, or integrates into larger patterns of experience.
 
@@ -826,25 +826,25 @@ This third category, perhaps the most philosophically sophisticated, holds that 
 
 Individual-transforming worldviews encompass a remarkable diversity of sophisticated philosophical and spiritual traditions that avoid both materialist reductionism and naive ego-preservation.
 
-#### Buddhist Philosophy
+**Buddhist Philosophy**
 
 Buddhism presents perhaps the most paradoxical example of individual-transformation. The doctrine of anatman (no-self) denies the existence of a permanent, unchanging soul, yet Buddhism clearly affirms continuity of consciousness through rebirth. This apparent contradiction resolves when we understand that what continues is not a substantial self but a causal stream of consciousness - karmic momentum and conscious processes that persist while constantly changing.
 
 The Buddhist metaphor of one flame lighting another captures this perfectly: there's continuity but not identity. What carries forward isn't "you" in a fixed sense but rather patterns of consciousness shaped by your actions and mental habits. Over countless lifetimes, these patterns can be purified and ultimately dissolve into enlightenment - a state that transcends individual boundaries entirely.
 
-#### Advaitic Vedanta
+**Advaitic Vedanta**
 
 Vedantic philosophy offers another sophisticated form of individual-transformation through its atman-Brahman non-dualism. According to Advaita Vedanta, individual consciousness (atman) is ultimately identical with universal consciousness (Brahman). Death doesn't destroy the individual soul but reveals the illusory nature of the boundary between self and cosmos.
 
 From this perspective, what we take to be individual consciousness is like a wave that has forgotten it's part of the ocean. Death is the wave's dissolution back into its oceanic source - not destruction but recognition of what was always true. The individual doesn't survive death so much as discover that true individuality was never separate from universal being.
 
-#### Contemporary Analytical Idealism
+**Contemporary Analytical Idealism**
 
 Bernardo Kastrup's analytical idealism provides a modern, scientifically informed version of individual-transformation. In his framework, individual consciousness represents a dissociated "alter" of universal mind - analogous to how dissociative identity disorder creates apparently separate personalities within one psyche.
 
 At death, Kastrup suggests, the dissociation ends and the individual perspective reintegrates with the broader cosmic consciousness. There's continuity since the individual was never truly separate from universal mind, but the specific boundary that defined the individual dissolves. This offers a contemporary translation of ancient non-dualist insights using the language of modern psychology and neuroscience.
 
-#### Subtle Body Traditions
+**Subtle Body Traditions**
 
 Theosophical and Kardecist traditions introduce temporal complexity into individual-transformation through their doctrine of subtle bodies. Rather than immediate dissolution or preservation, these frameworks envision consciousness operating through multiple vehicles of progressively refined materiality.
 
@@ -854,7 +854,7 @@ Kardecist Spiritism similarly posits a "perispirit" - a semi-material vehicle th
 
 These traditions suggest that individual-transformation isn't necessarily immediate. There might be intermediate states where individuality is maintained while gradually being refined, expanded, and ultimately transcended. This provides a bridge between preservation and transformation that honors both the reality of individual experience and its ultimate transcendence.
 
-#### Christian Mysticism
+**Christian Mysticism**
 
 The Christian mystical tradition offers yet another model of individual-transformation through its theology of theosis or divinization. Mystics like Pseudo-Dionysius, Meister Eckhart, and John of the Cross describe a progressive journey where the individual soul moves through purgation, illumination, and union with God.
 
