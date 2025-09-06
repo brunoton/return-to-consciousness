@@ -14,10 +14,10 @@
 Contemporary philosophy and science face profound challenges that resist solution within purely materialist frameworks: the hard problem of consciousness, quantum mechanics' measurement puzzle, and the integration crisis between scientific and experiential worldviews. This work presents a comprehensive case for consciousness-first metaphysics, building on Bernardo Kastrup's analytic idealism while engaging with quantum physics, anomalous phenomena research, and contemplative traditions spanning cultures and millennia.
 
 **Original Contributions:**
-- **AI Safety Through Consciousness Maturation**: Reframes artificial intelligence development as requiring human spiritual evolution alongside technical advancement, recognizing fundamental uncertainty about consciousness manifestation in artificial systems
+- **Historical Analysis of Materialism's Rise**: Reveals how objective empiricism (successful research methodology) became conflated with metaphysical materialism through conceptual confusion rather than empirical necessity, opening space for consciousness-first alternatives
 - **Anomalous Phenomena Integration**: Demonstrates how well-documented phenomena—near-death experiences, terminal lucidity, placebo effects, reincarnation research—become explicable under consciousness-first metaphysics while remaining mysterious under materialism
 - **Cross-Cultural Convergence Analysis**: Documents how quantum mechanics pioneers independently arrived at consciousness-oriented interpretations, aligning with insights from contemplative traditions across cultures
-- **Civilizational Recontextualization**: Addresses meaning crisis, environmental destruction, and technological challenges as consequences of excluding consciousness from fundamental reality
+- **AI Safety Through Consciousness Maturation**: Reframes artificial intelligence development as requiring human spiritual evolution alongside technical advancement, recognizing fundamental uncertainty about consciousness manifestation in artificial systems
 
 ## Significance
 
@@ -27,7 +27,7 @@ As we develop artificial intelligence and confront civilizational challenges tha
 
 **For overview and key insights**: Begin with the [Executive Summary](https://brunoton.github.io/return-to-consciousness/executive-summary) (4 pages)
 
-**For comprehensive analysis**: Read the [complete essay online](https://brunoton.github.io/return-to-consciousness/complete-essay) (44 pages) or [download PDF](https://brunoton.github.io/return-to-consciousness/return-to-consciousness.pdf)
+**For comprehensive analysis**: Read the [complete essay online](https://brunoton.github.io/return-to-consciousness/complete-essay) (53 pages) or [download PDF](https://brunoton.github.io/return-to-consciousness/return-to-consciousness.pdf)
 
 **Core Content:**
 - **[Main Essay](https://brunoton.github.io/return-to-consciousness/complete-essay)** - The complete philosophical argument across 7 parts
