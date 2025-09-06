@@ -371,7 +371,7 @@ Under consciousness-first metaphysics, traditional and alternative healing modal
 
 **The Role of Meaning in Healing**
 
-The consciousness-first framework suggests meaning itself is therapeutic. Viktor Frankl's observations about meaning and survival in concentration camps, the documented correlation between spiritual practices and health outcomes, and the consistent psychological factors in spontaneous remission cases all point toward meaning as a fundamental healing agent.
+The consciousness-first framework suggests meaning itself is therapeutic. Viktor Frankl's observations about meaning and survival in concentration camps, the documented correlation between spiritual practices and health outcomes (VanderWeele, 2022), and the consistent psychological factors in spontaneous remission cases all point toward meaning as a fundamental healing agent.
 
 When consciousness recognizes purpose, connection, and its fundamental nature, this recognition might manifest as improved physical health. This isn't mere positive thinking but recognition of what consciousness already is—whole, creative, and inherently oriented toward flourishing.
 
@@ -981,6 +981,8 @@ Turner, K. A. (2014). Radical Remission: Surviving Cancer Against All Odds.
 Tuttle, A. H., Tohyama, S., Ramsay, T., et al. (2015). Increasing placebo responses over time in U.S. clinical trials of neuropathic pain. *Pain*, 156(12), 2616-2626.
 
 van Lommel, P., van Wees, R., Meyers, V., & Elfferich, I. (2001). Near-death experience in survivors of cardiac arrest: A prospective study in the Netherlands. *The Lancet*, 358(9298), 2039-2045.
+
+VanderWeele, T. J. (2022). Spirituality, religion, and health: Recent evidence and future directions. *Harvard Gazette / Harvard T.H. Chan School of Public Health*. Retrieved from https://hsph.harvard.edu/news/spirituality-better-health-outcomes-patient-care
 
 Wager, T. D., Rilling, J. K., Smith, E. E., Sokolik, A., Casey, K. L., Davidson, R. J., ... & Cohen, J. D. (2004). Placebo-induced changes in fMRI in the anticipation and experience of pain. Science, 303(5661), 1162–1167.
 
