@@ -332,7 +332,7 @@ The fact that Kastrup's analytical idealism, developed through rigorous philosop
 
 ## Part V: Civilizational Applications {#part-v-applications}
 
-*This section explores how consciousness-first metaphysics reframes our civilizational challenges. The meaning crisis dissolves when consciousness is recognized as fundamental rather than accidental. Environmental destruction stems from viewing nature as dead matter rather than conscious process. Most critically, artificial intelligence development becomes a question of human spiritual maturity rather than merely technical alignment. For a speculative but systematic exploration of consciousness evolution and humanity's place in a cosmic hierarchy, see the [Epilogue](#epilogue-cosmic).*
+*This section explores how consciousness-first metaphysics reframes our civilizational challenges. The meaning crisis dissolves when consciousness is recognized as fundamental rather than accidental. Environmental destruction stems from viewing nature as dead matter rather than conscious process. Healthcare transforms when the body is understood as consciousness's extrinsic appearance rather than a mere biological machine. Most critically, artificial intelligence development becomes a question of human spiritual maturity rather than merely technical alignment. For a speculative but systematic exploration of consciousness evolution and humanity's place in a cosmic hierarchy, see the [Epilogue](#epilogue-cosmic).*
 
 ### The Meaning Crisis and Its Resolution
 

@@ -11,8 +11,7 @@ description: Executive summary of Return to Consciousness - A philosophical fram
 
 **Author:** Bruno Tonetto  
 **Background:** B.S. Physics and Computer Science, Certified CEB Teacher (Santa Barbara Institute for Consciousness Studies)  
-**Publication Date:** August, 2025 (Second Edition: September, 2025)  
-**DOI:** 10.13140/RG.2.2.27104.96007
+**Publication Date:** August, 2025 (Second Edition: September, 2025)
 
 ---
 
@@ -89,6 +88,8 @@ The framework reframes major contemporary challenges:
 **Meaning Crisis**: Dissolves when consciousness is recognized as fundamental rather than accidental. Mental suffering partly reflects tension between our true nature and dissociative forgetting of it.
 
 **Environmental Destruction**: The mechanistic worldview treating nature as dead matter for exploitation has accompanied unprecedented ecological damage. Understanding nature as conscious process suggests participatory rather than extractive relationships.
+
+**Healthcare Transformation**: Medicine reframes from treating the body as a biological machine to recognizing it as consciousness's extrinsic appearance. This explains placebo effects, mind-body healing, and suggests integrative approaches combining conventional medicine with consciousness-based modalities.
 
 **Technological Development**: Rather than technology for domination, we might develop technology for connection and flourishing, recognizing the body as appearance of mental processes rather than mere machine.
 
