@@ -29,7 +29,7 @@ As we develop artificial intelligence and confront civilizational challenges tha
 
 **For overview and key insights**: Begin with the [Executive Summary]({{ site.baseurl }}/executive-summary) (4 pages)
 
-**For comprehensive analysis**: Read the [complete essay online]({{ site.baseurl }}/complete-essay) (53 pages) or [download PDF]({{ site.baseurl }}/return-to-consciousness.pdf)
+**For comprehensive analysis**: Read the [complete essay online]({{ site.baseurl }}/complete-essay) (60 pages) or [download PDF]({{ site.baseurl }}/return-to-consciousness.pdf)
 
 **Core Content:**
 - **[Main Essay]({{ site.baseurl }}/complete-essay)** - The complete philosophical argument across 7 parts
