@@ -192,9 +192,8 @@
 
 ## CONCEITOS CIVILIZACIONAIS E CULTURAIS
 
-### **Meaning Crisis** → **Crise do Sentido**
+### **Meaning Crisis** → **Crise de Sentido**
 - **Definição**: Perda generalizada de propósito e significado na modernidade
-- **Alternativa**: "Crise de Significado"
 
 ### **Environmental Crisis** → **Crise Ambiental**
 - **Definição**: Destruição ecológica de origem antropogênica
@@ -207,13 +206,9 @@
 
 ## CONCEITOS ESTRUTURAIS E METODOLÓGICOS
 
-### **Framework** → **Arcabouço** / **Marco Teórico**
+### **Framework** → **Arcabouço**
 - **Definição**: Estrutura conceitual que organiza e fundamenta uma teoria ou abordagem
-- **Contexto**: "consciousness-first framework" → "arcabouço consciousness-first" / "marco teórico baseado na consciência"
-- **Alternativas**: 
-  - **Arcabouço**: mais técnico, usado em ciências
-  - **Marco teórico**: mais usado em filosofia/humanidades
-  - **Estrutura conceitual**: alternativa descritiva
+- **Contexto**: "consciousness-first framework" → "arcabouço consciousness-first"
 - **Uso no texto**: Aparece frequentemente como "idealist framework", "materialist framework"
 
 ---
@@ -281,6 +276,29 @@
 
 ### **Well-documented** → **Bem documentado**
 - **Separado**: não usar hífen em português
+
+### **Brain-as-producer** → **Cérebro-como-produtor**
+- **Definição**: Modelos que tratam o cérebro como gerador da consciência
+- **Contexto**: "brain-as-producer models" → "modelos do cérebro-como-produtor"
+- **Contraste**: versus "reducing valve" theories (teorias de válvula redutora)
+
+### **Mind-brain relationship** → **Relação mente-cérebro**
+- **Manter hífen**: estabelecido na literatura neurocientífica brasileira
+- **Contexto**: Debate fundamental sobre se cérebro produz ou restringe consciência
+
+### **Reducing valve** → **Válvula redutora** / **Filtro redutor**
+- **Definição**: Teoria de que o cérebro restringe/filtra consciência em vez de produzi-la
+- **Contexto**: Contrasta com modelos cerebrais-como-produtores
+- **Origem**: Aldous Huxley, later Bergson
+- **Uso**: "reducing valve theories" → "teorias de válvula redutora"
+
+### **Individual-terminating/preserving/transforming** → **Individual-terminativo/preservativo/transformativo**
+- **Uso específico**: Taxonomia das visões sobre morte da consciência individual
+- **Contextos**:
+  - "individual-terminating worldviews" → "visões de mundo individual-terminativas"
+  - "individual-preserving frameworks" → "arcabouços individual-preservativos" 
+  - "individual-transforming traditions" → "tradições individual-transformativas"
+- **Nota**: Estes são termos técnicos criados pelo autor para classificar posições filosóficas
 
 ---
 
