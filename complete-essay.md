@@ -806,7 +806,7 @@ Rather than asking whether consciousness is material or immaterial, fundamental 
 
 **Individual-Terminating Worldviews**
 
-These positions hold that your stream of consciousness, your subjective perspective, your sense of being "you," ceases entirely at biological death. Standard physicalism exemplifies this view, but it's not limited to materialist metaphysics. Even some forms of idealism or panpsychism might hold that individual conscious streams terminate while acknowledging that consciousness itself persists in other forms.
+These positions hold that your stream of consciousness, your subjective perspective, your sense of being "you," ceases entirely at biological death. Standard physicalism exemplifies this view, but it's not limited to materialist metaphysics. Even some forms of dualism or panpsychism might hold that individual conscious streams terminate while acknowledging that consciousness itself persists in other forms.
 
 The individual-terminating view treats death as a genuine ending - not just of bodily functions but of the subjective perspective that makes you who you are. This position demands a certain existential courage: it asks us to accept that our deepest sense of selfhood is temporary and fragile.
 
