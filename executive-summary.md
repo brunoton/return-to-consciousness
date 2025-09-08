@@ -7,8 +7,6 @@ description: Executive summary of Return to Consciousness - A philosophical fram
 # Executive Summary: Return to Consciousness
 ## A Philosophical Journey from Materialism to Meaning (Second Edition)
 
-🌐 **Languages:** | [English]({{ site.baseurl }}/executive-summary) | [Português (Brasil)]({{ site.baseurl }}/executive-summary--pt-br)
-
 **Author:** Bruno Tonetto  
 **Background:** B.S. Physics and Computer Science, Certified CEB Teacher (Santa Barbara Institute for Consciousness Studies)  
 **Publication Date:** August, 2025 (Second Edition: September, 2025)

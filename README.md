@@ -4,10 +4,6 @@
 [![GitHub Pages](https://img.shields.io/badge/Read%20Online-GitHub%20Pages-blue)](https://brunoton.github.io/return-to-consciousness/)
 [![DOI](https://img.shields.io/badge/DOI-10.13140/RG.2.2.27104.96007-blue)](https://doi.org/10.13140/RG.2.2.27104.96007)
 
-## Languages / Idiomas
-
-- **English**: [Read Online](https://brunoton.github.io/return-to-consciousness/) | [README](README.md)
-- **Português (Brasil)**: [Ler Online](https://brunoton.github.io/return-to-consciousness/index--pt-br) | [README](README--pt-br.md)
 
 ## Abstract
 

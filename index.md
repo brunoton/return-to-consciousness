@@ -6,8 +6,6 @@ description: Project overview and access to a philosophical exploration of consc
 
 # Return to Consciousness
 
-🌐 **Languages:** | [English]({{ site.baseurl }}/) | [Português (Brasil)]({{ site.baseurl }}/index--pt-br)
-
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub Pages](https://img.shields.io/badge/Read%20Online-GitHub%20Pages-blue)]({{ site.baseurl }}/)
 
