@@ -40,6 +40,7 @@ As we develop artificial intelligence and confront civilizational challenges tha
 
 This work is available on major academic platforms:
 
+- **[Zenodo](https://doi.org/10.5281/zenodo.17100415)** - Primary academic repository with DOI (cite this version)
 - **[ResearchGate](https://www.researchgate.net/publication/394880543_Return_to_Consciousness_A_Philosophical_Journey_from_Materialism_to_Meaning)** - Connect with researchers and follow citations
 - **[Academia.edu](https://www.academia.edu/143586891/Return_to_Consciousness_A_Philosophical_Journey_from_Materialism_to_Meaning)** - Academic discussion and sharing
 
@@ -56,8 +57,7 @@ B.S. Physics and Computer Science, Certified CEB Teacher (Santa Barbara Institut
 ## How to Cite
 
 ```
-Tonetto, B. (2025). Return to Consciousness: A Philosophical Journey from Materialism to Meaning. 
-Retrieved from https://brunoton.github.io/return-to-consciousness/
+Tonetto, B. (2025). Return to Consciousness: A Philosophical Journey from Materialism to Meaning. Zenodo. https://doi.org/10.5281/zenodo.17100415
 ```
 
 ---
