@@ -37,12 +37,12 @@ description: Ensaio filosófico completo explorando a metafísica baseada na con
 # Retorno à Consciência: Uma Jornada Filosófica do Materialismo ao Sentido
 ## Segunda Edição
 
-🌐 **Languages:** | [English]({{ site.baseurl }}/complete-essay) | [Português (Brasil)]({{ site.baseurl }}/complete-essay--pt-br)
+🌐 **Idiomas:** | [English]({{ site.baseurl }}/complete-essay) | [Português (Brasil)]({{ site.baseurl }}/complete-essay--pt-br)
 
 **Autor:** Bruno Tonetto  
 **Formação:** B.S. Física e Ciência da Computação, Professor CEB Certificado (Santa Barbara Institute for Consciousness Studies)  
 **Data de Publicação:** Agosto, 2025 (Segunda Edição: Setembro, 2025)  
-*Tradução de: “Return to Consciousness: A Philosophical Journey from Materialism to Meaning” (DOI: 10.13140/RG.2.2.27104.96007)*
+*Tradução de: “Return to Consciousness: A Philosophical Journey from Materialism to Meaning”*
 
 ---
 

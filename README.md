@@ -2,7 +2,6 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub Pages](https://img.shields.io/badge/Read%20Online-GitHub%20Pages-blue)](https://brunoton.github.io/return-to-consciousness/)
-[![DOI](https://img.shields.io/badge/DOI-10.13140/RG.2.2.27104.96007-blue)](https://doi.org/10.13140/RG.2.2.27104.96007)
 
 
 ## Abstract
@@ -57,7 +56,6 @@ This work invites scholarly engagement and critical examination. Substantive dis
 
 ```
 Tonetto, B. (2025). Return to Consciousness: A Philosophical Journey from Materialism to Meaning. 
-DOI: http://dx.doi.org/10.13140/RG.2.2.27104.96007
 Retrieved from https://brunoton.github.io/return-to-consciousness/
 ```
 

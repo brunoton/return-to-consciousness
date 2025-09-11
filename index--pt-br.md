@@ -60,7 +60,6 @@ B.S. Física e Ciência da Computação, Professor CEB Certificado (Santa Barbar
 
 ```
 Tonetto, B. (2025). Retorno à Consciência: Uma Jornada Filosófica do Materialismo ao Significado. 
-DOI: http://dx.doi.org/10.13140/RG.2.2.34015.73120
 Disponível em https://brunoton.github.io/return-to-consciousness/
 ```
 

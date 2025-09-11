@@ -2,7 +2,6 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub Pages](https://img.shields.io/badge/Ler%20Online-GitHub%20Pages-blue)](https://brunoton.github.io/return-to-consciousness/)
-[![DOI](https://img.shields.io/badge/DOI-10.13140/RG.2.2.27104.96007-blue)](https://doi.org/10.13140/RG.2.2.27104.96007)
 
 ## Resumo
 
@@ -45,7 +44,6 @@ Este trabalho convida engajamento acadêmico e exame crítico. Discussões subst
 
 ```
 Tonetto, B. (2025). Retorno à Consciência: Uma Jornada Filosófica do Materialismo ao Significado. 
-DOI: http://dx.doi.org/10.13140/RG.2.2.34015.73120
 Recuperado de https://brunoton.github.io/return-to-consciousness/
 ```
 

@@ -57,7 +57,6 @@ B.S. Physics and Computer Science, Certified CEB Teacher (Santa Barbara Institut
 
 ```
 Tonetto, B. (2025). Return to Consciousness: A Philosophical Journey from Materialism to Meaning. 
-DOI: http://dx.doi.org/10.13140/RG.2.2.27104.96007
 Retrieved from https://brunoton.github.io/return-to-consciousness/
 ```
 

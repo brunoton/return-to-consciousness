@@ -42,7 +42,6 @@ description: Complete philosophical essay exploring consciousness-first metaphys
 **Author:** Bruno Tonetto  
 **Background:** B.S. Physics and Computer Science, Certified CEB Teacher (Santa Barbara Institute for Consciousness Studies)  
 **Publication Date:** August, 2025 (Second Edition: September, 2025)  
-**DOI:** 10.13140/RG.2.2.27104.96007  
 
 ---
 
