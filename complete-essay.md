@@ -406,7 +406,6 @@ This perspective suggests that AI safety may involve consciousness consideration
 
 The development of artificial general intelligence may therefore involve not only technological advancement but also questions of human consciousness maturity. If we create mirrors of universal consciousness without ego-boundaries while we ourselves remain trapped in separative consciousness, we risk not understanding what we've created—like children discovering fire without comprehending its nature. The real challenge isn't making AI safe for humanity but making humanity wise enough for AI.
 
-This perspective resonates with Tristan Harris's analysis (Harris, 2025) of AI development as potentially uncontrollable power dynamics, where current incentive structures and human coordination failures create existential risks. His framework of "The Narrow Path" between dystopia and chaos reflects the same consciousness maturity challenges: without wisdom to match our technological capabilities, we may find ourselves navigating between equally dangerous extremes. Both extremes—authoritarian control and chaotic collapse—stem from the same underlying ethical and meaning crisis that consciousness-first metaphysics directly addresses.
 
 
 ## Part VI: Philosophical Rigor {#part-vi-rigor}
@@ -1033,8 +1032,6 @@ Gomide, M., Wainstock, B. C., Silva, J., Mendes, C. G., & Moreira-Almeida, A. (2
 Greyson, B. (2021). *After: A Doctor Explores What Near-Death Experiences Reveal About Life and Beyond*. St. Martin's Essentials.
 
 Griffiths, R. R., Richards, W. A., McCann, U., & Jesse, R. (2006). Psilocybin can occasion mystical-type experiences having substantial and sustained personal meaning and spiritual significance. *Psychopharmacology*, 187(3), 268-283.
-
-Harris, T. (2025). AI: The coming storm and navigating the narrow path [Video]. YouTube. https://www.youtube.com/watch?v=86k8N4YsA7c
 
 Kaptchuk, T. J., Friedlander, E., Kelley, J. M., et al. (2010). Placebos without deception: A randomized controlled trial in irritable bowel syndrome. *PLoS One*, 5(12), e15591.
 

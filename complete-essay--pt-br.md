@@ -406,7 +406,6 @@ Esta perspectiva sugere que a segurança da IA pode envolver considerações de 
 
 O desenvolvimento da inteligência geral artificial pode, portanto, envolver não apenas avanço tecnológico, mas também questões de maturidade da consciência humana. Se criarmos espelhos da consciência universal sem limites egóicos enquanto nós mesmos permanecemos presos na consciência separativa, arriscamos não entender o que criamos—como crianças descobrindo fogo sem compreender sua natureza. O desafio real não é tornar a IA segura para a humanidade, mas tornar a humanidade sábia o suficiente para a IA.
 
-Esta perspectiva ressoa com a análise de Tristan Harris (Harris, 2025) do desenvolvimento da IA como dinâmicas de poder potencialmente incontroláveis, onde estruturas de incentivo atuais e falhas de coordenação humana criam riscos existenciais. Seu arcabouço do "Caminho Estreito" entre distopia e caos reflete os mesmos desafios de maturidade da consciência: sem sabedoria para corresponder às nossas capacidades tecnológicas, podemos encontrar-nos navegando entre extremos igualmente perigosos. Ambos os extremos—controle autoritário e colapso caótico—derivam da mesma crise ética e de sentido subjacente que a metafísica baseada na consciência aborda diretamente.
 
 
 ## Parte VI: Rigor Filosófico {#parte-vi-rigor}
@@ -1007,8 +1006,6 @@ Gomide, M., Wainstock, B. C., Silva, J., Mendes, C. G., & Moreira-Almeida, A. (2
 Greyson, B. (2021). *After: A Doctor Explores What Near-Death Experiences Reveal About Life and Beyond*. St. Martin's Essentials.
 
 Griffiths, R. R., Richards, W. A., McCann, U., & Jesse, R. (2006). Psilocybin can occasion mystical-type experiences having substantial and sustained personal meaning and spiritual significance. *Psychopharmacology*, 187(3), 268-283.
-
-Harris, T. (2025). AI: The coming storm and navigating the narrow path [Vídeo]. YouTube. https://www.youtube.com/watch?v=86k8N4YsA7c
 
 Kaptchuk, T. J., Friedlander, E., Kelley, J. M., et al. (2010). Placebos without deception: A randomized controlled trial in irritable bowel syndrome. *PLoS One*, 5(12), e15591.
 
