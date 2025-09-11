@@ -10,7 +10,7 @@ description: Resumo executivo com insights principais de Retorno à Consciência
 
 **Autor:** Bruno Tonetto  
 **Formação:** B.S. Física e Ciência da Computação, Professor CEB Certificado (Santa Barbara Institute for Consciousness Studies)  
-**Data de Publicação:** 23 de agosto de 2025
+**Data de Publicação:** Setembro de 2025
 
 
 Este resumo executivo destila os argumentos centrais e implicações de um ensaio filosófico extenso propondo que a consciência, em vez da matéria, constitui o fundamento da realidade. Baseando-se no idealismo analítico de Bernardo Kastrup e se engajando com física quântica, pesquisa de fenômenos anômalos e tradições contemplativas, o trabalho apresenta um caso rigoroso para o que pode ser chamado de "retorno espiral"—redescobrir a metafísica consciência-primeiro enriquecida pela precisão científica e rigor empírico.
