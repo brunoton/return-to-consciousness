@@ -43,7 +43,7 @@ A filosofia e ciência contemporâneas enfrentam desafios profundos que resistem
 
 Este trabalho está disponível nas principais plataformas acadêmicas:
 
-- **[ResearchGate](https://www.researchgate.net/publication/394880543_Return_to_Consciousness_A_Philosophical_Journey_from_Materialism_to_Meaning)** - Conecte-se com pesquisadores e acompanhe citações
+- **[ResearchGate](https://www.researchgate.net/publication/395410931_Return_to_Consciousness_A_Philosophical_Journey_from_Materialism_to_Meaning)** - Conecte-se com pesquisadores e acompanhe citações
 - **[Academia.edu](https://www.academia.edu/143586891/Return_to_Consciousness_A_Philosophical_Journey_from_Materialism_to_Meaning)** - Discussão e compartilhamento acadêmico
 
 ## Público
