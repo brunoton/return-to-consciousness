@@ -197,6 +197,8 @@ Esta inversão oferece várias vantagens teóricas convincentes:
 
 **Dissolução de Problemas:** Em vez de resolver problemas clássicos através de maquinário teórico cada vez mais complexo, o Idealismo Analítico dissolve muitos problemas questionando suas suposições fundamentais.
 
+### Como os Problemas Clássicos se Dissolvem
+
 Este arcabouço aborda os desafios específicos que resistem à solução materialista:
 
 **O Problema Difícil da Consciência:** Não há lacuna explicativa a ser preenchida porque a consciência é o meio dentro do qual as descrições físicas se aplicam em vez de algo que essas descrições devem de alguma forma gerar.
