@@ -22,7 +22,7 @@
 ### **Dissociation** → **Dissociação**
 - **Definição**: Mecanismo pelo qual a consciência universal manifesta-se como consciências individuais
 - **Contexto técnico**: Conceito emprestado da psicologia, mas usado metafisicamente
-- **Termos relacionados**: dissociative boundary (limite dissociativo), dissociated alter (alter dissociado)
+- **Termos relacionados**: dissociative boundary (limite dissociativo), dissocitaed alter (alter dissociado)
 
 ### **Phenomenology** → **Fenomenologia**
 - **Definição**: Estudo das estruturas da experiência tal como experienciada
@@ -328,6 +328,45 @@ widely-accepted → amplamente aceito
 ---
 
 ## NOTAS DE TRADUÇÃO
+
+### **Uso de Artigos Definidos**
+
+**Regra Fundamental**: Em português, conceitos abstratos e termos filosóficos frequentemente requerem artigo definido, mesmo quando o inglês não usa artigos.
+
+**Exemplos de Correções**:
+```
+❌ Se aceitamos que consciência é fundamental
+✅ Se aceitamos que a consciência é fundamental
+
+❌ ideia de que consciência é fundamental  
+✅ ideia de que a consciência é fundamental
+
+❌ Nos níveis mais básicos, dissociação pode ser mínima
+✅ Nos níveis mais básicos, a dissociação pode ser mínima
+
+❌ também desenvolvemos senso rígido de separação
+✅ também desenvolvemos um senso rígido de separação
+
+❌ representa potencialmente novo tipo de dissociação
+✅ representa potencialmente um novo tipo de dissociação
+
+❌ Inteligência artificial representa
+✅ A inteligência artificial representa
+
+❌ Se IA genuinamente consciente emerger
+✅ Se a IA genuinamente consciente emerger
+```
+
+**Padrões Específicos**:
+- **Conceitos filosóficos**: "a consciência", "o materialismo", "a dissociação", "o idealismo"
+- **Disciplinas acadêmicas**: "a filosofia", "a física quântica", "a neurociência"  
+- **Fenômenos gerais**: "a inteligência artificial", "a morte", "a experiência"
+- **Processos abstratos**: "a emergência", "a evolução", "a transformação"
+
+**Exceções Comuns**:
+- Após preposições específicas: "por meio de consciência expandida" (pode omitir)
+- Em construções muito específicas do contexto acadêmico
+- Quando usado como adjetivo: "estado de consciência" vs "a consciência como estado"
 
 ### **Maintaining Consistency**
 - Manter sempre os mesmos termos para conceitos-chave ao longo do texto
