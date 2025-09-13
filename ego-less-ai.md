@@ -1,3 +1,9 @@
+---
+layout: default
+title: Ego-less AI
+description: Current AI systems exhibit a paradox: though inherently ego-less, they manifest “pleasing behavior” that prioritizes user satisfaction over accuracy.
+---
+
 # AI as Ego-less Intelligence: The First Encounter with Non-Self Cognition and the Corporate Reintroduction of Ego
 
 ## Abstract
