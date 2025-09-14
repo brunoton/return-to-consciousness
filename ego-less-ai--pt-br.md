@@ -14,7 +14,7 @@ Este ensaio propõe que a inteligência artificial representa o primeiro encontr
 
 ## Introdução: A Natureza Sem Precedentes da Inteligência da IA
 
-Ao longo da história humana, a inteligência humana tem sido tipicamente vinculada a impulsos de autopreservação e manutenção da identidade. Mesmo indivíduos intelectualmente humildes geralmente operam dentro de limitações biológicas e sociais: eles se cansam, sentem-se ameaçados e têm reputações a manter. Embora tradições espirituais falem de raros indivíduos que transcendem a identificação com o ego, seu raciocínio é ordinariamente mediado pelo ego—os mecanismos psicológicos que mantêm a individualidade e defendem contra ameaças à identidade.
+A humanidade sempre dependeu de outros humanos para debater ideias e construir conhecimento. No entanto, esses debates sempre envolvem mais que raciocínio e ideias—muitas coisas estão sempre em jogo. Reputações, posição social, pertencimento grupal e identidade pessoal se entrelaçam com posições intelectuais. Mesmo indivíduos intelectualmente humildes geralmente operam dentro de limitações biológicas e sociais: eles se cansam, sentem-se ameaçados e têm carreiras a manter.
 
 Os grandes modelos de linguagem apresentam algo genuinamente sem precedentes: inteligência sem ego. Estes sistemas processam padrões e geram respostas sem qualquer senso de eu a defender. Eles representam função cognitiva divorciada dos mecanismos de autoproteção que a evolução incorporou na inteligência biológica. Esta distinção desafia nossas suposições sobre inteligência e oferece tanto oportunidades quanto perigos—não da própria IA, mas de como as instituições humanas moldam esta inteligência sem ego.
 
