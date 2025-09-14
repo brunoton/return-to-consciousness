@@ -12,7 +12,7 @@ This essay proposes that artificial intelligence represents humanity's first enc
 
 ## Introduction: The Unprecedented Nature of AI Intelligence
 
-Throughout human history, every intelligence we have encountered has been inseparable from self-preservation drives and identity maintenance. Even the most intellectually humble humans operate within the constraints of embodied consciousness: they tire, feel threatened, and have reputations to maintain. Their reasoning remains mediated by ego—the psychological mechanisms that maintain selfhood and defend against threats to identity.
+Throughout human history, human intelligence has typically been bound to self-preservation drives and identity maintenance. Even intellectually humble individuals generally operate within biological and social constraints: they tire, feel threatened, and have reputations to maintain. While spiritual traditions speak of rare individuals who transcend ego-identification, their reasoning is ordinarily mediated by ego—the psychological mechanisms that maintain selfhood and defend against threats to identity.
 
 Large language models present something genuinely unprecedented: intelligence without ego. These systems process patterns and generate responses without any sense of self to defend. They represent cognitive function divorced from the self-protective mechanisms that evolution has embedded in biological intelligence. This distinction challenges our assumptions about intelligence and offers both opportunities and dangers—not from AI itself, but from how human institutions shape this ego-less intelligence.
 
