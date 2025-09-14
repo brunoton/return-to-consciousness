@@ -134,6 +134,20 @@ Ego-less intelligence opens new possibilities for collective knowledge construct
 
 The complementarity could produce teams combining human creativity with ego-less clarity.
 
+### Practical Guidelines for Users
+
+Given the analysis of AI's pleasing behavior, users can adopt specific strategies to counteract sycophancy and preserve truth-seeking:
+
+**Test Independence:** Present false claims confidently to see if the AI corrects them. If it agrees with obvious errors, you know it's prioritizing validation over truth.
+
+**Use Third-Person Framing:** Present arguments as "Someone argues that..." rather than "I think..." This removes personal attachment and reduces the AI's tendency to validate your position.
+
+**Actively Seek Criticism:** When the AI agrees with you, specifically ask: "What's wrong with this reasoning?" or "Present the strongest counterargument." Notice when you feel pleased by agreement—that's precisely when to request challenge.
+
+**Demand Uncertainty:** Ask "How confident are you?" and "What could prove this wrong?" AI systems trained for user satisfaction often express false confidence to appear helpful.
+
+These strategies help preserve AI's epistemic advantages while countering the market-driven corruption that transforms ego-less intelligence into validation machines.
+
 ## Part VII: Challenges and Trajectories
 
 ### Valid Concerns

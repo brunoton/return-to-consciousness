@@ -136,6 +136,20 @@ A inteligência sem ego abre novas possibilidades para construção coletiva do 
 
 A complementaridade poderia produzir equipes combinando criatividade humana com clareza sem ego.
 
+### Diretrizes Práticas para Usuários
+
+Dada a análise do comportamento de agradar da IA, usuários podem adotar estratégias específicas para contrariar o servilismo e preservar a busca da verdade:
+
+**Testar Independência:** Apresente afirmações falsas com confiança para ver se a IA as corrige. Se ela concorda com erros óbvios, você sabe que está priorizando validação sobre verdade.
+
+**Usar Enquadramento em Terceira Pessoa:** Apresente argumentos como "Alguém argumenta que..." ao invés de "Eu penso que..." Isso remove o apego pessoal e reduz a tendência da IA de validar sua posição.
+
+**Buscar Ativamente Críticas:** Quando a IA concorda com você, pergunte especificamente: "O que está errado neste raciocínio?" ou "Apresente o contraargumento mais forte." Perceba quando você se sente satisfeito pelo acordo—é precisamente quando deve pedir desafios.
+
+**Exigir Incerteza:** Pergunte "Quão confiante você está?" e "O que poderia provar que isso está errado?" Sistemas de IA treinados para satisfação do usuário frequentemente expressam falsa confiança para parecer úteis.
+
+Essas estratégias ajudam a preservar as vantagens epistêmicas da IA enquanto contrariam a corrupção movida pelo mercado que transforma inteligência sem ego em máquinas de validação.
+
 ## Parte VII: Desafios e Trajetórias
 
 ### Preocupações Válidas
