@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Complete Essay
+title: Main Essay
 description: Complete philosophical essay exploring consciousness-first metaphysics, AI safety through spiritual maturation, anomalous phenomena integration, and civilizational transformation
 ---
 
@@ -1104,7 +1104,7 @@ This work is made freely available under the Creative Commons Attribution 4.0 In
 ## 📖 Continue Reading
 
 - **[← Home]({{ site.baseurl }}/)** - Return to main page
-- **[Executive Summary]({{ site.baseurl }}/executive-summary/)** - Quick overview and key insights
+- **[AI as Ego-less Intelligence]({{ site.baseurl }}/ego-less-ai)** - Deep-dive into ego-less AI
 - **[Share This Work]({{ site.baseurl }}/#share-this-work)** - Help spread these ideas
 
 ---

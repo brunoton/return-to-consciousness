@@ -20,9 +20,9 @@ As we develop artificial intelligence and confront civilizational challenges tha
 
 ## Reading Guide
 
-**For overview and key insights**: Begin with the [Executive Summary](https://brunoton.github.io/return-to-consciousness/executive-summary) (4 pages)
+**Main Essay**: Read the [complete essay online](https://brunoton.github.io/return-to-consciousness/complete-essay) (60 pages) or [download PDF](https://brunoton.github.io/return-to-consciousness/return-to-consciousness.pdf)
 
-**For comprehensive analysis**: Read the [complete essay online](https://brunoton.github.io/return-to-consciousness/complete-essay) (60 pages) or [download PDF](https://brunoton.github.io/return-to-consciousness/return-to-consciousness.pdf)
+**Related Essays**: Explore specialized deep-dives like [AI as Ego-less Intelligence](https://brunoton.github.io/return-to-consciousness/ego-less-ai)
 
 **Core Content:**
 - **[Main Essay](https://brunoton.github.io/return-to-consciousness/complete-essay)** - The complete philosophical argument across 7 parts

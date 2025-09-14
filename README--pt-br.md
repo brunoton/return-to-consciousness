@@ -55,9 +55,9 @@ Este trabalho está disponível livremente sob a [Licença Creative Commons Attr
 
 ## Guia de Leitura
 
-**Para visão geral e insights principais**: Comece com o [Resumo Executivo](https://brunoton.github.io/return-to-consciousness/executive-summary--pt-br) (4 páginas)
+**Ensaio Principal**: Leia o [ensaio completo online](https://brunoton.github.io/return-to-consciousness/complete-essay--pt-br) (44 páginas) ou [baixe o PDF](https://brunoton.github.io/return-to-consciousness/retorno-a-consciencia.pdf)
 
-**Para análise abrangente**: Leia o [ensaio completo online](https://brunoton.github.io/return-to-consciousness/complete-essay--pt-br) (44 páginas) ou [baixe o PDF](https://brunoton.github.io/return-to-consciousness/retorno-a-consciencia.pdf)
+**Ensaios Relacionados**: Explore análises especializadas como [IA como Inteligência Sem Ego](https://brunoton.github.io/return-to-consciousness/ego-less-ai)
 
 **Para interesses específicos**: Navegue diretamente para [implicações da IA](https://brunoton.github.io/return-to-consciousness/complete-essay--pt-br#parte-iv-implicacoes), [evidência de fenômenos anômalos](https://brunoton.github.io/return-to-consciousness/complete-essay--pt-br#apendice-ii-anomalias), ou [estrutura de evolução da consciência](https://brunoton.github.io/return-to-consciousness/complete-essay--pt-br#apendice-i-cosmico)
 

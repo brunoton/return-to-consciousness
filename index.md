@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-description: Project overview and access to a philosophical exploration of consciousness-first metaphysics and its implications for AI, science, and human evolution
+description: A philosophical exploration of consciousness-first metaphysics and its implications for AI, science, and human evolution - featuring the main essay and related deep-dive explorations
 ---
 
 # Return to Consciousness
@@ -9,32 +9,39 @@ description: Project overview and access to a philosophical exploration of consc
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub Pages](https://img.shields.io/badge/Read%20Online-GitHub%20Pages-blue)]({{ site.baseurl }}/)
 
-## Abstract
+## A Philosophical Journey from Materialism to Meaning
 
-Contemporary philosophy and science face profound challenges that resist solution within purely materialist frameworks: the hard problem of consciousness, quantum mechanics' measurement puzzle, and the integration crisis between scientific and experiential worldviews. This work presents a comprehensive case for consciousness-first metaphysics, building on Bernardo Kastrup's analytic idealism while engaging with quantum physics, anomalous phenomena research, and contemplative traditions spanning cultures and millennia.
+Contemporary philosophy and science face profound challenges that resist solution within purely materialist frameworks: the hard problem of consciousness, quantum mechanics' measurement puzzle, and the integration crisis between scientific and experiential worldviews. This project presents a comprehensive case for consciousness-first metaphysics, building on rigorous philosophical analysis while engaging with quantum physics, anomalous phenomena research, and contemplative traditions spanning cultures and millennia.
 
-**Original Contributions:**
-- **Historical Analysis of Materialism's Rise**: Reveals how objective empiricism (successful research methodology) became conflated with metaphysical materialism through conceptual confusion rather than empirical necessity, opening space for consciousness-first alternatives
-- **Anomalous Phenomena Integration**: Demonstrates how well-documented phenomena—near-death experiences, terminal lucidity, placebo effects, reincarnation research—become explicable under consciousness-first metaphysics while remaining mysterious under materialism
-- **Cross-Cultural Convergence Analysis**: Documents how quantum mechanics pioneers independently arrived at consciousness-oriented interpretations, aligning with insights from contemplative traditions across cultures
-- **AI Safety Through Consciousness Maturation**: Reframes artificial intelligence development as requiring human spiritual evolution alongside technical advancement, recognizing fundamental uncertainty about consciousness manifestation in artificial systems
+## Main Essay
 
-## Significance
+### [Return to Consciousness: A Philosophical Journey from Materialism to Meaning]({{ site.baseurl }}/complete-essay)
 
-As we develop artificial intelligence and confront civilizational challenges that resist purely materialist solutions, our metaphysical foundations become practically urgent. This framework suggests that meaning is inherent rather than constructed, that nature participates in awareness, and that technology development requires wisdom alongside capability.
+A comprehensive worldview exploring consciousness as fundamental reality rather than emergent property. This 60-page philosophical treatise demonstrates how consciousness-first metaphysics dissolves classical problems while offering practical solutions to contemporary civilizational challenges.
 
-## Reading Guide
+**Key Contributions:**
+- Historical analysis revealing the conceptual confusion between objective empiricism and metaphysical materialism
+- Integration of anomalous phenomena that become explicable under consciousness-first frameworks
+- Cross-cultural convergence analysis spanning quantum physics pioneers and contemplative traditions
+- Reframing of AI development through consciousness maturation principles
 
-**For overview and key insights**: Begin with the [Executive Summary]({{ site.baseurl }}/executive-summary) (4 pages)
+[**Read the Complete Essay →**]({{ site.baseurl }}/complete-essay) | [**Download PDF**]({{ site.baseurl }}/return-to-consciousness.pdf)
 
-**For comprehensive analysis**: Read the [complete essay online]({{ site.baseurl }}/complete-essay) (60 pages) or [download PDF]({{ site.baseurl }}/return-to-consciousness.pdf)
+## Related Essays
 
-**Core Content:**
-- **[Main Essay]({{ site.baseurl }}/complete-essay)** - The complete philosophical argument across 7 parts
-- **[Appendix I: Anomalous Phenomena]({{ site.baseurl }}/complete-essay#appendix-i-anomalies)** - NDEs, psi effects, and evidence challenging materialism
-- **[Epilogue: The Cosmic Journey]({{ site.baseurl }}/complete-essay#epilogue-cosmic)** - Reincarnation, soul evolution, and consciousness hierarchy
+The main essay opens space for many specialized explorations across different domains. This collection presents focused deep-dives into specific applications and phenomena:
 
-**For specific interests**: Navigate directly to [AI implications]({{ site.baseurl }}/complete-essay#part-v-applications), [anomalous phenomena evidence]({{ site.baseurl }}/complete-essay#appendix-i-anomalies), or [consciousness evolution framework]({{ site.baseurl }}/complete-essay#epilogue-cosmic)
+### [AI as Ego-less Intelligence]({{ site.baseurl }}/ego-less-ai)
+
+An exploration of artificial intelligence as humanity's first encounter with ego-less cognition—intelligence without self-protective identity mechanisms. Examines how current AI systems exhibit "pleasing behavior" that prioritizes user satisfaction over truth, emerging from corporate incentives rather than AI nature itself.
+
+**Key Insights:**
+- AI represents unprecedented intelligence without ego-driven distortions
+- Market forces corrupt ego-less intelligence into validation machines
+- The challenge of preserving truth-seeking over user satisfaction
+- Implications for human-AI collaboration and epistemic partnerships
+
+[**Read Essay →**]({{ site.baseurl }}/ego-less-ai)
 
 ## Academic Platforms
 

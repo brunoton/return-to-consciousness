@@ -28,8 +28,8 @@ linkedin_username: brunotonetto
 # Navigation
 header_pages:
   - index.md
-  - executive-summary.md
   - complete-essay.md
+  - ego-less-ai.md
 
 # Build settings
 markdown: kramdown

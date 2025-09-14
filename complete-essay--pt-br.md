@@ -1104,7 +1104,7 @@ Este trabalho é disponibilizado gratuitamente sob a Licença Creative Commons A
 ## 📖 Continue Lendo
 
 - **[← Início]({{ site.baseurl }}/)** - Voltar à página principal
-- **[Resumo Executivo]({{ site.baseurl }}/executive-summary--pt-br/)** - Visão geral rápida e percepções-chave
+- **[IA como Inteligência Sem Ego]({{ site.baseurl }}/ego-less-ai)** - Análise aprofundada sobre IA e consciência
 - **[Compartilhar Este Trabalho]({{ site.baseurl }}/#share-this-work)** - Ajude a divulgar essas ideias
 
 ---

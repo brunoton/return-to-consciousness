@@ -27,9 +27,9 @@ A filosofia e ciência contemporâneas enfrentam desafios profundos que resistem
 
 ## Guia de Leitura
 
-**Para visão geral e insights principais**: Comece com o [Resumo Executivo]({{ site.baseurl }}/executive-summary--pt-br) (4 páginas)
+**Ensaio Principal**: Leia o [ensaio completo online]({{ site.baseurl }}/complete-essay--pt-br) (44 páginas) ou [baixe o PDF]({{ site.baseurl }}/retorno-a-consciencia.pdf)
 
-**Para análise abrangente**: Leia o [ensaio completo online]({{ site.baseurl }}/complete-essay--pt-br) (44 páginas) ou [baixe o PDF]({{ site.baseurl }}/retorno-a-consciencia.pdf)
+**Ensaios Relacionados**: Explore análises especializadas como [IA como Inteligência Sem Ego]({{ site.baseurl }}/ego-less-ai)
 
 **Conteúdo Principal:**
 - **[Ensaio Principal]({{ site.baseurl }}/complete-essay--pt-br)** - O argumento filosófico completo em 7 partes
