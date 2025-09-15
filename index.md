@@ -25,7 +25,7 @@ A comprehensive worldview exploring consciousness as fundamental reality rather 
 - Cross-cultural convergence analysis spanning quantum physics pioneers and contemplative traditions
 - Reframing of AI development through consciousness maturation principles
 
-[**Read the Complete Essay →**]({{ site.baseurl }}/complete-essay) | [**Download PDF**]({{ site.baseurl }}/return-to-consciousness.pdf)
+[**Read Essay →**]({{ site.baseurl }}/complete-essay) | [**Download PDF**]({{ site.baseurl }}/return-to-consciousness.pdf)
 
 ## Related Essays
 
