@@ -36,8 +36,6 @@ description: Complete philosophical essay exploring consciousness-first metaphys
 
 # Return to Consciousness: A Philosophical Journey from Materialism to Meaning
 
-🌐 **Languages:** | [English]({{ site.baseurl }}/complete-essay) | [Português (Brasil)]({{ site.baseurl }}/complete-essay--pt-br)
-
 **Author:** Bruno Tonetto  
 **Background:** B.S. Physics and Computer Science, Certified CEB Teacher (Santa Barbara Institute for Consciousness Studies)  
 **Publication Date:** September, 2025

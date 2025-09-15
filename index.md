@@ -29,7 +29,7 @@ A comprehensive worldview exploring consciousness as fundamental reality rather 
 
 ## Related Essays
 
-The main essay opens space for many specialized explorations across different domains. This collection presents focused deep-dives into specific applications and phenomena:
+The main essay opens space for specialized explorations across different domains:
 
 ### [AI as Ego-less Intelligence]({{ site.baseurl }}/ego-less-ai)
 
