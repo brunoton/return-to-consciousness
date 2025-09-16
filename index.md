@@ -64,7 +64,8 @@ B.S. Physics and Computer Science, Certified CEB Teacher (Santa Barbara Institut
 ## How to Cite
 
 ```
-Tonetto, B. (2025). Return to Consciousness: A Philosophical Journey from Materialism to Meaning. Zenodo. https://doi.org/10.5281/zenodo.17100415
+Tonetto, B. (2025). Return to Consciousness: A Philosophical Journey from Materialism to Meaning. Zenodo.  
+https://doi.org/10.5281/zenodo.17100415
 ```
 
 ---
