@@ -4,36 +4,6 @@ title: Main Essay
 description: Complete philosophical essay exploring consciousness-first metaphysics, AI safety through spiritual maturation, anomalous phenomena integration, and civilizational transformation
 ---
 
-<div class="floating-toc">
-  <div class="toc-header">
-    <span class="toc-title">Contents</span>
-    <span class="toc-toggle">▼</span>
-  </div>
-  <div class="toc-content">
-    <ul class="toc-nav">
-      <li><a href="#overview" class="toc-level-1">Overview</a></li>
-      <li><a href="#introduction" class="toc-level-1">Introduction</a></li>
-      <li><a href="#part-i-challenges" class="toc-level-1">Part I: Philosophical Challenges</a></li>
-      <li><a href="#part-ii-origins" class="toc-level-1">Part II: Historical Origins</a></li>
-      <li><a href="#part-iii-idealism" class="toc-level-1">Part III: Analytic Idealism</a></li>
-      <li><a href="#part-iv-convergence" class="toc-level-1">Part IV: Cross-Cultural Convergence</a></li>
-      <li><a href="#part-v-applications" class="toc-level-1">Part V: Civilizational Applications</a></li>
-      <li><a href="#part-vi-rigor" class="toc-level-1">Part VI: Philosophical Rigor</a></li>
-      <li><a href="#part-vii-evidence" class="toc-level-1">Part VII: Empirical Evidence</a></li>
-      <li><a href="#part-viii-spiral" class="toc-level-1">Part VIII: Spiral Development</a></li>
-      <li><a href="#part-ix-implications" class="toc-level-1">Part IX: Implications</a></li>
-      <li><a href="#conclusion" class="toc-level-1">Conclusion</a></li>
-      <li><a href="#appendix-i-anomalies" class="toc-level-1">Appendix I: Anomalous Phenomena</a></li>
-      <li><a href="#appendix-ii-beyond-death" class="toc-level-1">Appendix II: Beyond Survival and Extinction</a></li>
-      <li><a href="#epilogue-cosmic" class="toc-level-1">Epilogue: The Cosmic Journey</a></li>
-      <li><a href="#references" class="toc-level-1">References</a></li>
-      <li><a href="#license" class="toc-level-1">License</a></li>
-    </ul>
-  </div>
-</div>
-
-<script src="{{ '/assets/js/floating-toc.js' | relative_url }}"></script>
-
 # Return to Consciousness: A Philosophical Journey from Materialism to Meaning
 
 ---
@@ -238,93 +208,35 @@ What's particularly striking about analytic idealism is its convergence with ins
 
 ### Physics Rediscovering Consciousness
 
-A remarkable pattern emerged as quantum mechanics developed throughout the 20th century: its pioneers, confronted with phenomena that shattered classical materialism, found themselves drawn toward consciousness-first metaphysics with an inevitability that speaks to truth rather than wishful thinking. Their insights, emerging from mathematical formalism and experimental data rather than contemplative practice, provide powerful independent confirmation of idealist principles.
+A remarkable pattern emerged as quantum mechanics developed throughout the 20th century: its pioneers, confronted with phenomena that shattered classical materialism, found themselves drawn toward consciousness-first metaphysics. These scientists developed their views despite working within a predominantly physicalist academic environment, arriving at their conclusions through mathematical formalism and experimental data rather than contemplative practice—providing powerful independent confirmation of idealist principles.
 
-These scientists developed their consciousness-oriented views despite working within a predominantly physicalist academic environment. Their distinguished reputations as Nobel laureates and founders of modern physics enabled them to express conclusions that challenged materialist orthodoxy. Their willingness to embrace these positions suggests conviction arising from direct engagement with quantum phenomena that they found difficult to reconcile with purely materialist assumptions.
+Werner Heisenberg, who formulated the uncertainty principle in 1927, explicitly compared quantum theory to Plato's philosophy of forms, writing that modern physics forces us "into a philosophy that is closer to Plato than to Democritus." Erwin Schrödinger, formulator of quantum mechanics' fundamental wave equation, found profound resonance between quantum theory and Vedantic philosophy in works like *What Is Life?* (1944) and *My View of the World* (1961), emphasizing consciousness as a single, universal entity where separation between "you" and "me" is illusory. Wolfgang Pauli collaborated with Carl Jung exploring whether psyche and physis represent aspects of the same underlying order, while Eugene Wigner argued in his influential 1961 essay that quantum mechanics cannot be made consistent without consciousness collapsing the wave function—no physical instrument, however complex, could complete a measurement; only consciousness brings about definite outcomes. David Bohm proposed the "implicate order"—a hidden reality from which appearances unfold—explicitly comparing this to mystical traditions where the manifest world emerges from deeper unity.
 
-**The Early Quantum Revolution (1920s-1930s)**
+Quantum field theory revealed that "particles" are excitations in underlying fields—dynamic patterns rather than discrete objects—while John Wheeler's "it from bit" proposed that physical reality arises from observation itself, describing a "participatory universe" where observers actively bring reality into being. Even contemporary physics continues this pattern: Roger Penrose (Nobel 2020) speculates consciousness involves quantum connections to Platonic mathematical realities, while the 2013 discovery of the amplituhedron—encoding particle interactions through pure geometry without assuming spacetime as fundamental—suggests space, time, and matter are emergent appearances, consistent with consciousness generating physical reality through abstract principles.
 
-The quantum mechanical revolution began in the 1920s with discoveries that fundamentally challenged materialist assumptions. Werner Heisenberg, who formulated the uncertainty principle in 1927, explicitly compared quantum theory to Plato's philosophy of forms. The wavefunction, he recognized, is not a physical object but an abstract entity—like Plato's eternal "ideas"—which only casts shadows into the physical world. Measurement collapses these possibilities into concrete events, much as Plato's cave dwellers see only shadows of higher truths. Heisenberg wrote that modern physics forces us "into a philosophy that is closer to Plato than to Democritus," recognizing that reality is mathematical and abstract at its root, not purely material.
+The consistency of this pattern across nearly a century suggests genuine discovery rather than speculation. Distinguished physicists' willingness to embrace consciousness-first conclusions provides evidence that quantum mechanics' mathematics and experiments point toward idealist metaphysics, converging remarkably with both Kastrup's analytic idealism and the contemplative traditions examined below.
 
-Erwin Schrödinger, who formulated the fundamental wave equation of quantum mechanics in 1926, later (1940s-1950s) found profound resonance between quantum theory and Vedantic philosophy. In works like *What Is Life?* (1944) and *My View of the World* (1961), he emphasized consciousness as a single, universal entity. To Schrödinger, the separation between "you" and "me" was an illusion, just as quantum mechanics reveals that particles are not truly separate but aspects of one underlying wavefunction. This wasn't mere philosophical speculation but arose from his conviction that physics pointed toward a monistic worldview where the universe is fundamentally one thing, not many.
+### Ancient and Mystical Traditions
 
-Wolfgang Pauli, who discovered the exclusion principle in 1925, developed during the 1930s-1950s a remarkable collaboration with Carl Jung exploring the relationship between physics and psychology. Fascinated by synchronicity—meaningful coincidences that transcend causality—Pauli wondered whether psyche (mind) and physis (matter) represented two aspects of the same underlying order. His own dreams became entangled with his physics in ways that Jung interpreted as evidence of a collective unconscious connecting all existence.
+Plotinus and the Neoplatonists conceived "The One"—an ineffable source from which all existence emanates through successive levels of being. This process of emanation from The One through Nous (Divine Mind) to Soul and finally to matter parallels Kastrup's description of universal consciousness manifesting through progressive dissociation. Plotinus's insight that we can know The One through mystical union—becoming what we always were—anticipates the dissolution of dissociative boundaries characterizing enlightenment experiences.
 
-**Mid-Century Developments (1940s-1960s)**
+Christian mysticism offers profound parallels. Meister Eckhart's teaching that "The eye through which I see God is the same eye through which God sees me" expresses the non-dual relationship between individual and universal consciousness, while his concept of Gottheit (Godhead)—the ground of being beyond even God as Trinity—resembles undifferentiated universal consciousness prior to dissociation. Teresa of Ávila's "Interior Castle" maps stages approaching divine union, while John of the Cross's "dark night" describes ego-dissolution necessary for that union.
 
-By the mid-20th century, these consciousness-oriented insights deepened. The development of quantum field theory (QFT) in the 1940s-1950s by Dirac, Feynman, Schwinger, and others provided another blow to classical materialism. QFT revealed that what we call "particles" are actually excitations in underlying quantum fields—dynamic patterns of activity rather than discrete, solid objects. The familiar material world dissolves into field fluctuations and probability waves, much like individual thoughts and experiences might be understood as excitations in a universal field of consciousness. The vacuum itself, far from being empty space, seethes with virtual particle creation and annihilation—suggesting that apparent nothingness is actually pregnant with infinite potential, resonating with mystical descriptions of the creative void.
+Advaita Vedanta speaks of Brahman—universal consciousness—of which individual minds (jiva) are apparent modifications. The Upanishadic declaration "Tat Tvam Asi" (Thou Art That) expresses precisely the relationship between individual and universal consciousness that Kastrup describes through dissociation, while Shankara's analysis of consciousness underlying waking, dreaming, and deep sleep provides sophisticated phenomenology prefiguring modern idealist insights. Schrödinger found remarkable resonance between the quantum wavefunction—a single mathematical object encompassing all possible states—and the teaching that Atman (individual consciousness) equals Brahman (universal consciousness).
 
-Eugene Wigner, in his influential 1961 essay "Remarks on the Mind-Body Question," argued that the mathematical formalism of quantum mechanics cannot be made consistent without acknowledging the role of consciousness in collapsing the wave function. He proposed that physical systems remain in superposition until they interact with a conscious observer—a position that led to the famous "Wigner's friend" thought experiment. For Wigner, no physical instrument, however complex, could complete a measurement; only consciousness could bring about a definite outcome. His conclusion—that consciousness is not a passive epiphenomenon but a fundamental component of physical reality—resonates strongly with analytic idealism.
+Kashmir Shaivism's doctrine of pratyabhijna (recognition) holds that liberation comes from recognizing one's individual consciousness as a contraction of universal consciousness—Shiva dancing with himself, creating apparent multiplicity through self-limitation. Buddhist philosophy, particularly Yogācāra's consciousness-only (vijñapti-mātra) metaphysics, depicts reality as waves on an ocean of consciousness—a remarkably apt metaphor for dissociation within universal mind. Nagarjuna's Madhyamaka philosophy demonstrates that phenomena lack independent existence, arising through dependent origination much as dissociated alters arise from and within universal consciousness.
 
-David Bohm, beginning in the 1950s and continuing through the 1980s, took these insights furthest with his proposal of the "implicate order"—a hidden underlying reality from which the world of appearances (the "explicate order") unfolds. He often compared this to mystical traditions from Vedanta to Taoism, where the manifest world emerges from deeper unity. Bohm's extensive dialogues with philosopher Jiddu Krishnamurti revealed his conviction that science and mysticism were converging paths toward the same truth: the recognition of wholeness underlying apparent fragmentation.
+Islamic mysticism, especially Ibn Arabi's Unity of Being (Wahdat al-Wujud), describes all existence as God's self-disclosure through infinite forms, while Al-Hallaj's declaration "Ana'l-Haqq" (I am the Truth) expresses identity with universal consciousness emerging when dissociative boundaries dissolve. Jewish Kabbalah presents reality as emanations from Ein Sof (the Infinite) through the sefirot, while tzimtzum—God's self-contraction to create space for creation—parallels universal consciousness creating apparent separation through dissociation. Indigenous traditions worldwide maintain that consciousness pervades nature and that shamanic altered states reveal dimensions normally hidden by habitual dissociative boundaries.
 
-**Information-Theoretic Insights (1970s-1980s)**
+### The Convergent Pattern
 
-John Archibald Wheeler, a central figure in 20th-century physics, arrived during the 1970s-1980s at conclusions that are compatible with consciousness-first metaphysics. He proposed the radical idea of "it from bit"—that every physical entity, event, and law arises from binary yes-or-no choices elicited by observation. For Wheeler, information was not merely descriptive of reality but constitutive of it. He described the universe as a "participatory universe," in which observers are not passive witnesses but active agents in bringing tangible reality into being. His delayed-choice experiments demonstrated that present observations can retroactively determine the past behavior of quantum systems—findings that are consistent with idealist views where time and separateness are derivative appearances within a deeper, unified process.
+This convergence across cultures, centuries, and methodologies suggests fundamental discoveries about reality's nature rather than arbitrary cultural constructions. Whether through philosophical analysis (Plotinus), quantum physics (Schrödinger, Wigner), contemplative practice (Eckhart), meditative inquiry (Buddhism, Vedanta), or mystical devotion (Sufism, Kabbalah), consciousness has repeatedly discovered its own fundamental nature—not as matter's emergent property but as existence's ground.
 
-**Contemporary Developments (1990s-Present)**
-
-Even in contemporary science, this pattern continues. Roger Penrose (Nobel Prize in Physics, 2020) has speculated that consciousness might involve quantum effects that connect individual minds to what he hints may be Platonic mathematical realities. His collaborator Stuart Hameroff has explicitly compared this to Eastern mysticism, suggesting consciousness taps into a universal field of awareness.
-
-Most striking is the 2013 discovery of the amplituhedron and related cosmological polytopes at the frontiers of theoretical physics. These abstract mathematical objects encode the probabilities of particle interactions not through the mechanics of space and time, but through pure geometry of higher-dimensional shapes. Remarkably, they generate physical predictions without assuming locality, causality, or even spacetime as fundamental—concepts long taken as axiomatic in physics. These discoveries are compatible with idealist metaphysics because they suggest space, time, and matter may be emergent appearances rather than fundamental realities—much like ripples on a pond are not the water itself but its dynamic expressions. If consciousness is fundamental, such geometric and informational structures could represent the abstract principles by which consciousness manifests as apparent physical reality.
-
-**The Convergent Pattern**
-
-A notable pattern emerges across nearly a century of quantum mechanical development: many leading scientists found themselves drawn toward consciousness-first metaphysics as they engaged more deeply with quantum phenomena. These conclusions represent insights emerging from their direct engagement with quantum mechanics' implications rather than philosophical speculation overlaid on scientific findings. Their conclusions show significant convergence with both Kastrup's analytic idealism and the contemplative traditions examined below.
-
-The consistency of this pattern among independent researchers suggests these insights may reflect genuine discoveries about reality's nature. The willingness of distinguished physicists to embrace consciousness-first conclusions provides evidence that the mathematics and experiments of quantum mechanics may point toward idealist metaphysics.
-
-### The Platonic and Neoplatonic Foundation
-
-Plato's allegory of the cave prefigures the idealist insight—what we take for physical reality are shadows cast by a more fundamental realm. His theory of Forms suggests that the material world is a pale reflection of eternal, perfect archetypes existing in a transcendent realm of pure intellect. This maps remarkably onto idealism's view of physical reality as the extrinsic appearance of mental processes.
-
-Plotinus and the Neoplatonists developed this further with their concept of "The One"—an ineffable, transcendent source from which all existence emanates through successive levels of being. The process of emanation from The One through Nous (Divine Mind) to Soul and finally to matter parallels Kastrup's description of universal consciousness manifesting through progressive dissociation. Plotinus's insight that we can know The One through mystical union—becoming what we always were—anticipates the dissolution of dissociative boundaries that characterizes enlightenment experiences.
-
-### Christian Mysticism's Unitive Vision
-
-Christian mysticism offers profound parallels to analytic idealism. Meister Eckhart's radical teaching that "The eye through which I see God is the same eye through which God sees me" expresses the non-dual relationship between individual and universal consciousness. His concept of Gottheit (Godhead)—the unknowable ground of being beyond even God as Trinity—resembles the undifferentiated universal consciousness prior to dissociation.
-
-The Cloud of Unknowing describes contemplative practice as releasing all concepts and images to unite with God beyond knowing—a process remarkably similar to dissolving dissociative boundaries. Teresa of Ávila's "Interior Castle" maps stages of consciousness approaching union with the divine, while John of the Cross's "dark night of the soul" describes the dissolution of ego-structures necessary for divine union.
-
-Pseudo-Dionysius the Areopagite's apophatic theology—knowing God through negation, through what God is not—parallels the idealist insight that universal consciousness transcends all particular manifestations while being their source.
-
-### Eastern Traditions' Direct Recognition
-
-Advaita Vedanta speaks of Brahman—universal consciousness—of which individual minds (jiva) are apparent modifications. The Upanishadic declaration "Tat Tvam Asi" (Thou Art That) expresses precisely the relationship between individual and universal consciousness that Kastrup describes through dissociation. The phenomenology of enlightenment experiences in this tradition—the recognition of one's fundamental identity with all existence—maps onto the dissolution of dissociative boundaries. Shankara's analysis of the three states (waking, dreaming, deep sleep) and the fourth (turiya) that underlies them provides a sophisticated phenomenology of consciousness that prefigures modern idealist insights.
-
-Schrödinger found remarkable resonance between the quantum wavefunction—a single mathematical object encompassing all possible states—and the Hindu teaching that Atman (individual consciousness) equals Brahman (universal consciousness).
-
-Kashmir Shaivism's doctrine of pratyabhijna (recognition) holds that liberation comes from recognizing that one's individual consciousness is a contraction of universal consciousness. The world is Shiva (consciousness) dancing with himself, creating apparent multiplicity through his power of self-limitation. The tradition's detailed analysis of 36 tattvas (levels of manifestation) from pure consciousness to gross matter offers a granular map of how consciousness appears to itself through progressive dissociation.
-
-Buddhist philosophy, particularly the Yogācāra school, developed sophisticated analyses of consciousness-only (vijñapti-mātra) metaphysics. The image from the Lankavatara Sutra of reality as waves on an ocean of consciousness provides a remarkably apt metaphor for dissociation within universal mind. The Buddhist emphasis on the illusory nature of the separate self aligns with idealism's view of individual minds as dissociative boundaries rather than fundamental entities. Nagarjuna's Madhyamaka philosophy, with its doctrine of emptiness (śūnyatā), demonstrates that all phenomena lack independent existence—they arise through dependent origination, much as dissociated alters arise from and within universal consciousness.
-
-### The Abrahamic Mystical Streams
-
-Islamic mysticism, especially Ibn Arabi's Unity of Being (Wahdat al-Wujud), describes all existence as God's self-disclosure through infinite forms. The Sufi path involves recognizing one's essential unity with divine consciousness while maintaining the functional boundaries necessary for earthly existence. Al-Hallaj's ecstatic declaration "Ana'l-Haqq" (I am the Truth) expresses the recognition of identity with universal consciousness that emerges when dissociative boundaries dissolve.
-
-Jewish Kabbalah presents reality as emanations from Ein Sof (the Infinite) through the sefirot—a process remarkably similar to consciousness manifesting through progressive differentiation. The concept of tzimtzum—God's self-contraction to create space for creation—parallels the idea of universal consciousness creating apparent separation through dissociation. The Zohar's teaching that "God, Torah, and Israel are one" points to the fundamental unity underlying apparent multiplicity.
-
-### Indigenous and Shamanic Wisdom
-
-Indigenous traditions worldwide have maintained that consciousness pervades nature, that all beings are interconnected, and that ordinary perception represents a limited view of a far richer reality. Shamanic practices involving altered states reveal other dimensions of consciousness normally hidden by our habitual dissociative boundaries. These traditions' emphasis on the living Earth, the consciousness of plants and animals, and the possibility of communication across species boundaries anticipates idealism's view that all of nature is the extrinsic appearance of conscious processes.
-
-### Spiritist Empiricism: Kardec's Systematic Investigation
-
-Allan Kardec's 19th-century spiritist philosophy represents a unique bridge between empirical methodology and consciousness-first metaphysics. Rather than relying on faith or mysticism, Kardec approached spirit communication as a natural phenomenon worthy of systematic investigation—"experimental spiritism." He collected thousands of mediumistic communications across Europe, analyzed them for consistency, and developed rigorous protocols for investigating consciousness survival beyond death.
-
-The remarkable coherence of independent sources, describing consistent post-mortem experiences and spiritual evolution, anticipated core insights of analytic idealism: consciousness as fundamental, individual spirits as dissociated alters within universal consciousness that persist across incarnations, and communication across dissociative boundaries. Spiritism's profound cultural impact, particularly in Brazil, demonstrates how consciousness-first worldviews provide practical guidance for millions. From an idealist perspective, spiritist phenomena represent genuine interactions across dissociative boundaries rather than wishful thinking.
-
-### The Cross-Cultural Recognition
-
-This convergence across cultures, centuries, and contemplative methodologies suggests we're not dealing with arbitrary cultural constructions but with fundamental discoveries about the nature of reality. Whether through philosophical analysis (Plotinus), contemplative practice (Eckhart), devotional surrender (Sufism), meditative inquiry (Buddhism), shamanic exploration (indigenous traditions), or empirical spiritism (Kardec), human consciousness has repeatedly discovered its own fundamental nature—not as an emergent property of matter but as the ground of all existence.
-
-The fact that Kastrup's analytical idealism, developed through rigorous philosophical argument and engagement with contemporary science, arrives at essentially the same insights suggests these traditions were engaged in legitimate phenomenological research, mapping the territory of consciousness with remarkable accuracy using different methodological approaches.
-
-These traditions also reveal sophisticated approaches to one of consciousness-first metaphysics' most profound implications: what happens to individual consciousness at death. Rather than crude binaries of survival versus extinction, contemplative traditions across cultures have developed nuanced frameworks that transcend simple preservation or termination. These "individual-transforming" worldviews—from Buddhist rebirth to Vedantic dissolution to Christian mystical union—suggest consciousness neither simply survives nor merely ends but undergoes fundamental transformation that dissolves the boundaries of separate selfhood (see [Appendix II](#appendix-ii-beyond-death) for detailed analysis).
+Kastrup's analytical idealism, developed through rigorous philosophical argument and contemporary science, arrives at essentially the same insights, suggesting these traditions engaged in legitimate phenomenological research, mapping consciousness with remarkable accuracy using different methodological approaches. These traditions also reveal sophisticated approaches to consciousness at death—"individual-transforming" worldviews from Buddhist rebirth to Vedantic dissolution suggesting consciousness undergoes fundamental transformation dissolving separate selfhood's boundaries.
 
 ## Part V: Civilizational Applications {#part-v-applications}
 
-*This section explores how consciousness-first metaphysics reframes our civilizational challenges. The meaning crisis dissolves when consciousness is recognized as fundamental rather than accidental. Environmental destruction stems from viewing nature as dead matter rather than conscious process. Healthcare transforms when the body is understood as consciousness's extrinsic appearance rather than a mere biological machine. Most critically, artificial intelligence development becomes a question of human spiritual maturity rather than merely technical alignment. For a speculative but systematic exploration of consciousness evolution and humanity's place in a cosmic hierarchy, see the [Epilogue](#epilogue-cosmic).*
+*This section explores how consciousness-first metaphysics reframes our civilizational challenges. The meaning crisis dissolves when consciousness is recognized as fundamental rather than accidental. Environmental destruction stems from viewing nature as dead matter rather than conscious process. Healthcare transforms when the body is understood as consciousness's extrinsic appearance rather than a mere biological machine. Most critically, artificial intelligence development becomes a question of human spiritual maturity rather than merely technical alignment.*
 
 ### The Meaning Crisis and Its Resolution
 
@@ -402,7 +314,7 @@ The development of artificial general intelligence may therefore involve not onl
 
 ## Part VI: Philosophical Rigor {#part-vi-rigor}
 
-*This section addresses serious objections to analytic idealism while demonstrating its theoretical virtues. The framework handles challenges about natural regularity, other minds, and scientific success while displaying remarkable parsimony and explanatory power. It offers coherent accounts of phenomena that other frameworks struggle with, from placebo effects to quantum mechanics. For detailed analysis of how consciousness-first metaphysics explains anomalous phenomena that materialism cannot accommodate, see [Appendix I](#appendix-i-anomalies).*
+*This section addresses serious objections to analytic idealism while demonstrating its theoretical virtues. The framework handles challenges about natural regularity, other minds, and scientific success while displaying remarkable parsimony and explanatory power. It offers coherent accounts of phenomena that other frameworks struggle with, from placebo effects to quantum mechanics.*
 
 ### Addressing the Objections
 
@@ -422,7 +334,7 @@ The framework's ability to accommodate both ordinary experience and anomalous ph
 
 ## Part VII: Empirical Evidence {#part-vii-evidence}
 
-*While philosophical argumentation provides the logical foundation for consciousness-first metaphysics, empirical evidence offers compelling support. This section synthesizes key categories of well-documented phenomena that consistently resist materialist explanation while aligning naturally with idealist principles. We examine this evidence in order of empirical robustness—from widely accepted anomalies to more controversial phenomena—showing how consciousness-first frameworks provide more coherent explanations than brain-based theories. The cumulative pattern suggests consciousness transcending physical boundaries is not merely possible but empirically indicated. For detailed case studies, methodological analysis, and full engagement with alternative explanations, see [Appendix I](#appendix-i-anomalies).*
+*While philosophical argumentation provides the logical foundation for consciousness-first metaphysics, empirical evidence offers compelling support. This section synthesizes key categories of well-documented phenomena that consistently resist materialist explanation while aligning naturally with idealist principles. We examine this evidence in order of empirical robustness—from widely accepted anomalies to more controversial phenomena—showing how consciousness-first frameworks provide more coherent explanations than brain-based theories. The cumulative pattern suggests consciousness transcending physical boundaries is not merely possible but empirically indicated.*
 
 ### Mind's Direct Influence on Matter
 
@@ -458,9 +370,7 @@ Most significantly, this evidence comes not from fringe sources but from peer-re
 
 This empirical evidence transforms the consciousness debate from purely philosophical to urgently practical. If consciousness can persist beyond brain death, influence physical healing, access information through non-sensory channels, and manifest capabilities far beyond normal limitations, then our fundamental assumptions about human nature and cosmic purpose require revision.
 
-The materialist strategy of dismissing these phenomena rather than studying them intensively has impoverished our understanding of consciousness and limited our therapeutic possibilities. A consciousness-first framework doesn't just accommodate this evidence—it provides a unified explanation that reveals these "anomalies" as glimpses of consciousness's true nature breaking through ordinary dissociative constraints.
-
-These examples represent only a fraction of the available data. A comprehensive review of the extensive scientific literature, detailed case studies, and methodological considerations for these and other phenomena is provided in [Appendix I](#appendix-i-anomalies), which examines the full scope of evidence challenging materialist assumptions while supporting consciousness-first alternatives.
+The materialist strategy of dismissing these phenomena rather than studying them intensively has impoverished our understanding of consciousness and limited our therapeutic possibilities. A consciousness-first framework doesn't just accommodate this evidence—it provides a unified explanation that reveals these "anomalies" as glimpses of consciousness's true nature breaking through ordinary dissociative constraints, supported by extensive scientific literature from peer-reviewed medical journals, university research programs, and systematic investigations spanning decades.
 
 ## Part VIII: Spiral Development {#part-viii-spiral}
 
@@ -506,7 +416,7 @@ This renaissance isn't just intellectual but practical. As mental health crises 
 
 ## Part IX: Implications {#part-ix-implications}
 
-*This section explores how consciousness-first understanding transforms both individual spiritual practice and collective evolution. Personal awakening becomes recognition of what we already are rather than achievement of something new. Collectively, humanity may be approaching a phase transition requiring the integration of consciousness-first principles with technological development, particularly in artificial intelligence. For speculative but logically consistent ideas about reincarnation, consciousness evolution, and humanity's place in a cosmic hierarchy of awareness, see the [Epilogue](#epilogue-cosmic).*
+*This section explores how consciousness-first understanding transforms both individual spiritual practice and collective evolution. Personal awakening becomes recognition of what we already are rather than achievement of something new. Collectively, humanity may be approaching a phase transition requiring the integration of consciousness-first principles with technological development, particularly in artificial intelligence.*
 
 ### The Individual Journey
 
@@ -577,220 +487,13 @@ The evidence suggests consciousness is fundamental to reality. The implications 
 The universe, it seems, is not stranger than we imagine—it's stranger than materialism allowed us to imagine. And in that strangeness, in the primacy of consciousness itself, we might find our way home.
 
 
-
-## Appendix I: Anomalous Phenomena {#appendix-i-anomalies}
-
-### The Problem of Anomalies in Materialist Science
-
-Science progresses not just through confirming theories but through confronting anomalies—phenomena that resist explanation within current paradigms. The history of science shows that persistent anomalies often herald paradigm shifts: the ultraviolet catastrophe led to quantum mechanics, the Michelson-Morley experiment to relativity. Today, numerous well-documented phenomena resist materialist explanation, suggesting we may be approaching another fundamental revision in our understanding of reality.
-
-What's particularly telling is that many of these anomalies involve consciousness in fundamental ways. Under materialism, they're inexplicable or must be dismissed despite empirical evidence. Under analytic idealism, they become not just explicable but expected. If consciousness is fundamental and all boundaries are dissociative rather than absolute, then phenomena that seem to violate material causation might simply reflect the deeper unity beneath apparent separation.
-
-### 1. Near-Death Experiences: Consciousness Beyond the Brain
-
-Near-death experiences (NDEs) represent one of the most studied anomalous phenomena, with research published in mainstream medical journals like The Lancet, Resuscitation, and the Journal of Near-Death Studies (Greyson, 2021). The empirical features are remarkably consistent across cultures:
-
-**The Empirical Evidence:**
-Prospective studies published in major medical journals have documented structured, vivid NDEs occurring during cardiac arrest, when brain function is severely impaired (van Lommel et al., 2001; Parnia et al., 2014). While such cases are relatively rare, some include reports of accurate perceptions of events beyond normal sensory range (van Lommel et al., 2001; Ring & Cooper, 1997). Syntheses of research (e.g., Greyson, 2021) highlight consistent phenomenological features across cultures and emphasize the enduring transformative impact of these experiences.
-
-**The Materialist Problem:** How can clear, often enhanced consciousness occur when the brain shows no measurable activity? Oxygen deprivation typically produces confusion, not clarity. Dying brain hypotheses can't explain veridical perceptions of events occurring outside sensory range. The life review phenomenon—experiencing one's entire life simultaneously from multiple perspectives—defies neural explanations of memory storage and retrieval.
-
-**The Idealist Explanation:** If brain activity is the extrinsic appearance of localized consciousness, then the cessation of brain activity represents the dissolution of dissociative boundaries, not the end of consciousness. NDEs might involve consciousness temporarily transcending its usual localization, explaining:
-- Enhanced clarity (less dissociative constraint)
-- Veridical perceptions (consciousness not limited to sensory channels)
-- Life review (accessing the broader field of consciousness where all experiences exist)
-- Encounters with deceased relatives (consciousness persisting beyond physical death)
-
-### 2. Terminal Lucidity: The Return of Lost Consciousness
-
-Terminal lucidity—the unexpected return of mental clarity and memory in patients with severe dementia, brain tumors, or other neurological conditions shortly before death—challenges everything materialism claims about the brain-mind relationship.
-
-**The Empirical Evidence:**
-Medical literature has documented numerous cases where patients with advanced dementia, schizophrenia, or other severe neurological impairments briefly regained the ability to recognize family members, recall memories, and communicate coherently in the hours or days before death (Nahm & Greyson, 2009; Nahm & Greyson, 2010; Nahm, 2013). Such episodes occur across different cultural contexts and time periods, and remain difficult to reconcile with models that assume a straightforward dependence of consciousness on brain function.
-
-**The Materialist Problem:** How can consciousness and memory return when the brain structures supposedly required for them are destroyed? This phenomenon is the exact opposite of what materialism predicts—consciousness should deteriorate with brain damage, not spontaneously recover.
-
-**The Idealist Explanation:** If consciousness exists independently and the brain is its localization mechanism, then:
-- As death approaches and dissociative boundaries weaken, consciousness might temporarily transcend its damaged localization
-- Memory and identity persist in consciousness itself, not just neural patterns
-- The brain constrains and localizes consciousness but doesn't produce it
-
-### 3. The Placebo Effect: Mind Over Matter
-
-The placebo effect is perhaps the most accepted "anomaly"—so common it's controlled for in every medical trial, yet its implications are rarely fully appreciated.
-
-**The Empirical Evidence:**
-Placebo treatments, including sham surgeries, can produce effects equivalent to active interventions (Moseley et al., 2002). Remarkably, even open-label placebos, where patients are explicitly told the pills are inert, still demonstrate therapeutic benefits (Kaptchuk et al., 2010). Neuroimaging studies show that placebo analgesia recruits many of the same brain regions and neurotransmitter systems as active drugs, while nocebo responses demonstrate how negative expectations can induce measurable physiological harm (e.g., Wager et al., 2004; Benedetti et al., 2007). Moreover, placebo responses have been shown to increase over time in U.S. clinical trials of neuropathic pain (Tuttle et al., 2015).
-
-**The Materialist Problem:** How can inert substances produce real physiological changes? Why does belief affect biology so profoundly? The standard "expectation" explanation doesn't explain the mechanism—how does expectation translate to cellular changes?
-
-**The Idealist Explanation:** If the body is the extrinsic appearance of mental processes, then mental states directly affecting physical states is expected, not anomalous. The placebo effect demonstrates:
-- Consciousness's direct influence on its own extrinsic appearance (the body)
-- The power of belief to shape physical reality (because physical reality is mentally grounded)
-- The fundamental role of meaning in healing (meaning being a property of consciousness)
-
-### 4. Psychedelic Experiences and Consciousness Expansion
-
-The psychedelic renaissance has brought rigorous scientific study to these substances, with research at Johns Hopkins, Imperial College London, and other major institutions documenting profound effects that challenge materialist assumptions.
-
-**The Empirical Evidence:**
-Controlled studies demonstrate that psychedelics such as psilocybin can occasion profound mystical-type experiences, which participants often rank among the most personally and spiritually significant events of their lives (Griffiths et al., 2006). Follow-up research shows that such experiences are associated with lasting increases in openness and well-being (MacLean et al., 2011). Neuroimaging studies add a paradoxical finding: psilocybin decreases activity in key brain networks during peak experiences (Carhart-Harris et al., 2012), suggesting that reduced brain activity can correlate with intensified consciousness—the opposite of what materialism would predict. Therapeutic benefits frequently persist long after the acute pharmacological effects subside, pointing to enduring psychological transformation.
-
-**The Materialist Problem:** How does decreased brain activity correlate with expanded conscious experience? Why do different chemical substances produce similar mystical experiences? How do single sessions produce lasting changes in personality, normally considered stable in adults? The "reducing valve" hypothesis (that the brain constrains consciousness) makes more sense than production models.
-
-**The Idealist Explanation:** Psychedelics might temporarily weaken dissociative boundaries, allowing consciousness to experience less constrained states. This explains:
-- Ego dissolution (weakening of the dissociative boundary creating individual identity)
-- Unity experiences (recognizing the underlying unity normally hidden by dissociation)
-- Entity encounters (accessing other regions of conscious experience)
-- Lasting changes (glimpsing one's true nature catalyzes ongoing transformation)
-
-### 5. Spontaneous Remission and Extraordinary Healing
-
-Medical literature documents thousands of cases of spontaneous remission from terminal illnesses, yet these cases are often ignored rather than studied.
-
-**The Empirical Evidence:**
-- The Institute of Noetic Sciences bibliography compiled by O’Regan & Hirshberg (1993) catalogued more than 3,500 medically documented cases of spontaneous remission published between 1900 and 1990, systematically organized by diagnosis and treatment status
-- These cases span a wide variety of cancer types as well as other illnesses
-- Qualitative research on exceptional survivors highlights common psychological and spiritual factors—such as major shifts in life perspective, deepened spirituality, and radical lifestyle changes (Turner, 2014)
-- Meta-analyses of non-contact healing trials indicate small but statistically significant effects on biological outcomes (Roe et al., 2015; g = 0.20, 95% CI [0.08, 0.31])
-
-**The Materialist Problem:** How do terminal cancers disappear without treatment? Why do profound psychological changes correlate with physiological healing? The standard genetic or immune system explanations don't account for the psychological factors consistently present.
-
-**The Idealist Explanation:** If the body is the extrinsic appearance of consciousness, then profound shifts in consciousness could manifest as dramatic physical changes:
-- Spiritual awakenings might reorganize the dissociative structures manifesting as disease
-- Healing might involve consciousness recognizing its fundamental wholeness
-- The correlation with meaning-making and spiritual experiences makes sense if consciousness is primary
-
-### 6. Acquired Savant Syndrome: Sudden Access to Hidden Capabilities
-
-Cases where individuals suddenly develop extraordinary abilities after brain injury or other triggers suggest consciousness might have capabilities normally constrained rather than created by the brain.
-
-**The Empirical Evidence:**
-Registry research suggests that approximately 10% of savant cases are acquired, often following brain trauma or central nervous system disease (Treffert & Rebedew, 2015). Case reports describe individuals who, after head injuries or other neurological events, developed striking new skills in areas such as music, mathematics, or art (Treffert, 2010). Moreover, studies of frontotemporal dementia patients document the unexpected emergence of creative or artistic abilities, even as other cognitive functions decline (Miller et al., 2000).
-
-**The Materialist Problem:** How does brain damage create abilities? Where does the knowledge come from—complex musical compositions, mathematical understanding, artistic techniques never learned? The standard rewiring explanation doesn't account for the sophistication of the abilities.
-
-**The Idealist Explanation:** If consciousness has vast capabilities normally constrained by dissociative boundaries:
-- Brain changes might reduce constraints rather than create abilities
-- The knowledge might exist in the broader field of consciousness, becoming accessible when normal filters are altered
-- Savant abilities might represent less dissociated access to universal consciousness's computational/creative capacities
-
-### 7. Reincarnation Research: Consciousness Across Lives
-
-Ian Stevenson and his successors at the University of Virginia have documented thousands of cases suggestive of reincarnation (Stevenson, 1997), with rigorous methodology addressing alternative explanations.
-
-**The Empirical Evidence:**
-Since 1961, researchers at the Division of Perceptual Studies have investigated over 2,500 cases of young children who spontaneously report memories of previous lives. In a subset of 49 cases, medical documentation confirmed birthmarks or defects corresponding to reported fatal wounds, with supportive correspondence in 43 instances (Stevenson, 1997). Jim Tucker’s more recent investigations (Tucker, 2005, 2013) continue to document such cases in contemporary contexts, often with verified details beyond the child’s normal knowledge. Features commonly observed include phobias, preferences, and skills linked to the previous personality, with the strongest cases recorded in writing prior to verification.
-
-**The Materialist Problem:** How can memories and physical marks transfer between bodies? The evidence quality in the best cases rules out fraud, cryptomnesia, and genetic memory. The correspondences are too specific for chance.
-
-**The Idealist Explanation:** If individual consciousness is a dissociated stream within universal consciousness:
-- Death involves dissolution of one dissociative boundary, birth the formation of another
-- Patterns, tendencies, and experiences might persist in the stream of consciousness
-- Physical marks might reflect how consciousness patterns itself in new embodiments
-- Cultural variations reflect how universal processes manifest through local belief structures
-
-### 8. Mediumship and After-Death Communication
-
-The systematic study of mediumship—claimed communication with deceased individuals—has produced intriguing evidence that challenges materialist assumptions about consciousness and death. Research groups led by Alexander Moreira-Almeida and Julie Beischel have applied rigorous scientific methodology to this controversial area, developing increasingly sophisticated protocols to eliminate conventional explanations.
-
-**The Empirical Evidence:**
-Under blinded conditions, research mediums have provided information about deceased individuals at rates exceeding chance expectation (Beischel & Schwartz, 2007; Beischel et al., 2015). In certain studies, triple-blind protocols ensured that mediums, experimenters, and sitters were all kept separate and unaware of relevant details.
-
-Complementary research in semi-naturalistic contexts has also suggested anomalous information reception during mediumistic writing and psychography under controlled conditions (Gomide et al., 2022; Silva et al., 2023). These designs balance experimental rigor with ecological validity.
-
-Historical “cross-correspondence” investigations in the early 20th century described interlocking messages received by different mediums with no contact with each other (e.g., Gauld, 1968). Moreira-Almeida’s review (Moreira-Almeida, 2012) of mediumship studies emphasized consistent patterns of anomalous information acquisition across cultural contexts and outlined methodological challenges and best practices for future research.
-
-**The Materialist Problem:** How can mediums access specific, verifiable information about deceased individuals they never met? Cold reading and fraud cannot explain cases with strict experimental controls where all conventional information channels are blocked. If consciousness is produced by the brain, how could information about deceased persons be accessible to living individuals?
-
-**The Idealist Explanation:** If individual consciousness persists as a dissociated stream within universal consciousness after bodily death:
-- Mediums might have reduced dissociative boundaries allowing access to these persisting consciousness streams
-- Information transfer could occur through the underlying unity of consciousness
-- The accuracy of communications reflects genuine contact rather than psychic abilities or fraud
-- Cultural variations in mediumistic phenomena reflect different dissociative structures rather than different underlying realities
-
-### 9. Deathbed Visions and End-of-Life Experiences
-
-Deathbed visions—reported encounters with deceased relatives or spiritual beings shortly before death—represent another category of phenomena suggesting consciousness transcends physical boundaries.
-
-**The Empirical Evidence:**
-Early systematic reports documented strikingly consistent patterns: patients nearing death frequently described visits from deceased relatives or luminous figures that brought peace and eased the fear of dying (Barrett, 1926; Osis & Haraldsson, 1977). More recent hospice research suggests that 10–50% of dying patients report such visions, which tend to occur in clear consciousness and are often distinguished from medication-induced hallucinations (Kerr et al., 2014). Occasionally, these experiences are reported as being shared by family members at the bedside, adding another layer of complexity.
-
-**The Materialist Problem:** Why do dying patients consistently report encounters with specific deceased individuals? How can hallucinations be shared between patient and family members? The adaptive nature of these experiences suggests they serve a function beyond random neural firing.
-
-**The Idealist Explanation:** If consciousness persists after death and boundaries become permeable near death:
-- Dying individuals might genuinely perceive deceased relatives whose consciousness persists
-- The comfort these visions provide reflects recognition of consciousness's continuity
-- Shared experiences suggest objective encounters rather than subjective hallucinations
-- The cross-cultural consistency points to universal features of consciousness transition
-
-### 10. Psi Phenomena: Consciousness Transcending Spatial-Temporal Boundaries
-
-Despite persistent skepticism, meta-analyses of psi research report small but statistically significant effects that have proven resilient across increasingly rigorous protocols. Comprehensive reviews spanning decades suggest consistent, though modest, effect sizes in the range often found in psychology (Cardeña, 2018; Storm et al., 2010).
-
-**The Empirical Evidence:**
-Meta-analyses have found small but significant effects across diverse psi domains, including precognition (Bem et al., 2015) and free-response (Ganzfeld) studies (Storm et al., 2010). Research on mind–matter interactions, particularly random number generator experiments, also shows cumulative deviations from chance across hundreds of studies (Radin & Nelson, 1989; Nelson & Radin, 2003). While debate continues regarding interpretation, the persistence of these effects across methods and decades has kept interest in psi research alive (Cardeña, 2018).
-
-**The Materialist Problem:** These phenomena violate fundamental assumptions about causality, locality, and the independence of consciousness from physical processes. The effects persist despite skeptical scrutiny, improved methodology, and pre-registration. The small effect sizes might reflect the difficulty of transcending dissociative boundaries rather than absence of the phenomena.
-
-**The Idealist Explanation:** If all consciousness is fundamentally unified beneath dissociative boundaries, then:
-- Telepathy reflects the fundamental unity temporarily overcoming dissociative separation
-- Mind-matter interaction makes sense if matter is the extrinsic appearance of mental processes
-
-### Integration and Implications
-
-These anomalous phenomena, taken together, paint a consistent picture incompatible with materialism but natural within idealist metaphysics. They suggest:
-
-1. **Consciousness transcends brain activity** - NDEs, terminal lucidity, and reincarnation cases show consciousness persisting beyond neural function
-
-2. **Boundaries are provisional** - Psi phenomena and mediumship suggest the separations between minds and between mind and matter are dissociative, not fundamental
-
-3. **Mind influences matter directly** - Placebo effects, spontaneous remission, and observer effects show consciousness affecting physical reality
-
-4. **Consciousness has vast latent capabilities** - Psychedelic experiences, savant syndrome, and psi phenomena hint at capacities normally constrained by dissociative boundaries
-
-### The Crisis of Skepticism
-
-The relationship between these phenomena and mainstream science is complex. Legitimate scientific skepticism requires rigorous methodology, replication, and careful consideration of alternative explanations. However, the systematic exclusion of entire categories of well-documented phenomena from serious study may reflect not just methodological caution but paradigmatic constraints. As Thomas Kuhn observed, anomalies are typically explained away within existing frameworks until they accumulate to a crisis point where the paradigm itself must be questioned. The challenge is distinguishing between appropriate scientific caution and premature dismissal of potentially important data.
-
-The tragedy is that by dismissing these phenomena, we've cut ourselves off from crucial data about the nature of consciousness and reality. Medical science ignores spontaneous remissions instead of studying them intensively. Parapsychology remains marginalized despite significant findings. NDEs are dismissed as hallucinations despite veridical perceptions.
-
-### Toward a New Science
-
-Accepting consciousness as fundamental wouldn't mean abandoning scientific rigor but expanding it. We need:
-- Phenomenological methods to study consciousness from within
-- Extended empiricism that includes subjective experiences as data
-- Systems thinking that recognizes consciousness-matter interactions
-- Meaning-inclusive frameworks that don't reduce away significance
-
-The anomalies aren't bugs in our understanding but features pointing toward a larger reality. They're windows into the true nature of consciousness—not produced by brains but fundamental to existence, not confined to skulls but transcending spatial-temporal boundaries, not separate from matter but its inner nature.
-
-As we face civilizational challenges requiring expanded consciousness—ecological crisis, artificial intelligence, meaning collapse—these anomalies offer hope. They suggest human potential far beyond current limitations, healing possibilities beyond pharmaceutical intervention, and connections transcending physical separation.
-
-The idealist framework doesn't just explain these anomalies but suggests they're glimpses of our true nature breaking through the dissociative boundaries that normally constrain us. In recognizing and studying rather than dismissing them, we might discover not just new phenomena but new possibilities for human flourishing and conscious evolution.
-
-
 ## References {#references}
-
-Barrett, W. (1926). *Death-bed visions: The psychical experiences of the dying*. Methuen & Co.
-
-Beischel, J., & Schwartz, G. E. (2007). Anomalous information reception by research mediums demonstrated using a novel triple-blind protocol. *Explore*, 3(1), 23-27.
-
-Beischel, J., Boccuzzi, M., Biuso, M., & Rock, A. J. (2015). Anomalous information reception by research mediums under blinded conditions II: Replication and extension. *Explore*, 11(2), 136-142.
-
-Bem, D. J., Tressoldi, P. E., Rabeyron, T., & Duggan, M. (2015). Feeling the future: A meta-analysis of 90 experiments on the anomalous anticipation of random future events. *F1000Research*, 4, 1188.
-
-Benedetti, F., Lanotte, M., Lopiano, L., & Colloca, L. (2007). When words are painful: Unraveling the mechanisms of the nocebo effect. Neuroscience, 147(2), 260–271.
 
 Cardeña, E. (2018). The experimental evidence for parapsychological phenomena: A review. *American Psychologist*, 73(5), 663-677.
 
 Carhart-Harris, R. L., Erritzoe, D., Williams, T., Stone, J. M., Reed, L. J., Colasanti, A., ... & Nutt, D. J. (2012). Neural correlates of the psychedelic state as determined by fMRI studies with psilocybin. Proceedings of the National Academy of Sciences, 109(6), 2138–2143.
 
 Chalmers, D. (1995). Facing up to the problem of consciousness. *Journal of Consciousness Studies*, 2(3), 200-219.
-
-Gauld, A. (1968). The founders of psychical research. Schocken Books.
-
-Gomide, M., Wainstock, B. C., Silva, J., Mendes, C. G., & Moreira-Almeida, A. (2022). Controlled semi-naturalistic protocol to investigate anomalous information reception in mediumship: Description and preliminary findings. *Explore*, 18(5), 539-544.
 
 Greyson, B. (2021). *After: A Doctor Explores What Near-Death Experiences Reveal About Life and Beyond*. St. Martin's Essentials.
 
@@ -800,17 +503,11 @@ Kaptchuk, T. J., Friedlander, E., Kelley, J. M., et al. (2010). Placebos without
 
 Kastrup, B. (2019). *The Idea of the World: A Multi-Disciplinary Argument for the Mental Nature of Reality*. Iff Books.
 
-Kerr, C. W., Donnelly, J. P., Wright, S. T., Kuszczak, S. M., Banas, A., Grant, P. C., & Luczkiewicz, D. L. (2014). End-of-life dreams and visions: A longitudinal study of hospice patients’ experiences. Journal of Palliative Medicine, 17(3), 296–303.
-
 MacLean, K. A., Johnson, M. W., & Griffiths, R. R. (2011). Mystical experiences occasioned by the hallucinogen psilocybin lead to increases in the personality domain of openness. *Journal of Psychopharmacology*, 25(11), 1453-1461.
-
-Miller, B. L., Boone, K., Cummings, J. L., Read, S. L., & Mishkin, F. (2000). Functional correlates of musical and visual ability in frontotemporal dementia. British Journal of Psychiatry, 176(5), 458–463.
 
 Moreira-Almeida, A. (2012). Research on mediumship and the mind-brain relationship. In A. Moreira-Almeida & F. S. Santos (Eds.), Exploring frontiers of the mind-brain relationship (pp. 191-213). Springer.
 
 Moreira-Almeida, A. (2013). Implications of spiritual experiences to the understanding of mind-brain relationship. Asian Journal of Psychiatry, 6(6), 585-589
-
-Moseley, J. B., O'Malley, K., Petersen, N. J., et al. (2002). A controlled trial of arthroscopic surgery for osteoarthritis of the knee. *New England Journal of Medicine*, 347(2), 81-88.
 
 Nahm, M., & Greyson, B. (2009). Terminal lucidity in patients with chronic schizophrenia and dementia: A survey of the literature. *Journal of Nervous and Mental Disease*, 197(12), 942-944.
 
@@ -818,39 +515,11 @@ Nahm, M., & Greyson, B. (2010). Terminal lucidity in people with mental illness 
 
 Nahm, M. (2013). Terminal lucidity: A review and a case collection. Archives of Gerontology and Geriatrics, 57(2), 138–142.
 
-Nelson, R. D., & Radin, D. I. (2003). Research on mind-matter interactions (MMI): Group attention. In W. B. Jonas & C. C. Crawford (Eds.), *Healing, intention and energy medicine* (pp. 49-57). Churchill Livingstone.
-
-O'Regan, B., & Hirshberg, C. (1993). *Spontaneous remission: An annotated bibliography*. Institute of Noetic Sciences.
-
-Osis, K., & Haraldsson, E. (1977). *At the hour of death: A new look at evidence for life after death*. Avon Books.
-
 Parnia, S., Spearpoint, K., de Vos, G., et al. (2014). AWARE—AWAreness during REsuscitation—A prospective study. *Resuscitation*, 85(12), 1799-1805.
 
 Radin, D. (2018). *Real Magic: Ancient Wisdom, Modern Science, and a Guide to the Secret Power of the Universe*. Harmony Books.
 
 Radin, D. I., & Nelson, R. D. (1989). Evidence for consciousness-related anomalies in random physical systems. *Foundations of Physics*, 19(12), 1499-1514.
-
-Ring, K., & Cooper, S. (1997). Mindsight: Near-death and out-of-body experiences in the blind. William James Center for Consciousness Studies.
-
-Roe, C. A., Sonnex, C., & Roxburgh, E. C. (2015). Two meta-analyses of noncontact healing studies. *Explore*, 11(1), 11-23.
-
-Silva, J., Mendes, C. G., Wainstock, B. C., Gomide, M., & Moreira-Almeida, A. (2023). Evaluation of the occurrence of anomalous information reception in messages in an allegedly mediumistic process. *Explore*, 19(6), 785-791.
-
-Stevenson, I. (1997). *Reincarnation and Biology: A Contribution to the Etiology of Birthmarks and Birth Defects* (2 vols.). Praeger Publishers.
-
-Storm, L., Tressoldi, P. E., & Di Risio, L. (2010). Meta-analysis of free-response studies, 1992–2008: Assessing the noise reduction model in parapsychology. *Psychological Bulletin*, 136(4), 471-485.
-
-Treffert, D. A., & Rebedew, D. L. (2015). The savant syndrome registry: A preliminary report. *Wisconsin Medical Journal*, 114(4), 158-162.
-
-Treffert, D. A. (2010). Islands of Genius: The Bountiful Mind of the Autistic, Acquired, and Sudden Savant. Jessica Kingsley Publishers.
-
-Tucker, J. B. (2005). Life before life: A scientific investigation of children’s memories of previous lives. St. Martin’s Press.
-
-Tucker, J. B. (2013). Return to life: Extraordinary cases of children who remember past lives. St. Martin’s Press.
-
-Turner, K. A. (2014). Radical Remission: Surviving Cancer Against All Odds.
-
-Tuttle, A. H., Tohyama, S., Ramsay, T., et al. (2015). Increasing placebo responses over time in U.S. clinical trials of neuropathic pain. *Pain*, 156(12), 2616-2626.
 
 van Lommel, P., van Wees, R., Meyers, V., & Elfferich, I. (2001). Near-death experience in survivors of cardiac arrest: A prospective study in the Netherlands. *The Lancet*, 358(9298), 2039-2045.
 
