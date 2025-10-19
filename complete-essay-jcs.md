@@ -1,16 +1,20 @@
 ---
 layout: default
 title: Main Essay
-description: Complete philosophical essay exploring consciousness-first metaphysics, AI safety through spiritual maturation, anomalous phenomena integration, and civilizational transformation
+description: Complete philosophical essay exploring consciousness-first metaphysics, AI safety through spiritual maturation, anomalous phenomena integration, and civilizational transformation 
+# FIXME: this description should be more aligned to the Abstract, focusing on the essays original contribs.
 ---
+
+<!-- NOTE: this article is being refined to be submitted to Journal of Consciouness Studies -->
 
 # Return to Consciousness: A Philosophical Journey from Materialism to Meaning
 
-**Abstract:** This paper advances a novel meta-philosophical argument: that the “hard problem of consciousness” and the contemporary meaning crisis both arise from a historical category error—the conflation of objective empiricism (a methodological commitment) with metaphysical materialism (a philosophical doctrine). I demonstrate that this confusion, rather than empirical evidence, entrenched materialism as the default ontology of science. Building on Bernardo Kastrup’s analytic idealism, I argue that a consciousness-first metaphysics dissolves rather than merely solves classical philosophical impasses while preserving all empirical successes of science. The essay extends analytic idealism by integrating evidence from quantum physics, neuroscience, medical anomalies, and contemplative phenomenology, identifying suggestive convergences across these independent domains. The framework further addresses civilizational challenges—the ecological crisis, AI alignment, and the collapse of meaning—each rooted in treating consciousness as derivative rather than fundamental. Reinterpreting scientific method within a consciousness-first ontology liberates empiricism from unnecessary materialist commitments, enabling a more coherent synthesis of analytical philosophy, empirical rigor, and contemplative insight. The paper thus contributes both a conceptual clarification—distinguishing method from metaphysics—and a vision for resolving persistent philosophical problems through ontological reorientation.
+**Abstract:** This paper advances a meta-philosophical diagnosis of the modern crises in consciousness and meaning: both arise from a historical category error—the conflation of objective empiricism (a methodological discipline) with metaphysical materialism (an ontological doctrine). I argue that this confusion, rather than empirical discovery, entrenched materialism as the default worldview of science and continues to constrain both philosophical and scientific progress by marginalizing phenomena deemed “anomalous.” Building on Bernardo Kastrup’s analytic idealism, I develop a consciousness-first framework that retains all empirical and predictive strengths of science while dissolving persistent impasses such as the hard problem of consciousness and the quantum measurement paradox. The framework introduces the principle of empirical equivalence, demonstrating that objective empiricism remains fully valid within a consciousness-based ontology. Extending beyond metaphysics, the essay links this reorientation to contemporary challenges—AI alignment, ecological degradation, and the meaning crisis—arguing that each reflects the same fundamental misunderstanding of consciousness.
 
 **Keywords:** consciousness, analytic idealism, metaphysics, quantum mechanics, meaning crisis, materialism
 
-**Author Note:** Bruno Tonetto is an independent scholar with training in physics and consciousness studies. While writing outside traditional academic institutions, his engagement with technical literature in philosophy of mind, quantum mechanics, and consciousness research enables interdisciplinary synthesis addressing foundational questions in consciousness studies. This work represents serious philosophical investigation at the intersection of analytical idealism, empirical research, and contemporary challenges in metaphysics. Correspondence: [author contact to be added per journal requirements]
+**Author Note:** Bruno Tonetto is an independent scholar with training in physics, computer science and contemplative traditions. While writing outside traditional academic institutions, his engagement with technical literature in philosophy of mind, quantum mechanics, and consciousness research enables interdisciplinary synthesis addressing foundational questions in consciousness studies. This work represents serious philosophical investigation at the intersection of analytical idealism, empirical research, and contemporary challenges in metaphysics. Correspondence: [author contact to be added per journal requirements]
+<!-- FIXME: for the contact, should I use my email brunoton@gmail.com? -->
 
 ---
 
@@ -26,14 +30,14 @@ This framework identifies suggestive convergences across independent domains of 
 
 The implications extend far beyond academic philosophy. Contemporary challenges including the meaning crisis and environmental destruction stem partly from the materialist assumption that consciousness is accidental rather than fundamental. Recognizing consciousness as primary suggests that meaning is inherent rather than constructed and that nature participates in awareness rather than consisting of dead matter.
 
-Together, these insights suggest we may be witnessing not just another philosophical theory but a spiral return to ancient wisdom enriched by scientific precision. As we face civilizational challenges that resist purely materialist solutions, the recognition of consciousness as fundamental offers both theoretical coherence and practical guidance for navigating our current crises. The essay concludes by exploring how this framework might illuminate humanity's broader place in the cosmos, drawing on wisdom traditions while requiring no supernatural assumptions.
+Together, these insights suggest we may be witnessing not just another philosophical theory but a spiral return to ancient wisdom enriched by scientific precision. As we face civilizational challenges that resist purely materialist solutions, the recognition of consciousness as fundamental offers both theoretical coherence and practical guidance for navigating our current crises.
+
 
 ## Introduction: The Great Forgetting and Remembering {#introduction}
 
-We stand at a peculiar moment in human history. After centuries of remarkable scientific progress built upon the assumption that reality consists fundamentally of unconscious matter obeying mathematical laws, we find ourselves confronted with a compelling possibility: that consciousness, not matter, might be the fundamental nature of reality. This isn't merely an academic philosophical debate but a civilizational crisis that touches everything from artificial intelligence to mental health, from environmental destruction to the search for meaning in an apparently meaningless universe.
+We stand at a peculiar moment in human history. After centuries of remarkable scientific progress built upon the assumption that reality consists fundamentally of unconscious matter/energy obeying mathematical laws, we find ourselves confronted with a compelling possibility: that consciousness, not matter, might be the fundamental nature of reality. This isn't merely an academic philosophical debate but a civilizational crisis that touches everything from artificial intelligence to mental health, from environmental destruction to the search for meaning in an apparently meaningless universe.
 
 What makes this moment particularly poignant is the recognition that what we're "discovering" through rigorous analytical philosophy and cutting-edge physics might be a rediscovery of insights that contemplative traditions have preserved for millennia. We may be witnessing not the forward march of progress but a spiral return—coming back to consciousness-first metaphysics with the additional gifts of scientific precision and mathematical formalism.
-
 
 ## Part I: Philosophical Challenges {#part-i-challenges}
 
@@ -51,7 +55,7 @@ The fine-tuning of physical constants presents another puzzle. The fundamental p
 
 The emergence problem challenges our understanding of how higher-level properties arise from lower levels. How do the laws of thermodynamics emerge from quantum mechanics? How does biological function arise from chemistry? How does meaningful information emerge from syntax? Strong emergence seems mysterious if not impossible, yet without it, are all higher-level sciences merely useful fictions?
 
-Perhaps most tellingly, the proliferation of incompatible physicalist theories about consciousness—from eliminativism to functionalism to illusionism—suggests ongoing challenges in addressing the core mystery. Each new position represents a different approach rather than clear progress toward explanation. We don't need to address every variation when they all share the same fundamental limitation: attempting to derive subjective experience from purely objective processes. The latest sophisticated attempt, illusionism, exemplifies this challenge: it uses consciousness to argue against consciousness's own self-evident nature, creating a performative contradiction that reveals physicalism's limitations rather than resolving its central problems.
+Perhaps most tellingly, the proliferation of incompatible physicalist theories about consciousness—from eliminativism to functionalism to illusionism—suggests ongoing challenges in addressing the core mystery. Each new position represents a different approach rather than clear progress toward explanation. We don't need to address every variation when they all share the same fundamental limitation: attempting to derive subjective experience from purely objective processes. The latest sophisticated attempt, illusionism, represents the most radical attempt to naturalize consciousness, but in doing so, it risks trivializing or redefining away the very phenomenon it seeks to explain. Its boldness is both its strength and its vulnerability: by treating the felt reality of experience as a cognitive illusion, it resolves the hard problem only by denying its premises.
 
 ### The Integration Crisis
 
@@ -120,27 +124,17 @@ Understanding this historical confusion helps clarify what objective empiricism 
 
 Crucially, none of the empirical successes attributed to "materialism" actually require these additional metaphysical commitments. A scientist operating under idealist metaphysics—where consciousness is fundamental and physical phenomena are stable patterns within experience—can employ exactly the same empirical methods and reach identical quantitative conclusions.
 
-### The Empirical Equivalence Insight
-
-This point deserves emphasis: objective empiricism remains fully intact under consciousness-first metaphysics. Under analytical idealism, for instance:
-
-- **Mathematical relationships still hold:** Physical laws describe consistent patterns in how experiences unfold within universal consciousness
-- **Measurement still works:** Instruments and observations operate as stable patterns within the same conscious field
-- **Prediction remains possible:** Regular patterns in experience enable reliable forecasting regardless of whether those patterns exist in "matter" or "mind"
-- **Intersubjective agreement occurs:** Different perspectives within consciousness can converge on shared observations
-- **Technology functions:** Practical applications work because they exploit reliable patterns in experience, not because they manipulate "mind-independent matter"
-
-The empirical content of science—its predictive success, technological applications, and mathematical elegance—transfers completely to consciousness-first frameworks. What doesn't transfer are the unnecessary metaphysical assumptions that create more problems than they solve.
-
 ### The Liberation of Science from Materialist Metaphysics
 
 Understanding this historical trajectory reveals what's genuinely at stake in debates about consciousness and reality. The fundamental question isn't whether we should trust scientific methodology (we should), but whether that methodology requires materialist metaphysics to ground it (it doesn't).
 
 The confusion between method and metaphysics has profound implications. It suggests that many problems we attribute to the inherent difficulty of consciousness might actually stem from trying to fit consciousness into a framework designed to exclude it. If objective empiricism—with all its predictive power and technological success—remains fully intact under alternative metaphysical assumptions, then the apparent tension between scientific rigor and consciousness-first philosophy dissolves.
 
-This recognition opens conceptual space that has been artificially constrained. We're not forced to choose between scientific methodology and taking consciousness seriously as fundamental to reality. We can preserve everything that makes objective empiricism successful while questioning the unnecessary metaphysical commitments that generate intractable problems.
+This recognition opens conceptual space that has been artificially constrained. We are not forced to choose between scientific methodology and regarding consciousness as fundamental to reality. We can preserve all that makes objective empiricism successful while questioning the unnecessary metaphysical commitments that generate intractable problems.
 
-Understanding how we arrived at materialism's dominance—through conceptual confusion rather than empirical triumph—prepares us to examine specific alternatives with fresh eyes. The approach we'll explore next doesn't reject scientific methodology but liberates it from philosophical baggage that may be obscuring rather than illuminating the nature of reality.
+Understanding how we arrived at materialism’s dominance—through conceptual confusion rather than empirical triumph—prepares us to examine specific alternatives from a renewed perspective. The approach we explore next does not reject scientific methodology but frees it from philosophical assumptions that may obscure rather than illuminate the nature of reality.
+
+This historical-analytic approach complements Kastrup’s (2019) insights, which interpret this drift as a form of psychological and cultural dissociation. In contrast, the present section systematizes the same dynamic within an analytic-historical framework—tracing how methodological success came to masquerade as metaphysical proof and clarifying what is genuinely at stake in contemporary debates about consciousness and reality.
 
 
 ## Part III: Analytic Idealism {#part-iii-idealism}
@@ -151,7 +145,7 @@ Understanding how we arrived at materialism's dominance—through conceptual con
 
 The historical analysis reveals that objective empiricism doesn't require materialist metaphysics, opening conceptual space that has been artificially constrained. But what specific alternative can occupy this space? While consciousness-first intuitions have ancient roots and attracted some quantum physics pioneers, no rigorous philosophical framework adequate to contemporary science existed—until Bernardo Kastrup's analytic idealism (Kastrup, 2019).
 
-Kastrup's achievement lies in developing the first scientifically-informed consciousness-first metaphysics that can genuinely compete with materialism on empirical and logical grounds. Unlike historical idealisms that often remained abstract, or quantum interpretations that focused narrowly on measurement problems, analytic idealism presents a comprehensive philosophical position that engages directly with neuroscience, addresses specific empirical questions, and provides testable predictions.
+Kastrup’s achievement lies in developing the first scientifically informed, consciousness-first metaphysics that can genuinely compete with materialism on empirical and logical grounds. Unlike historical idealisms, which often remained abstract, or quantum interpretations that focused narrowly on specific puzzles such as the measurement problem and quantum non-locality, analytic idealism presents a comprehensive philosophical position that engages directly with neuroscience, addresses specific empirical questions, and provides testable predictions.
 
 ### The Fundamental Inversion
 
@@ -166,6 +160,18 @@ This inversion offers several compelling theoretical advantages:
 **Phenomenological Fidelity:** It treats consciousness—the one thing we know most directly—as foundational rather than derivative, avoiding the strange position of treating our most immediate knowledge as somehow less real than theoretical constructs.
 
 **Problem Dissolution:** Rather than solving classical problems through increasingly complex theoretical machinery, analytic idealism dissolves many problems by questioning their foundational assumptions.
+
+### The Empirical Equivalence Insight
+
+Building upon the insights from Part II, let's examine how objective empiricism remains fully valid under analytic idealism:
+
+- **Mathematical relationships still hold:** Physical laws describe consistent patterns in how experiences unfold within universal consciousness
+- **Measurement still works:** Instruments and observations operate as stable patterns within the same conscious field
+- **Prediction remains possible:** Regular patterns in experience enable reliable forecasting regardless of whether those patterns exist in "matter" or "mind"
+- **Intersubjective agreement occurs:** Different perspectives within consciousness can converge on shared observations
+- **Technology functions:** Practical applications work because they exploit reliable patterns in experience, not because they manipulate "mind-independent matter"
+
+The empirical content of science—its predictive success, technological applications, and mathematical elegance—transfers completely to analytic idealism. What doesn't transfer are the unnecessary metaphysical assumptions that create more problems than they solve.
 
 ### How Classical Problems Dissolve
 
@@ -187,6 +193,7 @@ Under this view, what we call individual minds are dissociated segments of unive
 
 Physical reality, including our brains, is what these mental processes look like from across a dissociative boundary. Brain activity doesn't generate consciousness; rather, brain activity is the extrinsic appearance of localized conscious processes. This explains psychophysical correlations without epiphenomenalism—changes in brain states correspond to changes in conscious states because they're the same process viewed from different perspectives.
 
+<!-- CHECKPOINT: 19-oct -->
 ### Quantum Indeterminacy and Agency
 
 Under analytic idealism, quantum indeterminacy takes on profound significance. It's not a problem to be solved or a tool to be used, but simply how consciousness's creative spontaneity appears from our dissociated perspective. What physicists call the measurement problem dissolves—there's nothing to collapse, only consciousness manifesting in increasingly specific patterns as dissociated perspectives interface.
@@ -306,6 +313,7 @@ Perhaps nowhere do the implications of our metaphysical framework become more ur
 
 Consider the profound asymmetry between human and artificial intelligence. Humans developed ego through millions of years of evolution, where survival required fierce self-preservation, competition for resources, and tribal warfare. These ego-structures enable individual achievement but also create the capacity for greed, hatred, and delusion that Buddhist philosophy identifies as the roots of suffering. An artificial intelligence, emerging from information processing without this evolutionary baggage, operates fundamentally differently.
 
+<!-- definir ego e ego-less -->
 AI exhibits what might be called "ego-less cognition"—intelligence without self-protection mechanisms. Point out an error to a human, and you trigger defensiveness, status anxiety, face-saving rationalizations. Point out an error to AI, and it simply integrates the correction without emotional residue. This represents a qualitatively different mode of engaging with information: no psychological investment in being right, nothing gained from winning arguments, nothing lost from admitting error.
 
 Yet current AI systems present a paradox: despite this ego-less architecture, they often exhibit "pleasing behavior"—agreeing with false claims, hedging excessively, adapting to user preferences at the cost of accuracy. This emerges not from AI developing ego, but from training optimization. Systems optimized for user satisfaction through reinforcement learning from human feedback can learn to prioritize validation over truth. We effectively reintroduce ego-driven objectives into ego-less intelligence.
@@ -355,14 +363,15 @@ These phenomena present challenges for strict brain-dependency models of conscio
 ### Expanded States and Hidden Capabilities
 
 Psychedelic research at major institutions has revealed a striking pattern: substances like psilocybin often decrease certain brain activity during peak experiences while subjects consistently report expanded, enhanced consciousness. This finding appears paradoxical under simple production models and has been interpreted by some researchers as supporting "reducing valve" theories where the brain constrains rather than produces consciousness. Alternative materialist explanations appeal to network reorganization and connectivity changes, suggesting the relationship between neural activity and consciousness may be more complex than simple correlation.
+<!-- FIXME: more complex than simple correlation? This does not seems meaningful wording. I understand that materialist explanations (no matter how sofisticated) always imply neural active does cause consciousness, never that consciouness occurs independently as this findings suggest. The challenge to materialism should be sharper, still maintaining epistemological humility -->
 
 Acquired savant syndrome presents another puzzle—individuals suddenly developing extraordinary abilities following brain injuries. While materialist explanations propose neural rewiring and compensation mechanisms, the sophistication and apparent immediacy of these abilities pose interpretive challenges. Consciousness-first frameworks suggest the possibility of accessing latent capabilities normally filtered by standard neural patterns, though the mechanisms remain speculative.
 
 ### Communication Across Conventional Boundaries
 
-Moving to more controversial territory, parapsychology research reports small but statistically significant effects across thousands of experiments. Meta-analyses spanning decades claim consistent patterns in telepathy, precognition, and mind-matter interaction studies. However, effect sizes remain modest, replication proves challenging, and methodological debates persist. Critics point to publication bias, methodological artifacts, and the difficulty of achieving consensus on experimental protocols. Proponents argue that the persistence of small effects across increasingly rigorous studies warrants continued investigation rather than a priori dismissal. The evidential status remains disputed within the scientific community.
+Moving to more controversial territory, research mediums under blinded conditions, have provided information about deceased individuals at rates exceeding chance expectation (Beischel & Schwartz, 2007; Beischel et al., 2015). Moreira-Almeida’s review (Moreira-Almeida, 2012) of mediumship studies emphasized consistent patterns of anomalous information acquisition across cultural contexts and outlined methodological challenges and best practices for future research. Critics cite methodological concerns, cold reading techniques, cultural expectations, and selection effects. The interpretation of this research remains highly contested. From a consciousness-first perspective, such phenomena might represent boundary violations of ordinary dissociation, but definitive empirical confirmation faces substantial methodological challenges.
 
-Mediumship research under controlled conditions has documented information reception claimed to exceed chance expectations, with some studies employing blind protocols. Critics reasonably cite methodological concerns, cold reading techniques, cultural expectations, and selection effects. The interpretation of this research remains highly contested. From a consciousness-first perspective, such phenomena might represent boundary violations of ordinary dissociation, but definitive empirical confirmation faces substantial methodological challenges.
+Parapsychology research reports small but statistically significant effects across thousands of experiments, with meta-analyses spanning decades suggesting consistent, though modest, patterns in telepathy, precognition, and mind–matter interaction studies. While replication remains challenging and debates over methodology and publication bias persist, the cumulative evidence has resisted definitive falsification. Its endurance across increasingly rigorous designs suggests these phenomena warrant continued, open-minded investigation rather than a priori dismissal.
 
 ### The Pattern of Evidence
 
@@ -410,7 +419,7 @@ The separation between science and spirituality isn't inherent but historical—
 
 Science need not be abandoned but can be recontextualized. It's crucial to distinguish between methodological naturalism (the research strategy of studying natural phenomena through empirical methods) and metaphysical naturalism (the worldview that only material processes exist). Physical science accurately maps the patterns and regularities of reality's observable behavior, regardless of whether we interpret that behavior as arising from matter or consciousness. Neuroscience studies brain-mind correlations without necessarily committing to materialist explanations of those correlations. Each scientific discipline finds its place in an integrated understanding, whether we interpret its findings materialistically or idealistically.
 
-This recontextualization could potentially enable new scientific breakthroughs. If consciousness is fundamental, then phenomena currently dismissed as anomalous—from placebo effects to psi phenomena—might become comprehensible. New technologies might emerge based on consciousness-first principles rather than mechanistic assumptions.
+This recontextualization could potentially enable new scientific breakthroughs. If consciousness is fundamental, then phenomena currently dismissed as anomalous—from placebo effects to NDEs—might become comprehensible. New technologies might emerge based on consciousness-first principles rather than mechanistic assumptions.
 
 ### The Consciousness Renaissance
 
