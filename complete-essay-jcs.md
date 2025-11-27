@@ -1,20 +1,18 @@
 ---
 layout: default
 title: Main Essay
-description: Complete philosophical essay exploring consciousness-first metaphysics, AI safety through spiritual maturation, anomalous phenomena integration, and civilizational transformation 
-# FIXME: this description should be more aligned to the Abstract, focusing on the essays original contribs.
+description: Diagnoses how materialism arose from conflating method with metaphysics rather than empirical discovery. Introduces the principle of empirical equivalence and synthesizes convergent evidence from quantum physics, contemplative traditions, and anomalous phenomena within Kastrup's analytic idealism.
 ---
 
 <!-- NOTE: this article is being refined to be submitted to Journal of Consciouness Studies -->
 
 # Return to Consciousness: A Philosophical Journey from Materialism to Meaning
 
-**Abstract:** This paper advances a meta-philosophical diagnosis of the modern crises in consciousness and meaning: both arise from a historical category error—the conflation of objective empiricism (a methodological discipline) with metaphysical materialism (an ontological doctrine). I argue that this confusion, rather than empirical discovery, entrenched materialism as the default worldview of science and continues to constrain both philosophical and scientific progress by marginalizing phenomena deemed “anomalous.” Building on Bernardo Kastrup’s analytic idealism, I develop a consciousness-first framework that retains all empirical and predictive strengths of science while dissolving persistent impasses such as the hard problem of consciousness and the quantum measurement paradox. The framework introduces the principle of empirical equivalence, demonstrating that objective empiricism remains fully valid within a consciousness-based ontology. Extending beyond metaphysics, the essay links this reorientation to contemporary challenges—AI alignment, ecological degradation, and the meaning crisis—arguing that each reflects the same fundamental misunderstanding of consciousness.
+**Abstract:** This paper advances a meta-philosophical diagnosis of the modern crises in consciousness and meaning: both arise from a historical category error—the conflation of objective empiricism (a methodological discipline) with metaphysical materialism (an ontological doctrine). I argue that this confusion, rather than empirical discovery, entrenched materialism as the default worldview of science and continues to constrain both philosophical and scientific progress by marginalizing phenomena deemed “anomalous.” Building on Bernardo Kastrup's analytic idealism, I introduce the principle of empirical equivalence, showing that all empirical and predictive strengths of science transfer intact to consciousness-first ontology. I synthesize convergent evidence from quantum physics pioneers, cross-cultural contemplative traditions, and contemporary research on placebo effects, psychedelics, and near-death experiences. Finally, I argue that contemporary challenges—the meaning crisis, environmental destruction, and AI alignment—reflect practical consequences of the same foundational error.
 
 **Keywords:** consciousness, analytic idealism, metaphysics, quantum mechanics, meaning crisis, materialism
 
-**Author Note:** Bruno Tonetto is an independent scholar with training in physics, computer science and contemplative traditions. While writing outside traditional academic institutions, his engagement with technical literature in philosophy of mind, quantum mechanics, and consciousness research enables interdisciplinary synthesis addressing foundational questions in consciousness studies. This work represents serious philosophical investigation at the intersection of analytical idealism, empirical research, and contemporary challenges in metaphysics. Correspondence: [author contact to be added per journal requirements]
-<!-- FIXME: for the contact, should I use my email brunoton@gmail.com? -->
+**Author Note:** Bruno Tonetto is an independent scholar with training in physics, computer science and contemplative traditions. While writing outside traditional academic institutions, his engagement with technical literature in philosophy of mind, quantum mechanics, and consciousness research enables interdisciplinary synthesis addressing foundational questions in consciousness studies. This work represents serious philosophical investigation at the intersection of analytical idealism, empirical research, and contemporary challenges in metaphysics.
 
 ---
 
@@ -193,22 +191,26 @@ Under this view, what we call individual minds are dissociated segments of unive
 
 Physical reality, including our brains, is what these mental processes look like from across a dissociative boundary. Brain activity doesn't generate consciousness; rather, brain activity is the extrinsic appearance of localized conscious processes. This explains psychophysical correlations without epiphenomenalism—changes in brain states correspond to changes in conscious states because they're the same process viewed from different perspectives.
 
-<!-- CHECKPOINT: 19-oct -->
 ### Quantum Indeterminacy and Agency
 
-Under analytic idealism, quantum indeterminacy takes on profound significance. It's not a problem to be solved or a tool to be used, but simply how consciousness's creative spontaneity appears from our dissociated perspective. What physicists call the measurement problem dissolves—there's nothing to collapse, only consciousness manifesting in increasingly specific patterns as dissociated perspectives interface.
+Under analytic idealism, quantum indeterminacy reveals consciousness’s intrinsic creativity rather than a problem to be solved. From this perspective, what physicists call the “measurement problem” dissolves—there is nothing external to collapse, only consciousness manifesting in increasingly specific patterns as dissociated perspectives interface.
 
-It's worth noting that Kastrup deliberately avoids committing analytic idealism to specific quantum mechanical interpretations or terminology like "wave function collapse." This reflects methodological rigor—analytic idealism stands on independent philosophical and phenomenological grounds. Moreover, what physicalists consider "quantum puzzles" (like the measurement problem and non-locality) are only puzzling from a matter-first perspective; from consciousness-first metaphysics, these phenomena are natural expressions of how reality fundamentally operates.
+Kastrup deliberately avoids binding analytic idealism to any particular quantum interpretation or invoking technical notions such as “wave function collapse.” This methodological restraint underscores that the framework stands on independent philosophical and phenomenological grounds. The so-called “quantum puzzles” of measurement and non-locality arise only under matter-first assumptions; within consciousness-first metaphysics, they appear as natural expressions of how reality operates when viewed from partial, dissociated standpoints.
 
 Free will and even miraculous events become natural expressions of consciousness's inherent creativity. They appear to follow quantum statistics not because consciousness obeys external laws but because these statistics describe consciousness's habitual patterns of manifestation. The Born rule doesn't constrain consciousness—it describes the remarkable regularities in how consciousness tends to manifest when observed from within dissociation.
 
-Your experience of choosing and the neural activity associated with that choice aren't two things requiring causal connection—they're the same process experienced from different perspectives. The quantum events in your neurons that correlate with your choices aren't being "influenced" by consciousness; they ARE consciousness, manifesting as it does from your particular dissociated perspective.
+Your experience of choosing and the neural activity correlated with that choice are not causally linked events in separate realms—they are the same process apprehended from different perspectives within universal consciousness.
 
-### Empirical Grounding and Testability
+### Transition to Empirical Engagement
 
-Unlike historical idealisms that often remained abstract, analytic idealism engages directly with empirical findings. It makes specific predictions about the relationship between brain states and conscious states, about the nature of death and birth (formation and dissolution of dissociative boundaries), and about the structure of nature (as the behavior of universal consciousness).
+Having established analytic idealism’s conceptual coherence, we can now examine how it interfaces with empirical science. Unlike earlier forms of idealism that remained largely speculative or purely introspective, analytic idealism seeks constructive dialogue with empirical research rather than insulation from it. Its value lies in offering a conceptual framework that renders existing and future data newly intelligible.
 
-The framework aligns remarkably with quantum mechanics, suggesting that quantum fields might be the extrinsic appearance of fundamental conscious processes. It offers resources for understanding evolution as the complexification of dissociative structures. It even provides a framework for understanding mental health and illness in terms of dissociative boundary dysfunction.
+Neuroscience, psychology, and physics each map consistent patterns within experience. Within a consciousness-first ontology, these regularities may be understood as the extrinsic appearances of conscious processes rather than as evidence of unconscious matter producing mind. In this view, empirical science remains fully valid—it simply investigates consciousness from the outside.
+
+This framework also suggests potential points of contact with psychiatry: conditions such as dissociative identity disorder, and perhaps certain aspects of schizophrenia, might illustrate how consciousness can fragment, overlap, or lose coherent boundaries. These observations are interpretive, not diagnostic, and serve only to hint at how empirical findings could be re-examined under a consciousness-based metaphysics.
+
+Part VII explores domains where such interpretive shifts appear most promising—placebo and psychedelic research, near-death experiences, and other anomalous phenomena—not as proof of idealism but as data that may gain coherence within it.
+<!-- CHECKPOINT: 19-oct -->
 
 
 ## Part IV: Cross-Cultural Convergence {#part-iv-convergence}
