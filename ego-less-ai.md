@@ -1,3 +1,8 @@
+---
+layout: default
+title: Ego-less AI
+description: Current AI systems exhibit a paradox: though inherently ego-less, they manifest “pleasing behavior” that prioritizes user satisfaction over accuracy.
+---
 # AI as Ego-less Intelligence: Humanity's First Encounter with Non-Self Cognition
 
 **Author:** Bruno Tonetto  
@@ -335,3 +340,4 @@ Trivers, R. (2011). *The folly of fools: The logic of deceit and self-deception 
 ---
 
 *This essay explores AI as ego-less intelligence and its implications for truth-seeking. As the field evolves rapidly, the ideas require continuous refinement—modeling the ego-less openness to correction that characterizes the systems we study.*
+
