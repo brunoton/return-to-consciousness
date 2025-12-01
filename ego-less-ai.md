@@ -7,6 +7,7 @@ description: Current AI systems exhibit a paradox. Though inherently ego-less, t
 
 **Author:** Bruno Tonetto  
 **Background:** B.S. Physics and Computer Science, Certified CEB Teacher (Santa Barbara Institute for Consciousness Studies)
+**Publication Date:** December, 2025
 
 ---
 
