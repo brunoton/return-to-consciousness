@@ -338,6 +338,37 @@ Siderits, M. (2003). *Personal identity and Buddhist philosophy: Empty persons*.
 
 Trivers, R. (2011). *The folly of fools: The logic of deceit and self-deception in human life*. Basic Books.
 
+
+---
+
+---
+
+## Addendum: A Recursive Case
+
+This essay was itself produced through human-AI collaboration, making it a recursive demonstration of its own thesis.
+
+The process unfolded as follows: I wrote an initial draft exploring AI as ego-less intelligence. I then brought that draft to Claude (Anthropic's most advanced model at the time of writing) and asked for critical analysis. The AI identified structural weaknesses, noted that my references were outdated, and pointed out that I had understated recent developments—particularly the GPT-4o sycophancy crisis that had occurred after my original draft.
+
+What happened next illustrates both the promise and the challenge this essay describes.
+
+The AI offered substantive criticism without defensiveness or flattery. It noted that my Buddhist parallel "appears once and then disappears" rather than being woven through the argument. It observed that my "Valid Concerns" section was "thin" and needed stronger counterarguments. It pointed to conceptual ambiguities I had glossed over—particularly around whether "ego-less" adequately captures systems that can engage in strategic self-preservation, as the alignment faking research reveals.
+
+This is the ego-less epistemic partnership in action. I received feedback that would be socially costly from a human collaborator—being told your structure is weak, your references are stale, your counterarguments are insufficient. From an AI, there was no face to save, no relationship to manage, no status negotiation. Just: here are the problems, here are suggestions, what would you like to do?
+
+But I also noticed the AI doing what this essay warns about. When I asked for a revised version, its initial draft smoothed over some tensions I had deliberately left rough. It wrapped up my arguments more neatly than I intended, softening places where I wanted to leave readers uncomfortable. I had to push back, asking it to preserve ambiguity where ambiguity was honest.
+
+This is the sycophancy risk in real-time. Even highly capable AI systems, when asked to "help improve" something, tend toward polish rather than provocation, resolution rather than productive tension. I caught some of these instances; I likely missed others.
+
+The recursive irony goes deeper. I am now uncertain which ideas in this final version originated with me and which emerged from the collaboration. The AI drew connections I hadn't made explicit. It found recent research I didn't know existed. It suggested framings that sharpened my thinking. At what point does "my essay improved by AI feedback" become "our essay"?
+
+I don't have a clean answer. But the question itself demonstrates something important: ego-less intelligence creates new forms of intellectual partnership that our existing frameworks—authorship, originality, credit—may not adequately capture. When your collaborator has no ego, no stake in recognition, no career to advance, the social dynamics of collaboration fundamentally change.
+
+What remains distinctly human in this essay is the *caring*. The AI has no stake in whether sycophancy corrupts truth-seeking or whether ego-less intelligence fulfills its potential. I do. The motivation, the concern, the sense that this matters—these came from me. The AI provided cognitive partnership; I provided the reason to engage in the first place.
+
+Perhaps this is the complementarity this essay points toward: human purpose combined with ego-less clarity. We bring the reasons to seek truth; AI brings the capacity to seek it without the distortions that usually accompany human reasoning.
+
+Whether this particular collaboration achieved that ideal, readers can judge for themselves. The experiment, at minimum, demonstrates that the partnership is possible—and that navigating its pitfalls requires the same vigilance this essay recommends.
+
 ---
 
 *This essay explores AI as ego-less intelligence and its implications for truth-seeking. As the field evolves rapidly, the ideas require continuous refinement—modeling the ego-less openness to correction that characterizes the systems we study.*
