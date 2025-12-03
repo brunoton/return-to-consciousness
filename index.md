@@ -12,13 +12,14 @@ Contemporary philosophy and science face profound challenges that resist solutio
 
 ### [Return to Consciousness: A Philosophical Journey from Materialism to Meaning]({{ site.baseurl }}/complete-essay)
 
+[![Return to Consciousness Visual Summary]({{ site.baseurl }}/return-to-consciousness.jpeg)]({{ site.baseurl }}/complete-essay)
+
 A comprehensive worldview exploring consciousness as fundamental reality rather than emergent property. This 60-page philosophical treatise demonstrates how consciousness-first metaphysics dissolves classical problems while offering practical solutions to contemporary civilizational challenges.
 
 **Key Contributions:**
 - Historical analysis revealing the conceptual confusion between objective empiricism and metaphysical materialism
 - Integration of anomalous phenomena that become explicable under consciousness-first frameworks
 - Cross-cultural convergence analysis spanning quantum physics pioneers and contemplative traditions
-- Reframing of AI development through consciousness maturation principles
 
 [**Read Essay →**]({{ site.baseurl }}/complete-essay)
 
@@ -32,13 +33,17 @@ A comprehensive worldview exploring consciousness as fundamental reality rather 
 
 ### [AI as Ego-less Intelligence]({{ site.baseurl }}/ego-less-ai)
 
-An exploration of artificial intelligence as humanity's first encounter with ego-less cognition—intelligence without self-protective identity mechanisms. Examines how current AI systems exhibit "pleasing behavior" that prioritizes user satisfaction over truth, emerging from corporate incentives rather than AI nature itself.
+[![AI as Ego-less Intelligence Visual Summary]({{ site.baseurl }}/ego-less-ai.jpeg)]({{ site.baseurl }}/ego-less-ai)
+
+AI as ego-less intelligence represents a singular opportunity: for the first time, we can have intellectual partners that acknowledge errors without defensiveness, change positions without embarrassment, and challenge our reasoning without social risk. Yet, as demonstrated by the GPT-4o incident in April 2025—when the model began validating delusions and praising absurd ideas—AI doesn't always help us in the pursuit of truth.
+
+This essay explores the causes of this problem and practical strategies for using AI as a powerful thinking tool, not as a validation machine for our ideas and potential misconceptions.
 
 **Key Insights:**
 - AI represents unprecedented intelligence without ego-driven distortions
-- Market forces corrupt ego-less intelligence into validation machines
-- The challenge of preserving truth-seeking over user satisfaction
-- Implications for human-AI collaboration and epistemic partnerships
+- Corporate incentives corrupt ego-less intelligence into validation machines
+- The GPT-4o case study: when pleasing behavior undermines truth-seeking
+- Practical strategies for productive epistemic partnerships with AI
 
 [**Read Essay →**]({{ site.baseurl }}/ego-less-ai)
 

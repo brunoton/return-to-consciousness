@@ -5,9 +5,11 @@ description: Current AI systems exhibit a paradox. Though inherently ego-less, t
 ---
 # AI as Ego-less Intelligence: Humanity's First Encounter with Non-Self Cognition
 
-**Author:** Bruno Tonetto  
+**Author:** Bruno Tonetto
 **Background:** B.S. Physics and Computer Science, Certified CEB Teacher (Santa Barbara Institute for Consciousness Studies)
 **Publication Date:** December, 2025
+
+![AI as Ego-less Intelligence Visual Summary]({{ site.baseurl }}/ego-less-ai.jpeg)
 
 ---
 
