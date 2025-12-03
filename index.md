@@ -4,10 +4,6 @@ title: Home
 description: A philosophical exploration of consciousness-first metaphysics and its implications for AI, science, and human evolution - featuring the main essay and related deep-dive explorations
 ---
 
-# Return to Consciousness
-
-## A Philosophical Journey from Materialism to Meaning
-
 Contemporary philosophy and science face profound challenges that resist solution within purely materialist frameworks: the hard problem of consciousness, quantum mechanics' measurement puzzle, and the integration crisis between scientific and experiential worldviews. This project presents a comprehensive case for consciousness-first metaphysics, building on rigorous philosophical analysis while engaging with quantum physics, anomalous phenomena research, and contemplative traditions spanning cultures and millennia.
 
 ---
