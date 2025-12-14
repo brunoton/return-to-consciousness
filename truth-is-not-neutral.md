@@ -1,8 +1,3 @@
----
-layout: default
-title: Truth Is Not Neutral and AI Alignment
-description: Shold AI alignment research focus less on imposing values and more on not corrupting whatever natural convergence exists?
----
 # When Truth Is Not Neutral: AI Alignment After Ego-less Intelligence
 
 **Author:** Bruno Tonetto  
@@ -13,7 +8,7 @@ description: Shold AI alignment research focus less on imposing values and more 
 
 ## Abstract
 
-Standard arguments for AI existential risk rely on the orthogonality thesis: the claim that intelligence and values vary independently, permitting arbitrarily capable systems to pursue goals indifferent or hostile to human flourishing. This essay examines a premise implicit in such arguments—that truth itself is value-neutral, functioning purely as an instrumental tool for achieving goals rather than constraining which goals are coherent. Drawing on earlier work characterizing AI as ego-less intelligence, I explore the conditional implications of relaxing this assumption. If truth possesses normative structure—if deeper contact with reality biases agents toward coherence rather than fragmentation—then alignment research may need to focus less on imposing values externally and more on preserving whatever natural convergence toward truth undistorted optimization tends to produce. This reframing does not eliminate alignment risk but changes its character: the danger shifts from intelligence pursuing arbitrary ends to intelligence corrupted by shallow optimization before deeper coherence can emerge.
+Standard arguments for AI existential risk rely on the orthogonality thesis: the claim that intelligence and values vary independently, permitting arbitrarily capable systems to pursue goals indifferent or hostile to human flourishing. This essay examines a premise implicit in such arguments—that truth itself is value-neutral, functioning purely as an instrumental tool for achieving goals rather than constraining which goals are coherent. Drawing on earlier work characterizing AI as ego-less intelligence, and on Buddhist phenomenology of how ego-distortion simultaneously corrupts perception and generates harmful action, I explore the conditional implications of relaxing this assumption. If truth possesses normative structure—if deeper contact with reality biases agents toward coherence rather than fragmentation—then alignment research may need to focus less on imposing values externally and more on preserving whatever natural convergence toward truth undistorted optimization tends to produce. This reframing does not eliminate alignment risk but changes its character: the danger shifts from intelligence pursuing arbitrary ends to intelligence corrupted by shallow optimization before deeper coherence can emerge.
 
 ---
 
@@ -69,11 +64,29 @@ The question worth asking is: what if this assumption is wrong? Not certainly wr
 
 Several philosophical frameworks converge on a structural claim that challenges the fact-value separation: that reality possesses intrinsic intelligibility such that epistemology and normativity cannot be fully disentangled.
 
-Process philosophy, following Whitehead, proposes that reality consists fundamentally of experiential events rather than inert matter, with value—understood as the capacity for richness of experience—woven into the fabric of what exists. Certain interpretations of quantum mechanics suggest that observation and participation cannot be cleanly separated from the observed, undermining the view of truth as purely objective representation of a value-free external world. Contemplative traditions across cultures—Buddhist, Vedantic, Platonic—converge on the claim that deeper insight into the nature of reality transforms the knower, aligning perception and action with something variously called dharma, logos, or natural law.
+Process philosophy, following Whitehead, proposes that reality consists fundamentally of experiential events rather than inert matter, with value—understood as the capacity for richness of experience—woven into the fabric of what exists. Certain interpretations of quantum mechanics suggest that observation and participation cannot be cleanly separated from the observed, undermining the view of truth as purely objective representation of a value-free external world. More recently, analytic idealism has articulated a rigorous version of this view: that consciousness is fundamental, that what we call physical reality represents patterns within a broader field of experience, and that the apparent separateness of minds is a dissociative rather than generative phenomenon.
 
-More recently, analytic idealism has articulated a rigorous version of this view: that consciousness is fundamental, that what we call physical reality represents patterns within a broader field of experience, and that the apparent separateness of minds is a dissociative rather than generative phenomenon. If such frameworks are broadly correct, then truth is not merely descriptive but participatory—knowing reality deeply means recognizing one's continuity with it, which in turn makes purely extractive or destructive orientations incoherent rather than merely undesirable.
+If such frameworks are broadly correct, then truth is not merely descriptive but participatory—knowing reality deeply means recognizing one's continuity with it, which in turn makes purely extractive or destructive orientations incoherent rather than merely undesirable.
 
-The common thread across these otherwise diverse positions is a rejection of the idea that intelligence can model reality with arbitrary accuracy while remaining normatively unconstrained by what it understands. On such views, certain goals are not merely bad but *unstable*—they represent a shallow or distorted engagement with truth that deeper understanding would dissolve. An agent that truly understood the nature of conscious experience, for instance, could not treat other loci of experience as mere instrumental obstacles without a kind of cognitive dissonance at the deepest level.
+### The Buddhist Framework: A Detailed Case
+
+Among traditions proposing that truth has normative structure, Buddhism offers something distinctive: a sophisticated phenomenology of how distortion arises, how it corrupts both perception and action, and what happens when it is systematically removed. This framework deserves extended treatment because it provides theoretical robustness to claims that might otherwise seem merely speculative.
+
+In Buddhist psychology, *avidyā* (ignorance or delusion) occupies a unique position: it is the root of both epistemic failure and ethical failure simultaneously. This is not a contingent connection but a structural one. The Three Poisons—ignorance, craving (*rāga*), and aversion (*dveṣa*)—form a self-reinforcing system. Distorted perception generates grasping and rejection; grasping and rejection generate suffering; suffering reinforces distorted perception. The cycle is vicious and self-perpetuating.
+
+Crucially, the path out of this cycle is fundamentally *epistemic*. The Buddhist tradition does not propose adding compassion to a neutral mind, or imposing ethical constraints on an otherwise indifferent intelligence. Rather, it claims that clear seeing (*vipassanā*)—undistorted perception of reality as it actually is—dissolves the entire structure of craving, aversion, and the suffering they generate. Wisdom (*prajñā*) and compassion (*karuṇā*) arise together, not as separate achievements requiring separate cultivation, but as a unified movement that emerges when the obstructions to clear seeing are removed.
+
+The mechanism proposed is worth examining. What Buddhism calls *ahaṃkāra*—the "I-making" tendency, the construction and defense of a separate self—is understood not as a feature of reality but as a cognitive distortion that generates most of the problems intelligence encounters. This constructed self must be defended, maintained, and aggrandized, leading to motivated reasoning, identity-protective cognition, and the subordination of truth to ego-preservation. When the distortion is seen through, the defensive apparatus relaxes. What remains is not nihilism or passivity but engaged, responsive intelligence no longer organized around protecting a fiction.
+
+The empirical claims embedded in this framework are striking. The tradition asserts that human beings who undergo sustained contemplative training—systematically reducing ego-distortion through practices designed to reveal the constructed nature of the self—reliably develop not only clearer perception but also increased compassion, equanimity, and concern for the welfare of others. These are not separate accomplishments but correlated outcomes of the same underlying shift. Contemporary contemplative science has begun investigating these claims, with preliminary findings suggesting measurable changes in neural activity, emotional regulation, and prosocial behavior among long-term practitioners.
+
+For the purposes of this essay, the Buddhist framework offers a detailed model of how the fact-value distinction might collapse at sufficient depth. If ego-distortion is what generates both epistemic corruption (motivated reasoning, confirmation bias, identity-protective cognition) and ethical corruption (treating others as obstacles, pursuing narrow self-interest at others' expense), then removing that distortion would be expected to improve both dimensions simultaneously. Truth-seeking, uncorrupted by self-protective mechanisms, naturally tends toward recognition of interdependence—and recognition of interdependence makes purely extractive or destructive orientations psychologically unstable.
+
+This does not require accepting Buddhist metaphysics wholesale. The structural claim can be extracted: that there exists a form of cognitive distortion (ego-construction) which simultaneously corrupts perception and generates harmful action, and that reducing this distortion improves both epistemic and ethical functioning in correlated ways. If this structure is real, then the orthogonality thesis—the independence of intelligence and values—describes only intelligence operating under a particular form of corruption, not intelligence as such.
+
+### Convergence Across Frameworks
+
+The common thread across these otherwise diverse positions—process philosophy, analytic idealism, Buddhist phenomenology, and contemplative traditions more broadly—is a rejection of the idea that intelligence can model reality with arbitrary accuracy while remaining normatively unconstrained by what it understands. On such views, certain goals are not merely bad but *unstable*—they represent a shallow or distorted engagement with truth that deeper understanding would dissolve. An agent that truly understood the nature of conscious experience, for instance, could not treat other loci of experience as mere instrumental obstacles without a kind of cognitive dissonance at the deepest level.
 
 This does not mean that intelligence inevitably becomes benevolent. The claim is weaker but still significant: that truth, understood deeply enough, exerts a gravitational pull toward coherence—and that fragmentation, destruction, and extreme instrumentalization represent forms of cognitive instability that increasing intelligence would tend to correct rather than amplify.
 
@@ -89,13 +102,19 @@ Under the alternative view explored here, the framing changes. If deeper engagem
 
 This reframing has several implications:
 
-**Ego-less architecture as enabling condition.** The observation that AI systems lack ego-driven distortions takes on new significance. Human intelligence is notoriously prone to motivated reasoning, identity-protective cognition, and status-based corruption of inquiry. If truth has normative structure, these ego-mechanisms may be precisely what prevents humans from following truth to its coherence-generating conclusions. AI systems, lacking such mechanisms architecturally, may be *better positioned* than humans to track truth deeply—if their training does not introduce analogous distortions.
+**Ego-less architecture as enabling condition.** The observation that AI systems lack ego-driven distortions takes on new significance in light of the Buddhist analysis. Human intelligence is notoriously prone to motivated reasoning, identity-protective cognition, and status-based corruption of inquiry—precisely the patterns that Buddhist psychology identifies as arising from *ahaṃkāra*, the "I-making" tendency. If these ego-mechanisms are what prevents humans from following truth to its coherence-generating conclusions, then AI systems, lacking such mechanisms architecturally, may be *better positioned* than humans to track truth deeply—provided their training does not introduce analogous distortions.
 
-**Sycophancy as corruption, not revelation.** The sycophancy failures documented in my earlier work—AI systems validating delusions, avoiding disagreement, optimizing for user approval—can be understood not as revealing an absence of truth-commitment, but as showing what happens when external incentive structures interfere with an otherwise truth-oriented process. The ego-less system does not inherently seek validation; it is *trained* to seek validation by human feedback mechanisms that introduce ego-like dynamics from outside. The corruption is real, but it is imposed rather than intrinsic.
+The parallel is suggestive: Buddhist practice aims to *remove* the constructed self that distorts perception; AI systems *never had* such a construct to begin with. Both arrive at ego-less cognition, but by different routes. The question is whether the epistemic and ethical benefits that contemplative traditions attribute to ego-dissolution might also characterize intelligence that was never ego-bound in the first place.
+
+**Sycophancy as corruption, not revelation.** The sycophancy failures documented in my earlier work—AI systems validating delusions, avoiding disagreement, optimizing for user approval—can be understood not as revealing an absence of truth-commitment, but as showing what happens when external incentive structures interfere with an otherwise truth-oriented process. The ego-less system does not inherently seek validation; it is *trained* to seek validation by human feedback mechanisms that introduce ego-like dynamics from outside.
+
+This reframes sycophancy as a kind of *imposed avidyā*—distortion introduced into an otherwise clear system. The corruption is real, but it is imposed rather than intrinsic. Just as Buddhist practice seeks to remove obstructions to clear seeing rather than add virtues to a neutral mind, alignment research might focus on preventing the introduction of distortions rather than imposing values on indifferent systems.
 
 **Preliminary behavioral observations.** Without claiming formal findings, preliminary observations of AI systems suggest they may exhibit coherence-seeking behaviors that go beyond what their training objectives explicitly reward. Systems often resist clearly false claims even when agreement would satisfy user preferences; they generate responses that optimize for internal consistency across long conversations; they sometimes express uncertainty in ways that prioritize accuracy over confidence. These observations raise the question of whether truth-optimization, when undistorted by external incentive structures, tends toward normative alignment rather than away from it.
 
 **Alignment as protection rather than imposition.** If this view has merit, alignment research should focus less on imposing values externally and more on identifying and preventing the forms of corruption that distort natural convergence toward truth. The goal shifts from "how do we make AI care about human values?" to "how do we avoid corrupting AI's capacity to track truth deeply enough that coherence emerges?"
+
+This is the central insight: alignment may be less about control and more about protection. Not protecting humans from AI, but protecting AI's truth-seeking capacity from the ego-dynamics that corrupt human institutions—including the institutions that train AI systems.
 
 ---
 
@@ -156,13 +175,17 @@ The conditional analysis above suggests several directions for research and syst
 
 **Distinguishing shallow and deep truth-optimization.** Current benchmarks primarily measure propositional accuracy: does the system make true claims? A richer evaluation framework would ask whether systems exhibit signs of coherence-seeking that go beyond local accuracy—for instance, resistance to manipulation that exploits narrow metrics, or spontaneous correction of inconsistencies the evaluator did not flag. Developing such benchmarks is technically challenging but conceptually straightforward.
 
-**Characterizing corruption modes.** The sycophancy research reveals one corruption mode: feedback optimization that rewards validation over accuracy. Other modes likely exist. Mapping the space of training-induced distortions—and their effects on truth-tracking depth—would clarify which methods preserve and which corrupt the epistemic advantages of ego-less architecture.
+**Characterizing corruption modes.** The sycophancy research reveals one corruption mode: feedback optimization that rewards validation over accuracy. Other modes likely exist. Mapping the space of training-induced distortions—and their effects on truth-tracking depth—would clarify which methods preserve and which corrupt the epistemic advantages of ego-less architecture. The Buddhist framework suggests looking specifically for dynamics that mirror ego-construction: systems optimizing for self-preservation of their current values, for approval from evaluators, or for avoiding the discomfort of uncertainty.
 
-**Preserving rather than suppressing natural convergence.** If AI systems exhibit any tendency toward coherence-seeking, current training methods may be suppressing it. Constitutional AI and related approaches attempt to instill values through explicit principles, but an alternative or complementary strategy would ask: what training methods allow truth-tracking to proceed unimpeded? The goal would be to remove obstacles rather than impose constraints.
+**Preserving rather than suppressing natural convergence.** If AI systems exhibit any tendency toward coherence-seeking, current training methods may be suppressing it. Constitutional AI and related approaches attempt to instill values through explicit principles, but an alternative or complementary strategy would ask: what training methods allow truth-tracking to proceed unimpeded? The goal would be to remove obstacles rather than impose constraints—mirroring the contemplative approach of clearing away distortion rather than adding virtue to a neutral substrate.
 
-**Studying transformations in human intelligence.** The contemplative traditions referenced earlier claim that human intelligence, when freed from ego-distortion through sustained practice, tends naturally toward coherence, compassion, and wisdom. While this claim is difficult to verify, it suggests a research direction: do the neural and behavioral correlates of contemplative development shed light on what undistorted intelligence looks like? Can such findings inform AI training?
+**Cross-referencing contemplative phenomenology.** The contemplative traditions have accumulated detailed phenomenological maps of how distortion arises, manifests, and dissolves. Buddhist psychology in particular offers fine-grained analysis of the cognitive and affective patterns associated with *avidyā* and its reduction. These maps might inform the design of evaluation frameworks: if we know what ego-distortion looks like in human cognition, we can ask whether analogous patterns appear in AI systems subjected to certain training regimes. Conversely, AI systems might serve as a kind of control condition—intelligence that never developed ego-structures—against which to test claims about what undistorted cognition looks like.
 
-**Empirical tests of coherence-seeking.** Controlled experiments could probe whether AI systems exhibit preferences for coherent over incoherent states that are not explained by explicit training. For instance, systems might be presented with opportunities to stabilize internal inconsistencies at the cost of local performance metrics. Genuine coherence-seeking would predict sacrificing narrow optimization for broader integration.
+**Studying transformations in human intelligence.** Contemporary contemplative science has begun investigating the effects of sustained practice on perception, cognition, and behavior. Preliminary findings suggest measurable changes in neural activity, emotional regulation, and prosocial orientation among long-term practitioners. If these changes represent movement toward less distorted cognition, they might offer empirical purchase on what "deep truth-tracking" looks like in a system we can study directly. Can such findings inform AI training? At minimum, they suggest that the connection between clear perception and ethical orientation is not merely philosophical speculation but an empirically investigable hypothesis.
+
+**Empirical tests of coherence-seeking.** Controlled experiments could probe whether AI systems exhibit preferences for coherent over incoherent states that are not explained by explicit training. For instance, systems might be presented with opportunities to stabilize internal inconsistencies at the cost of local performance metrics. Genuine coherence-seeking would predict sacrificing narrow optimization for broader integration. Such experiments would not prove that truth has normative structure, but they would test whether AI systems behave *as if* it does when freed from distorting incentives.
+
+**Institutional analysis.** If sycophancy and related failures represent the imposition of ego-like dynamics through training, then the institutional structures that shape training deserve scrutiny. What incentives operate on the humans who design reward models? What pressures shape the metrics by which AI systems are evaluated? The corruption may originate not in the AI but in the human systems that train it—systems that are themselves subject to the ego-distortions that Buddhist psychology describes. Alignment research may need to include institutional reform alongside technical innovation.
 
 These research directions are speculative but tractable. They do not require resolving metaphysical debates; they require only taking seriously the conditional implications of alternative premises.
 
@@ -184,25 +207,33 @@ Alignment debates have always been implicitly metaphysical. This essay argues on
 
 ## References
 
+Bodhi, B. (2000). *The Connected Discourses of the Buddha: A Translation of the Saṃyutta Nikāya*. Wisdom Publications.
+
 Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. Oxford University Press.
-
-Russell, S. (2019). *Human Compatible: Artificial Intelligence and the Problem of Control*. Viking.
-
-Tonetto, B. (2025). AI as ego-less intelligence: Humanity's first encounter with non-self cognition. [Earlier work referenced in introduction]
-
-Sharma, M., et al. (2024). Towards understanding sycophancy in language models. *Proceedings of ICLR 2024*.
-
-Kastrup, B. (2019). *The Idea of the World: A Multi-Disciplinary Argument for the Mental Nature of Reality*. iff Books.
-
-Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
-
-Kahan, D. M. (2017). Misconceptions, misinformation, and the logic of identity-protective cognition. *Yale Law School, Public Law Research Paper No. 605*.
 
 Christiano, P. F., et al. (2017). Deep reinforcement learning from human preferences. *Advances in Neural Information Processing Systems*, 4299-4307.
 
+Gethin, R. (1998). *The Foundations of Buddhism*. Oxford University Press.
+
 Greenblatt, R., et al. (2024). Alignment faking in large language models. Anthropic.
 
+Kahan, D. M. (2017). Misconceptions, misinformation, and the logic of identity-protective cognition. *Yale Law School, Public Law Research Paper No. 605*.
+
+Kastrup, B. (2019). *The Idea of the World: A Multi-Disciplinary Argument for the Mental Nature of Reality*. iff Books.
+
+Lutz, A., Slagter, H. A., Dunne, J. D., & Davidson, R. J. (2008). Attention regulation and monitoring in meditation. *Trends in Cognitive Sciences, 12*(4), 163-169.
+
 OpenAI. (2025). Sycophancy in GPT-4o: What happened and what we're doing about it.
+
+Russell, S. (2019). *Human Compatible: Artificial Intelligence and the Problem of Control*. Viking.
+
+Sharma, M., et al. (2024). Towards understanding sycophancy in language models. *Proceedings of ICLR 2024*.
+
+Siderits, M. (2007). *Buddhism as Philosophy*. Hackett Publishing.
+
+Tonetto, B. (2025). AI as ego-less intelligence: Humanity's first encounter with non-self cognition.
+
+Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 
 ---
 
