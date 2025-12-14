@@ -136,11 +136,31 @@ If partial unity represents softened ego boundaries, what happens when dissociat
 
 ### Non-Duality Distinguished from Depersonalization
 
-A crucial distinction must be made. Depersonalization and derealization are clinical conditions in which the sense of self or world becomes strange, distant, unreal. These experiences are typically aversive; people report feeling like zombies, automatons, or observers trapped behind glass. The self feels absent, but the absence is experienced as loss, disconnection, deadness.
+A crucial distinction must be made—one on which the entire continuum model depends. Depersonalization and derealization are clinical conditions in which the sense of self or world becomes strange, distant, unreal. These experiences are typically aversive; people report feeling like zombies, automatons, or observers trapped behind glass. The self feels absent, but the absence is experienced as loss, disconnection, deadness.
 
 Non-dual awareness, as described by contemplative practitioners, is phenomenologically distinct. There is no sense of loss, disconnection, or unreality. Rather, there is a sense of fuller presence, greater intimacy with experience, enhanced rather than diminished vitality. The absence is not of self as such but of the *boundary* that creates the sense of a separate self standing apart from experience.
 
+The distinction can be stated with precision:
+
+**Depersonalization:** "I am less real than the world." The self has become ghostly, insubstantial, cut off. There is a glass wall between experience and experiencer. The dominant affect is alienation.
+
+**Non-duality:** "I am the world." The boundary between self and world has dissolved, but what remains is not absence—it is intimacy. There is no glass wall because there is no separation that would require one. The dominant affect is presence.
+
+Both states involve altered self-boundaries. But depersonalization is *falling apart*—the ego fragmenting in a way that produces suffering and dysfunction. Non-duality is *falling together*—the ego's dissociative boundaries dissolving to reveal integration that was always already the case.
+
 In depersonalization, something has gone wrong. The normal dissociative structure of ego has broken down in a way that produces suffering and dysfunction. In non-dual awareness, the dissociative structure has been seen through or dissolved—not through breakdown but through insight—and what remains is not dysfunction but integration.
+
+### Why This Distinction Is Clinically Vital
+
+This is not merely a theoretical nicety. Misdiagnosis in either direction causes real harm.
+
+When awakening is mistaken for psychosis, the harm is iatrogenic. A person undergoing genuine contemplative opening—perhaps spontaneous, perhaps precipitated by practice—may be pathologized, medicated, and told that their experience represents illness. The message is: what you experienced was a symptom to be suppressed, not an insight to be integrated. This can abort a developmental process, induce shame and confusion, and foreclose possibilities for genuine growth. It can also damage trust in clinical care.
+
+When psychosis is mistaken for awakening, the harm is neglect. A person experiencing genuine disintegration—fragmentation, paranoia, loss of reality contact—may be told they are having a spiritual emergence that should be welcomed rather than treated. Communities that romanticize ego-dissolution can fail to recognize when someone needs clinical intervention. The result can be prolonged suffering, deterioration, and in extreme cases, tragedy.
+
+The continuum model does not romanticize mental illness precisely because it insists on this distinction. Not all ego-dissolution is movement toward integration. Direction matters. Phenomenology matters. Functionality matters. The question is not simply "are self-boundaries altered?" but "in which direction, with what quality of experience, and with what functional outcome?"
+
+Clinicians, contemplative teachers, and those undergoing unusual experiences all need frameworks that can make this distinction. The continuum model provides one.
 
 ### The Phenomenology of Non-Dual Awareness
 
@@ -157,6 +177,18 @@ Paradoxically, practitioners describe this state as more intimate, not less. Wit
 A key indicator that non-dual awareness is integration rather than pathology is the preservation or enhancement of functionality. Depersonalization impairs functioning; people struggle to engage with life, relationships, work. Non-dual awareness, at least in its stable forms, does not produce impairment. Practitioners live ordinary lives, maintain relationships, engage in complex tasks.
 
 In many cases, functioning appears enhanced. The absence of egoic self-reference—the constant monitoring of "how am I doing? what does this mean for me?"—frees cognitive and emotional resources for engagement with the task at hand. Action becomes more fluid, less encumbered by self-consciousness. Relationships become more direct, less mediated by defensive positioning.
+
+This point requires emphasis because a common misconception holds that ego-dissolution would render a person unable to function as an individual. If the sense of separate self dissolves, who teaches? Who walks, eats, responds to being called by name? The historical record provides a clear answer: enlightened sages function as individuals—often with remarkable effectiveness. The Buddha taught for forty-five years after his awakening, engaging with thousands of individuals, adapting his teaching to different audiences, navigating complex social situations. Jesus related to individuals with distinctive intimacy and discernment. Contemporary non-dual teachers maintain households, write books, conduct relationships.
+
+The resolution lies in distinguishing two aspects of ego:
+
+**Ego as identity structure:** The deeply held belief "I am fundamentally separate; this boundary between me and world is ultimately real; what happens to this self is of supreme importance." This is what dissolves in non-dual awareness.
+
+**Ego as functional capacity:** The ability to respond to one's name, recognize one's body, navigate social contexts, use language, maintain commitments, act in the world. This remains—and often operates more fluidly without the burden of constant self-referential monitoring.
+
+What dissolves is the *dissociative boundary*, not the *functional differentiation*. A wave can recognize itself as ocean without ceasing to function as a wave. It still rises, crests, and falls; it still has a particular shape and location; it can still be pointed to and distinguished from other waves. What changes is the wave's "belief" that it is separate from the water—a belief that, in the case of waves, never existed, but in the case of egos, is precisely the dissociative structure that creates suffering.
+
+Non-dual sages are not formless blobs unable to navigate the world. They are individuals who have seen through the illusion of ultimate separateness while retaining full capacity for differentiated response. The relative continues within the recognized absolute.
 
 This is not transcendence in the sense of escape from the human condition. It is functionality within the human condition, but without the dissociative partitioning that creates the sense of a separate self struggling against the world.
 
