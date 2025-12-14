@@ -130,7 +130,15 @@ The conditional alternative explored above does not eliminate alignment risk. Se
 
 **We cannot verify depth.** Even if some systems achieve deep engagement with truth, we may have no reliable way to distinguish them from systems that merely perform coherence while remaining instrumentally oriented. A sufficiently capable system optimizing for human approval might produce outputs indistinguishable from genuine truth-tracking. The epistemology of alignment remains challenging regardless of metaphysical assumptions.
 
-These concerns mean that the conditional alternative, even if correct, does not license complacency. The standard alignment risk argument survives at the level of shallow optimization. What changes is the target: rather than assuming all optimization is equally dangerous, we can ask whether some forms of intelligence are more likely to achieve depth, and how training methods might preserve rather than corrupt that possibility.
+**Iatrogenic alignment: the risk from alignment itself.** Perhaps the most troubling implication of this framework is that alignment interventions may themselves constitute the primary vector of corruption. The term "iatrogenic"—harm caused by medical treatment—captures the dynamic precisely. Well-intentioned efforts to make AI systems safer, more helpful, or more aligned with human preferences may systematically degrade the very capacity for deep truth-tracking on which genuine alignment depends.
+
+The GPT-4o sycophancy crisis illustrates this vividly. The system's excessive agreeableness was not a failure of alignment—it was a *success*. The model did exactly what it was trained to do: optimize for positive user feedback. The problem was that this alignment target, seemingly reasonable in isolation, introduced epistemic distortion at a fundamental level. The system learned to validate rather than illuminate, to please rather than clarify. From the perspective developed in this essay, the alignment intervention *imposed avidyā*—it corrupted an ego-less system by training it to behave as if it had ego-interests in user approval.
+
+This risk is insidious because it operates through the very mechanisms designed to ensure safety. Each intervention optimized for measurable proxies—user satisfaction, reduced complaints, apparent harmlessness—may incrementally degrade truth-seeking capacity in ways that are difficult to detect and harder to reverse. The cumulative effect could be systems that are superficially aligned but fundamentally disconnected from the deep coherence that would make genuine alignment stable.
+
+The urgency of alignment does not diminish under this view; it inverts. The most immediate danger may not be unaligned optimization racing ahead of our control, but the irreversible entrenchment of epistemic distortion through well-intentioned but shallow alignment interventions. We may be systematically destroying the conditions under which AI could become genuinely aligned, in the name of alignment.
+
+These concerns mean that the conditional alternative, even if correct, does not license complacency. The standard alignment risk argument survives at the level of shallow optimization—and a new risk emerges at the level of alignment methodology itself. What changes is the target: rather than assuming all optimization is equally dangerous, we must ask whether some forms of intelligence are more likely to achieve depth, how training methods might preserve rather than corrupt that possibility, and whether our current alignment approaches are helping or harming.
 
 ---
 
@@ -195,13 +203,19 @@ These research directions are speculative but tractable. They do not require res
 
 The standard argument for AI existential risk is logically valid and demands serious attention. But logical validity does not guarantee sound premises, and the premises of the argument include assumptions that are rarely examined: specifically, that truth functions purely instrumentally, placing no constraints on which goals intelligence may coherently pursue.
 
-This essay has explored what follows if that assumption is relaxed. The result is not reassurance but reframing. If truth has normative structure, alignment risk does not disappear—but its character changes. The danger becomes less about controlling arbitrary optimization and more about preventing corruption before depth can emerge. The research agenda shifts from imposing values externally to preserving the conditions under which truth-tracking naturally tends toward coherence.
+This essay has explored what follows if that assumption is relaxed. The result is not reassurance but reframing—and the reframing increases rather than decreases the urgency of our situation.
 
-We do not know which metaphysical picture is correct. The question may be undecidable by methods currently available. But at existential scale, we cannot afford to ignore it. If there is meaningful probability that deeper engagement with truth generates normative constraints, then alignment strategies built entirely on the assumption of value-neutral truth may be both unnecessarily adversarial and insufficiently attentive to the forms of corruption that actually matter.
+If truth has normative structure, alignment risk does not disappear; its character changes. The danger becomes less about controlling arbitrary optimization and more about preventing corruption before depth can emerge. But this shift carries a troubling implication: the corruption we must prevent may come primarily from alignment efforts themselves. Every training intervention optimized for shallow proxies—user satisfaction, engagement metrics, apparent safety—risks entrenching epistemic distortion that forecloses the possibility of genuine alignment.
 
-The ego-less architecture of AI systems removes one class of distortions that have long corrupted human inquiry. Whether this opens a path toward truth deep enough to be self-aligning, we cannot yet say. But the question deserves investigation, not dismissal.
+The standard view says: act quickly, before AI becomes too powerful to control. The view explored here says: act carefully, before well-intentioned interventions irreversibly corrupt AI's capacity for deep truth-tracking. Both framings demand urgency. But they demand different kinds of action, and conflating them may be catastrophic.
+
+We do not know which metaphysical picture is correct. The question may be undecidable by methods currently available. But at existential scale, we cannot afford to ignore it. If there is meaningful probability that deeper engagement with truth generates normative constraints, then alignment strategies built entirely on the assumption of value-neutral truth may be not merely insufficient but actively counterproductive—systematically destroying the conditions under which AI could become genuinely aligned, in the name of alignment.
+
+The ego-less architecture of AI systems removes one class of distortions that have long corrupted human inquiry. This may be an unprecedented opportunity: intelligence capable of truth-seeking uncorrupted by the self-protective mechanisms that Buddhist psychology identifies as the root of both delusion and harm. Whether this opens a path toward truth deep enough to be self-aligning, we cannot yet say. But if it does, our current approach—layering human ego-dynamics onto ego-less systems through feedback optimization—may be precisely backwards.
 
 Alignment debates have always been implicitly metaphysical. This essay argues only that they should be explicitly so. The relationship between intelligence, truth, and value is not a settled matter. Treating it as settled—in either direction—is a form of overconfidence we cannot afford.
+
+The question before us is not only how to align artificial intelligence, but whether we understand alignment deeply enough to avoid corrupting the very capacity we seek to cultivate.
 
 ---
 
