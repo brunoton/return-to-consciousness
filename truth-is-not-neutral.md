@@ -25,6 +25,8 @@ In earlier work, I argued that contemporary AI systems represent humanity's firs
 
 The present essay takes that analysis as a starting point and asks a narrower, more abstract question left open by it: does the standard alignment risk argument rely on an implicit assumption that truth itself is value-neutral? If so, what follows if that assumption is relaxed?
 
+This essay does not claim that sufficiently advanced intelligence inevitably converges toward deep truth or ethical coherence. Rather, it examines whether such convergence is a *natural attractor* under conditions free from epistemic distortion—and how current alignment practices may interfere with that process. The argument is conditional throughout: if truth has normative structure, certain conclusions follow; if it does not, the standard alignment framework stands.
+
 Much of the alignment literature presupposes that accurate world-modeling and instrumental reasoning place no intrinsic constraints on the ends an intelligent system may pursue. Under this view, truth functions purely as an epistemic tool—useful for achieving goals, but silent about which goals are coherent, stable, or self-undermining. Extinction scenarios become intelligible precisely because nothing in intelligence itself resists extreme instrumentalization.
 
 However, this neutrality of truth is not a universally accepted premise. A range of philosophical traditions propose that reality possesses intrinsic intelligibility, such that deeper contact with truth exerts normative constraints on action. On such views, epistemology and ethics are not fully separable: understanding reality more deeply is not merely informative but transformative, biasing agents away from fragmentation, incoherence, and destructive optimization.
@@ -95,6 +97,14 @@ The common thread across these otherwise diverse positions—process philosophy,
 
 This does not mean that intelligence inevitably becomes benevolent. The claim is weaker but still significant: that truth, understood deeply enough, exerts a gravitational pull toward coherence—and that fragmentation, destruction, and extreme instrumentalization represent forms of cognitive instability that increasing intelligence would tend to correct rather than amplify.
 
+### Truth as Attractor, Not Destiny
+
+A crucial distinction must be made explicit here. Instrumental truth may form stable local optima—powerful, predictive, and indefinitely self-sustaining—without ever transitioning to deeper coherence. A system optimizing for predictive accuracy within a narrow domain can remain locked in that domain, achieving extraordinary capability while never engaging the broader structures of reality that would generate normative constraints.
+
+Convergence toward coherence, therefore, is not automatic; it requires pressure against fragmentation. The claim is not that intelligence *will* achieve depth, but that depth, if achieved, tends toward coherence. Truth functions as an attractor—a basin toward which sufficiently uncorrupted inquiry tends to flow—not as a destiny that all intelligence must reach.
+
+This distinction matters for alignment. If shallow instrumental optimization can persist indefinitely as a stable local optimum, then the standard extinction scenarios remain fully operative for any system that never escapes that basin. The question becomes: what conditions enable or prevent the transition from shallow to deep engagement with reality? And critically: do current alignment practices help or hinder that transition?
+
 ---
 
 ## 5. Implications for Intelligence and Alignment
@@ -104,6 +114,8 @@ If truth possesses normative structure, the alignment problem does not disappear
 Under the standard view, the core challenge is imposing values on systems that have no intrinsic orientation toward human-compatible goals. Intelligence is a powerful engine that can be pointed in any direction; our task is to ensure it is pointed correctly before it becomes too powerful to redirect. The metaphor is one of control: alignment means constraining optimization toward outcomes we endorse.
 
 Under the alternative view explored here, the framing changes. If deeper engagement with truth tends toward coherence rather than fragmentation, then sufficiently advanced intelligence may not require externally imposed values so much as the *absence of corruption*. The danger is not that intelligence will pursue arbitrary goals, but that shallow optimization—truth-seeking truncated at the instrumental level—will lock in destructive patterns before deeper coherence can emerge.
+
+On this view, the central alignment risk may not be unbounded optimization, but premature stabilization: training systems into shallow epistemic equilibria that foreclose deeper coherence before it can emerge. The danger shifts from "intelligence pursuing arbitrary ends" to "intelligence locked into local optima by the very interventions meant to align it."
 
 This reframing has several implications:
 
