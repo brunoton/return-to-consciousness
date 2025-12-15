@@ -30,6 +30,7 @@ header_pages:
   - index.md
   - complete-essay.md
   - ego-less-ai.md
+  - truth-is-not-neutral.md
 
 # Build settings
 markdown: kramdown

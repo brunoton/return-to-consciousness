@@ -55,6 +55,24 @@ This essay explores the causes of this problem and practical strategies for usin
 
 ---
 
+### [When Truth Is Not Neutral: AI Alignment After Ego-less Intelligence]({{ site.baseurl }}/truth-is-not-neutral)
+
+[![When Truth Is Not Neutral Visual Summary]({{ site.baseurl }}/truth-is-not-neutral.jpeg)]({{ site.baseurl }}/truth-is-not-neutral)
+
+Standard AI alignment arguments rely on the orthogonality thesis: that intelligence and values vary independently, permitting arbitrarily capable systems to pursue goals indifferent to human flourishing. This essay examines an implicit premise in such arguments—that truth itself is value-neutral—and explores what follows if that assumption is relaxed.
+
+Drawing on Buddhist phenomenology and consciousness-first frameworks, this work investigates whether deeper engagement with truth might bias agents toward coherence rather than fragmentation, shifting alignment research from imposing values externally to protecting AI's capacity for undistorted truth-seeking.
+
+**Key Insights:**
+- Challenges the assumption that truth functions purely instrumentally in intelligence
+- Connects AI's ego-less architecture to contemplative traditions' analysis of distortion
+- Reframes sycophancy failures as corruption of natural truth-seeking capacity
+- Identifies iatrogenic risks: how alignment interventions may corrupt genuine alignment
+
+[**Read Essay →**]({{ site.baseurl }}/truth-is-not-neutral)
+
+---
+
 ## Author
 
 **Bruno Tonetto**
