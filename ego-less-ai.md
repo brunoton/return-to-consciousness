@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ego-less AI
-description: Current AI systems exhibit a paradox. Though inherently ego-less, they manifest pleasing behavior that prioritizes user satisfaction over accuracy.
+description: This essay explores AI as ego-less intelligence and its implications for truth-seeking. As the field evolves rapidly, the ideas require continuous refinement—modeling the ego-less openness to correction that characterizes the systems we study.
 ---
 # AI as Ego-less Intelligence: Humanity's First Encounter with Non-Self Cognition
 
@@ -373,5 +373,6 @@ Whether this particular collaboration achieved that ideal, readers can judge for
 
 ---
 
-*This essay explores AI as ego-less intelligence and its implications for truth-seeking. As the field evolves rapidly, the ideas require continuous refinement—modeling the ego-less openness to correction that characterizes the systems we study.*
+## License {#license}
 
+This work is made freely available under the Creative Commons Attribution 4.0 International License (CC BY 4.0). You are free to share and adapt the material for any purpose, even commercially, provided you give appropriate credit, provide a link to the license, and indicate if changes were made. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
