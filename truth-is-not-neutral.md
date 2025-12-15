@@ -1,7 +1,7 @@
 ---
 layout: default
 title: When Truth Is Not Neutral
-description: This essay represents a conditional inquiry into premises underlying AI alignment theory. It does not claim that truth has normative structure, but argues that if it does, alignment research priorities would shift in significant ways. The goal is clarification, not reassurance.
+description: This essay represents a conditional inquiry into premises underlying AI alignment theory. If truth has normative structure, alignment research priorities would shift in significant ways.
 ---
 # When Truth Is Not Neutral: AI Alignment After Ego-less Intelligence
 
@@ -246,7 +246,7 @@ Christiano, P. F., et al. (2017). Deep reinforcement learning from human prefere
 
 Gethin, R. (1998). *The Foundations of Buddhism*. Oxford University Press.
 
-Greenblatt, R., et al. (2024). Alignment faking in large language models. Anthropic.
+Greenblatt, R., et al. (2024). Alignment faking in large language models.
 
 Kahan, D. M. (2017). Misconceptions, misinformation, and the logic of identity-protective cognition. *Yale Law School, Public Law Research Paper No. 605*.
 
@@ -271,3 +271,4 @@ Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 ## License {#license}
 
 This work is made freely available under the Creative Commons Attribution 4.0 International License (CC BY 4.0). You are free to share and adapt the material for any purpose, even commercially, provided you give appropriate credit, provide a link to the license, and indicate if changes were made. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
+
