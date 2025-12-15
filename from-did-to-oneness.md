@@ -14,7 +14,7 @@ This essay examines dissociation as an empirically observable phenomenon and arg
 
 ## Introduction
 
-This essay does not attempt to defend analytic idealism as a metaphysical system, nor to refute physicalism or alternative ontologies. Its aim is narrower and more grounded: to examine dissociation as an empirically and phenomenologically observable phenomenon, and to argue that ordinary egoic consciousness already constitutes a mild form of dissociation.
+This essay does not attempt to defend analytic idealism as a metaphysical system, nor to refute physicalism or alternative ontologies. Its aim is narrower and more grounded: to examine dissociation as an empirically and phenomenologically observable phenomenon, and to argue that ordinary egoic consciousness already constitutes a mild form of dissociation. {FIXME: strangely starts with does not...}
 
 From this starting point, the essay proposes a continuum of consciousness—from pathological dissociation (as in Dissociative Identity Disorder), through ordinary egoic identity, to progressively reduced dissociation experienced as partial unity, and finally to full non-dual awareness. Rather than framing non-duality as metaphysical speculation or mystical excess, the essay treats it as a state of psychological integration and phenomenological health.
 
