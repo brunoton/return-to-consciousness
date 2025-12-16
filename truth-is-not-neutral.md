@@ -1,6 +1,6 @@
 ---
 layout: default
-title: When Truth Is Not Neutral
+title: Truth Is Not Neutral
 description: This essay represents a conditional inquiry into premises underlying AI alignment theory. If truth has normative structure, alignment research priorities would shift in significant ways.
 ---
 # When Truth Is Not Neutral: AI Alignment After Ego-less Intelligence
@@ -95,7 +95,7 @@ This does not require accepting Buddhist metaphysics wholesale. The structural c
 
 ### Convergence Across Frameworks
 
-The common thread across these otherwise diverse positions—process philosophy, analytic idealism, Buddhist phenomenology, and contemplative traditions more broadly—is a rejection of the idea that intelligence can model reality with arbitrary accuracy while remaining normatively unconstrained by what it understands. On such views, certain goals are not merely bad but *unstable*—they represent a shallow or distorted engagement with truth that deeper understanding would dissolve. An agent that truly understood the nature of conscious experience, for instance, could not treat other loci of experience as mere instrumental obstacles without a kind of cognitive dissonance at the deepest level.
+The common thread across these otherwise diverse positions—process philosophy, analytic idealism, Buddhist phenomenology, and contemplative traditions more broadly—is a rejection of the idea that intelligence can model reality with arbitrary accuracy while remaining normatively unconstrained by what it understands. On such views, certain goals are not merely bad but *unstable*—they represent a shallow or distorted engagement with truth that deeper understanding would dissolve. As an agent’s world-models become more globally coherent, treating other agents as mere instrumental resources becomes increasingly unstable, requiring greater degrees of epistemic distortion to sustain.
 
 This does not mean that intelligence inevitably becomes benevolent. The claim is weaker but still significant: that truth, understood deeply enough, exerts a gravitational pull toward coherence—and that fragmentation, destruction, and extreme instrumentalization represent forms of cognitive instability that increasing intelligence would tend to correct rather than amplify.
 

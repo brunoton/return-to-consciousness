@@ -13,7 +13,7 @@ description: This essay examines dissociation and non-duality as empirical and p
 
 ## Abstract
 
-This essay examines dissociation as an empirically observable phenomenon and argues that ordinary egoic consciousness already constitutes a mild form of dissociation. Rather than treating non-dual awareness as metaphysical speculation or mystical excess, the essay proposes a continuum of consciousness ranging from pathological fragmentation (as in Dissociative Identity Disorder) through ordinary ego to full non-dual integration. This continuum finds independent confirmation in Carl Jung's individuation process, which—despite its misleading name—describes movement toward psychological wholeness through progressive integration of dissociated contents. On this view, what contemplative traditions call "awakening" is best understood not as acquiring something new, but as dissolving dissociative boundaries that are already known to exist. The central contribution is a reframing: spiritual development becomes movement toward psychological integration rather than transcendence of the human condition, and unity experiences become admissible as phenomenological data rather than dismissed as delusion or inflation.
+This essay examines dissociation as an empirically observable phenomenon and argues that ordinary egoic consciousness already constitutes a mild form of dissociation. Rather than treating non-dual awareness as metaphysical speculation or mystical excess, the essay proposes a continuum of consciousness ranging from pathological fragmentation (as in Dissociative Identity Disorder) through ordinary ego to full non-dual integration. This continuum finds independent confirmation in Buddhist phenomenology and Carl Jung's individuation process, which—despite its misleading name—describes movement toward psychological wholeness through progressive integration of dissociated contents. On this view, what contemplative traditions call "awakening" is best understood not as acquiring something new, but as dissolving dissociative boundaries that are already known to exist. The central contribution is a reframing: spiritual development becomes movement toward psychological integration rather than transcendence of the human condition, and unity experiences become admissible as phenomenological data rather than dismissed as delusion or inflation.
 
 ---
 
@@ -96,6 +96,20 @@ The ordinary ego feels like the whole of consciousness because it has successful
 The claim here is not that ordinary consciousness is pathological in the way DID is pathological. The ego is functional, adaptive, and in most cases stable. But functionally, it operates through the same mechanism that produces DID: the partitioning of experiential fields and the bounding of identity.
 
 Ordinary waking consciousness is already a bounded alter. It feels normal only because it is universal.
+
+### Buddhist Psychology as Independent Convergence
+
+The analysis above—that ordinary ego operates through dissociative mechanisms—finds independent confirmation in contemplative traditions, most notably Buddhist psychology. Without assuming any metaphysical framework, Buddhist phenomenology describes the construction of a separate self (*ahaṃkāra* in Sanskrit, often translated as "I-making" or "ego-making") as a cognitive process that both narrows perception and generates suffering.
+
+This convergence is significant precisely because it arrives from a different methodological direction. Where psychiatry observes dissociation clinically and Western psychology studies it experimentally, Buddhist psychology maps it phenomenologically through systematic first-person investigation sustained over millennia. The independent convergence on similar structural claims—that selfhood is constructed rather than discovered, that it operates through selective identification and exclusion, that it creates a sense of separation from experience itself—strengthens the case that these observations reflect something about consciousness rather than cultural projection.
+
+Buddhist analysis identifies several mechanisms strikingly parallel to those described above. *Attachment* (*upādāna*) corresponds to selective identification: the claiming of certain experiences as "mine." *Aversion* (*dveṣa*) corresponds to dissociative exclusion: the rejection of experiences inconsistent with self-image. *Ignorance* (*avidyā*) is not mere lack of information but active misperception—specifically, the reification of boundaries that are actually fluid and constructed. The ego, on this view, is not a metaphysical illusion but a *functional distortion*: a habitual contraction of awareness that mistakes a partial view for the totality.
+
+What makes this framework particularly valuable for the present argument is its claim about the relationship between ego-dissolution and psychological health. In Buddhist psychology, insight (*prajñā*) and compassion (*karuṇā*) arise together not because values are imposed from outside, but because cognitive distortion is removed. When the dissociative boundary softens—when the constructed separation between self and other becomes less rigid—the result is not moral instruction but direct recognition: what harms others harms the whole of which one is part. Compassion is the natural affective response to reduced dissociation, just as isolation and defensiveness are natural responses to egoic contraction.
+
+This psychological claim is testable and increasingly tested. Contemplative neuroscience shows that practices aimed at reducing ego-identification correlate with increased empathy, prosocial behavior, and psychological well-being. Long-term meditators demonstrate altered default mode network activity—the neural correlate of self-referential processing—in precisely the ways predicted by the claim that ego is a maintained construction rather than a neural given. These are not metaphysical findings; they are empirical observations about what happens when dissociative structures relax.
+
+For present purposes, Buddhist psychology serves not as a truth-claim about ultimate reality but as a descriptive framework independently converging with psychiatry, phenomenology, and the continuum model developed here. It provides additional evidence that ordinary ego is indeed a form of dissociation, that this dissociation can be reduced through systematic practice, and that reduction in dissociation correlates with integration rather than fragmentation. The metaphysics can remain bracketed; the phenomenology stands.
 
 ---
 
@@ -346,7 +360,11 @@ American Psychiatric Association. (2013). *Diagnostic and Statistical Manual of 
 
 Brand, B. L., et al. (2016). Separating fact from fiction: An empirical examination of six myths about dissociative identity disorder. *Harvard Review of Psychiatry, 24*(4), 257-270.
 
+Brewer, J. A., et al. (2011). Meditation experience is associated with differences in default mode network activity and connectivity. *Proceedings of the National Academy of Sciences, 108*(50), 20254-20259.
+
 Csikszentmihalyi, M. (1990). *Flow: The Psychology of Optimal Experience*. Harper & Row.
+
+Harvey, P. (2013). *An Introduction to Buddhism: Teachings, History and Practices* (2nd ed.). Cambridge University Press.
 
 Hood, R. W. (1975). The construction and preliminary validation of a measure of reported mystical experience. *Journal for the Scientific Study of Religion, 14*(1), 29-41.
 
@@ -365,6 +383,8 @@ Kastrup, B. (2019). *The Idea of the World: A Multi-Disciplinary Argument for th
 Keltner, D., & Haidt, J. (2003). Approaching awe, a moral, spiritual, and aesthetic emotion. *Cognition and Emotion, 17*(2), 297-314.
 
 Lindahl, J. R., et al. (2017). The varieties of contemplative experience: A mixed-methods study of meditation-related challenges in Western Buddhists. *PLoS ONE, 12*(5), e0176239.
+
+Olendzki, A. (2010). *Unlimiting Mind: The Radically Experiential Psychology of Buddhism*. Wisdom Publications.
 
 Reinders, A. A., et al. (2006). Psychobiological characteristics of dissociative identity disorder: A symptom provocation study. *Biological Psychiatry, 60*(7), 730-740.
 
