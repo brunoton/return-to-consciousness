@@ -13,17 +13,17 @@ description: This essay examines dissociation and non-duality as empirical and p
 
 ## Abstract
 
-This essay examines dissociation as an empirically observable phenomenon and argues that ordinary egoic consciousness already constitutes a mild form of dissociation. Rather than treating non-dual awareness as metaphysical speculation or mystical excess, the essay proposes a continuum of consciousness ranging from pathological fragmentation (as in Dissociative Identity Disorder) through ordinary ego to full non-dual integration. This continuum finds independent confirmation in Buddhist phenomenology and Carl Jung's individuation process, which—despite its misleading name—describes movement toward psychological wholeness through progressive integration of dissociated contents. On this view, what contemplative traditions call "awakening" is best understood not as acquiring something new, but as dissolving dissociative boundaries that are already known to exist. The central contribution is a reframing: spiritual development becomes movement toward psychological integration rather than transcendence of the human condition, and unity experiences become admissible as phenomenological data rather than dismissed as delusion or inflation.
+This essay examines dissociation as an empirically observable phenomenon and argues that ordinary egoic consciousness already constitutes a mild form of dissociation. Rather than treating non-dual awareness as metaphysical speculation or mystical excess, the essay proposes a continuum of consciousness ranging from pathological fragmentation (as in Dissociative Identity Disorder) through ordinary ego to full non-dual integration. This continuum finds independent confirmation in Buddhist phenomenology and Carl Jung's individuation process, which—despite its misleading name—describes movement toward psychological wholeness through progressive integration of dissociated contents. On this view, what contemplative traditions call "awakening" is best understood not as acquiring something new, but as dissolving dissociative boundaries that are already known to exist. The central contribution is a reframing: spiritual development is better understood not as an escape from the human condition, but as the integration of what the ego previously held apart—an integration that may be experienced subjectively as transcendence of egoic identity.
 
 ---
 
 ## Introduction
 
-This essay does not attempt to defend analytic idealism as a metaphysical system, nor to refute physicalism or alternative ontologies. Its aim is narrower and more grounded: to examine dissociation as an empirically and phenomenologically observable phenomenon, and to argue that ordinary egoic consciousness already constitutes a mild form of dissociation. {FIXME: strangely starts with does not...}
+This essay takes its starting point from a striking convergence: the empirical reality of Dissociative Identity Disorder and the metaphysical framework of analytic idealism. Bernardo Kastrup and others have argued that DID provides empirical grounding for the claim that consciousness can partition itself into apparently separate experiential fields—that what we experience as individual minds may be dissociated alters within a broader field of universal consciousness. On this view, the clinical phenomenon of multiple alters within a single organism demonstrates in miniature what idealism proposes at the cosmic scale: consciousness dividing itself through dissociative boundaries.
 
-From this starting point, the essay proposes a continuum of consciousness—from pathological dissociation (as in Dissociative Identity Disorder), through ordinary egoic identity, to progressively reduced dissociation experienced as partial unity, and finally to full non-dual awareness. Rather than framing non-duality as metaphysical speculation or mystical excess, the essay treats it as a state of psychological integration and phenomenological health.
+This essay does not attempt to defend analytic idealism as a metaphysical system. Rather, it extends the insight in a different direction—inward along a continuum toward integration. If DID represents extreme dissociation and ordinary ego represents moderate dissociation, what lies in the direction of *reduced* dissociation? The essay proposes that experiences of unity, contemplative opening, and non-dual awareness represent progressive points along this continuum: not metaphysical speculation or mystical excess, but graded reductions in the same dissociative partitioning that psychiatry already recognizes.
 
-The central claim is simple: what contemplative traditions call "awakening" is best understood not as acquiring something new, but as dissolving dissociative boundaries that are already known to exist. Analytic idealism provides a coherent metaphysical backdrop for this claim, but the argument here stands primarily on phenomenology, psychiatry, and first-person reproducibility.
+The central claim is simple: what contemplative traditions call "awakening" is best understood not as acquiring something new, but as dissolving dissociative boundaries that are already known to exist. Analytic idealism provides a coherent metaphysical backdrop for this claim, but the argument here stands primarily on phenomenology, psychiatry, and first-person reproducibility. Readers need not accept idealist metaphysics to find the continuum model useful; the phenomenological observations hold independently.
 
 Four propositions structure the inquiry:
 
@@ -180,6 +180,22 @@ When psychosis is mistaken for awakening, the harm is neglect. A person experien
 The continuum model does not romanticize mental illness precisely because it insists on this distinction. Not all ego-dissolution is movement toward integration. Direction matters. Phenomenology matters. Functionality matters. The question is not simply "are self-boundaries altered?" but "in which direction, with what quality of experience, and with what functional outcome?"
 
 Clinicians, contemplative teachers, and those undergoing unusual experiences all need frameworks that can make this distinction. The continuum model provides one.
+
+### Enhancement Without Integration: The Case of Psychosis and Art
+
+An apparent counterexample deserves attention. Psychosis sometimes produces remarkable enhancement in narrow domains—particularly artistic, symbolic, or visionary expression. The Brazilian psychiatrist Nise da Silveira documented this extensively in her therapeutic work with schizophrenic patients, demonstrating that individuals experiencing psychotic fragmentation could produce extraordinarily rich, symbolically powerful art when given non-coercive expressive conditions. Similar observations appear throughout the history of art and psychiatry: loosened associative constraints can enable novel metaphors, heightened perceptual salience can fuel visionary intensity, and weakened narrative filtering can permit symbolic material to emerge with unusual force.
+
+Does this undermine the continuum model's claim that psychosis represents disintegration while non-duality represents integration?
+
+No—but it requires a crucial refinement. The continuum model's criterion is *global integration*, not *local output*. Psychosis can enhance narrow capacities precisely because dissociative barriers collapse chaotically, flooding consciousness with symbolic material normally filtered by ego. But this enhancement occurs *within* disintegration: the person often cannot regulate, contextualize, or sustain the enhanced capacity; functionality outside the narrow domain deteriorates; suffering, paranoia, or fragmentation typically coexist with the creative production.
+
+In the terminology of this essay, psychotic enhancement represents *local de-dissociation without global integration*. Certain barriers dissolve, permitting access to material normally excluded from awareness—but the dissolution is uncontrolled, partial, and embedded in overall fragmentation rather than overall coherence.
+
+Non-dual awareness, by contrast, involves *global integration*: boundaries dissolve across the board, but what remains is coherence, stability, and enhanced rather than impaired general functioning. The difference is not whether enhancement occurs, but whether it occurs within a context of integration or fragmentation.
+
+Nise da Silveira's genius was recognizing that psychotic imagery carries meaning—it is not mere noise to be suppressed but dissociated material seeking expression. Her therapeutic approach used art as a container for disorganized contents, creating conditions where partial re-integration could begin. This is precisely what the continuum model would predict: expression can serve as a pathway toward integration, even from states of significant fragmentation. She did not claim psychosis was awakening; she created conditions where movement along the continuum toward integration became possible.
+
+The continuum model can thus explain why narrow enhancement sometimes occurs in psychosis without confusing such enhancement for health or awakening. The question remains: in which direction is the person moving overall? Enhancement in one domain does not indicate integration if fragmentation dominates elsewhere.
 
 ### The Phenomenology of Non-Dual Awareness
 
@@ -389,6 +405,10 @@ Olendzki, A. (2010). *Unlimiting Mind: The Radically Experiential Psychology of 
 Reinders, A. A., et al. (2006). Psychobiological characteristics of dissociative identity disorder: A symptom provocation study. *Biological Psychiatry, 60*(7), 730-740.
 
 Schlitz, M., Vieten, C., & Erickson-Freeman, K. (2011). Consciousness transformation and healing: Insights from the IONS consciousness transformation model. *Explore, 7*(5), 280-289.
+
+Silveira, N. da. (1981). *Imagens do Inconsciente*. Alhambra.
+
+Silveira, N. da. (1992). *O Mundo das Imagens*. Ática.
 
 Sierra, M., & David, A. S. (2011). Depersonalization: A selective impairment of self-awareness. *Consciousness and Cognition, 20*(1), 99-108.
 

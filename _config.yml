@@ -27,7 +27,6 @@ linkedin_username: brunotonetto
 
 # Navigation
 header_pages:
-  - index.md
   - complete-essay.md
   - ego-less-ai.md
   - truth-is-not-neutral.md

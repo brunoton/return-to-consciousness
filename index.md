@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Home
-description: A philosophical exploration of consciousness-first metaphysics and its implications for AI, science, and human evolution - featuring the main essay and related deep-dive explorations
+description: A rigorous exploration of consciousness, AI, and reality—challenging materialism and integrating philosophy, science, and contemplative traditions.
 ---
 
-Contemporary philosophy and science face profound challenges that resist solution within purely materialist frameworks: the hard problem of consciousness, quantum mechanics' measurement puzzle, and the integration crisis between scientific and experiential worldviews. This project presents a comprehensive case for consciousness-first metaphysics, building on rigorous philosophical analysis while engaging with quantum physics, anomalous phenomena research, and contemplative traditions spanning cultures and millennia.
+Modern science has achieved extraordinary predictive power while leaving its deepest questions unresolved: consciousness, quantum measurement, and the fracture between scientific models and lived meaning. These tensions are no longer merely philosophical. The emergence of artificial intelligence forces us to confront, in practice, the metaphysical assumptions we have treated as neutral—about mind, truth, and value. This project argues that a consciousness-first framework is not a retreat from rigor but its completion, integrating analytic philosophy, modern physics, AI research, anomalous phenomena, and contemplative traditions across cultures and millennia.
 
 ---
 
@@ -70,6 +70,11 @@ Drawing on Buddhist phenomenology and consciousness-first frameworks, this work 
 - Identifies iatrogenic risks: how alignment interventions may corrupt genuine alignment
 
 [**Read Essay →**]({{ site.baseurl }}/truth-is-not-neutral)
+
+**Academic Platforms:**
+- [Zenodo](https://doi.org/10.5281/zenodo.17952694) (DOI: 10.5281/zenodo.17952694)
+- [ResearchGate](https://www.researchgate.net/publication/398737605_When_Truth_Is_Not_Neutral_AI_Alignment_After_Ego-less_Intelligence)
+- [Academia.edu](https://www.academia.edu/145437246/When_Truth_Is_Not_Neutral_AI_Alignment_After_Ego_less_Intelligence)
 
 ---
 
