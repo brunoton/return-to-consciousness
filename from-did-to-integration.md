@@ -1,9 +1,9 @@
 ---
 layout: default
-title: From DID to Oneness
+title: From DID to Integration
 description: This essay examines dissociation and non-duality as empirical and phenomenological phenomena, proposing a continuum model that makes contemplative experience intelligible within a naturalistic framework.
 ---
-# From DID to Oneness: Dissociation, Identity, and the Continuum of Consciousness
+# From DID to Integration: Dissociation, Ego, and Non-Duality
 
 **Author:** Bruno Tonetto  
 **Background:** B.S. Physics and Computer Science, Certified CEB Teacher (Santa Barbara Institute for Consciousness Studies)  
