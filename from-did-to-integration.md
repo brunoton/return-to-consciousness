@@ -197,6 +197,22 @@ Nise da Silveira's genius was recognizing that psychotic imagery carries meaning
 
 The continuum model can thus explain why narrow enhancement sometimes occurs in psychosis without confusing such enhancement for health or awakening. The question remains: in which direction is the person moving overall? Enhancement in one domain does not indicate integration if fragmentation dominates elsewhere.
 
+### Witness-Consciousness: An Intermediate Stage
+
+A further refinement is necessary to capture the phenomenological landscape accurately. Some contemplative traditions—particularly those within Advaita Vedanta and certain Buddhist frameworks—emphasize realization as discovering oneself as an unchanging Witness: pure awareness observing the flow of experience. In such states, practitioners report a profound shift: identification withdraws from thoughts, emotions, sensations, and even the body. One recognizes oneself not as the contents of consciousness but as the awareness in which contents appear.
+
+This witness-consciousness represents a significant reduction in egoic identification. The practitioner no longer confuses themselves with the passing show of mental phenomena. There is spaciousness, equanimity, and a sense of being untouched by what arises. The suffering that comes from over-identification with transient states diminishes markedly.
+
+However, witness-consciousness retains a subtle subject–object structure. Awareness remains positioned as *observer* in relation to its *contents*. There is still a "here" from which experience is witnessed and a "there" where experience occurs. The glass wall has become transparent—one no longer feels trapped behind it—but a spatial metaphor still applies: awareness is located, watching from a vantage point.
+
+The continuum model treats witness-consciousness as an advanced but not final stage of reduced dissociation. Substantial ego-boundaries have dissolved: the practitioner no longer identifies with thoughts, no longer takes emotional states as self, no longer experiences the dense contraction of ordinary egoic consciousness. But a subtle boundary remains—the boundary between witnessing awareness and witnessed content.
+
+Non-dual awareness, as described by traditions that make this distinction explicit, dissolves even this final boundary. There is no observer distinct from the observed, no witness standing apart from the witnessed. Experience is undivided: seeing without a seer, hearing without a hearer, knowing without a knower positioned elsewhere. The spatial metaphor collapses entirely.
+
+Whether one treats witness-awareness as ultimate realization or as a transitional stage varies by tradition. Some teachings stop at the Witness and regard it as final; others explicitly describe its transcendence into non-dual awareness where even the witness dissolves. The present model interprets witness-consciousness as transitional—a profound stage of reduced dissociation that still retains the subtlest form of subject–object partitioning. Full integration, on this view, lies beyond it.
+
+This is not to diminish witness-consciousness. It represents a genuine and significant shift—one that many practitioners may never move beyond, and one that carries substantial benefits in terms of equanimity, clarity, and reduced suffering. But phenomenological precision requires distinguishing it from the non-dual awareness described below, where even the position of witness has been relinquished.
+
 ### The Phenomenology of Non-Dual Awareness
 
 Practitioners describe non-dual awareness with recognizable consistency:
@@ -251,7 +267,9 @@ Moving along the spectrum, we encounter ordinary egoic consciousness. Here disso
 
 Further along, we find states of partial unity. Flow, awe, meditative absorption, psychedelic experience, mystical opening—these represent temporary or partial softening of egoic boundaries. Dissociation decreases; identity expands; the sense of separation from world diminishes. These states are typically transient, though contemplative training can make them more accessible and stable.
 
-At the far end lies stable non-dual awareness. Here dissociative partitioning has ceased entirely—not through breakdown but through integration. There is no longer a separate self standing apart from experience. Identity is unbounded, not because it has expanded to infinity, but because the boundaries that created the sense of boundedness have dissolved. This state is rare, but it is documented across contemplative traditions and increasingly studied in contemplative science.
+Beyond partial unity lies witness-consciousness—what some traditions call the recognition of oneself as pure awareness. Here, identification has withdrawn from mental contents almost entirely. The practitioner no longer confuses themselves with thoughts, emotions, or sensations; they recognize themselves as the unchanging awareness in which all contents arise and pass. This represents substantial reduction in dissociative identification, yet a subtle boundary remains: awareness still stands as observer in relation to the observed. The subject–object structure persists in attenuated form.
+
+At the far end lies stable non-dual awareness. Here dissociative partitioning has ceased entirely—not through breakdown but through integration. There is no longer a separate self standing apart from experience, nor even a witness observing from a vantage point. Identity is unbounded, not because it has expanded to infinity, but because the boundaries that created the sense of boundedness—including the subtle boundary between witness and witnessed—have dissolved. This state is rare, but it is documented across contemplative traditions and increasingly studied in contemplative science.
 
 ### Implications of the Continuum Model
 
