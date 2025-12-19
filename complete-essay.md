@@ -233,6 +233,15 @@ Unlike historical idealisms that often remained abstract, analytic idealism enga
 
 The framework aligns remarkably with quantum mechanics, suggesting that quantum fields might be the extrinsic appearance of fundamental conscious processes. It offers resources for understanding evolution as the complexification of dissociative structures. It even provides a framework for understanding mental health and illness in terms of dissociative boundary dysfunction.
 
+### On Meta-Consciousness: A Departure from Kastrup
+
+Kastrup argues that universal consciousness is probably not meta-conscious—not self-aware or personal at its fundamental level. His reasoning: meta-consciousness emerged through biological evolution, suggesting it is a product of dissociation rather than a feature of the undissociated ground.
+
+Grego (2025) identifies a tension here. Kastrup's conclusion relies on scientific models—evolutionary development in spacetime—that his own framework treats as representations, not fundamental reality. Why use the appearance to characterize what lies beneath it?
+
+This essay sides with Grego. Contemplative traditions represent millennia of direct investigation into consciousness, and they consistently report that de-dissociation reveals presence, clarity, and compassion—qualities characterizing meta-conscious awareness. This evidence, precisely because it comes from less-dissociated states, deserves serious epistemic consideration at least equivalent to third-person models. Readers should note this represents an extension compatible with analytic idealism, not a strict entailment.
+
+By ‘meta-conscious’ this essay does not imply anthropomorphic agency or psychological personality, but the presence of reflexive awareness, intelligible directionality, and intrinsic capacity for self-manifestation in coherent, meaningful ways.
 
 ## Part IV: Cross-Cultural Convergence {#part-iv-convergence}
 
@@ -513,7 +522,7 @@ This renaissance isn't just intellectual but practical. As mental health crises 
 
 ### The Individual Journey
 
-For individuals, recognizing consciousness as fundamental reframes the spiritual journey. Rather than seeking to create meaning in a meaningless universe, we recognize ourselves as expressions of universal consciousness temporarily forgetting our nature through dissociation. Spiritual practice becomes not about achieving something we lack but about recognizing what we already are.
+For individuals, recognizing consciousness as fundamental reframes the spiritual journey. Rather than seeking to create meaning in a meaningless universe, we recognize ourselves as expressions of universal consciousness, experiencing apparent separation through dissociation. What contemplatives consistently report upon integration—presence, self-knowing awareness, natural compassion—suggests these qualities characterize the undissociated ground. Spiritual practice becomes not about achieving something we lack but about recognizing what we already are.
 
 This doesn't diminish the difficulty of the path—dissociative boundaries are robust and serve important functions. But it does suggest that experiences of unity, meaning, and transcendence aren't delusions but glimpses of our fundamental nature. Mental suffering might partly reflect the tension between our true nature and our dissociative forgetting of it.
 
@@ -546,6 +555,8 @@ This isn't merely an academic philosophical position but a framework with profou
 When we examine the total evidence—from quantum mechanics to mystical experience, from neuroscience to contemplative phenomenology, from anomalous phenomena to mathematical physics—patterns emerge that transcend any single domain. The quantum pioneers independently arrived at consciousness-first interpretations through their engagement with quantum phenomena. The accumulated anomalous phenomena resist materialist explanation while fitting naturally within consciousness-first frameworks. The convergence of contemplative traditions across cultures and millennia, all discovering consciousness as fundamental through independent investigation, provides phenomenological confirmation.
 
 This convergence from independent lines of investigation—physics, neuroscience, psychology, philosophy, and contemplative traditions—creates a compelling case that deserves serious consideration rather than dismissal. The pattern is clear: whether through mathematical formalism, empirical observation, or contemplative investigation, those who penetrate deepest consistently discover consciousness at reality's foundation.
+
+This essay's interpretation—that contemplative phenomenology reveals a meta-conscious ground—departs from Kastrup, who suggests universal consciousness lacks self-awareness. Following Grego (2025), this essay argues that contemplative evidence, as direct investigation of consciousness from less-dissociated states, deserves serious weight.
 
 ### Beyond Partial Understanding
 
@@ -882,9 +893,9 @@ In moving beyond the binary of survival versus extinction, we open space for a m
 
 ## Epilogue: The Cosmic Journey {#epilogue-cosmic}
 
-Having established the philosophical and empirical case for consciousness as fundamental, this epilogue now ventures into a different mode of inquiry: a speculative and imaginative exploration of what this worldview might imply for our cosmic journey. The ideas that follow are not presented as proven facts but as a logically consistent extension of the idealist framework—a meditation on the profound possibilities that open when we take consciousness seriously.
+The following section is speculative. The main essay argued that contemplative evidence supports a meta-conscious interpretation of universal consciousness—a position compatible with analytic idealism, as Grego (2025) has argued. The Epilogue asks: if this interpretation is correct, what might it imply?
 
-If individual minds are dissociated aspects of universal consciousness, what possibilities emerge for personal evolution, death and rebirth, and our species' place in a conscious cosmos? Drawing on wisdom traditions spanning cultures and millennia—yet requiring no supernatural assumptions—these explorations emerge organically from the idealist framework developed in this essay.
+The speculations below go beyond what the main argument establishes. Readers who accept the core framework but find these extensions unwarranted may stop at the Conclusion.
 
 This is an invitation to wonder, intended to provoke thought rather than command belief, and to explore the meaning that might be woven into the fabric of a conscious cosmos. What follows offers a visionary glimpse of what human existence might mean when we recognize consciousness not as an accident but as the very ground of being.
 
@@ -1023,6 +1034,8 @@ Chalmers, D. (1995). Facing up to the problem of consciousness. *Journal of Cons
 Gauld, A. (1968). The founders of psychical research. Schocken Books.
 
 Gomide, M., Wainstock, B. C., Silva, J., Mendes, C. G., & Moreira-Almeida, A. (2022). Controlled semi-naturalistic protocol to investigate anomalous information reception in mediumship: Description and preliminary findings. *Explore*, 18(5), 539-544.
+
+Grego, R. (2025). Analytic Idealism and the possibility of a meta-conscious cosmic mind. Essentia Foundation. https://www.essentiafoundation.org/analytic-idealism-and-the-possibility-of-a-meta-conscious-cosmic-mind/reading/
 
 Greyson, B. (2021). *After: A Doctor Explores What Near-Death Experiences Reveal About Life and Beyond*. St. Martin's Essentials.
 
