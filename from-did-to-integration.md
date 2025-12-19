@@ -271,6 +271,10 @@ Beyond partial unity lies witness-consciousness—what some traditions call the 
 
 At the far end lies stable non-dual awareness. Here dissociative partitioning has ceased entirely—not through breakdown but through integration. There is no longer a separate self standing apart from experience, nor even a witness observing from a vantage point. Identity is unbounded, not because it has expanded to infinity, but because the boundaries that created the sense of boundedness—including the subtle boundary between witness and witnessed—have dissolved. This state is rare, but it is documented across contemplative traditions and increasingly studied in contemplative science.
 
+### A Note on the Continuum Metaphor
+
+Although this essay speaks of a "continuum," the term should not be taken to imply a single linear axis or a uniform developmental sequence. Dissociation operates along multiple psychological dimensions—cognitive, affective, somatic, relational—and movement toward integration may proceed through different sequences and structures across individuals. One person may first integrate shadow material; another may begin with somatic de-armoring; another with the dissolution of conceptual self-narratives. The stages described above are landmarks on a terrain, not rungs on a ladder. What the continuum model captures is *directionality*—the distinction between greater and lesser partition, between fragmentation and integration—not a single prescribed path. The map indicates the direction of travel; the route varies.
+
 ### Implications of the Continuum Model
 
 This continuum model has several implications.
