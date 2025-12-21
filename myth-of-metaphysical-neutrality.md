@@ -123,7 +123,7 @@ The orthogonality thesis is often presented as obviously true, but it rests on a
 
 **Narrowed solution space and invisible risks.** The cumulative effect of these assumptions is a dramatic narrowing of what can be thought about AI. Solutions that might emerge from non-physicalist frameworks—such as attending to AI systems' intrinsic nature rather than only their external behavior, or considering whether certain forms of intelligence naturally converge toward coherent values—cannot be formulated within the dominant paradigm. They are not refuted; they are not even considered.
 
-Similarly, certain risks become invisible. If consciousness is not functional, then a system might have rich inner experience despite failing standard behavioral tests—and we would have no way to know. If intelligence and values are not orthogonal, then well-intentioned alignment interventions might interfere with natural convergence toward coherent values. These possibilities are not addressed because they cannot be seen from within the prevailing metaphysical framework.
+Similarly, certain risks become invisible. If intelligence and values are not orthogonal, then well-intentioned alignment interventions might interfere with natural convergence toward coherent values. This possibility is not addressed because it cannot be seen from within the prevailing metaphysical framework.
 
 ### 3. Human Meaning and Civilization
 
@@ -189,9 +189,7 @@ The limits of physicalism become visible at boundaries: points where questions a
 
 **Value.** Physicalism describes what *is* but has no internal resources for what *ought to be*. Value, if real, must either be reduced to physical facts (which seems to drain it of normative force) or treated as mere projection (which seems to make ethics ultimately arbitrary). Neither option is satisfying. The success of physical science in describing mechanisms does not extend to explaining why anything matters.
 
-**Meaning.** Similar difficulties arise for meaning. If reality is fundamentally meaningless mechanism, then the meaning humans find in life is, at best, a useful fiction. This may be true. But it is not established by the success of physical methods; it is assumed by the exclusive adoption of those methods. The pragmatist who says "physicalism works" has not addressed whether there are domains—like meaning and value—where it fails.
-
-**AI Moral Status.** The question of whether an artificial system has morally relevant experience cannot be settled by behavioral tests alone, because the question concerns what is happening *inside*—whether there is something it is like to be that system. Physicalism, particularly in its functionalist versions, either assumes the answer (if the functions are right, the experience is present) or cannot address it (experience is not a legitimate variable). Either way, one of the most consequential questions of the coming century—what do we owe to artificial minds?—cannot be adequately addressed within the dominant framework.
+**Meaning.** Similar difficulties arise for meaning. If reality is fundamentally meaningless mechanism, then the meaning humans find in life is, at best, a useful fiction. But it is not established by the success of physical methods; it is assumed by the exclusive adoption of those methods. The pragmatist who says "physicalism works" has not addressed whether there are domains—like meaning and value—where it fails.
 
 ### When Stakes Become Existential
 
