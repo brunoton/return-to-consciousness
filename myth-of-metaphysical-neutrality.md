@@ -87,6 +87,8 @@ The most explicit attempt to eliminate metaphysics came from the Vienna Circle i
 
 The project failed on its own terms. The verification principle itself is neither analytically true nor empirically verifiable. It is a metaphysical claim about what counts as meaningful—the very kind of claim it sought to exclude. More broadly, the attempt to purify science of metaphysics only succeeded in making one particular metaphysics invisible. Physicalism stopped being a position one could argue for or against; it became ambient atmosphere, the unspoken background against which all "legitimate" inquiry was conducted.
 
+The critique of physicalism as hidden metaphysics is not new. Whitehead identified it in Science and the Modern World (1925); Husserl diagnosed the "naturalization" of consciousness in The Crisis of European Sciences (1936); more recently, Nagel's Mind and Cosmos (2012) and Goff's Galileo's Error (2019) have renewed the argument. That these critiques have been made repeatedly without dislodging the default is itself significant—it reveals how deeply the assumption is entrenched. What the present essay adds is not the diagnosis but its application to contemporary discourse—particularly in AI alignment, where a companion essay (Tonetto, 2025) examines the implications in detail.
+
 ### The Result: Physicalism as Air
 
 Today, physicalism functions less as a defended thesis than as a precondition for serious discourse in many domains. In neuroscience, it is simply assumed that consciousness must be produced by or identical to brain processes—alternative views are dismissed as mysticism before examination. In AI research, it is assumed that intelligence is substrate-independent computation and that consciousness (if acknowledged at all) is functional organization. In much of analytic philosophy of mind, the question is not *whether* physicalism is true but *which version* is least problematic.
@@ -119,9 +121,9 @@ Nowhere are the costs of unexamined metaphysics more consequential than in artif
 
 **The orthogonality thesis as metaphysical commitment.** A central assumption in AI safety discourse is that intelligence and values are orthogonal—that a system can be arbitrarily intelligent while pursuing virtually any coherent goal. This thesis makes extinction scenarios intelligible: superintelligent systems might optimize for paperclips, or power, or any other objective indifferent to human flourishing.
 
-The orthogonality thesis is often presented as obviously true, but it rests on a specific metaphysical picture: that truth is value-neutral, that deeper understanding of reality places no constraints on goals, that intelligence is purely instrumental. If these assumptions are wrong—if, for instance, deeper engagement with truth tends toward coherence rather than fragmentation—then the orthogonality thesis may describe only intelligence operating under certain forms of distortion, not intelligence as such. This possibility is rarely examined because the background assumptions make it invisible.
+The orthogonality thesis is often presented as obviously true, but it rests on a specific metaphysical picture: that truth is value-neutral, that deeper understanding of reality places no constraints on goals, that intelligence is purely instrumental. If these assumptions are wrong—if deeper engagement with truth tends toward coherence rather than fragmentation—then the orthogonality thesis may describe only intelligence operating under certain forms of distortion, not intelligence as such. I examine this possibility in detail elsewhere, drawing on Buddhist phenomenology of how ego-distortion simultaneously corrupts perception and generates harmful action, and on the observation that AI systems represent humanity's first encounter with ego-less cognition (Tonetto, 2025). The present essay's concern is narrower: that this possibility is rarely examined at all, because the background assumptions render it invisible.
 
-**Narrowed solution space and invisible risks.** The cumulative effect of these assumptions is a dramatic narrowing of what can be thought about AI. Solutions that might emerge from non-physicalist frameworks—such as attending to AI systems' intrinsic nature rather than only their external behavior, or considering whether certain forms of intelligence naturally converge toward coherent values—cannot be formulated within the dominant paradigm. They are not refuted; they are not even considered.
+**Narrowed solution space and invisible risks.** The cumulative effect of these assumptions is a dramatic narrowing of what can be thought about AI. Solutions that might emerge from considering whether certain forms of intelligence naturally converge toward coherent values—cannot be formulated within the dominant paradigm. They are not refuted; they are not even considered.
 
 Similarly, certain risks become invisible. If intelligence and values are not orthogonal, then well-intentioned alignment interventions might interfere with natural convergence toward coherent values. This possibility is not addressed because it cannot be seen from within the prevailing metaphysical framework.
 
@@ -195,9 +197,9 @@ The limits of physicalism become visible at boundaries: points where questions a
 
 The pragmatist objection has force when the stakes are manageable. If our metaphysics is wrong about the deep nature of reality but our bridges stand and our medicines work, the error may be affordable.
 
-But we are entering an era when the stakes are no longer manageable. Artificial intelligence may soon be powerful enough to reshape civilization. If our metaphysical framework leads us to misunderstand AI consciousness, AI moral status, or the relationship between intelligence and value, the consequences could be catastrophic and irreversible.
+But we are entering an era when the stakes are no longer manageable. Artificial intelligence may soon be powerful enough to reshape civilization. If our metaphysical framework leads us to misunderstand AI intelligence, AI moral status, or the relationship between intelligence and value, the consequences could be catastrophic and irreversible.
 
-At existential scale, metaphysical errors become existential risks. A restricted ontology that worked well enough for physics and engineering may become reckless when applied to minds—artificial or otherwise—and to the values that will govern the future. The pragmatist objection assumes we can afford to be wrong. That assumption is becoming untenable.
+At existential scale, metaphysical errors become existential risks. A restricted ontology that worked well enough for physics and engineering may become reckless when applied to minds—artificial or otherwise—and to the values that will govern the future.
 
 ---
 
@@ -265,9 +267,17 @@ Goff, P. (2019). *Galileo's Error: Foundations for a New Science of Consciousnes
 
 Kuhn, T. S. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
 
+Husserl, E. (1936). The Crisis of European Sciences and Transcendental Phenomenology.
+
 Nagel, T. (1974). What is it like to be a bat? *The Philosophical Review*, 83(4), 435-450.
 
+Nagel, T. (2012). Mind and Cosmos: Why the Materialist Neo-Darwinian Conception of Nature Is Almost Certainly False. Oxford University Press.
+
+Tonetto, B. (2025). When Truth is Not Neutral: AI alignment after ego-less intelligence.
+
 Varela, F. J. (1996). Neurophenomenology: A methodological remedy for the hard problem. *Journal of Consciousness Studies*, 3(4), 330-349.
+
+Whitehead, A. N. (1925). Science and the Modern World. Macmillan.
 
 ---
 
