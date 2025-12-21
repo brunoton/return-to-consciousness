@@ -127,19 +127,13 @@ Similarly, certain risks become invisible. If consciousness is not functional, t
 
 ### 3. Human Meaning and Civilization
 
-Metaphysical assumptions shape not only specialized research but also the broader culture that emerges from and sustains that research.
+Metaphysical assumptions shape not only specialized research but the cultures that grow around it. Ontology does not merely describe what exists; it trains perception—determining what feels salient, what seems obvious, what appears worth caring about. Different frameworks generate different phenomenological inheritances: different intuitive pictures of what selves are, how they relate, and what matters.
 
-**Ontology shapes what feels natural to care about.** The intuitive picture that physicalism delivers is one of isolated biological units negotiating survival, agency, and advantage. This is not a logical entailment but a phenomenological inheritance—what the worldview makes salient, what it trains perception to see. Within this picture, cooperation becomes strategy rather than participation. Compassion becomes sentiment rather than clarity. Other minds become inferences rather than presences. The boundaries between self and other are experienced as fundamental, not constructed.
+A physicalist inheritance tends to foreground separateness: distinct organisms navigating survival and advantage within an indifferent cosmos. Frameworks taking interdependence or consciousness as primary tend to foreground continuity: participation in a shared fabric where harm and care are ontologically resonant, not merely strategic.
 
-When ethics must be built within this experienced reality, it works against the grain. Moral concern is not grounded in how the world feels or reveals itself; it must be artificially rationalized and continuously justified. The arguments may be sound—sophisticated ethical systems have been constructed within physicalist frameworks, and they can motivate genuine commitment. But they remain arguments: inferential bridges across a gap that the ontology insists is real. What requires continuous justification tends, over generations, to erode. What feels natural tends to persist.
+This matters because ethical life is not conducted by argument alone. What a culture finds "natural" to care about—and what requires elaborate justification—is downstream from its operative ontology. Physicalism can sustain sophisticated moral systems, and many people live nobly within it. But a worldview treating consciousness as accidental and value as projected tends, over time, to thin the felt reality of meaning. Compassion becomes something to justify rather than perceive.
 
-Contrast this with metaphysical views that see consciousness, interdependence, or underlying unity as ontologically primary. Here, compassion and responsibility become intuitive: they emerge as perceptions of how things are, not as moral inventions imposed on indifferent mechanism. The felt weight of ethical claims is sustained not by argument alone but by the texture of reality as experienced.
-
-Buddhist ethics illustrates this structure: karuṇā (compassion) is understood to arise naturally from prajñā (wisdom that perceives interdependence)—not as a duty imposed on separate selves, but as the natural response when the constructed boundary between self and other is seen through. The work is not to justify caring but to remove obstructions to seeing what was always true.
-
-This difference matters at civilizational scale. What a culture experiences as "natural" to care about—or not—is downstream from its operative ontology. A civilization that inherits physicalist assumptions does not inherit arguments; it inherits an intuitive picture in which isolated selves navigate an indifferent universe. Ethical behavior remains possible, but it swims against the current of felt reality.
-
-**The meaning crisis.** Widespread reports of meaninglessness, depression, and existential anxiety in prosperous societies may have many causes. But one cause, arguably, is the internalization of a worldview in which consciousness is accidental, meaning is projected rather than discovered, and the universe is fundamentally indifferent to experience. The ethical arguments remain available. But arguments cannot substitute for a world that feels like it matters. Whether the current epidemic of meaninglessness reflects, in part, the phenomenological consequences of unexamined physicalism is a question worth taking seriously.
+The contemporary "meaning crisis" is likely overdetermined—economic, technological, social factors all contribute. But one question worth taking seriously is whether unexamined metaphysical inheritance plays a role.
 
 ---
 
