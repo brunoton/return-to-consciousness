@@ -4,60 +4,13 @@
 [![GitHub Pages](https://img.shields.io/badge/Read%20Online-GitHub%20Pages-blue)](https://brunoton.github.io/return-to-consciousness/)
 
 
-## Abstract
-
-Contemporary philosophy and science face profound challenges that resist solution within purely materialist frameworks: the hard problem of consciousness, quantum mechanics' measurement puzzle, and the integration crisis between scientific and experiential worldviews. This work presents a comprehensive case for consciousness-first metaphysics, building on Bernardo Kastrup's analytic idealism while engaging with quantum physics, anomalous phenomena research, and contemplative traditions spanning cultures and millennia.
-
-**Original Contributions:**
-- **Historical Analysis of Materialism's Rise**: Reveals how objective empiricism (successful research methodology) became conflated with metaphysical materialism through conceptual confusion rather than empirical necessity, opening space for consciousness-first alternatives
-- **Anomalous Phenomena Integration**: Demonstrates how well-documented phenomena—near-death experiences, terminal lucidity, placebo effects, reincarnation research—become explicable under consciousness-first metaphysics while remaining mysterious under materialism
-- **Cross-Cultural Convergence Analysis**: Documents how quantum mechanics pioneers independently arrived at consciousness-oriented interpretations, aligning with insights from contemplative traditions across cultures
-- **AI Safety Through Consciousness Maturation**: Reframes artificial intelligence development as requiring human spiritual evolution alongside technical advancement, recognizing fundamental uncertainty about consciousness manifestation in artificial systems
-
-## Significance
-
-As we develop artificial intelligence and confront civilizational challenges that resist purely materialist solutions, our metaphysical foundations become practically urgent. This framework suggests that meaning is inherent rather than constructed, that nature participates in awareness, and that technology development requires wisdom alongside capability.
-
-## Reading Guide
-
-**Main Essay**: Read the [complete essay online](https://brunoton.github.io/return-to-consciousness/complete-essay) (60 pages) or [download PDF](https://brunoton.github.io/return-to-consciousness/return-to-consciousness.pdf)
-
-**Related Essays**: Explore specialized deep-dives like [AI as Ego-less Intelligence](https://brunoton.github.io/return-to-consciousness/ego-less-ai)
-
-**Core Content:**
-- **[Main Essay](https://brunoton.github.io/return-to-consciousness/complete-essay)** - The complete philosophical argument across 7 parts
-- **[Appendix I: Anomalous Phenomena](https://brunoton.github.io/return-to-consciousness/complete-essay#appendix-i-anomalies)** - NDEs, psi effects, and evidence challenging materialism
-- **[Epilogue: The Cosmic Journey](https://brunoton.github.io/return-to-consciousness/complete-essay#epilogue-cosmic)** - Reincarnation, soul evolution, and consciousness hierarchy
-
-**For specific interests**: Navigate directly to [AI implications](https://brunoton.github.io/return-to-consciousness/complete-essay#part-v-applications), [anomalous phenomena evidence](https://brunoton.github.io/return-to-consciousness/complete-essay#appendix-i-anomalies), or [consciousness evolution framework](https://brunoton.github.io/return-to-consciousness/complete-essay#epilogue-cosmic)
-
-## Academic Platforms
-
-This work is available on major academic platforms for scholarly engagement:
-
-- **[Zenodo](https://doi.org/10.5281/zenodo.17100415)** - Primary academic repository with DOI (cite this version)
-- **[ResearchGate](https://www.researchgate.net/publication/394880543_Return_to_Consciousness_A_Philosophical_Journey_from_Materialism_to_Meaning)** - Connect with researchers and follow citations
-- **[Academia.edu](https://www.academia.edu/143586891/Return_to_Consciousness_A_Philosophical_Journey_from_Materialism_to_Meaning)** - Academic community discussion and sharing
-
-## Audience
-
-This work addresses multiple communities engaged with consciousness studies: philosophers examining the hard problem and metaphysical frameworks; scientists investigating quantum mechanics, neuroscience, and anomalous phenomena; AI researchers considering consciousness in artificial systems; and general readers seeking coherent understanding of consciousness, meaning, and humanity's current challenges.
+Modern science has achieved extraordinary predictive power while leaving its deepest questions unresolved: consciousness, quantum measurement, and the fracture between scientific models and lived meaning. These tensions are no longer merely philosophical. The emergence of artificial intelligence forces us to confront, in practice, the metaphysical assumptions we have treated as neutral—about mind, truth, and value. This project argues that a consciousness-first framework is not a retreat from rigor but its completion, integrating analytic philosophy, modern physics, AI research, anomalous phenomena, and contemplative traditions across cultures and millennia.
 
 ## Author
 
 **Bruno Tonetto**  
 B.S. Physics and Computer Science, Certified CEB Teacher (Santa Barbara Institute for Consciousness Studies)  
 [LinkedIn Profile](https://www.linkedin.com/in/brunotonetto/)
-
-## Academic Discussion
-
-This work invites scholarly engagement and critical examination. Substantive discussions, critiques, and collaboration inquiries are welcome through GitHub issues or direct contact.
-
-## How to Cite
-
-```
-Tonetto, B. (2025). Return to Consciousness: A Philosophical Journey from Materialism to Meaning (1.0). Zenodo. https://doi.org/10.5281/zenodo.17100415
-```
 
 ## License
 
@@ -66,8 +19,6 @@ This work is freely available under the [Creative Commons Attribution 4.0 Intern
 ## Repository Information
 
 **Web Version**: [https://brunoton.github.io/return-to-consciousness/](https://brunoton.github.io/return-to-consciousness/)
-
-**Contributing**: This work invites scholarly engagement. For substantive discussions or corrections, please open GitHub issues or contact the author directly.
 
 ---
 
