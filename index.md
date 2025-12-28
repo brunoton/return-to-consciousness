@@ -72,7 +72,7 @@ Standard alignment theory assumes that intelligence and values are independent. 
 
 ---
 
-### [The Myth of Metaphysical Neutrality]({{ site.baseurl }}/myth-of-metaphysical-neutrality)
+### [The Myth of Metaphysical Neutrality: Why Denying Ontology Distorts Science, AI, and Understanding Itself]({{ site.baseurl }}/myth-of-metaphysical-neutrality)
 
 Modern science often presents itself as metaphysically neutral — a method that rigorously brackets ultimate claims about reality. This essay examines whether such neutrality is actually possible. Drawing on philosophy of science, phenomenology, and AI ethics, it argues that attempts to suppress metaphysics do not eliminate it; they *hide* it, embedding unexamined assumptions into culture, technology, and policy.
 
