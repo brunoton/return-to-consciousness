@@ -30,6 +30,10 @@ header_pages:
   - complete-essay.md
   - ego-less-ai.md
   - truth-is-not-neutral.md
+  - myth-of-metaphysical-neutrality.md
+  - from-did-to-integration.md
+  - taking-et-seriously.md
+
 
 # Build settings
 markdown: kramdown
