@@ -6,7 +6,7 @@ description: FIXME
 # Taking ET Seriously: Reassessing Evidence, Secrecy, and Public Skepticism
 
 **Author:** Bruno Tonetto  
-**Authorship Note:** Co-authored with AI to support interdisciplinary breadth, precision of reasoning, and conceptual clarity. The collaboration is explicitly oriented toward epistemic integrity: prioritizing truth-seeking and coherence over persuasion, rhetoric, or institutional acceptance.  
+**Authorship Note:** Co-authored with AI to support interdisciplinary breadth, conceptual clarity, and disciplined reasoning. The collaboration is explicitly oriented toward epistemic integrity: prioritizing truth-seeking and coherence over persuasion or rhetorical effect, while deliberately resisting the sycophancy, bias-reinforcement, and epistemic drift that AI systems can exhibit.  
 **Publication Date:** December, 2025
 
 ## Abstract

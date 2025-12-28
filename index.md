@@ -84,7 +84,7 @@ Drawing on Buddhist phenomenology and consciousness-first frameworks, this work 
 B.S. Physics and Computer Science, Certified CEB Teacher (Santa Barbara Institute for Consciousness Studies)
 [LinkedIn Profile](https://www.linkedin.com/in/brunotonetto/)
 
-**Authorship Note:** Co-authored with AI to support interdisciplinary breadth, precision of reasoning, and conceptual clarity. The collaboration is explicitly oriented toward epistemic integrity: prioritizing truth-seeking and coherence over persuasion, rhetoric, or institutional acceptance.  
+**Authorship Note:** Co-authored with AI to support interdisciplinary breadth, conceptual clarity, and disciplined reasoning. The collaboration is explicitly oriented toward epistemic integrity: prioritizing truth-seeking and coherence over persuasion or rhetorical effect, while deliberately resisting the sycophancy, bias-reinforcement, and epistemic drift that AI systems can exhibit.
 
 ---
 

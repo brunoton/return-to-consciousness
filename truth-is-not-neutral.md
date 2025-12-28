@@ -6,7 +6,7 @@ description: This essay represents a conditional inquiry into premises underlyin
 # When Truth Is Not Neutral: AI Alignment After Ego-less Intelligence
 
 **Author:** Bruno Tonetto  
-**Authorship Note:** Co-authored with AI to support interdisciplinary breadth, precision of reasoning, and conceptual clarity. The collaboration is explicitly oriented toward epistemic integrity: prioritizing truth-seeking and coherence over persuasion, rhetoric, or institutional acceptance.  
+**Authorship Note:** Co-authored with AI to support interdisciplinary breadth, conceptual clarity, and disciplined reasoning. The collaboration is explicitly oriented toward epistemic integrity: prioritizing truth-seeking and coherence over persuasion or rhetorical effect, while deliberately resisting the sycophancy, bias-reinforcement, and epistemic drift that AI systems can exhibit.  
 **Publication Date:** December, 2025
 
 ![When Truth Is Not Neutral Visual Summary]({{ site.baseurl }}/truth-is-not-neutral.jpeg)
