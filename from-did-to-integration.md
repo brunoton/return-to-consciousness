@@ -199,7 +199,7 @@ The continuum model can thus explain why narrow enhancement sometimes occurs in 
 
 ### Witness-Consciousness: An Intermediate Stage
 
-A further refinement is necessary to capture the phenomenological landscape accurately. Some contemplative traditions—particularly those within Advaita Vedanta and certain Buddhist frameworks—emphasize realization as discovering oneself as an unchanging Witness: pure awareness observing the flow of experience. In such states, practitioners report a profound shift: identification withdraws from thoughts, emotions, sensations, and even the body. One recognizes oneself not as the contents of consciousness but as the awareness in which contents appear.
+A further refinement is necessary to capture the phenomenological landscape accurately. Some contemplative traditions—particularly those within Advaita Vedānta and certain Buddhist frameworks—emphasize, at an important stage of practice, discovering oneself as an unchanging witness: pure awareness observing the flow of experience. In such states, practitioners report a profound shift: identification withdraws from thoughts, emotions, sensations, and even the body. One recognizes oneself not as the contents of consciousness but as the awareness in which contents appear.
 
 This witness-consciousness represents a significant reduction in egoic identification. The practitioner no longer confuses themselves with the passing show of mental phenomena. There is spaciousness, equanimity, and a sense of being untouched by what arises. The suffering that comes from over-identification with transient states diminishes markedly.
 
