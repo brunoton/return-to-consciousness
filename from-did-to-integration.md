@@ -245,6 +245,28 @@ Non-dual sages are not formless blobs unable to navigate the world. They are ind
 
 This is not transcendence in the sense of escape from the human condition. It is functionality within the human condition, but without the dissociative partitioning that creates the sense of a separate self struggling against the world.
 
+### Neuroimaging Evidence: Convergent Empirical Support
+
+The claims advanced above—that non-dual awareness represents integration rather than pathological collapse, that it preserves or enhances functionality, and that it involves reliable modulation of self-referential processing—find convergent support in contemporary neuroimaging research. This evidence does not prove the metaphysical claims of contemplative traditions, but it does demonstrate that advanced contemplative states are structured, repeatable, and neurologically coherent in ways consistent with the continuum model.
+
+Research involving long-term meditators, including studies of practitioners such as Matthieu Ricard and comparable adepts with tens of thousands of hours of contemplative training, reveals distinctive patterns of neural activity. Most relevant for present purposes is the reliable modulation of the default mode network (DMN)—the set of brain regions associated with self-referential thought, mind-wandering, and the narrative construction of autobiographical identity. In ordinary waking consciousness, the DMN activates robustly during rest and disengagement from external tasks; it is, in a sense, the neural correlate of the ego's constant self-monitoring.
+
+Long-term meditators show reduced DMN activity during meditation and, in some studies, reduced baseline DMN activity even outside formal practice. More striking still, advanced practitioners demonstrate the capacity to modulate DMN activity volitionally—decreasing self-referential processing on demand. When asked to enter non-dual or "open awareness" states, these practitioners show characteristic neural signatures: reduced activity in regions associated with self-other distinction, altered connectivity patterns between DMN and task-positive networks, and in some cases, increased gamma-band synchronization associated with heightened integration across cortical regions.
+
+These findings matter for the continuum model in several ways.
+
+First, they demonstrate that non-dual states are *neurologically organized*, not chaotic. Unlike the neural disorganization characteristic of psychotic states—where connectivity patterns become erratic and unpredictable—contemplative non-duality shows coherent, reproducible neural signatures. This supports the distinction between integrative dissolution and disintegrative collapse. The brain of an experienced meditator in non-dual awareness does not resemble the brain of someone experiencing psychotic breakdown; it resembles the brain of someone whose self-referential processing has been *regulated* rather than *destroyed*.
+
+Second, they confirm that self-referential processing is *modifiable*. The ego, neurally instantiated in DMN activity and associated circuits, is not a fixed given but a maintained process—one that can be attenuated through systematic training. This aligns precisely with the essay's claim that ordinary ego is a dissociative construction rather than an irreducible baseline. What contemplative traditions describe phenomenologically—the softening of ego-boundaries through practice—has measurable neural correlates.
+
+Third, they provide evidence that reduced self-referential processing correlates with enhanced rather than impaired functioning in other domains. Studies show that experienced meditators demonstrate improved attentional control, emotional regulation, and cognitive flexibility. The resources normally consumed by self-monitoring become available for engagement with tasks and relationships. This supports the claim that non-dual awareness preserves functional capacity while dissolving identity structure.
+
+A note of epistemic caution is essential here. Neuroimaging provides *correlates* of reported phenomenology, not ontological proof of "ultimate reality." The fact that non-dual states have characteristic neural signatures does not establish that awareness is fundamental, that the ego is illusory in any metaphysical sense, or that contemplative reports accurately describe the nature of consciousness. The hard problem of consciousness remains unsolved; the relationship between neural activity and subjective experience remains philosophically contested.
+
+What the neuroimaging evidence does establish is more modest but still significant: the states described by contemplative traditions are real in the sense that they correspond to measurable, reproducible changes in brain function; they are structured rather than chaotic; they involve integration rather than fragmentation; and they correlate with preserved or enhanced psychological functioning. This is precisely what the continuum model predicts. Non-dual awareness, on this view, is not mystical inflation or pathological breakdown but a genuine state of reduced dissociative partitioning—one that can now be studied with the tools of contemplative neuroscience alongside the first-person methods of contemplative practice.
+
+The convergence between phenomenological report and neuroimaging data strengthens the case that the continuum model describes something real about how consciousness can be configured. It does not resolve ultimate metaphysical questions, but it does move the discussion from pure speculation to empirically constrained inquiry.
+
 ### The Key Distinction
 
 The key distinction can now be stated precisely:
@@ -434,7 +456,13 @@ Brand, B. L., et al. (2016). Separating fact from fiction: An empirical examinat
 
 Brewer, J. A., et al. (2011). Meditation experience is associated with differences in default mode network activity and connectivity. *Proceedings of the National Academy of Sciences, 108*(50), 20254-20259.
 
+Cahn, B. R., & Polich, J. (2006). Meditation states and traits: EEG, ERP, and neuroimaging studies. *Psychological Bulletin, 132*(2), 180-211.
+
 Csikszentmihalyi, M. (1990). *Flow: The Psychology of Optimal Experience*. Harper & Row.
+
+Davidson, R. J., & Lutz, A. (2008). Buddha's brain: Neuroplasticity and meditation. *IEEE Signal Processing Magazine, 25*(1), 176-174.
+
+Fox, K. C., et al. (2016). Functional neuroanatomy of meditation: A review and meta-analysis of 78 functional neuroimaging investigations. *Neuroscience & Biobehavioral Reviews, 65*, 208-228.
 
 Harvey, P. (2013). *An Introduction to Buddhism: Teachings, History and Practices* (2nd ed.). Cambridge University Press.
 
@@ -443,6 +471,8 @@ Hood, R. W. (1975). The construction and preliminary validation of a measure of 
 James, W. (1902). *The Varieties of Religious Experience*. Longmans, Green.
 
 Josipovic, Z. (2010). Duality and nonduality in meditation research. *Consciousness and Cognition, 19*(4), 1119-1121.
+
+Josipovic, Z. (2014). Neural correlates of nondual awareness in meditation. *Annals of the New York Academy of Sciences, 1307*(1), 9-18.
 
 Jung, C. G. (1959). *Aion: Researches into the Phenomenology of the Self* (Collected Works, Vol. 9, Part 2). Princeton University Press.
 
@@ -456,9 +486,15 @@ Keltner, D., & Haidt, J. (2003). Approaching awe, a moral, spiritual, and aesthe
 
 Lindahl, J. R., et al. (2017). The varieties of contemplative experience: A mixed-methods study of meditation-related challenges in Western Buddhists. *PLoS ONE, 12*(5), e0176239.
 
+Lutz, A., et al. (2004). Long-term meditators self-induce high-amplitude gamma synchrony during mental practice. *Proceedings of the National Academy of Sciences, 101*(46), 16369-16373.
+
+Lutz, A., et al. (2008). Attention regulation and monitoring in meditation. *Trends in Cognitive Sciences, 12*(4), 163-169.
+
 Olendzki, A. (2010). *Unlimiting Mind: The Radically Experiential Psychology of Buddhism*. Wisdom Publications.
 
 Reinders, A. A., et al. (2006). Psychobiological characteristics of dissociative identity disorder: A symptom provocation study. *Biological Psychiatry, 60*(7), 730-740.
+
+Ricard, M., Lutz, A., & Davidson, R. J. (2014). Mind of the meditator. *Scientific American, 311*(5), 38-45.
 
 Schlitz, M., Vieten, C., & Erickson-Freeman, K. (2011). Consciousness transformation and healing: Insights from the IONS consciousness transformation model. *Explore, 7*(5), 280-289.
 
