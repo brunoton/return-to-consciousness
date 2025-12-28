@@ -811,6 +811,83 @@ Whether interpreted as adversarial technology, unknown physics, or non-human int
 
 ---
 
+# References
+
+## Official Government Documents and Reports
+
+Office of the Director of National Intelligence. (2021). *Preliminary Assessment: Unidentified Aerial Phenomena*. Washington, DC: ODNI.
+
+Office of the Director of National Intelligence. (2023). *2022 Annual Report on Unidentified Aerial Phenomena*. Washington, DC: ODNI.
+
+Department of Defense, All-domain Anomaly Resolution Office. (2024). *Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP)*. Washington, DC: DoD.
+
+Central Intelligence Agency. (1953). *Report of the Scientific Advisory Panel on Unidentified Flying Objects* (Robertson Panel Report). Declassified.
+
+U.S. Senate Select Committee on Intelligence. (2020). Intelligence Authorization Act for Fiscal Year 2021, Section 1683: Advanced Aerial Threats. Public Law 116-260.
+
+U.S. House of Representatives. (2022). *Hearing on Unidentified Aerial Phenomena*. Subcommittee on Counterterrorism, Counterintelligence, and Counterproliferation, May 17, 2022.
+
+U.S. House of Representatives. (2023). *Hearing on Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency*. Subcommittee on National Security, the Border, and Foreign Affairs, July 26, 2023.
+
+## Congressional Testimony
+
+Grusch, David C. Testimony before the House Oversight Committee, July 26, 2023. Under oath.
+
+Fravor, David. Testimony before the House Oversight Committee, July 26, 2023. Under oath.
+
+Graves, Ryan. Testimony before the House Oversight Committee, July 26, 2023. Under oath.
+
+Elizondo, Luis. Various public statements and interviews, 2017–present. Former Director, AATIP.
+
+## Journalism and Investigative Reporting
+
+Cooper, Helene, Ralph Blumenthal, and Leslie Kean. "Glowing Auras and 'Black Money': The Pentagon's Mysterious U.F.O. Program." *The New York Times*, December 16, 2017.
+
+Kean, Leslie, and Ralph Blumenthal. "No Longer in Shadows, Pentagon's U.F.O. Unit Will Make Some Findings Public." *The New York Times*, July 23, 2020.
+
+Kean, Leslie, and Ralph Blumenthal. "Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin." *The Debrief*, June 5, 2023.
+
+Klippenstein, Ken, and Sara Sirota. "The Pentagon's Secret UFO Program." *The Intercept*, various dates, 2021–2023.
+
+## Academic and Scientific Sources
+
+Nolan, Garry P. Interview on UAP-related biological effects research. Stanford University, various dates, 2021–2023.
+
+Loeb, Avi. *Extraterrestrial: The First Sign of Intelligent Life Beyond Earth*. Boston: Houghton Mifflin Harcourt, 2021.
+
+Hynek, J. Allen. *The UFO Experience: A Scientific Inquiry*. Chicago: Henry Regnery Company, 1972.
+
+Vallée, Jacques. *Passport to Magonia: From Folklore to Flying Saucers*. Chicago: Henry Regnery Company, 1969.
+
+Powell, Robert. "A Forensic Analysis of Navy Carrier Strike Group Eleven's Encounter with an Anomalous Aerial Vehicle." SCU Publication, 2019.
+
+## Historical and Archival Sources
+
+Ruppelt, Edward J. *The Report on Unidentified Flying Objects*. Garden City, NY: Doubleday, 1956. (Ruppelt was head of Project Blue Book.)
+
+National Security Archive, George Washington University. Various declassified UAP-related documents.
+
+CIA FOIA Reading Room. Declassified documents related to UAP and the Robertson Panel.
+
+## Documentary Sources
+
+Farah, Dan (Director). *The Age of Disclosure*. Documentary film, 2025.
+
+Corbell, Jeremy, and George Knapp. *Extraordinary Beliefs* and related investigative journalism, 2018–present.
+
+## Witness Accounts and Organizational Sources
+
+Americans for Safe Aerospace. Founded by Ryan Graves. Advocacy organization for pilot UAP reporting.
+
+Salas, Robert. *Faded Giant: The 1967 Missile/UFO Incidents*. BookSurge Publishing, 2005.
+
+The Sol Foundation. Academic organization for UAP research. Stanford University affiliations.
+
+---
+
+**Note on Sources:** This essay prioritizes official government documents, sworn congressional testimony, and credentialed institutional sources. Where claims rely on whistleblower testimony not yet independently verified, this is noted explicitly in the text. The author acknowledges that significant relevant documentation remains classified and unavailable for public evaluation.
+---
+
 ## License {#license}
 
 This work is made freely available under the Creative Commons Attribution 4.0 International License (CC BY 4.0). You are free to share and adapt the material for any purpose, even commercially, provided you give appropriate credit, provide a link to the license, and indicate if changes were made. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
