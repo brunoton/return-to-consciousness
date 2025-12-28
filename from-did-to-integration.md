@@ -211,7 +211,7 @@ Non-dual awareness, as described by traditions that make this distinction explic
 
 Whether one treats witness-awareness as ultimate realization or as a transitional stage varies by tradition. Some teachings stop at the Witness and regard it as final; others explicitly describe its transcendence into non-dual awareness where even the witness dissolves. The present model interprets witness-consciousness as transitional—a profound stage of reduced dissociation that still retains the subtlest form of subject–object partitioning. Full integration, on this view, lies beyond it—corresponding to genuine non-dual realization rather than stabilized witnessing.
 
-In this essay, “non-dual” refers phenomenologically to the dissolution of subject–object partitioning, not to a commitment to any particular metaphysical system. In Advaita Vedānta, this corresponds to realization of awareness as non-dual ground; in Buddhism, it aligns more closely with anattā (no-self) and śūnyatā (emptiness), where even the notion of an ultimate witnessing awareness is relinquished. Despite doctrinal differences, both frameworks converge on the experiential claim: the ordinary ego’s sense of separateness is constructed and can dissolve in stable, healthy ways.
+In this essay, "non-dual" refers phenomenologically to the dissolution of subject–object partitioning, not to a commitment to any particular metaphysical system. In Advaita Vedānta, this corresponds to realization of awareness as non-dual ground; in Buddhism, it aligns more closely with anattā (no-self) and śūnyatā (emptiness), where even the notion of an ultimate witnessing awareness is relinquished. Despite doctrinal differences, both frameworks converge on the experiential claim: the ordinary ego's sense of separateness is constructed and can dissolve in stable, healthy ways.
 
 This is not to diminish witness-consciousness. It represents a genuine and significant shift—one that many practitioners may never move beyond, and one that carries substantial benefits in terms of equanimity, clarity, and reduced suffering. But phenomenological precision requires distinguishing it from the non-dual awareness described below, where even the position of witness has been relinquished.
 
@@ -273,9 +273,35 @@ Beyond partial unity lies witness-consciousness—what some traditions call the 
 
 At the far end lies stable non-dual awareness. Here dissociative partitioning has ceased entirely—not through breakdown but through integration. There is no longer a separate self standing apart from experience, nor even a witness observing from a vantage point. Identity is unbounded, not because it has expanded to infinity, but because the boundaries that created the sense of boundedness—including the subtle boundary between witness and witnessed—have dissolved. This state is rare, but it is documented across contemplative traditions and increasingly studied in contemplative science.
 
+### Partition versus Disorganization: Two Modes of Departure from Integration
+
+The continuum model as presented thus far describes movement along a single axis: from more partitioned to less partitioned consciousness. However, not all departures from integration are departures *along* this axis. A crucial refinement is necessary to avoid conceptual confusion and clinical misapplication.
+
+Consider the difference between DID and schizophrenia. Both represent significant departures from healthy psychological functioning. Both involve alterations in the structure of selfhood. Yet they depart from integration in fundamentally different ways—ways that the single-axis model, without qualification, risks obscuring.
+
+**Dissociative Identity Disorder** represents what we might call *structured fragmentation*. The psyche has partitioned itself into multiple identity fields, each internally coherent. An alter in DID typically has its own consistent sense of self, its own memories, its own behavioral patterns. The partitions are rigid and the barriers between them pathological, but *within* each partition, coherence is preserved. The problem is not that structure has collapsed but that structure has *multiplied*—the psyche has organized itself into several bounded wholes rather than one.
+
+**Schizophrenia** represents something different: *global destabilization*. Here the issue is not excessive partitioning but erosion of coherence itself. Salience becomes dysregulated—irrelevant stimuli acquire overwhelming significance while meaningful patterns dissolve. The boundary between self and world becomes unstable not through structured partition but through pervasive uncertainty. Reality testing fails. The narrative continuity that ordinarily binds experience into a comprehensible whole fragments—not into multiple coherent narratives but into incoherence as such.
+
+This distinction matters because integration presupposes coherence. One can integrate what is partitioned; one cannot integrate what is disorganized. To move from DID toward integration requires dissolving barriers between already-coherent identity structures—allowing communication, shared memory, and eventually unified identity to emerge across previously separated alters. The therapeutic direction is *toward connection* between existing structures.
+
+To move from acute schizophrenia toward integration requires something different: *stabilization first*. Before integration is possible, coherence must be restored. The person must regain reliable reality testing, stable salience, and a baseline narrative continuity. Only then can integrative work proceed. Attempting integrative practices—ego-softening meditation, psychedelics, intensive shadow work—in a psychotic state risks further destabilization rather than movement toward wholeness.
+
+This suggests the continuum model requires a second axis—or at minimum, an explicit qualification. The primary axis runs from partition to integration: from rigidly bounded multiplicity, through functional ego, through partial unity, to non-dual awareness. But orthogonal to this axis lies a dimension of *coherence versus disorganization*. Movement toward integration is possible only within a range of sufficient coherence. Below a threshold of coherence, one has departed from the continuum altogether into territory where stabilization, not integration, is the appropriate clinical goal.
+
+Schizophrenia, on this refined model, is not "more dissociated than DID" in the sense of being further along the same axis. It is *off the axis*—a departure from the coherence that makes movement along the axis possible. DID represents extreme partition within coherence; schizophrenia represents loss of coherence itself.
+
+This clarification reinforces rather than undermines the essay's central claims. Non-dual awareness is *order without partition*: consciousness that is both fully coherent and fully integrated. Schizophrenia is *loss of order without integration*: consciousness that has lost coherence without gaining wholeness. The two could not be more different, despite superficial similarities in altered self-boundaries. The mystic and the psychotic may both report that ordinary selfhood has dissolved, but what remains in each case is radically distinct. For the mystic: stable, intimate, functional presence. For the person in acute psychosis: fragmented, unstable, often terrifying disorganization.
+
+The clinical stakes are significant. Someone in a psychotic state requires stabilization, often including medication, structured environment, and restoration of basic coherence. Someone undergoing genuine contemplative opening requires support for integration—holding environments, skilled guidance, time to metabolize the experience. Confusing these categories produces harm in both directions: pathologizing awakening truncates development; spiritualizing psychosis neglects urgent clinical need.
+
+The continuum model, properly understood, does not romanticize any form of ego-dissolution. It distinguishes integrative dissolution from disintegrative collapse. And it recognizes that schizophrenia represents not an extreme on the dissociative continuum but a qualitatively different structural failure—one that requires its own clinical response before the question of integration even arises.
+
 ### A Note on the Continuum Metaphor
 
 Although this essay speaks of a "continuum," the term should not be taken to imply a single linear axis or a uniform developmental sequence. Dissociation operates along multiple psychological dimensions—cognitive, affective, somatic, relational—and movement toward integration may proceed through different sequences and structures across individuals. One person may first integrate shadow material; another may begin with somatic de-armoring; another with the dissolution of conceptual self-narratives. The stages described above are landmarks on a terrain, not rungs on a ladder. What the continuum model captures is *directionality*—the distinction between greater and lesser partition, between fragmentation and integration—not a single prescribed path. The map indicates the direction of travel; the route varies.
+
+The refinement introduced above—distinguishing partition from disorganization—further complicates the spatial metaphor. The "continuum" is not a line but something more like a region of viable territory, bounded on one side by excessive partition and on another by loss of coherence. Integration lies at the center of this territory, not at one end of a line. Movement toward it is possible from various starting points, but only within the region where sufficient coherence obtains.
 
 ### Implications of the Continuum Model
 
@@ -288,6 +314,8 @@ Second, it makes unity experiences admissible as phenomenological data. If parti
 Third, it suggests that the ego is not the ground floor of consciousness but a particular configuration within it—functional and adaptive, but not absolute. There is something beneath or beyond the ego, and that something is not chaos or void but integration.
 
 Fourth, it reframes contemplative practice. Meditation, on this view, is not about achieving altered states or acquiring spiritual powers. It is about recognizing and relaxing the dissociative boundaries that create the sense of a separate self. Practice is de-construction, not construction; subtraction, not addition.
+
+Fifth, it clarifies when integrative approaches are and are not appropriate. The distinction between partitioned and disorganized pathology carries direct clinical implications: integrative work presupposes sufficient coherence, and attempts to dissolve ego-boundaries in the absence of such coherence risk harm rather than healing.
 
 ### A Note on Direction
 
@@ -311,6 +339,8 @@ But if the continuum model is correct, not all experiences of reduced self-bound
 
 Similarly, the model offers a framework for understanding spiritual emergencies—crises precipitated by contemplative practice or spontaneous awakening experiences. These are not simply psychotic breaks to be suppressed, nor are they unambiguously positive transformations to be celebrated. They are movements along the dissociative continuum that may be integrative or disintegrative depending on context, support, and individual factors.
 
+The refined model also clarifies the distinct clinical profile of schizophrenia. Unlike dissociative conditions, which require integrative work to dissolve partitions between coherent structures, schizophrenia requires stabilization to restore coherence itself. The appropriate intervention sequence differs fundamentally: stabilization must precede integration. Clinicians who understand this distinction can avoid both the error of applying integrative techniques to disorganized states and the error of using purely stabilizing interventions when integration is what the patient needs.
+
 ### Philosophical Clarity
 
 The continuum model avoids the mystification that often surrounds discussions of non-duality. By locating awakening on a spectrum that includes clinically observable phenomena at one end and ordinary experience in the middle, the model makes non-duality intelligible within a broader framework that requires no appeal to the supernatural.
@@ -330,6 +360,8 @@ The continuum model provides a meeting point. Dissociation as a clinical concept
 ## Conclusion: Toward Integration
 
 The argument of this essay can be summarized simply. Dissociation is real and observable; it demonstrates that consciousness can partition itself. Ordinary egoic consciousness is itself a form of dissociation—mild, functional, nearly universal, but dissociation nonetheless. Experiences of unity represent reduced dissociation, not added delusion. Full non-dual awareness represents the absence of dissociative partitioning—integration rather than fragmentation.
+
+A crucial refinement distinguishes two modes of departure from integration: partitioned pathology (as in DID), where coherent structures are improperly separated, and disorganized pathology (as in schizophrenia), where coherence itself has eroded. Integration presupposes coherence; where coherence is absent, stabilization must precede integrative work. This distinction prevents the model from being misread as suggesting that schizophrenia represents "extreme ego dissolution" in the same sense as contemplative non-duality. The two could not be more different: non-duality is order without partition; schizophrenia is loss of order without integration.
 
 If this is correct, then what contemplative traditions call "awakening" is not the acquisition of something new but the dissolution of boundaries that were never as solid as they appeared. The separate self is not destroyed because it was never there in the way it seemed to be. What remains when dissociation ceases is not void but presence—consciousness undivided, identity unbounded, experience intimate with itself.
 
