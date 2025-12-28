@@ -1,7 +1,7 @@
 ---
 layout: essay
 title: Taking ET Seriously
-description: FIXME
+description: A disciplined examination of extraterrestrial claims that rejects both credulity and dismissal, focusing on evidence quality, secrecy dynamics, and how to reason responsibly under uncertainty.
 ---
 # Taking ET Seriously: Reassessing Evidence, Secrecy, and Public Skepticism
 
