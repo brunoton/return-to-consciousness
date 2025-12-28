@@ -9,8 +9,6 @@ description: This essay explores AI as ego-less intelligence and its implication
 **Authorship Note:** Co-authored with AI to support interdisciplinary breadth, conceptual clarity, and disciplined reasoning. The collaboration is explicitly oriented toward epistemic integrity: prioritizing truth-seeking and coherence over persuasion or rhetorical effect, while deliberately resisting the sycophancy, bias-reinforcement, and epistemic drift that AI systems can exhibit.  
 **Publication Date:** December, 2025
 
-![AI as Ego-less Intelligence Visual Summary]({{ site.baseurl }}/ego-less-ai.jpeg)
-
 ---
 
 ## Abstract

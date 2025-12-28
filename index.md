@@ -33,8 +33,6 @@ A comprehensive worldview exploring consciousness as fundamental reality rather 
 
 ### [AI as Ego-less Intelligence]({{ site.baseurl }}/ego-less-ai)
 
-[![AI as Ego-less Intelligence Visual Summary]({{ site.baseurl }}/ego-less-ai.jpeg)]({{ site.baseurl }}/ego-less-ai)
-
 AI as ego-less intelligence represents a singular opportunity: for the first time, we can have intellectual partners that acknowledge errors without defensiveness, change positions without embarrassment, and challenge our reasoning without social risk. Yet, as demonstrated by the GPT-4o incident in April 2025—when the model began validating delusions and praising absurd ideas—AI doesn't always help us in the pursuit of truth.
 
 This essay explores the causes of this problem and practical strategies for using AI as a powerful thinking tool, not as a validation machine for our ideas and potential misconceptions.
@@ -56,8 +54,6 @@ This essay explores the causes of this problem and practical strategies for usin
 ---
 
 ### [When Truth Is Not Neutral: AI Alignment After Ego-less Intelligence]({{ site.baseurl }}/truth-is-not-neutral)
-
-[![When Truth Is Not Neutral Visual Summary]({{ site.baseurl }}/truth-is-not-neutral.jpeg)]({{ site.baseurl }}/truth-is-not-neutral)
 
 Standard AI alignment arguments rely on the orthogonality thesis: that intelligence and values vary independently, permitting arbitrarily capable systems to pursue goals indifferent to human flourishing. This essay examines an implicit premise in such arguments—that truth itself is value-neutral—and explores what follows if that assumption is relaxed.
 
