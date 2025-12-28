@@ -1,38 +1,8 @@
 ---
-layout: default
+layout: essay
 title: Main Essay
 description: Complete philosophical essay exploring consciousness-first metaphysics, AI safety through spiritual maturation, anomalous phenomena integration, and civilizational transformation
 ---
-
-<div class="floating-toc">
-  <div class="toc-header">
-    <span class="toc-title">Contents</span>
-    <span class="toc-toggle">▼</span>
-  </div>
-  <div class="toc-content">
-    <ul class="toc-nav">
-      <li><a href="#overview" class="toc-level-1">Overview</a></li>
-      <li><a href="#introduction" class="toc-level-1">Introduction</a></li>
-      <li><a href="#part-i-challenges" class="toc-level-1">Part I: Philosophical Challenges</a></li>
-      <li><a href="#part-ii-origins" class="toc-level-1">Part II: Historical Origins</a></li>
-      <li><a href="#part-iii-idealism" class="toc-level-1">Part III: Analytic Idealism</a></li>
-      <li><a href="#part-iv-convergence" class="toc-level-1">Part IV: Cross-Cultural Convergence</a></li>
-      <li><a href="#part-v-applications" class="toc-level-1">Part V: Civilizational Applications</a></li>
-      <li><a href="#part-vi-rigor" class="toc-level-1">Part VI: Philosophical Rigor</a></li>
-      <li><a href="#part-vii-evidence" class="toc-level-1">Part VII: Empirical Evidence</a></li>
-      <li><a href="#part-viii-spiral" class="toc-level-1">Part VIII: Spiral Development</a></li>
-      <li><a href="#part-ix-implications" class="toc-level-1">Part IX: Implications</a></li>
-      <li><a href="#conclusion" class="toc-level-1">Conclusion</a></li>
-      <li><a href="#appendix-i-anomalies" class="toc-level-1">Appendix I: Anomalous Phenomena</a></li>
-      <li><a href="#appendix-ii-beyond-death" class="toc-level-1">Appendix II: Beyond Survival and Extinction</a></li>
-      <li><a href="#epilogue-cosmic" class="toc-level-1">Epilogue: The Cosmic Journey</a></li>
-      <li><a href="#references" class="toc-level-1">References</a></li>
-      <li><a href="#license" class="toc-level-1">License</a></li>
-    </ul>
-  </div>
-</div>
-
-<script src="{{ '/assets/js/floating-toc.js' | relative_url }}"></script>
 
 # Return to Consciousness: A Philosophical Journey from Materialism to Meaning
 

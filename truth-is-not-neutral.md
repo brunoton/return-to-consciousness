@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: essay
 title: Truth Is Not Neutral
 description: This essay represents a conditional inquiry into premises underlying AI alignment theory. If truth has normative structure, alignment research priorities would shift in significant ways.
 ---

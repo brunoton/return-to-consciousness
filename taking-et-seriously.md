@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: essay
 title: Taking ET Seriously
 description: FIXME
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: essay
 title: From DID to Integration
 description: This essay examines dissociation and non-duality as empirical and phenomenological phenomena, proposing a continuum model that makes contemplative experience intelligible within a naturalistic framework.
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: essay
 title: The Myth of Metaphysical Neutrality
 description: No research program is metaphysically neutral. This essay exposes how unexamined physicalism constrains inquiry in science and AI alignment, and argues that intellectual honesty—not dogma—requires acknowledging the ontological assumptions shaping our most consequential decisions.
 ---

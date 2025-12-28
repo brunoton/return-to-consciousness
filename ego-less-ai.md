@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: essay
 title: Ego-less AI
 description: This essay explores AI as ego-less intelligence and its implications for truth-seeking. As the field evolves rapidly, the ideas require continuous refinement—modeling the ego-less openness to correction that characterizes the systems we study.
 ---
