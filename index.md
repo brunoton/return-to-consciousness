@@ -84,6 +84,8 @@ Drawing on Buddhist phenomenology and consciousness-first frameworks, this work 
 B.S. Physics and Computer Science, Certified CEB Teacher (Santa Barbara Institute for Consciousness Studies)
 [LinkedIn Profile](https://www.linkedin.com/in/brunotonetto/)
 
+**Authorship Note:** Co-authored with AI to support interdisciplinary breadth, precision of reasoning, and conceptual clarity. The collaboration is explicitly oriented toward epistemic integrity: prioritizing truth-seeking and coherence over persuasion, rhetoric, or institutional acceptance.  
+
 ---
 
 *"We stand at a threshold. The materialist worldview that seemed to promise unlimited progress has revealed its shadows... Yet within this crisis, ancient wisdom converges with cutting-edge philosophy to offer an alternative: consciousness as the fundamental nature of reality."*

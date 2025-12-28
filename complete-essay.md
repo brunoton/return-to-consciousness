@@ -37,7 +37,7 @@ description: Complete philosophical essay exploring consciousness-first metaphys
 # Return to Consciousness: A Philosophical Journey from Materialism to Meaning
 
 **Author:** Bruno Tonetto  
-**Background:** B.S. Physics and Computer Science, Certified CEB Teacher (Santa Barbara Institute for Consciousness Studies)  
+**Authorship Note:** Co-authored with AI to support interdisciplinary breadth, precision of reasoning, and conceptual clarity. The collaboration is explicitly oriented toward epistemic integrity: prioritizing truth-seeking and coherence over persuasion, rhetoric, or institutional acceptance.  
 **Publication Date:** September, 2025
 
 ![Return to Consciousness Visual Summary]({{ site.baseurl }}/return-to-consciousness.jpeg)
