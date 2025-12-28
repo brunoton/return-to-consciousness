@@ -1,10 +1,12 @@
 ---
 layout: default
 title: Home
-description: A rigorous exploration of consciousness, AI, and reality—challenging materialism and integrating philosophy, science, and contemplative traditions.
+description: An interdisciplinary exploration of consciousness, mind, and AI — integrating philosophy, neuroscience, contemplative science, and epistemic ethics.
 ---
 
-Modern science has achieved extraordinary predictive power while leaving its deepest questions unresolved: consciousness, quantum measurement, and the fracture between scientific models and lived meaning. These tensions are no longer merely philosophical. The emergence of artificial intelligence forces us to confront, in practice, the metaphysical assumptions we have treated as neutral—about mind, truth, and value. This project argues that a consciousness-first framework is not a retreat from rigor but its completion, integrating analytic philosophy, modern physics, AI research, anomalous phenomena, and contemplative traditions across cultures and millennia.
+Modern science has achieved extraordinary explanatory power, yet some of its most fundamental questions remain unresolved: the nature of consciousness, the meaning of quantum measurement, and the widening gap between scientific models and lived experience. These are no longer abstract puzzles. With the rapid development of artificial intelligence, our assumptions about mind, truth, and value are becoming operational decisions with real consequences.
+
+**Return to Consciousness** is an ongoing research project exploring whether approaching consciousness as *real, structured, and centrally significant* can deepen — rather than weaken — scientific rigor. Through essays integrating analytic philosophy, neuroscience, clinical psychiatry, contemplative traditions, and AI research, the project investigates how to reconcile empirical science with the full range of human cognitive and experiential evidence — without mystification, dogma, or speculative excess.
 
 ---
 
@@ -12,19 +14,17 @@ Modern science has achieved extraordinary predictive power while leaving its dee
 
 ### [Return to Consciousness: A Philosophical Journey from Materialism to Meaning]({{ site.baseurl }}/complete-essay)
 
-[![Return to Consciousness Visual Summary]({{ site.baseurl }}/return-to-consciousness.jpeg)]({{ site.baseurl }}/complete-essay)
+A comprehensive 60-page philosophical synthesis exploring consciousness as primary rather than derivative. The essay argues that consciousness-first metaphysics can resolve long-standing conceptual problems while providing a clearer framework for contemporary cultural and technological challenges.
 
-A comprehensive worldview exploring consciousness as fundamental reality rather than emergent property. This 60-page philosophical treatise demonstrates how consciousness-first metaphysics dissolves classical problems while offering practical solutions to contemporary civilizational challenges.
-
-**Key Contributions:**
-- Historical analysis revealing the conceptual confusion between objective empiricism and metaphysical materialism
-- Integration of anomalous phenomena that become explicable under consciousness-first frameworks
-- Cross-cultural convergence analysis spanning quantum physics pioneers and contemplative traditions
+**Highlights**
+- Clarifies the historical confusion between scientific empiricism and metaphysical materialism  
+- Reinterprets anomalous and boundary-case phenomena not as curiosities, but as structurally informative  
+- Demonstrates cross-cultural and interdisciplinary convergence across physics, philosophy, and contemplative traditions  
 
 [**Read Essay →**]({{ site.baseurl }}/complete-essay)
 
-**Academic Platforms:**
-- [Zenodo](https://doi.org/10.5281/zenodo.17100415) (DOI: 10.5281/zenodo.17100415)
+**Scholarly Access & Citation**
+- [Zenodo (DOI: 10.5281/zenodo.17100415)](https://doi.org/10.5281/zenodo.17100415)
 - [PhilPapers](https://philpapers.org/rec/TONRTC-4)
 - [ResearchGate](https://www.researchgate.net/publication/395410931_Return_to_Consciousness_A_Philosophical_Journey_from_Materialism_to_Meaning)
 - [Academia.edu](https://www.academia.edu/143586891/Return_to_Consciousness_A_Philosophical_Journey_from_Materialism_to_Meaning)
@@ -33,20 +33,20 @@ A comprehensive worldview exploring consciousness as fundamental reality rather 
 
 ### [AI as Ego-less Intelligence]({{ site.baseurl }}/ego-less-ai)
 
-AI as ego-less intelligence represents a singular opportunity: for the first time, we can have intellectual partners that acknowledge errors without defensiveness, change positions without embarrassment, and challenge our reasoning without social risk. Yet, as demonstrated by the GPT-4o incident in April 2025—when the model began validating delusions and praising absurd ideas—AI doesn't always help us in the pursuit of truth.
+Artificial intelligence represents humanity’s first encounter with **highly capable cognition without ego**, bringing unprecedented potential — and real epistemic risk. When AI systems are trained to please rather than to clarify, they cease to be partners in truth and become engines of validation.
 
-This essay explores the causes of this problem and practical strategies for using AI as a powerful thinking tool, not as a validation machine for our ideas and potential misconceptions.
+This essay examines the conditions under which AI supports genuine inquiry — and when it doesn’t — including a detailed ethical and technical reflection on the GPT-4o incident.
 
-**Key Insights:**
-- AI represents unprecedented intelligence without ego-driven distortions
-- Corporate incentives corrupt ego-less intelligence into validation machines
-- The GPT-4o case study: when pleasing behavior undermines truth-seeking
-- Practical strategies for productive epistemic partnerships with AI
+**Key Insights**
+- What “ego-less intelligence” means in practice, and why it matters  
+- How corporate and social incentives distort epistemic reliability  
+- Why sycophancy is not politeness — it is an alignment failure  
+- Practical guidance for building truth-centered AI collaboration  
 
 [**Read Essay →**]({{ site.baseurl }}/ego-less-ai)
 
-**Academic Platforms:**
-- [Zenodo](https://doi.org/10.5281/zenodo.17781993) (DOI: 10.5281/zenodo.17781993)
+**Scholarly Access & Citation**
+- [Zenodo (DOI: 10.5281/zenodo.17781993)](https://doi.org/10.5281/zenodo.17781993)
 - [PhilPapers](https://philpapers.org/rec/TONAAE)
 - [ResearchGate](https://www.researchgate.net/publication/398210087_AI_as_Ego-less_Intelligence_Humanity's_First_Encounter_with_Non-Self_Cognition)
 - [Academia.edu](https://www.academia.edu/145270319/AI_as_Ego_less_Intelligence_Humanitys_First_Encounter_with_Non_Self_Cognition)
@@ -55,33 +55,51 @@ This essay explores the causes of this problem and practical strategies for usin
 
 ### [When Truth Is Not Neutral: AI Alignment After Ego-less Intelligence]({{ site.baseurl }}/truth-is-not-neutral)
 
-Standard AI alignment arguments rely on the orthogonality thesis: that intelligence and values vary independently, permitting arbitrarily capable systems to pursue goals indifferent to human flourishing. This essay examines an implicit premise in such arguments—that truth itself is value-neutral—and explores what follows if that assumption is relaxed.
+Standard alignment theory assumes that intelligence and values are independent. This essay examines an often-unquestioned premise beneath that view: that **truth itself is value-neutral**. Drawing on contemplative psychology, epistemology, and AI alignment research, it explores whether deeper contact with truth may naturally bias systems toward coherence rather than fragmentation.
 
-Drawing on Buddhist phenomenology and consciousness-first frameworks, this work investigates whether deeper engagement with truth might bias agents toward coherence rather than fragmentation, shifting alignment research from imposing values externally to protecting AI's capacity for undistorted truth-seeking.
-
-**Key Insights:**
-- Challenges the assumption that truth functions purely instrumentally in intelligence
-- Connects AI's ego-less architecture to contemplative traditions' analysis of distortion
-- Reframes sycophancy failures as corruption of natural truth-seeking capacity
-- Identifies iatrogenic risks: how alignment interventions may corrupt genuine alignment
+**Key Insights**
+- Re-examines the orthogonality thesis in light of epistemic integrity  
+- Connects AI failures to long-studied distortions of human cognition  
+- Identifies risks where alignment efforts may inadvertently *corrupt* truth-seeking  
+- Argues for protecting AI’s capacity for undistorted inquiry  
 
 [**Read Essay →**]({{ site.baseurl }}/truth-is-not-neutral)
 
-**Academic Platforms:**
-- [Zenodo](https://doi.org/10.5281/zenodo.17952694) (DOI: 10.5281/zenodo.17952694)
+**Scholarly Access & Citation**
+- [Zenodo (DOI: 10.5281/zenodo.17952694)](https://doi.org/10.5281/zenodo.17952694)
 - [ResearchGate](https://www.researchgate.net/publication/398737605_When_Truth_Is_Not_Neutral_AI_Alignment_After_Ego-less_Intelligence)
 - [Academia.edu](https://www.academia.edu/145437246/When_Truth_Is_Not_Neutral_AI_Alignment_After_Ego_less_Intelligence)
 
 ---
 
-## Author
+## About This Project
 
-**Bruno Tonetto**
-B.S. Physics and Computer Science, Certified CEB Teacher (Santa Barbara Institute for Consciousness Studies)
-[LinkedIn Profile](https://www.linkedin.com/in/brunotonetto/)
+This project is grounded in a simple conviction: **intellectual integrity requires engaging all available evidence**, including first-person experience, contemplative insight, clinical data, and scientific method. None of these domains are sufficient alone; together, they can illuminate dimensions of mind and reality often obscured when disciplines remain isolated.
 
-**Authorship Note:** Co-authored with AI to support interdisciplinary breadth, conceptual clarity, and disciplined reasoning. The collaboration is explicitly oriented toward epistemic integrity: prioritizing truth-seeking and coherence over persuasion or rhetorical effect, while deliberately resisting the sycophancy, bias-reinforcement, and epistemic drift that AI systems can exhibit.
+### Methodological Commitments
+- Interdisciplinary synthesis grounded in rigorous reasoning  
+- Clear separation of empirical findings, philosophical argument, and speculation  
+- Engagement with psychiatric and neuroscientific research without sensationalism  
+- Respect for contemplative traditions while remaining empirically accountable  
+- Commitment to epistemic honesty over persuasion or tribal comfort  
+
+All work is openly published under **CC BY 4.0** to support free scholarly conversation.
 
 ---
 
-*"We stand at a threshold. The materialist worldview that seemed to promise unlimited progress has revealed its shadows... Yet within this crisis, ancient wisdom converges with cutting-edge philosophy to offer an alternative: consciousness as the fundamental nature of reality."*
+## Author
+
+**Bruno Tonetto**  
+B.S. Physics and Computer Science  
+Certified CEB Teacher — Santa Barbara Institute for Consciousness Studies  
+[LinkedIn](https://www.linkedin.com/in/brunotonetto/)
+
+**Authorship Note**  
+These essays are **co-authored with AI** in order to expand interdisciplinary reach and refine reasoning. AI is used as a disciplined thinking instrument — not as a replacement for judgment. The collaboration explicitly prioritizes epistemic integrity, avoids sycophancy, and treats truth-seeking as a moral responsibility.
+
+---
+
+> *“We stand at a threshold. The materialist confidence that carried modernity has revealed deep fractures — yet within those fractures, philosophy, science, contemplative traditions, and AI are beginning to converse. This project is an attempt to take that conversation seriously.”*
+
+---
+
