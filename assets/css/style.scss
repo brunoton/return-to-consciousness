@@ -46,6 +46,102 @@
   padding: 16px 32px;
 }
 
+.site-header {
+  border-bottom: 1px solid #d1d9e0;
+  background: white;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.site-header .wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Hamburger Menu Button */
+.menu-toggle {
+  display: none;
+  background: none;
+  border: 1px solid #d1d9e0;
+  border-radius: 6px;
+  padding: 8px 12px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.menu-toggle:hover {
+  background: #f6f8fa;
+  border-color: #0969da;
+}
+
+.menu-toggle.active {
+  background: #0969da;
+  border-color: #0969da;
+}
+
+.hamburger-icon {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  width: 24px;
+}
+
+.hamburger-icon span {
+  display: block;
+  width: 100%;
+  height: 2px;
+  background-color: #1f2328;
+  transition: all 0.3s ease;
+  border-radius: 2px;
+}
+
+.menu-toggle.active .hamburger-icon span {
+  background-color: white;
+}
+
+.menu-toggle.active .hamburger-icon span:nth-child(1) {
+  transform: rotate(45deg) translate(5px, 5px);
+}
+
+.menu-toggle.active .hamburger-icon span:nth-child(2) {
+  opacity: 0;
+}
+
+.menu-toggle.active .hamburger-icon span:nth-child(3) {
+  transform: rotate(-45deg) translate(7px, -6px);
+}
+
+/* Navigation Menu */
+.site-nav {
+  display: flex;
+  align-items: center;
+}
+
+.nav-menu {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.nav-menu .page-link {
+  padding: 8px 16px;
+  color: #1f2328;
+  text-decoration: none;
+  border-radius: 6px;
+  transition: all 0.2s ease;
+  font-size: 14px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.nav-menu .page-link:hover {
+  background: #f6f8fa;
+  color: #0969da;
+  text-decoration: none;
+}
+
 /* Main content area should have GitHub-style typography */
 .page-content .wrapper {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
@@ -284,6 +380,48 @@
     right: 10px;
     width: 260px;
   }
+
+  /* Enable hamburger menu on tablets and smaller */
+  .menu-toggle {
+    display: block;
+  }
+
+  .nav-menu {
+    position: fixed;
+    top: 60px;
+    right: 0;
+    background: white;
+    border: 1px solid #d1d9e0;
+    border-radius: 8px;
+    margin: 16px;
+    padding: 16px;
+    flex-direction: column;
+    align-items: stretch;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    max-height: calc(100vh - 100px);
+    overflow-y: auto;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-10px);
+    transition: all 0.3s ease;
+    min-width: 250px;
+  }
+
+  .nav-menu.active {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+  }
+
+  .nav-menu .page-link {
+    padding: 12px 16px;
+    border-bottom: 1px solid #f6f8fa;
+    white-space: normal;
+  }
+
+  .nav-menu .page-link:last-child {
+    border-bottom: none;
+  }
 }
 
 @media (max-width: 768px) {
@@ -295,7 +433,7 @@
     left: 20px;
     width: auto;
     transform: none;
-    max-height: 60vh; /* Increased from 50vh */
+    max-height: 60vh;
   }
 
   .floating-toc.collapsed {
@@ -304,29 +442,29 @@
     right: 20px;
     left: auto;
   }
-  
+
   /* Ensure TOC content is properly scrollable on mobile */
   .toc-content {
-    max-height: calc(60vh - 60px); /* Account for header height */
+    max-height: calc(60vh - 60px);
     overflow-y: auto;
-    -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
+    -webkit-overflow-scrolling: touch;
   }
-  
+
   /* Make scrollbar more visible on mobile */
   .toc-content::-webkit-scrollbar {
-    width: 8px; /* Wider scrollbar for mobile */
+    width: 8px;
   }
-  
+
   .toc-content::-webkit-scrollbar-thumb {
-    background: #afb8c1; /* More visible by default */
+    background: #afb8c1;
     border-radius: 4px;
   }
-  
+
   /* Ensure TOC doesn't get cut off by bottom safe areas on mobile */
   .floating-toc {
     bottom: max(20px, env(safe-area-inset-bottom, 0px));
   }
-  
+
   /* Add scroll indicator for mobile to show more content below */
   .toc-content::after {
     content: '';
@@ -345,44 +483,18 @@
     padding: 16px;
     border-radius: 6px;
   }
-  
+
   .site-header .wrapper,
   .site-footer .wrapper {
     padding: 16px;
   }
-  
-  /* Fix mobile navigation overlap */
-  .site-header {
-    position: relative;
-    z-index: 1000;
-  }
-  
-  .site-nav {
-    position: relative;
-    background: white;
-    border: 1px solid #d1d9e0;
-    border-radius: 6px;
-    margin-top: 8px;
-    padding: 8px;
-  }
-  
-  .site-nav .trigger {
-    display: flex;
-    flex-direction: column;
-    gap: 8px;
-  }
-  
-  .site-nav .page-link {
-    padding: 8px 12px;
-    border-radius: 4px;
-    background: #f6f8fa;
-    text-decoration: none;
-    color: #0969da;
-    border: 1px solid #d1d9e0;
-  }
-  
-  .site-nav .page-link:hover {
-    background: #e6f3ff;
-    text-decoration: none;
+
+  /* Mobile menu adjustments */
+  .nav-menu {
+    top: 56px;
+    left: 0;
+    right: 0;
+    margin: 8px;
+    min-width: auto;
   }
 }

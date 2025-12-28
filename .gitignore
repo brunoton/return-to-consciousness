@@ -3,3 +3,5 @@ TASKS.md
 outreach/
 CLAUDE.md
 ~$o-less-ai.docx
+_site/
+Gemfile.lock

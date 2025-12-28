@@ -48,13 +48,20 @@
     <div class="wrapper">
       <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
       <nav class="site-nav">
-        <div class="trigger">
+        <button class="menu-toggle" aria-label="Toggle navigation menu" aria-expanded="false">
+          <span class="hamburger-icon">
+            <span></span>
+            <span></span>
+            <span></span>
+          </span>
+        </button>
+        <div class="nav-menu">
+          <a class="page-link" href="{{ '/' | relative_url }}">Home</a>
           {% for path in site.header_pages %}
             {% assign my_page = site.pages | where: "path", path | first %}
             {% if my_page.title %}
             <a class="page-link" href="{{ my_page.url | relative_url }}">
-              {% if path == "index.md" %}Home
-              {% elsif path == "complete-essay.md" %}Main Essay  
+              {% if path == "complete-essay.md" %}Main Essay
               {% elsif path == "ego-less-ai.md" %}Ego-less AI
               {% else %}{{ my_page.title | escape }}{% endif %}
             </a>
@@ -64,6 +71,39 @@
       </nav>
     </div>
   </header>
+
+  <script>
+    // Hamburger menu toggle
+    document.addEventListener('DOMContentLoaded', function() {
+      const menuToggle = document.querySelector('.menu-toggle');
+      const navMenu = document.querySelector('.nav-menu');
+
+      menuToggle.addEventListener('click', function() {
+        const isExpanded = menuToggle.getAttribute('aria-expanded') === 'true';
+        menuToggle.setAttribute('aria-expanded', !isExpanded);
+        navMenu.classList.toggle('active');
+        menuToggle.classList.toggle('active');
+      });
+
+      // Close menu when clicking outside
+      document.addEventListener('click', function(event) {
+        if (!event.target.closest('.site-nav')) {
+          navMenu.classList.remove('active');
+          menuToggle.classList.remove('active');
+          menuToggle.setAttribute('aria-expanded', 'false');
+        }
+      });
+
+      // Close menu when clicking a link
+      navMenu.querySelectorAll('.page-link').forEach(function(link) {
+        link.addEventListener('click', function() {
+          navMenu.classList.remove('active');
+          menuToggle.classList.remove('active');
+          menuToggle.setAttribute('aria-expanded', 'false');
+        });
+      });
+    });
+  </script>
 
   <main class="page-content" aria-label="Content">
     <div class="wrapper">
