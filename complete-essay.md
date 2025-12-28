@@ -7,7 +7,7 @@ description: Complete philosophical essay exploring consciousness-first metaphys
 # Return to Consciousness: A Philosophical Journey from Materialism to Meaning
 
 **Author:** Bruno Tonetto  
-**Authorship Note:** Co-authored with AI to support interdisciplinary breadth, conceptual clarity, and disciplined reasoning. The collaboration is explicitly oriented toward epistemic integrity: prioritizing truth-seeking and coherence over persuasion or rhetorical effect, while deliberately resisting the sycophancy, bias-reinforcement, and epistemic drift that AI systems can exhibit.  
+**Authorship Note:** This essay is co-authored with AI in order to expand interdisciplinary reach and refine reasoning. AI is used as a disciplined thinking instrument — not as a replacement for judgment. The collaboration explicitly prioritizes epistemic integrity, avoids sycophancy, and treats truth-seeking as a moral responsibility.  
 **Publication Date:** September, 2025
 
 ![Return to Consciousness Visual Summary]({{ site.baseurl }}/return-to-consciousness.jpeg)

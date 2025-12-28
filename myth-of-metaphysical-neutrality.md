@@ -6,8 +6,8 @@ description: No research program is metaphysically neutral. This essay exposes h
 # The Myth of Metaphysical Neutrality: Why Denying Ontology Distorts Science, AI, and Understanding Itself
 
 **Author:** Bruno Tonetto  
-**Authorship Note:** Co-authored with AI to support interdisciplinary breadth, conceptual clarity, and disciplined reasoning. The collaboration is explicitly oriented toward epistemic integrity: prioritizing truth-seeking and coherence over persuasion or rhetorical effect, while deliberately resisting the sycophancy, bias-reinforcement, and epistemic drift that AI systems can exhibit.  
-**Publication Date:** December 2025
+**Authorship Note:** This essay is co-authored with AI in order to expand interdisciplinary reach and refine reasoning. AI is used as a disciplined thinking instrument — not as a replacement for judgment. The collaboration explicitly prioritizes epistemic integrity, avoids sycophancy, and treats truth-seeking as a moral responsibility.  
+**Draft Date:** December 2025
 
 ---
 
