@@ -31,7 +31,7 @@ A comprehensive 60-page philosophical synthesis exploring consciousness as prima
 
 ---
 
-### [AI as Ego-less Intelligence]({{ site.baseurl }}/ego-less-ai)
+### [AI as Ego-less Intelligence: Humanity's First Encounter with Non-Self Cognition]({{ site.baseurl }}/ego-less-ai)
 
 Artificial intelligence represents humanity’s first encounter with **highly capable cognition without ego**, bringing unprecedented potential — and real epistemic risk. When AI systems are trained to please rather than to clarify, they cease to be partners in truth and become engines of validation.
 
@@ -69,6 +69,69 @@ Standard alignment theory assumes that intelligence and values are independent. 
 - [Zenodo (DOI: 10.5281/zenodo.17952694)](https://doi.org/10.5281/zenodo.17952694)
 - [ResearchGate](https://www.researchgate.net/publication/398737605_When_Truth_Is_Not_Neutral_AI_Alignment_After_Ego-less_Intelligence)
 - [Academia.edu](https://www.academia.edu/145437246/When_Truth_Is_Not_Neutral_AI_Alignment_After_Ego_less_Intelligence)
+
+---
+
+### [The Myth of Metaphysical Neutrality]({{ site.baseurl }}/myth-of-metaphysical-neutrality)
+
+Modern science often presents itself as metaphysically neutral — a method that rigorously brackets ultimate claims about reality. This essay examines whether such neutrality is actually possible. Drawing on philosophy of science, phenomenology, and AI ethics, it argues that attempts to suppress metaphysics do not eliminate it; they *hide* it, embedding unexamined assumptions into culture, technology, and policy.
+
+Instead of choosing between rigid materialism and ungrounded mysticism, the essay explores how explicit metaphysical honesty can support clearer reasoning, more responsible science, and better AI governance.
+
+**Key Insights**
+- Why “neutral science” is frequently disguised metaphysics  
+- How hidden assumptions shape ethics, consciousness research, and AI design  
+- Why acknowledging metaphysics improves rigor rather than weakening it  
+- A proposal for intellectually responsible metaphysical transparency  
+
+[**Read Essay →**]({{ site.baseurl }}/myth-of-metaphysical-neutrality)
+
+**Scholarly Access & Citation**
+- Zenodo — (link coming soon)
+- PhilPapers — (link coming soon)
+- ResearchGate — (link coming soon)
+
+---
+
+### [From Dissociation to Integration: Ego, Non-Duality, and the Structure of Consciousness]({{ site.baseurl }}/from-did-to-integration)
+
+This essay develops a unified framework connecting clinical dissociation, ordinary egoic identity, contemplative experience, and non-dual awareness. It proposes a continuum model: from pathological fragmentation (as in Dissociative Identity Disorder), through ordinary ego as a *mild and functional* form of dissociation, through partial unity states, to full non-dual integration.
+
+Crucially, the essay distinguishes **integration** from **disorganization**, clarifying why contemplative realization is not psychosis — and why confusing them is clinically harmful. It offers a bridge between psychiatry, contemplative neuroscience, and philosophy of mind without romanticizing or pathologizing extreme states.
+
+**Key Insights**
+- Ordinary ego as a stable but dissociative identity structure  
+- Unity experiences as *reduced dissociation*, not hallucination  
+- Clear differentiation between schizophrenia, depersonalization, and non-dual awareness  
+- Implications for clinical care, contemplative practice, and consciousness science  
+
+[**Read Essay →**]({{ site.baseurl }}/from-did-to-integration)
+
+**Scholarly Access & Citation**
+- Zenodo — (link coming soon)
+- ResearchGate — (link coming soon)
+- Academia.edu — (link coming soon)
+
+---
+
+### [Taking ET Seriously: A Responsible Framework for Evaluating Extraordinary Claims]({{ site.baseurl }}/taking-et-seriously)
+
+Public discussion of extraterrestrial intelligence tends to polarize: either sensational belief or reflexive dismissal. This essay argues for a third stance — disciplined seriousness. Instead of assuming the extraordinary must be either certainly true or certainly false, it examines how *calibrated uncertainty*, institutional secrecy, psychological bias, and signal-to-noise realities affect what we can responsibly conclude.
+
+The essay does not claim proof of ET contact. It argues that *responsible epistemology* requires neither credulity nor contempt, but sober reasoning under uncertainty — and explores what that discipline looks like in practice.
+
+**Key Insights**
+- Why extraordinary claims require careful reasoning, not ridicule  
+- How classification systems, stigma, and testimony structures distort evidence landscapes  
+- Distinguishing plausibility from proof without collapsing into speculation  
+- A principled framework for navigating unknowns in science and policy  
+
+[**Read Essay →**]({{ site.baseurl }}/taking-et-seriously)
+
+**Scholarly Access & Citation**
+- Zenodo — (link coming soon)
+- PhilPapers — (link coming soon)
+- ResearchGate — (link coming soon)
 
 ---
 
