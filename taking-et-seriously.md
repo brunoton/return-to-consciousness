@@ -251,13 +251,13 @@ The universe is almost certainly not as empty as our inherited assumptions sugge
 
 ---
 
-# Appendix A: High-Profile Institutional Witnesses and Insiders
+## Appendix A: High-Profile Institutional Witnesses and Insiders
 
 This appendix catalogs high-credibility individuals frequently cited in contemporary UAP discourse. It summarizes credentials, institutional authority, specific claims, claim type, evidence basis, and status of independent corroboration. Contact classifications use J. Allen Hynek's terminology: First Kind (sighting of structured craft), Second Kind (physical/environmental/biological effects), Third Kind (encounter with non-human intelligence/occupants).
 
 ---
 
-## 1. Jay Stratton
+### 1. Jay Stratton
 
 **Credentials / Institutional Authority**
 - Former Director, UAP Task Force (U.S. DoD)
@@ -277,7 +277,7 @@ This appendix catalogs high-credibility individuals frequently cited in contempo
 
 ---
 
-## 2. Lue Elizondo
+### 2. Lue Elizondo
 
 **Credentials**
 - Former Director, AATIP (Advanced Aerospace Threat Identification Program)
@@ -297,7 +297,7 @@ This appendix catalogs high-credibility individuals frequently cited in contempo
 
 ---
 
-## 3. David Grusch
+### 3. David Grusch
 
 **Credentials**
 - Former intelligence officer, National Geospatial-Intelligence Agency
@@ -317,7 +317,7 @@ This appendix catalogs high-credibility individuals frequently cited in contempo
 
 ---
 
-## 4. Cmdr. David Fravor (U.S. Navy)
+### 4. Cmdr. David Fravor (U.S. Navy)
 
 **Credentials**
 - U.S. Navy F/A-18 Squadron Commander
@@ -337,7 +337,7 @@ This appendix catalogs high-credibility individuals frequently cited in contempo
 
 ---
 
-## 5. Ryan Graves (U.S. Navy Pilot)
+### 5. Ryan Graves (U.S. Navy Pilot)
 
 **Credentials**
 - Super Hornet pilot
@@ -357,7 +357,7 @@ This appendix catalogs high-credibility individuals frequently cited in contempo
 
 ---
 
-## 6. Dr. Garry Nolan (Stanford University)
+### 6. Dr. Garry Nolan (Stanford University)
 
 **Credentials**
 - Professor of Pathology, Stanford School of Medicine
@@ -377,7 +377,7 @@ This appendix catalogs high-credibility individuals frequently cited in contempo
 
 ---
 
-## 7. Haim Eshed (Israel)
+### 7. Haim Eshed (Israel)
 
 **Credentials**
 - Former Director of Israeli Space Security Program
@@ -398,7 +398,7 @@ This appendix catalogs high-credibility individuals frequently cited in contempo
 
 ---
 
-## 8. Christopher Mellon
+### 8. Christopher Mellon
 
 **Credentials**
 - Former Deputy Assistant Secretary of Defense for Intelligence
@@ -417,7 +417,7 @@ This appendix catalogs high-credibility individuals frequently cited in contempo
 
 ---
 
-## 9. Admiral Dennis C. Blair
+### 9. Admiral Dennis C. Blair
 
 **Credentials / Authority**
 - Former Director of National Intelligence (DNI), United States
@@ -437,7 +437,7 @@ This appendix catalogs high-credibility individuals frequently cited in contempo
 
 ---
 
-## 10. Senator Harry Reid
+### 10. Senator Harry Reid
 
 **Credentials**
 - Former U.S. Senate Majority Leader
@@ -457,7 +457,7 @@ This appendix catalogs high-credibility individuals frequently cited in contempo
 
 ---
 
-## 11. Robert Salas
+### 11. Robert Salas
 
 **Credentials**
 - U.S. Air Force Captain
@@ -476,7 +476,7 @@ This appendix catalogs high-credibility individuals frequently cited in contempo
 
 ---
 
-## 12. Admiral Thomas Wilson (alleged)
+### 12. Admiral Thomas Wilson (alleged)
 
 **Credentials**
 - Former Director, Defense Intelligence Agency
@@ -495,7 +495,7 @@ This appendix catalogs high-credibility individuals frequently cited in contempo
 
 ---
 
-## 13. Christopher "Kit" Green
+### 13. Christopher "Kit" Green
 
 **Credentials**
 - Former CIA Chief of Biomedical Sciences
@@ -515,7 +515,7 @@ This appendix catalogs high-credibility individuals frequently cited in contempo
 
 ---
 
-## 14. Admiral Roscoe Hillenkoetter
+### 14. Admiral Roscoe Hillenkoetter
 
 **Credentials**
 - First Director of the CIA
@@ -534,7 +534,7 @@ This appendix catalogs high-credibility individuals frequently cited in contempo
 
 ---
 
-## 15. Lord Admiral Hill-Norton (UK)
+### 15. Lord Admiral Hill-Norton (UK)
 
 **Credentials**
 - Former Chief of the Defence Staff, United Kingdom
@@ -553,7 +553,7 @@ This appendix catalogs high-credibility individuals frequently cited in contempo
 
 ---
 
-## 16. Nick Pope
+### 16. Nick Pope
 
 **Credentials**
 - Former head of UAP desk, UK Ministry of Defence ("UFO Desk")
@@ -572,7 +572,7 @@ This appendix catalogs high-credibility individuals frequently cited in contempo
 
 ---
 
-## 17. Paul Hellyer (Canada)
+### 17. Paul Hellyer (Canada)
 
 **Credentials**
 - Former Minister of National Defence, Canada
@@ -590,7 +590,7 @@ This appendix catalogs high-credibility individuals frequently cited in contempo
 
 ---
 
-## 18. Avi Loeb (Harvard)
+### 18. Avi Loeb (Harvard)
 
 **Credentials**
 - Chair of Harvard Astronomy Department (longest serving)
@@ -609,7 +609,7 @@ This appendix catalogs high-credibility individuals frequently cited in contempo
 
 ---
 
-## Appendix Summary Table
+### Appendix Summary Table
 
 | # | Name | Country | Institutional Authority | Core Claim Theme | Claims Non-Human/ET? | Contact Type |
 |---|------|---------|------------------------|------------------|---------------------|--------------|
@@ -638,13 +638,13 @@ This appendix catalogs high-credibility individuals frequently cited in contempo
 
 ---
 
-# Appendix B: Patterns of Engagement with Strategic Infrastructure
+## Appendix B: Patterns of Engagement with Strategic Infrastructure
 
 This appendix synthesizes recurring patterns in UAP interactions specifically involving military systems, nuclear assets, aerospace operations, and strategic sensor networks. Each category includes representative cases, evidentiary basis, institutional posture, and epistemic strength.
 
 ---
 
-## 1. Nuclear Weapons and Strategic Deterrence Systems
+### 1. Nuclear Weapons and Strategic Deterrence Systems
 
 ### Documented Patterns
 
@@ -689,7 +689,7 @@ Even absent ET conclusion, these cases imply: non-random targeting; specific int
 
 ---
 
-## 2. Naval Operations and Carrier Strike Groups
+### 2. Naval Operations and Carrier Strike Groups
 
 ### Documented Patterns
 
@@ -721,7 +721,7 @@ Multiple testimonies indicate consistent UAP proximity to nuclear-capable vessel
 
 ---
 
-## 3. Aerospace Security, Airspace Sovereignty, and Civil Aviation
+### 3. Aerospace Security, Airspace Sovereignty, and Civil Aviation
 
 ### Patterns
 
@@ -741,7 +741,7 @@ Multiple testimonies indicate consistent UAP proximity to nuclear-capable vessel
 
 ---
 
-## 4. Sensor Network Engagement and Multi-Modal Detectability
+### 4. Sensor Network Engagement and Multi-Modal Detectability
 
 ### Patterns
 
@@ -764,7 +764,7 @@ These constitute engineering impossibilities under known human aerospace limits.
 
 ---
 
-## 5. Strategic Interpretation Spectrum
+### 5. Strategic Interpretation Spectrum
 
 ### Conservative Defense Interpretation
 - Unknown adversarial technology
@@ -785,7 +785,7 @@ Public documentation not yet available; congressional structures actively pursui
 
 ---
 
-## Appendix B Summary Table
+### Appendix B Summary Table
 
 | Pattern | Evidence Class | Public Corroboration | Strategic Implication |
 |---------|---------------|---------------------|----------------------|
@@ -797,7 +797,7 @@ Public documentation not yet available; congressional structures actively pursui
 
 ---
 
-## Conclusion of Appendix B
+### Conclusion of Appendix B
 
 The pattern of UAP engagement with strategic infrastructure is:
 
@@ -811,9 +811,9 @@ Whether interpreted as adversarial technology, unknown physics, or non-human int
 
 ---
 
-# References
+## References
 
-## Official Government Documents and Reports
+### Official Government Documents and Reports
 
 Office of the Director of National Intelligence. (2021). *Preliminary Assessment: Unidentified Aerial Phenomena*. Washington, DC: ODNI.
 
@@ -829,7 +829,7 @@ U.S. House of Representatives. (2022). *Hearing on Unidentified Aerial Phenomena
 
 U.S. House of Representatives. (2023). *Hearing on Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency*. Subcommittee on National Security, the Border, and Foreign Affairs, July 26, 2023.
 
-## Congressional Testimony
+### Congressional Testimony
 
 Grusch, David C. Testimony before the House Oversight Committee, July 26, 2023. Under oath.
 
@@ -839,7 +839,7 @@ Graves, Ryan. Testimony before the House Oversight Committee, July 26, 2023. Und
 
 Elizondo, Luis. Various public statements and interviews, 2017–present. Former Director, AATIP.
 
-## Journalism and Investigative Reporting
+### Journalism and Investigative Reporting
 
 Cooper, Helene, Ralph Blumenthal, and Leslie Kean. "Glowing Auras and 'Black Money': The Pentagon's Mysterious U.F.O. Program." *The New York Times*, December 16, 2017.
 
@@ -849,7 +849,7 @@ Kean, Leslie, and Ralph Blumenthal. "Intelligence Officials Say U.S. Has Retriev
 
 Klippenstein, Ken, and Sara Sirota. "The Pentagon's Secret UFO Program." *The Intercept*, various dates, 2021–2023.
 
-## Academic and Scientific Sources
+### Academic and Scientific Sources
 
 Nolan, Garry P. Interview on UAP-related biological effects research. Stanford University, various dates, 2021–2023.
 
@@ -861,7 +861,7 @@ Vallée, Jacques. *Passport to Magonia: From Folklore to Flying Saucers*. Chicag
 
 Powell, Robert. "A Forensic Analysis of Navy Carrier Strike Group Eleven's Encounter with an Anomalous Aerial Vehicle." SCU Publication, 2019.
 
-## Historical and Archival Sources
+### Historical and Archival Sources
 
 Ruppelt, Edward J. *The Report on Unidentified Flying Objects*. Garden City, NY: Doubleday, 1956. (Ruppelt was head of Project Blue Book.)
 
@@ -869,13 +869,13 @@ National Security Archive, George Washington University. Various declassified UA
 
 CIA FOIA Reading Room. Declassified documents related to UAP and the Robertson Panel.
 
-## Documentary Sources
+### Documentary Sources
 
 Farah, Dan (Director). *The Age of Disclosure*. Documentary film, 2025.
 
 Corbell, Jeremy, and George Knapp. *Extraordinary Beliefs* and related investigative journalism, 2018–present.
 
-## Witness Accounts and Organizational Sources
+### Witness Accounts and Organizational Sources
 
 Americans for Safe Aerospace. Founded by Ryan Graves. Advocacy organization for pilot UAP reporting.
 
@@ -886,6 +886,7 @@ The Sol Foundation. Academic organization for UAP research. Stanford University 
 ---
 
 **Note on Sources:** This essay prioritizes official government documents, sworn congressional testimony, and credentialed institutional sources. Where claims rely on whistleblower testimony not yet independently verified, this is noted explicitly in the text. The author acknowledges that significant relevant documentation remains classified and unavailable for public evaluation.
+
 ---
 
 ## License {#license}
