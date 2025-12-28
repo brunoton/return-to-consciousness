@@ -1,4 +1,13 @@
+---
+layout: default
+title: Taking ET Seriously
+description: FIXME
+---
 # Taking ET Seriously: Reassessing Evidence, Secrecy, and Public Skepticism
+
+**Author:** Bruno Tonetto  
+**Background:** B.S. Physics and Computer Science, Certified CEB Teacher (Santa Barbara Institute for Consciousness Studies)  
+**Publication Date:** December, 2025
 
 ## Abstract
 
@@ -799,3 +808,9 @@ The pattern of UAP engagement with strategic infrastructure is:
 - Of **undeniable aviation, defense, and national security significance**
 
 Whether interpreted as adversarial technology, unknown physics, or non-human intelligence, the engagement with strategic systems alone invalidates the dismissive framing long promoted in public narrative. The phenomenon—whatever its nature—treats humanity's most sensitive military capabilities as objects of apparent interest. This fact demands explanation regardless of one's prior beliefs about extraterrestrial presence.
+
+---
+
+## License {#license}
+
+This work is made freely available under the Creative Commons Attribution 4.0 International License (CC BY 4.0). You are free to share and adapt the material for any purpose, even commercially, provided you give appropriate credit, provide a link to the license, and indicate if changes were made. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
