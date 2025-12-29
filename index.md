@@ -12,10 +12,6 @@ The project begins from a simple working hypothesis: **consciousness is not a ps
 
 ---
 
-## Essays
-
----
-
 ## Consciousness & Metaphysics
 
 ### [Return to Consciousness: A Philosophical Journey from Materialism to Meaning]({{ site.baseurl }}/complete-essay)
