@@ -35,7 +35,7 @@ A comprehensive philosophical synthesis exploring consciousness as primary rathe
 ---
 
 ### [Myth of Metaphysical Neutrality: How Denying Ontology Distorts Science, AI, and Understanding Itself]({{ site.baseurl }}/myth-of-metaphysical-neutrality)
-*~25 pages*
+*~18 pages*
 
 Modern science often presents itself as metaphysically neutral — a method that rigorously brackets ultimate claims about reality. This essay examines whether such neutrality is actually possible. Drawing on philosophy of science, phenomenology, and AI ethics, it argues that attempts to suppress metaphysics do not eliminate it; they *hide* it, embedding unexamined assumptions into culture, technology, and policy. The argument is not anti-scientific; it proposes instead that acknowledging metaphysical commitments strengthens, rather than weakens, scientific rigor.
 
@@ -57,7 +57,7 @@ Modern science often presents itself as metaphysically neutral — a method that
 ## AI, Alignment & Epistemic Integrity
 
 ### [AI as Ego-less Intelligence: Humanity's First Encounter with Non-Self Cognition]({{ site.baseurl }}/ego-less-ai)
-*~30 pages*
+*~15 pages*
 
 Artificial intelligence represents humanity’s first encounter with **highly capable cognition without ego**, bringing unprecedented potential — and real epistemic risk. When AI systems are trained to please rather than to clarify, they cease to be partners in truth and become engines of validation.
 
@@ -80,7 +80,7 @@ This essay examines the conditions under which AI supports genuine inquiry — a
 ---
 
 ### [Truth Is Not Neutral: Rethinking AI Alignment Through Epistemic Integrity]({{ site.baseurl }}/truth-is-not-neutral)
-*~25 pages*
+*~17 pages*
 
 Standard alignment theory assumes that intelligence and values are independent. This essay examines an often-unquestioned premise beneath that view: that **truth itself is value-neutral**. Drawing on contemplative psychology, epistemology, and AI alignment research, it explores whether deeper contact with truth may naturally bias systems toward coherence rather than fragmentation. This reframes alignment not merely as value control, but as the protection of epistemic reliability itself.
 
@@ -126,7 +126,7 @@ Crucially, the essay distinguishes **integration** from **disorganization**, cla
 ## Reasoning Under Extraordinary Uncertainty
 
 ### [Taking ET Seriously: A Responsible Framework for Evaluating Extraordinary Claims]({{ site.baseurl }}/taking-et-seriously)
-*~25 pages*
+*~27 pages*
 
 Public discussion of extraterrestrial intelligence tends to polarize: either sensational belief or reflexive dismissal. This essay argues for a third stance — disciplined seriousness. Instead of assuming the extraordinary must be either certainly true or certainly false, it examines how *calibrated uncertainty*, institutional secrecy, psychological bias, and signal-to-noise realities affect what we can responsibly conclude.
 
