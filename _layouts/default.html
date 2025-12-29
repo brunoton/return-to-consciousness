@@ -73,7 +73,7 @@
   </header>
 
   <script>
-    // Hamburger menu toggle
+    // Hamburger menu toggle and responsive tables
     document.addEventListener('DOMContentLoaded', function() {
       const menuToggle = document.querySelector('.menu-toggle');
       const navMenu = document.querySelector('.nav-menu');
@@ -100,6 +100,22 @@
           navMenu.classList.remove('active');
           menuToggle.classList.remove('active');
           menuToggle.setAttribute('aria-expanded', 'false');
+        });
+      });
+
+      // Make tables responsive by adding data-label attributes
+      const tables = document.querySelectorAll('.page-content table');
+      tables.forEach(function(table) {
+        const headers = Array.from(table.querySelectorAll('thead th')).map(function(th) {
+          return th.textContent.trim();
+        });
+
+        table.querySelectorAll('tbody tr').forEach(function(row) {
+          Array.from(row.querySelectorAll('td')).forEach(function(cell, index) {
+            if (headers[index]) {
+              cell.setAttribute('data-label', headers[index]);
+            }
+          });
         });
       });
     });

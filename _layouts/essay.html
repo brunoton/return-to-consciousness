@@ -18,6 +18,20 @@ layout: default
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
+    // Make tables responsive by adding data-label attributes
+    const tables = document.querySelectorAll('.page-content table');
+    tables.forEach(table => {
+        const headers = Array.from(table.querySelectorAll('thead th')).map(th => th.textContent.trim());
+
+        table.querySelectorAll('tbody tr').forEach(row => {
+            Array.from(row.querySelectorAll('td')).forEach((cell, index) => {
+                if (headers[index]) {
+                    cell.setAttribute('data-label', headers[index]);
+                }
+            });
+        });
+    });
+
     const toc = document.getElementById('floating-toc');
     const tocNav = document.getElementById('toc-nav');
     const tocHeader = document.querySelector('.toc-header');

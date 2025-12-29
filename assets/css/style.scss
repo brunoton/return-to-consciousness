@@ -237,6 +237,34 @@
   margin: 24px 0;
 }
 
+/* GitHub-style tables */
+.page-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 16px 0;
+  overflow-x: auto;
+  display: block;
+}
+
+.page-content table thead {
+  background: #f6f8fa;
+}
+
+.page-content table th,
+.page-content table td {
+  padding: 12px;
+  border: 1px solid #d1d9e0;
+  text-align: left;
+}
+
+.page-content table th {
+  font-weight: 600;
+}
+
+.page-content table tr:nth-child(even) {
+  background: #f6f8fa;
+}
+
 /* Floating Table of Contents */
 .floating-toc {
   position: fixed;
@@ -496,5 +524,61 @@
     right: 0;
     margin: 8px;
     min-width: auto;
+  }
+
+  /* Responsive tables for mobile */
+  .page-content table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  /* Convert tables to card layout on very small screens */
+  .page-content table thead {
+    display: none;
+  }
+
+  .page-content table,
+  .page-content table tbody,
+  .page-content table tr,
+  .page-content table td {
+    display: block;
+    width: 100%;
+  }
+
+  .page-content table tr {
+    margin-bottom: 16px;
+    border: 1px solid #d1d9e0;
+    border-radius: 6px;
+    padding: 12px;
+    background: white;
+  }
+
+  .page-content table tr:nth-child(even) {
+    background: white;
+  }
+
+  .page-content table td {
+    border: none;
+    padding: 8px 0;
+    position: relative;
+    padding-left: 50%;
+    text-align: left;
+  }
+
+  .page-content table td::before {
+    content: attr(data-label);
+    position: absolute;
+    left: 0;
+    width: 45%;
+    padding-right: 10px;
+    font-weight: 600;
+    color: #1f2328;
+  }
+
+  .page-content table td:first-child {
+    border-top: 2px solid #0969da;
+    padding-top: 12px;
+    font-weight: 600;
   }
 }

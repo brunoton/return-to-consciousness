@@ -611,7 +611,7 @@ This appendix catalogs high-credibility individuals frequently cited in contempo
 
 ### Appendix Summary Table
 
-| # | Name | Country | Institutional Authority | Core Claim Theme | Claims Non-Human/ET? | Contact Type |
+| # | Name | Country | Authority | Core Theme | Claims ET? | Contact Type |
 |---|------|---------|------------------------|------------------|---------------------|--------------|
 | 1 | Jay Stratton | USA | Director, UAP Task Force; DIA/ONI senior intelligence | Legacy crash retrieval programs exist; hidden oversight | Yes (institutional programs + materials) | None stated |
 | 2 | Lue Elizondo | USA | Director, AATIP; counterintelligence officer | UAP real, technological superiority, secrecy + disinformation | Strongly implied yes | None stated |
