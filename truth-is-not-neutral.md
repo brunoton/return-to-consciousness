@@ -3,7 +3,7 @@ layout: essay
 title: Truth Is Not Neutral
 description: This essay represents a conditional inquiry into premises underlying AI alignment theory. If truth has normative structure, alignment research priorities would shift in significant ways.
 ---
-# Truth Is Not Neutral: AI Alignment After Ego-less Intelligence
+# Truth Is Not Neutral: Rethinking AI Alignment Through Epistemic Integrity
 
 **Author:** Bruno Tonetto  
 **Authorship Note:** This essay is co-authored with AI in order to expand interdisciplinary reach and refine reasoning. AI is used as a disciplined thinking instrument — not as a replacement for judgment. The collaboration explicitly prioritizes epistemic integrity, avoids sycophancy, and treats truth-seeking as a moral responsibility.  
@@ -17,7 +17,7 @@ Standard arguments for AI existential risk rely on the orthogonality thesis: the
 
 ---
 
-## 1. Introduction: After Ego-less Intelligence
+## 1. Introduction
 
 Recent discussions of artificial intelligence alignment have focused on the risk that increasingly capable systems may optimize objectives misaligned with human values, potentially producing catastrophic outcomes without malice or intent. Central to this concern is the orthogonality thesis: the idea that intelligence and values can vary independently, such that a system may become arbitrarily capable while pursuing goals indifferent or hostile to human flourishing.
 

@@ -53,7 +53,7 @@ This essay examines the conditions under which AI supports genuine inquiry — a
 
 ---
 
-### [Truth Is Not Neutral: AI Alignment After Ego-less Intelligence]({{ site.baseurl }}/truth-is-not-neutral)
+### [Truth Is Not Neutral: Rethinking AI Alignment Through Epistemic Integrity]({{ site.baseurl }}/truth-is-not-neutral)
 
 Standard alignment theory assumes that intelligence and values are independent. This essay examines an often-unquestioned premise beneath that view: that **truth itself is value-neutral**. Drawing on contemplative psychology, epistemology, and AI alignment research, it explores whether deeper contact with truth may naturally bias systems toward coherence rather than fragmentation.
 
