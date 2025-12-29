@@ -87,6 +87,20 @@ Narrative integration weaves disparate experiences into a story of continuous se
 
 Social identity provides external scaffolding for dissociative boundaries. Roles, relationships, group memberships—these structure what counts as "me" and what counts as "other." The social self is a dissociative achievement, maintained through ongoing performance and recognition.
 
+### Complexes: Sub-Egoic Partitions in Normal Psyches
+
+The claim that ordinary consciousness involves dissociative partitioning finds striking support in Carl Jung's theory of complexes—a framework developed through clinical observation and experimental research rather than contemplative phenomenology.
+
+A complex, in Jung's technical sense, is a cluster of emotionally charged ideas, images, and memories organized around a central core—typically an archetypal motif or a significant life experience. Crucially, complexes possess *relative autonomy*: they can influence thought, feeling, and behavior independently of ego intention, sometimes erupting unbidden into consciousness, sometimes operating entirely outside awareness. When someone "loses their temper" or "isn't themselves" or acts in ways they later cannot fully explain, a complex has typically been activated—temporarily displacing or overriding ego-control.
+
+Jung discovered this clinically through word-association experiments: certain stimulus words would trigger delayed responses, physiological changes, and associative chains revealing underlying complexes operating with their own gravitational pull. The normal psyche, he concluded, is not a unified field commanded by a single executive; it is a *federation* of semi-autonomous structures, with the ego serving as primus inter pares rather than absolute sovereign.
+
+This insight directly supports the continuum model. If dissociation is defined functionally as the partitioning of experiential fields such that contents available to one partition are not fully available to another, then complexes represent mild, normal dissociation within the psyche itself. They are not fully segregated experiential fields—one does not become a different person when a complex activates, as in DID—but they do constitute semi-autonomous domains with their own affective logic, their own access to certain memories and associations, and their own capacity to influence or temporarily override ego-functioning.
+
+A critical distinction must be preserved here. Complexes are *relatively* autonomous; DID alters are *fully* autonomous experiential fields. When a complex activates, the ego typically remains present, even if temporarily overwhelmed or influenced. One might say things "out of character," feel emotions disproportionate to the situation, or act on impulses later regretted—but there is usually continuity of memory and some residual sense of "I am the one experiencing this." The complex operates *within* the broader field of ego-consciousness, distorting or displacing but not replacing it entirely. In DID, by contrast, alters constitute separate experiential fields with their own continuous sense of identity and often amnestic barriers preventing cross-alter awareness.
+
+This distinction reinforces rather than undermines the continuum. It shows that partitioning admits of degrees: from the mild, functional partitioning of complexes, through the moderate dissociation that constitutes ordinary ego-boundaries, to the severe fragmentation of dissociative disorders. The psyche is already multiple even in healthy functioning—ego stability is a managed partiality rather than full integration.
+
 ### The Ego as a Functional Alter
 
 If DID involves multiple alters within a single organism, each with its own sense of self, then ordinary egoic consciousness can be understood as a single dominant alter—one that has achieved such hegemony that it no longer recognizes itself as partial.
@@ -403,7 +417,7 @@ What lies beyond? The contemplative traditions have their answers. But perhaps t
 
 Carl Jung's analytical psychology arrived at conclusions strikingly convergent with the continuum model developed in this essay, though through an entirely different route—depth psychology and clinical observation rather than contemplative phenomenology or idealist metaphysics. This convergence strengthens the claim that the continuum reflects something about consciousness itself rather than the projections of any particular tradition.
 
-However, Jung's terminology can obscure this convergence, and a brief clarification is warranted.
+However, Jung's terminology can obscure this convergence, and a fuller treatment is warranted.
 
 ### The Problem with "Individuation"
 
@@ -413,30 +427,53 @@ Jung chose the term because he understood individuation as becoming who one *uni
 
 This terminological confusion has consequences. Readers encountering "individuation" may assume Jung advocated for strengthening ego-boundaries and reinforcing separateness. The opposite is closer to the truth.
 
-### What Individuation Actually Involves
+### Complexes as the Mechanism of Psychic Partitioning
 
-The individuation process, as Jung described it, involves several stages of integration—each of which reduces dissociative partitioning within the psyche.
+The theory of complexes, introduced briefly in Section II, provides the structural mechanism underlying individuation. Understanding complexes more fully clarifies how integration proceeds.
 
-**Shadow integration.** The shadow comprises everything the ego has rejected, denied, or failed to develop—qualities inconsistent with self-image, impulses deemed unacceptable, potentials left unrealized. These contents do not disappear when rejected; they operate unconsciously, often projected onto others or erupting in uncontrolled ways. Shadow integration means reowning what was dissociated: recognizing "that is also me," reclaiming the rejected contents, expanding identity to include what was excluded. This is de-dissociation by another name.
+A complex is not merely a troublesome emotion or a neurotic symptom. It is a *structured partition* within the psyche—a semi-autonomous organization of affect, imagery, memory, and behavioral tendency that operates according to its own logic. The mother complex, for instance, is not simply "feelings about mother" but an organized constellation of expectations, emotional responses, relational patterns, and archetypal imagery that activates in mother-relevant contexts and can temporarily override ego-intention.
 
-**Anima/Animus integration.** Jung observed that the unconscious often carries contrasexual elements—the anima (feminine aspects in men) and animus (masculine aspects in women). These too are typically dissociated from ego-identity, projected onto romantic partners or cultural figures, and experienced as "other." Integration involves withdrawing these projections and recognizing the contrasexual elements as aspects of oneself. The psyche becomes less internally divided.
+Crucially, complexes presuppose coherence. Unlike the disorganization of psychotic states, a complex is internally organized—it has its own consistency, its own predictable patterns of activation, its own affective signature. This is why complexes can be identified, named, and worked with therapeutically. They are structured fragments, not chaotic noise.
 
-**Withdrawal of projections.** More broadly, Jung recognized that much of what we experience as external—qualities we attribute to others, dynamics we see in the world—originates in unintegrated aspects of our own psyche. We project outward what we cannot acknowledge inward. Individuation involves progressive withdrawal of projections: recognizing that what seemed "out there" is "in here," that the world as we experience it is partly a mirror of our own dissociated contents. Each withdrawal reduces the dissociative boundary between self and not-self.
+This places complexes squarely within the "partition" side of the partition/disorganization distinction developed in Section V. They represent mild, normal dissociation—the psyche organized into semi-autonomous domains that do not fully communicate with each other or with the ego. The shadow is a complex (or cluster of complexes) containing rejected material. The anima/animus is a complex carrying contrasexual elements. Even the ego itself can be understood as a particularly successful complex that has achieved executive function.
 
-**The Self as totality.** Jung distinguished the ego—the center of conscious identity—from the Self, which he understood as the totality of the psyche, conscious and unconscious alike. The ego is partial; the Self is whole. Individuation moves toward the Self as the center of psychic life, relativizing the ego without destroying it. The Self is not a bigger ego but a more integrated configuration in which ego takes its proper place as part rather than whole.
+Individuation, then, is the systematic integration of complexes. It is not the elimination of psychic structure but the dissolution of the *barriers* between structures—allowing communication, mutual influence, and eventually unified functioning across previously separated domains.
 
-Jung described the Self as "the center and circumference" of psychic life—a formulation that echoes non-dual descriptions of awareness as both the witness and the totality of what is witnessed. The Self is not located within boundaries; it is what remains when dissociative boundaries soften.
+### The Stages of Individuation Revisited
+
+With this understanding, the stages of individuation can be restated in terms of the dissociative continuum:
+
+**Shadow integration** involves recognizing that the contents of the shadow complex—the rejected, denied, undeveloped aspects of self—are not "other" but "also me." The dissociative barrier that maintained the shadow as separate is softened; what was excluded is reclaimed. Identity expands to include what the ego had previously held apart. This is de-dissociation within the psyche.
+
+**Anima/Animus integration** involves similar work with contrasexual complexes. Jung observed that much of what we experience as the alluring or threatening "otherness" of the opposite sex originates in projected complex material. Integration means withdrawing these projections—recognizing the anima or animus as aspects of one's own psyche rather than qualities belonging to external others. The boundary between self and projected content softens.
+
+**Withdrawal of projections** generalizes this process. Much of what we experience as external—the qualities we attribute to others, the dynamics we see in the world—reflects unintegrated complexes projected outward. Each projection maintains a dissociative boundary: "that is out there, not in here." Withdrawal of projections progressively reduces these boundaries, revealing that the world as experienced is partly a mirror of one's own dissociated contents.
+
+**Encounter with the Self** represents the culmination of individuation. The Self, in Jung's usage, is not the ego; it is the totality of the psyche, conscious and unconscious alike. Where the ego is a bounded complex—partial, defended, identified with certain contents and not others—the Self is the whole. Individuation moves toward the Self as the orienting center of psychic life, relativizing the ego without destroying it.
+
+Jung's famous formulation describes the Self as "the center and circumference" of the psyche. This paradoxical language echoes non-dual descriptions of awareness as both the witness and the totality of what is witnessed. The Self is not located within boundaries; it is what remains when dissociative boundaries between complexes soften sufficiently that the psyche functions as a differentiated unity rather than a federation of semi-autonomous parts.
+
+### Complexes and the Partition/Disorganization Distinction
+
+The concept of complexes reinforces the essay's distinction between partition and disorganization in a clinically important way.
+
+Complexes presuppose sufficient coherence to maintain organized structure. Where coherence has eroded—as in acute psychosis—stable complexes cannot form or persist. The psychotic breakdown is not the activation of a complex but the dissolution of the coherence that makes complexes possible.
+
+This explains why integrative work is appropriate for some conditions and contraindicated for others. Shadow work, active imagination, dream analysis, and other Jungian techniques presuppose a psyche organized into identifiable complexes that can be engaged and integrated. These approaches work with structured partitions. They are inappropriate—potentially harmful—when applied to disorganized states where no stable structures exist to integrate.
+
+The clinical implication is significant: Jungian individuation, like contemplative practice, belongs to the "integration" direction on the continuum, but it presupposes baseline coherence. Stabilization must precede individuation where coherence has been lost. Jung himself was cautious about depth work with psychotic patients, preferring supportive approaches until sufficient ego-stability was established.
 
 ### Convergence with the Continuum Model
 
 Translated into the language of this essay, Jungian individuation is movement along the dissociative continuum toward integration:
 
-- Shadow integration reduces dissociative partitioning within identity
-- Anima/animus integration further reduces internal division  
-- Withdrawal of projections softens the boundary between self and world
-- The Self corresponds to consciousness with reduced or absent dissociative structure
+- Complexes represent structured partitions within the normal psyche—mild dissociation operating below the threshold of pathology
+- Shadow integration reduces dissociative partitioning within identity by reclaiming rejected contents
+- Anima/animus integration further reduces internal division by withdrawing projections of contrasexual material
+- Progressive withdrawal of projections softens the boundary between self and world
+- The Self corresponds to consciousness with reduced or absent dissociative structure—the psychological equivalent of non-dual awareness
 
-Jung did not use the term "dissociation" in this way, and he was cautious about Eastern non-dual language—partly due to cultural context, partly from concern that ego-dissolution might be confused with ego-inflation or psychotic breakdown. But the structural parallel is clear. What Jung called individuation, we might more accurately call *integration* or even *de-individuation* (in the sense of dissolving the illusion of ultimate separateness).
+Jung did not use the term "dissociation" in this systematic way, and he was cautious about Eastern non-dual language—partly due to cultural context, partly from concern that ego-dissolution might be confused with ego-inflation or psychotic breakdown. But the structural parallel is clear. What Jung called individuation, we might more accurately call *integration* or even *de-individuation* (in the sense of dissolving the illusion of ultimate separateness).
 
 ### Cross-Cultural Significance
 
@@ -473,6 +510,8 @@ James, W. (1902). *The Varieties of Religious Experience*. Longmans, Green.
 Josipovic, Z. (2010). Duality and nonduality in meditation research. *Consciousness and Cognition, 19*(4), 1119-1121.
 
 Josipovic, Z. (2014). Neural correlates of nondual awareness in meditation. *Annals of the New York Academy of Sciences, 1307*(1), 9-18.
+
+Jung, C. G. (1934). A review of the complex theory. In *The Structure and Dynamics of the Psyche* (Collected Works, Vol. 8). Princeton University Press.
 
 Jung, C. G. (1959). *Aion: Researches into the Phenomenology of the Self* (Collected Works, Vol. 9, Part 2). Princeton University Press.
 
