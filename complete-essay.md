@@ -1079,15 +1079,3 @@ Wager, T. D., Rilling, J. K., Smith, E. E., Sokolik, A., Casey, K. L., Davidson,
 
 This work is made freely available under the Creative Commons Attribution 4.0 International License (CC BY 4.0). You are free to share and adapt the material for any purpose, even commercially, provided you give appropriate credit, provide a link to the license, and indicate if changes were made. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
 
----
-
-## 📖 Continue Reading
-
-- **[← Home]({{ site.baseurl }}/)** - Return to main page
-- **[AI as Ego-less Intelligence]({{ site.baseurl }}/ego-less-ai)** - Deep-dive into ego-less AI
-- **[Share This Work]({{ site.baseurl }}/#share-this-work)** - Help spread these ideas
-
----
-
-*Thank you for reading "Return to Consciousness." This work is freely available under Creative Commons licensing for maximum impact and distribution.*
-
