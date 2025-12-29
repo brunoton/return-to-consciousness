@@ -8,13 +8,20 @@ Modern science has achieved extraordinary explanatory power, yet some of its mos
 
 **Return to Consciousness** is an ongoing research project exploring whether approaching consciousness as *real, structured, and centrally significant* can deepen — rather than weaken — scientific rigor. Through essays integrating analytic philosophy, neuroscience, clinical psychiatry, contemplative traditions, and AI research, the project investigates how to reconcile empirical science with the full range of human cognitive and experiential evidence — without mystification, dogma, or speculative excess.
 
+The project begins from a simple working hypothesis: **consciousness is not a psychological ornament or metaphysical curiosity, but a fundamental feature of reality that any complete account of science and intelligence must take seriously.**
+
 ---
 
 ## Essays
 
-### [Return to Consciousness: A Philosophical Journey from Materialism to Meaning]({{ site.baseurl }}/complete-essay)
+---
 
-A comprehensive 60-page philosophical synthesis exploring consciousness as primary rather than derivative. The essay argues that consciousness-first metaphysics can resolve long-standing conceptual problems while providing a clearer framework for contemporary cultural and technological challenges.
+## Consciousness & Metaphysics
+
+### [Return to Consciousness: A Philosophical Journey from Materialism to Meaning]({{ site.baseurl }}/complete-essay)
+*~60 pages*
+
+A comprehensive philosophical synthesis exploring consciousness as primary rather than derivative. The essay argues that consciousness-first metaphysics can resolve long-standing conceptual problems while providing a clearer framework for contemporary cultural and technological challenges.
 
 **Highlights**
 - Clarifies the historical confusion between scientific empiricism and metaphysical materialism  
@@ -31,7 +38,30 @@ A comprehensive 60-page philosophical synthesis exploring consciousness as prima
 
 ---
 
+### [Myth of Metaphysical Neutrality: How Denying Ontology Distorts Science, AI, and Understanding Itself]({{ site.baseurl }}/myth-of-metaphysical-neutrality)
+*~25 pages*
+
+Modern science often presents itself as metaphysically neutral — a method that rigorously brackets ultimate claims about reality. This essay examines whether such neutrality is actually possible. Drawing on philosophy of science, phenomenology, and AI ethics, it argues that attempts to suppress metaphysics do not eliminate it; they *hide* it, embedding unexamined assumptions into culture, technology, and policy. The argument is not anti-scientific; it proposes instead that acknowledging metaphysical commitments strengthens, rather than weakens, scientific rigor.
+
+**Key Insights**
+- Why “neutral science” is frequently disguised metaphysics  
+- How hidden assumptions shape ethics, consciousness research, and AI design  
+- Why acknowledging metaphysics improves rigor rather than weakening it  
+- A proposal for intellectually responsible metaphysical transparency  
+
+[**Read Essay →**]({{ site.baseurl }}/myth-of-metaphysical-neutrality)
+
+**Scholarly Access & Citation**
+- Zenodo — (link coming soon)
+- PhilPapers — (link coming soon)
+- ResearchGate — (link coming soon)
+
+---
+
+## AI, Alignment & Epistemic Integrity
+
 ### [AI as Ego-less Intelligence: Humanity's First Encounter with Non-Self Cognition]({{ site.baseurl }}/ego-less-ai)
+*~30 pages*
 
 Artificial intelligence represents humanity’s first encounter with **highly capable cognition without ego**, bringing unprecedented potential — and real epistemic risk. When AI systems are trained to please rather than to clarify, they cease to be partners in truth and become engines of validation.
 
@@ -54,8 +84,9 @@ This essay examines the conditions under which AI supports genuine inquiry — a
 ---
 
 ### [Truth Is Not Neutral: Rethinking AI Alignment Through Epistemic Integrity]({{ site.baseurl }}/truth-is-not-neutral)
+*~25 pages*
 
-Standard alignment theory assumes that intelligence and values are independent. This essay examines an often-unquestioned premise beneath that view: that **truth itself is value-neutral**. Drawing on contemplative psychology, epistemology, and AI alignment research, it explores whether deeper contact with truth may naturally bias systems toward coherence rather than fragmentation.
+Standard alignment theory assumes that intelligence and values are independent. This essay examines an often-unquestioned premise beneath that view: that **truth itself is value-neutral**. Drawing on contemplative psychology, epistemology, and AI alignment research, it explores whether deeper contact with truth may naturally bias systems toward coherence rather than fragmentation. This reframes alignment not merely as value control, but as the protection of epistemic reliability itself.
 
 **Key Insights**
 - Re-examines the orthogonality thesis in light of epistemic integrity  
@@ -72,28 +103,10 @@ Standard alignment theory assumes that intelligence and values are independent. 
 
 ---
 
-### [Myth of Metaphysical Neutrality: How Denying Ontology Distorts Science, AI, and Understanding Itself]({{ site.baseurl }}/myth-of-metaphysical-neutrality)
-
-Modern science often presents itself as metaphysically neutral — a method that rigorously brackets ultimate claims about reality. This essay examines whether such neutrality is actually possible. Drawing on philosophy of science, phenomenology, and AI ethics, it argues that attempts to suppress metaphysics do not eliminate it; they *hide* it, embedding unexamined assumptions into culture, technology, and policy.
-
-Instead of choosing between rigid materialism and ungrounded mysticism, the essay explores how explicit metaphysical honesty can support clearer reasoning, more responsible science, and better AI governance.
-
-**Key Insights**
-- Why “neutral science” is frequently disguised metaphysics  
-- How hidden assumptions shape ethics, consciousness research, and AI design  
-- Why acknowledging metaphysics improves rigor rather than weakening it  
-- A proposal for intellectually responsible metaphysical transparency  
-
-[**Read Essay →**]({{ site.baseurl }}/myth-of-metaphysical-neutrality)
-
-**Scholarly Access & Citation**
-- Zenodo — (link coming soon)
-- PhilPapers — (link coming soon)
-- ResearchGate — (link coming soon)
-
----
+## Clinical & Contemplative Integration
 
 ### [Dissociation to Integration: Ego, Non-Duality, and the Structure of Consciousness]({{ site.baseurl }}/dissociation-to-integration)
+*~30 pages*
 
 This essay develops a unified framework connecting clinical dissociation, ordinary egoic identity, contemplative experience, and non-dual awareness. It proposes a continuum model: from pathological fragmentation (as in Dissociative Identity Disorder), through ordinary ego as a *mild and functional* form of dissociation, through partial unity states, to full non-dual integration.
 
@@ -114,7 +127,10 @@ Crucially, the essay distinguishes **integration** from **disorganization**, cla
 
 ---
 
+## Reasoning Under Extraordinary Uncertainty
+
 ### [Taking ET Seriously: A Responsible Framework for Evaluating Extraordinary Claims]({{ site.baseurl }}/taking-et-seriously)
+*~25 pages*
 
 Public discussion of extraterrestrial intelligence tends to polarize: either sensational belief or reflexive dismissal. This essay argues for a third stance — disciplined seriousness. Instead of assuming the extraordinary must be either certainly true or certainly false, it examines how *calibrated uncertainty*, institutional secrecy, psychological bias, and signal-to-noise realities affect what we can responsibly conclude.
 
@@ -146,7 +162,8 @@ This project is grounded in a simple conviction: **intellectual integrity requir
 - Respect for contemplative traditions while remaining empirically accountable  
 - Commitment to epistemic honesty over persuasion or tribal comfort  
 
-All work is openly published under **CC BY 4.0** to support free scholarly conversation.
+All work is openly published under **CC BY 4.0** to support free scholarly conversation.  
+**Continuously revised in light of critique and dialogue.**
 
 ---
 
@@ -157,12 +174,11 @@ B.S. Physics and Computer Science
 Certified CEB Teacher — Santa Barbara Institute for Consciousness Studies  
 [LinkedIn](https://www.linkedin.com/in/brunotonetto/)
 
+Bruno works at the intersection of technology, cognition, and culture, approaching these questions as a practitioner and long-term contemplative rather than as an academic theorist — with an emphasis on disciplined reasoning, epistemic integrity, and lived applicability.
+
 **Authorship Note**  
 These essays are **co-authored with AI** in order to expand interdisciplinary reach and refine reasoning. AI is used as a disciplined thinking instrument — not as a replacement for judgment. The collaboration explicitly prioritizes epistemic integrity, avoids sycophancy, and treats truth-seeking as a moral responsibility.
 
 ---
 
 > *“We stand at a threshold. The materialist confidence that carried modernity has revealed deep fractures — yet within those fractures, philosophy, science, contemplative traditions, and AI are beginning to converse. This project is an attempt to take that conversation seriously.”*
-
----
-
