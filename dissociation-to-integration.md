@@ -1,9 +1,9 @@
 ---
 layout: essay
-title: From DID to Integration
+title: Dissociation to Integration
 description: This essay examines dissociation and non-duality as empirical and phenomenological phenomena, proposing a continuum model that makes contemplative experience intelligible within a naturalistic framework.
 ---
-# From DID to Integration: Dissociation, Ego, and Non-Duality
+# Dissociation to Integration: Ego, Non-Duality, and the Structure of Consciousness
 
 **Author:** Bruno Tonetto  
 **Authorship Note:** This essay is co-authored with AI in order to expand interdisciplinary reach and refine reasoning. AI is used as a disciplined thinking instrument — not as a replacement for judgment. The collaboration explicitly prioritizes epistemic integrity, avoids sycophancy, and treats truth-seeking as a moral responsibility.  

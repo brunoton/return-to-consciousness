@@ -3,7 +3,7 @@ layout: essay
 title: Truth Is Not Neutral
 description: This essay represents a conditional inquiry into premises underlying AI alignment theory. If truth has normative structure, alignment research priorities would shift in significant ways.
 ---
-# When Truth Is Not Neutral: AI Alignment After Ego-less Intelligence
+# Truth Is Not Neutral: AI Alignment After Ego-less Intelligence
 
 **Author:** Bruno Tonetto  
 **Authorship Note:** This essay is co-authored with AI in order to expand interdisciplinary reach and refine reasoning. AI is used as a disciplined thinking instrument — not as a replacement for judgment. The collaboration explicitly prioritizes epistemic integrity, avoids sycophancy, and treats truth-seeking as a moral responsibility.  

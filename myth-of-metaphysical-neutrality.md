@@ -1,9 +1,9 @@
 ---
 layout: essay
-title: The Myth of Metaphysical Neutrality
+title: Myth of Metaphysical Neutrality
 description: No research program is metaphysically neutral. This essay exposes how unexamined physicalism constrains inquiry in science and AI alignment, and argues that intellectual honesty—not dogma—requires acknowledging the ontological assumptions shaping our most consequential decisions.
 ---
-# The Myth of Metaphysical Neutrality: Why Denying Ontology Distorts Science, AI, and Understanding Itself
+# Myth of Metaphysical Neutrality: How Denying Ontology Distorts Science, AI, and Understanding Itself
 
 **Author:** Bruno Tonetto  
 **Authorship Note:** This essay is co-authored with AI in order to expand interdisciplinary reach and refine reasoning. AI is used as a disciplined thinking instrument — not as a replacement for judgment. The collaboration explicitly prioritizes epistemic integrity, avoids sycophancy, and treats truth-seeking as a moral responsibility.  

@@ -53,7 +53,7 @@ This essay examines the conditions under which AI supports genuine inquiry — a
 
 ---
 
-### [When Truth Is Not Neutral: AI Alignment After Ego-less Intelligence]({{ site.baseurl }}/truth-is-not-neutral)
+### [Truth Is Not Neutral: AI Alignment After Ego-less Intelligence]({{ site.baseurl }}/truth-is-not-neutral)
 
 Standard alignment theory assumes that intelligence and values are independent. This essay examines an often-unquestioned premise beneath that view: that **truth itself is value-neutral**. Drawing on contemplative psychology, epistemology, and AI alignment research, it explores whether deeper contact with truth may naturally bias systems toward coherence rather than fragmentation.
 
@@ -72,7 +72,7 @@ Standard alignment theory assumes that intelligence and values are independent. 
 
 ---
 
-### [The Myth of Metaphysical Neutrality: Why Denying Ontology Distorts Science, AI, and Understanding Itself]({{ site.baseurl }}/myth-of-metaphysical-neutrality)
+### [Myth of Metaphysical Neutrality: How Denying Ontology Distorts Science, AI, and Understanding Itself]({{ site.baseurl }}/myth-of-metaphysical-neutrality)
 
 Modern science often presents itself as metaphysically neutral — a method that rigorously brackets ultimate claims about reality. This essay examines whether such neutrality is actually possible. Drawing on philosophy of science, phenomenology, and AI ethics, it argues that attempts to suppress metaphysics do not eliminate it; they *hide* it, embedding unexamined assumptions into culture, technology, and policy.
 
@@ -93,7 +93,7 @@ Instead of choosing between rigid materialism and ungrounded mysticism, the essa
 
 ---
 
-### [From Dissociation to Integration: Ego, Non-Duality, and the Structure of Consciousness]({{ site.baseurl }}/from-did-to-integration)
+### [Dissociation to Integration: Ego, Non-Duality, and the Structure of Consciousness]({{ site.baseurl }}/dissociation-to-integration)
 
 This essay develops a unified framework connecting clinical dissociation, ordinary egoic identity, contemplative experience, and non-dual awareness. It proposes a continuum model: from pathological fragmentation (as in Dissociative Identity Disorder), through ordinary ego as a *mild and functional* form of dissociation, through partial unity states, to full non-dual integration.
 
@@ -105,7 +105,7 @@ Crucially, the essay distinguishes **integration** from **disorganization**, cla
 - Clear differentiation between schizophrenia, depersonalization, and non-dual awareness  
 - Implications for clinical care, contemplative practice, and consciousness science  
 
-[**Read Essay →**]({{ site.baseurl }}/from-did-to-integration)
+[**Read Essay →**]({{ site.baseurl }}/dissociation-to-integration)
 
 **Scholarly Access & Citation**
 - Zenodo — (link coming soon)

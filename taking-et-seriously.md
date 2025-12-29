@@ -3,7 +3,7 @@ layout: essay
 title: Taking ET Seriously
 description: A disciplined examination of extraterrestrial claims that rejects both credulity and dismissal, focusing on evidence quality, secrecy dynamics, and how to reason responsibly under uncertainty.
 ---
-# Taking ET Seriously: Reassessing Evidence, Secrecy, and Public Skepticism
+# Taking ET Seriously: A Responsible Framework for Evaluating Extraordinary Claims
 
 **Author:** Bruno Tonetto  
 **Authorship Note:** This essay is co-authored with AI in order to expand interdisciplinary reach and refine reasoning. AI is used as a disciplined thinking instrument — not as a replacement for judgment. The collaboration explicitly prioritizes epistemic integrity, avoids sycophancy, and treats truth-seeking as a moral responsibility.  
