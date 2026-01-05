@@ -257,6 +257,16 @@ Mahāyāna Buddhism satisfies the triad with particular clarity.
 
 **Scaling ethics:** The bodhisattva ideal explicitly scales responsibility with realization. The arhat who has achieved personal liberation is surpassed by the bodhisattva who remains engaged with suffering beings. The further one progresses, the more one is responsible for the welfare of others—culminating in the aspiration to liberate *all* sentient beings.
 
+### Mystical Christianity
+
+The apophatic and mystical currents within Christianity—from Pseudo-Dionysius through Eckhart to the author of *The Cloud of Unknowing*—satisfy the triad once theological voluntarism is transcended.
+
+**Continuity:** Eckhart's distinction between *Gott* (God as personal, relational) and *Gottheit* (Godhead as ground beyond predication) points toward being that cannot not be. The Godhead is not a being among beings but the ground of being itself—*esse ipsum subsistens* in Thomistic terms. Creation is not production from nothing by arbitrary will but eternal emanation or "boiling over" (*bullitio*) of divine plenitude. The soul's *Grund* and God's *Grund* are, for Eckhart, one ground. There is no moment of absolute non-being; the creature's existence is participation in existence itself.
+
+**Constraint:** The mystics consistently subordinate divine will to divine nature. God does not choose to be good; God *is* the Good. Pseudo-Dionysius's henology places the One beyond being and intellect—but this "beyond" is hyperplenitude, not absence, and it emanates necessarily according to its nature. Eckhart's claim that "God cannot not give birth to the Son" is precisely a constraint claim: the divine nature unfolds by necessity, not by arbitrary decree. The mystic discovers this structure; they do not legislate it.
+
+**Scaling ethics:** The mystical path is explicitly scaled. The *purgative*, *illuminative*, and *unitive* stages describe increasing proximity to the ground, with corresponding transformation of agency. The soul that achieves *unio mystica* does not cease to act but acts from a different center—from the ground rather than the ego. Eckhart's "detachment" (*Abgeschiedenheit*) is not withdrawal from the world but freedom from self-will that enables action aligned with divine nature. The closer to the ground, the greater the capacity and the greater the responsibility to become, in Eckhart's phrase, "a mother of God"—one through whom the divine is born into the world.
+
 ### Stoicism
 
 Classical Stoicism satisfies the triad with equal precision.
