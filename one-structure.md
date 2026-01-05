@@ -109,13 +109,11 @@ Contemporary philosophy and physics reinforce this constraint from different dir
 
 The continuity constraint should not be overread. It does not imply:
 
-**Personal immortality.** Continuity of being does not mean continuity of any particular configuration, identity, or individual. The river continues; the water molecules are replaced. Reality continues; individual minds may not. This is precisely the Buddhist position: the continuity of dependent origination does not require the continuity of any personal self.
+**Personal immortality.** Continuity of being does not guarantee the persistence of any particular configuration, identity, or individual in the form we naively imagine. The river continues; the water molecules are replaced. Buddhist and Hindu traditions affirm karmic continuity—the causal stream persists across lives—but deny that this stream constitutes a permanent, unchanging soul-substance. The "someone" who is reborn is not a static entity migrating between bodies but a dynamic causal continuum. Continuity is preserved; what is relinquished is the fantasy of an unchanging self that survives intact.
 
 **Substance eternalism.** Continuity does not require unchanging substance. It is compatible with process, flux, and transformation—indeed, it may require them. What cannot happen is transition to or from absolute non-being.
 
-**Reincarnation in the popular sense.** The karmic continuity posited by Buddhist and Hindu traditions is not the migration of a soul-substance from body to body. It is the continuation of causal influence: actions generate consequences that unfold across configurations. The "someone" who is reborn is not a persistent entity but a causal stream.
-
-**Any particular metaphysics.** The continuity constraint is satisfied by materialism (if matter is conserved), by idealism (if consciousness is fundamental), by dualism (if both substances persist), and by neutral monism (if the underlying nature is continuous). It rules out only frameworks that require being to emerge from or dissolve into absolute nothing.
+**Metaphysical constraints.** The continuity constraint does not dictate a single metaphysics, but it is not neutral. It is satisfied by frameworks in which experience is fundamental, intrinsic, or continuously transformed—idealism, panpsychism, neutral monism, process philosophy. It rules out frameworks in which experience emerges from the wholly non-experiential or dissolves into it. Continuity of matter without continuity of experience is not continuity in the relevant sense.
 
 ---
 
