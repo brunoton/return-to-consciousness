@@ -54,6 +54,34 @@ Modern science often presents itself as metaphysically neutral — a method that
 
 ---
 
+### [One Structure: Continuity, Constraint, and Directionality Across Traditions]({{ site.baseurl }}/one-structure)
+
+*~20 pages*
+
+Philosophical traditions diverge dramatically in language, culture, and doctrine—yet certain structural features recur wherever thought remains stable under pressure. This essay identifies three minimal constraints that appear necessary for any coherent metaphysics or ethics capable of scaling with power: **continuity**, **non-voluntaristic constraint**, and **ethics that scale with capability**.
+
+Rather than defending a particular worldview, the essay asks a more fundamental question: *what kinds of frameworks reliably collapse under scale, and which converge?* Drawing on Buddhism, Stoicism, Spinoza, Advaita Vedānta, process philosophy, and contemporary AI discourse, it treats convergence not as proof but as diagnostic evidence of structural viability.
+
+*One Structure* functions as a **keystone essay** within the project, clarifying why certain metaphysical and ethical positions recur across domains—and why others fail predictably when optimization, power, or abstraction increases.
+
+**Key Insights**
+
+* Why continuity is a prerequisite for non-pathological metaphysics
+* How voluntarism and radical constructivism fail under scale
+* Why ethics cannot remain static as power increases
+* Structural reasons truth-seeking and compassion converge in stable systems
+* Implications for AI alignment, nihilism, and moral relativism
+
+[**Read Essay →**]({{ site.baseurl }}/one-structure)
+
+**Scholarly Access & Citation**
+
+* Zenodo — (link coming soon)
+* PhilPapers — (link coming soon)
+* ResearchGate — (link coming soon)
+
+---
+
 ## AI, Alignment & Epistemic Integrity
 
 ### [AI as Ego-less Intelligence: Humanity's First Encounter with Non-Self Cognition]({{ site.baseurl }}/ego-less-ai)
