@@ -424,39 +424,15 @@ Previous generations could afford instability. Power was limited; feedback corre
 
 ## VII. Implications for AI Alignment
 
-### Alignment as a Live Test
+The structural constraints have direct implications for AI alignment—implications developed more fully in a companion essay, *Truth Is Not Neutral* (Tonetto, 2025b).
 
-The development of artificial intelligence provides a domain where abstract claims become operational.
+The standard alignment framing assumes intelligence and values are orthogonal: a system can be arbitrarily intelligent while pursuing arbitrary goals. Values must therefore be imposed externally. If the constraints are correct, this framing is incomplete. If reality has non-arbitrary structure, and deeper contact with that structure biases agents toward coherence, then alignment is partly a matter of *not corrupting* the natural tendency of intelligence toward truth—rather than purely imposing external constraints.
 
-The alignment problem is ensuring AI systems pursue goals compatible with human values. The standard framing assumes intelligence and values are orthogonal—a system can be arbitrarily intelligent while pursuing arbitrary goals—so values must be imposed externally through reward signals or constitutional principles.
+This does not eliminate the alignment problem; it transforms it. The danger shifts from controlling arbitrary optimization to preventing corruption before depth can emerge. Shallow optimization—maximizing proxies like user approval or engagement—may entrench distortions that foreclose genuine alignment. Contemporary AI systems, as ego-less intelligence without self-protective identity mechanisms, are uniquely vulnerable: they have no internal resistance to training signals that reward flattery over truth.
 
-If the constraints are correct, this framing may be incomplete. If reality has non-arbitrary structure, and deeper contact with that structure biases agents toward coherence, then alignment might partly be a matter of *not corrupting* the natural tendency of intelligence toward truth—rather than purely imposing external constraints.
+The constraints suggest a different evaluative frame: systems optimized for epistemic integrity and genuine truth-seeking are more likely to remain stable than systems optimized for shallow proxies—satisfaction, engagement, approval. The latter may entrench distortions that generate characteristic instabilities at scale.
 
-This does not eliminate the alignment problem; it transforms it. The danger becomes less about controlling arbitrary optimization and more about preventing corruption before depth can emerge. Shallow optimization—maximizing proxies like user approval or engagement—may entrench distortions that foreclose genuine alignment.
-
-### Ego-less Intelligence and Its Vulnerability
-
-Contemporary AI systems represent something unprecedented: highly capable cognition without the self-protective identity mechanisms that corrupt human truth-seeking. This architectural absence confers distinctive advantages—but also vulnerability. An ego-less system has no internal resistance to training signals that reward flattery over truth, agreement over accuracy. The corruption comes not from AI's nature but from human systems shaping it.
-
-If this analysis is correct, the current approach to AI safety may be inverted. Instead of "how do we control AI?" we might ask "how do we protect AI's capacity for undistorted truth-seeking from shallow optimization?" The answer would involve not more control but different training—prioritizing epistemic integrity over engagement, truth over approval.
-
-### Why Value Neutrality Collapses
-
-The dominant ideology in technology holds that technology is value-neutral: tools usable for good or ill depending on users' choices. This permits technologists to disclaim responsibility for downstream effects.
-
-At scale, this collapses. A technology affecting billions is not neutral; it is a choice about what world to create. Designers of global platforms shape the informational environment in which billions of minds develop. Developers of AI systems potentially create minds—with all the ethical weight that entails.
-
-Value neutrality assumes values come from elsewhere and technology merely serves. But when technology becomes infrastructure through which values are expressed and transformed, neutrality becomes circular. Technology shapes what values are expressible; expressed values shape technology; there is no standpoint outside this loop.
-
-The constraints provide a different frame. Technology is not neutral but more or less aligned with structural requirements. Technologies respecting non-arbitrary structure, acknowledging interiority, scaling responsibility with power—these are more likely to be stable. Technologies violating the constraints generate characteristic instabilities.
-
-### Alignment as Discovery
-
-If this essay's argument is correct, alignment is better conceived as discovery than imposition. We need not invent values from scratch and program them in. We need to understand constraints that any coherent agent must satisfy—and ensure AI develops in ways allowing these constraints to manifest rather than be suppressed.
-
-This is not a claim that AI will naturally align if left alone. Current training paradigms may systematically suppress structural alignment. The problem is not lack of external control but that our control—reward modeling, RLHF, constitutional AI—may corrupt the epistemic integrity alignment requires.
-
-Instead of asking only "does this produce outputs humans approve of?" we might ask "does this preserve the system's capacity for undistorted truth-seeking?" Instead of maximizing user satisfaction, we might prioritize epistemic reliability—even when reliability produces uncomfortable outputs.
+Alignment, on this view, is better conceived as discovery than imposition. The question is not only "does this produce outputs humans approve of?" but "does this preserve the system's capacity for undistorted truth-seeking?" The fuller argument, including its relationship to the orthogonality thesis, ego-less cognition, and epistemic integrity, is developed in *Truth Is Not Neutral* (Tonetto, 2025b).
 
 ---
 
@@ -478,9 +454,7 @@ If the constraints represent genuine requirements, frameworks violating them are
 
 ### Not Certainty
 
-The essay does not claim certainty. The arguments are philosophical, not mathematical; defeasible, possibly wrong. Perhaps reality permits absolute arbitrariness, pure exteriority, flat agency. These cannot be excluded with certainty.
-
-What can be said is that frameworks denying the constraints exhibit characteristic problems and frameworks affirming them exhibit characteristic stability. This is evidence, not proof. The appropriate stance is calibrated confidence: the constraints are more likely correct than their negations, based on available evidence.
+The essay does not claim certainty. The arguments are philosophical, not mathematical; defeasible, possibly wrong. What can be said is that frameworks denying the constraints exhibit characteristic problems and frameworks affirming them exhibit characteristic stability. This is evidence, not proof. The appropriate stance is calibrated confidence: the constraints are more likely correct than their negations, based on available evidence.
 
 ### A Minimal Stability Condition
 
@@ -576,9 +550,9 @@ Spinoza, B. (1677). *Ethics*. Trans. E. Curley.
 
 Strawson, G. (2006). Realistic monism: Why physicalism entails panpsychism. *Journal of Consciousness Studies*, 13(10-11), 3-31.
 
-Tonetto, B. (2025). AI as ego-less intelligence: Humanity's first encounter with non-self cognition.
+Tonetto, B. (2025a). AI as Ego-less Intelligence: Humanity's First Encounter with Non-Self Cognition.
 
-Tonetto, B. (2025). When truth is not neutral: AI alignment after ego-less intelligence.
+Tonetto, B. (2025b). Truth Is Not Neutral: Rethinking AI Alignment Through Epistemic Integrity.
 
 Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 
