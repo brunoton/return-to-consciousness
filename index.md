@@ -60,7 +60,7 @@ Modern science often presents itself as metaphysically neutral — a method that
 
 Philosophical traditions diverge dramatically in language, culture, and doctrine—yet certain structural features recur wherever thought remains stable under pressure. This essay identifies three nested constraints necessary for coherent metaphysics capable of scaling with power: **non-arbitrary structure** (reality exhibits discoverable structure rather than arbitrary will), **no absolute exteriority** (interiority is not absent at the foundation), and **asymmetric agency** (responsibility scales with power and proximity to truth).
 
-Drawing on Buddhism, Advaita Vedānta, analytic idealism, Stoicism, Sufism, Kabbalah, process philosophy, and AI alignment research, the essay treats convergence as diagnostic evidence of structural viability. Buddhism, Advaita Vedānta, and analytic idealism emerge as exemplary frameworks—satisfying all constraints with particular rigor. *One Structure* functions as a **keystone essay** within the project, clarifying why certain positions recur across domains and why others fail predictably when power increases.
+Drawing on Buddhism, Advaita Vedānta, analytic idealism, Stoicism, Sufism, Kabbalah, process philosophy, and AI alignment research, the essay treats convergence as diagnostic evidence of structural viability.*One Structure* functions as a **keystone essay** within the project, clarifying why certain positions recur across domains and why others fail predictably when power increases.
 
 **Key Insights**
 
