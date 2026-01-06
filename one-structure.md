@@ -372,16 +372,6 @@ This circularity cannot be entirely escaped. Three considerations mitigate it.
 
 This is weaker than certainty. It is stronger than coincidence. It is what the evidence supports.
 
-### Exemplary Frameworks
-
-Not all traditions satisfy the constraints with equal rigor. Two stand out as exemplars: **Buddhism** and **Advaita Vedānta**.
-
-Each articulates all three constraints explicitly rather than implicitly. Each grounds interiority as fundamental rather than derivative. Each accommodates creative participation without collapsing into voluntarism. Each derives ethical scaling from metaphysics rather than adding it externally. And each connects truth-responsiveness to compassion structurally: Buddhism's inseparability of *prajñā* and *karuṇā*, Advaita's dissolution of self/other in *Brahman*. Crucially, both traditions have been refined over centuries—even millennia—of contemplative verification and philosophical debate.
-
-**Analytic idealism** (Kastrup) functions differently—not as a third tradition of comparable standing, but as a contemporary Western articulation that translates contemplative insights into terms engaging philosophy of mind and physics interpretation. Its value is as bridge: rendering discoveries from Buddhism and Advaita legible to scientific and analytic discourse, addressing the hard problem directly, interpreting quantum mechanics coherently. Analytic idealism performs a function the ancient traditions cannot: speaking to contemporary philosophy of mind in its own language.
-
-Other traditions satisfy the constraints but with less precision or completeness. Stoicism is deterministic where the constraints permit indeterminacy. Process philosophy satisfies all three but lacks contemplative verification. Mystical Christianity and Sufism satisfy the constraints in their refined forms but must overcome voluntarist surfaces. The exemplary frameworks—Buddhism and Advaita—require no such translation; they articulate the constraints directly.
-
 ---
 
 ## VI. Diagnostic Divergence: Where Frameworks Fail
