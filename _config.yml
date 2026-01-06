@@ -28,10 +28,10 @@ linkedin_username: brunotonetto
 # Navigation
 header_pages:
   - complete-essay.md
-  - dissociation-to-integration.md
+  # - dissociation-to-integration.md
   - ego-less-ai.md
   - myth-of-metaphysical-neutrality.md
-  - one-structure.md
+  # - one-structure.md
   - taking-et-seriously.md
   - truth-is-not-neutral.md
 

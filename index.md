@@ -53,7 +53,7 @@ Modern science often presents itself as metaphysically neutral — a method that
 - ResearchGate — (link coming soon)
 
 ---
-
+<!-- 
 ### [One Structure: Continuity, Constraint, and Directionality Across Traditions]({{ site.baseurl }}/one-structure)
 
 *~20 pages*
@@ -80,7 +80,7 @@ Rather than defending a particular worldview, the essay asks a more fundamental 
 * PhilPapers — (link coming soon)
 * ResearchGate — (link coming soon)
 
----
+--- -->
 
 ## AI, Alignment & Epistemic Integrity
 
@@ -126,7 +126,7 @@ Standard alignment theory assumes that intelligence and values are independent. 
 - [Academia.edu](https://www.academia.edu/145437246/When_Truth_Is_Not_Neutral_AI_Alignment_After_Ego_less_Intelligence)
 
 ---
-
+<!-- 
 ## Clinical & Contemplative Integration
 
 ### [Dissociation to Integration: Ego, Non-Duality, and the Structure of Consciousness]({{ site.baseurl }}/dissociation-to-integration)
@@ -149,7 +149,7 @@ Crucially, the essay distinguishes **integration** from **disorganization**, cla
 - ResearchGate — (link coming soon)
 - Academia.edu — (link coming soon)
 
----
+--- -->
 
 ## Reasoning Under Extraordinary Uncertainty
 
