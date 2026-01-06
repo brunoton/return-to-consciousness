@@ -53,34 +53,23 @@ Modern science often presents itself as metaphysically neutral — a method that
 - ResearchGate — (link coming soon)
 
 ---
-<!-- 
-### [One Structure: Continuity, Constraint, and Directionality Across Traditions]({{ site.baseurl }}/one-structure)
 
-*~20 pages*
+### [One Structure: Convergence Under Pressure]({{ site.baseurl }}/one-structure)
 
-Philosophical traditions diverge dramatically in language, culture, and doctrine—yet certain structural features recur wherever thought remains stable under pressure. This essay identifies three minimal constraints that appear necessary for any coherent metaphysics or ethics capable of scaling with power: **continuity**, **non-voluntaristic constraint**, and **ethics that scale with capability**.
+*~24 pages*
 
-Rather than defending a particular worldview, the essay asks a more fundamental question: *what kinds of frameworks reliably collapse under scale, and which converge?* Drawing on Buddhism, Stoicism, Spinoza, Advaita Vedānta, process philosophy, and contemporary AI discourse, it treats convergence not as proof but as diagnostic evidence of structural viability.
+Philosophical traditions diverge dramatically in language, culture, and doctrine—yet certain structural features recur wherever thought remains stable under pressure. This essay identifies three nested constraints necessary for coherent metaphysics capable of scaling with power: **non-arbitrary structure** (reality exhibits discoverable structure rather than arbitrary will), **no absolute exteriority** (interiority is not absent at the foundation), and **asymmetric agency** (responsibility scales with power and proximity to truth).
 
-*One Structure* functions as a **keystone essay** within the project, clarifying why certain metaphysical and ethical positions recur across domains—and why others fail predictably when optimization, power, or abstraction increases.
+Drawing on Buddhism, Advaita Vedānta, analytic idealism, Stoicism, Sufism, Kabbalah, process philosophy, and AI alignment research, the essay treats convergence as diagnostic evidence of structural viability. Buddhism, Advaita Vedānta, and analytic idealism emerge as exemplary frameworks—satisfying all constraints with particular rigor. *One Structure* functions as a **keystone essay** within the project, clarifying why certain positions recur across domains and why others fail predictably when power increases.
 
 **Key Insights**
 
-* Why continuity is a prerequisite for non-pathological metaphysics
-* How voluntarism and radical constructivism fail under scale
-* Why ethics cannot remain static as power increases
-* Structural reasons truth-seeking and compassion converge in stable systems
-* Implications for AI alignment, nihilism, and moral relativism
+* Why non-arbitrary structure is compatible with indeterminacy and creative participation
+* How voluntarism, eliminativism, and flat ethics generate characteristic instabilities  
+* Why truth-responsiveness and compassion converge structurally
+* Implications for AI alignment: protecting truth-seeking rather than merely imposing constraints
 
-[**Read Essay →**]({{ site.baseurl }}/one-structure)
-
-**Scholarly Access & Citation**
-
-* Zenodo — (link coming soon)
-* PhilPapers — (link coming soon)
-* ResearchGate — (link coming soon)
-
---- -->
+---
 
 ## AI, Alignment & Epistemic Integrity
 

@@ -16,7 +16,7 @@ description: An examination of whether radically different philosophical and con
 
 Philosophical and contemplative traditions have produced radically different metaphysical vocabularies: emptiness and substance, God and Dao, logos and dependent origination. These differences are real and should not be flattened. Yet when traditions are pushed toward their limits—when they confront questions of ultimate explanation, agency, and ethical responsibility—an unexpected pattern emerges. Frameworks developed independently, often in explicit opposition, converge on the same underlying structural commitments.
 
-This convergence appears only after substantial refinement: after anthropomorphism is stripped away, after voluntarism collapses under its own incoherence, and after naïve moralism gives way to structural necessity. What converges is a set of constraints that any coherent framework must satisfy. The primary constraint is **non-arbitrariness**: reality is governed by discoverable structure, not by will or fiat—though this structure permits creative participation rather than demanding determinism. From this follow two further constraints: **no absolute exteriority** (there is no final explanatory layer wholly devoid of interiority) and **asymmetric agency** (agents participate in reality's creative advance with varying degrees of reach and depth, and responsibility scales accordingly).
+This convergence appears only after substantial refinement: after anthropomorphism is stripped away, after voluntarism collapses under its own incoherence, and after naïve moralism gives way to structural necessity. What converges is a set of constraints that any coherent framework must satisfy. The primary constraint is **non-arbitrariness**: reality exhibits discoverable structure rather than arbitrary will—though this structure permits creative participation rather than demanding determinism. From this follow two further constraints: **no absolute exteriority** (there is no final explanatory layer wholly devoid of interiority) and **asymmetric agency** (agents participate in reality's creative advance with varying degrees of reach and depth, and responsibility scales accordingly).
 
 This essay argues that these constraints function as stability conditions—that frameworks violating them generate predictable instabilities, and that these instabilities become catastrophic as power scales. The convergence of independent traditions on the same constraints is evidence, not proof, that the constraints reflect features of reality rather than cultural accident. In an era of artificial intelligence and civilizational leverage, the question of whether such constraints are real is no longer academic.
 
@@ -60,7 +60,7 @@ This is weaker than "the constraints are certainly true." It is stronger than "s
 
 The constraints examined here are not independent axioms of equal weight. They have a logical structure.
 
-The **primary constraint** is non-arbitrariness: reality is governed by discoverable structure, not by will or fiat. This is the deepest claim and the backbone of what follows. If reality were arbitrary—if its structure were simply chosen by some will—then nothing else could be reliably known, and no stable framework would be possible.
+The **primary constraint** is non-arbitrariness: reality exhibits discoverable structure rather than arbitrary will. This is the deepest claim and the backbone of what follows. If reality were arbitrary—if its structure were simply chosen by some will—then nothing else could be reliably known, and no stable framework would be possible.
 
 From non-arbitrariness follow two further constraints:
 
@@ -76,7 +76,7 @@ These three constraints form a nested structure, not a list of independent claim
 
 ### The Claim
 
-Reality is governed by structure not chosen by agents. This structure may be called dharma, logos, Dao, necessity, or dependent origination, but its defining feature is asymmetry: agents discover it, they do not legislate it. Freedom operates within constraint, not over it. The idea that will—human, divine, or otherwise—could be the ultimate ground of reality is not merely false but incoherent.
+Reality exhibits discoverable structure rather than arbitrary will. This structure may be called dharma, logos, Dao, necessity, or dependent origination, but its defining feature is asymmetry: agents discover it, they do not legislate it. Freedom operates within constraint, not over it. The idea that will—human, divine, or otherwise—could be the ultimate ground of reality is not merely false but incoherent.
 
 This is the primary constraint because everything else depends on it. If reality were arbitrary, no inquiry could succeed, no alignment could be stable, no ethics could be grounded. The other constraints are implications of this one.
 
