@@ -69,6 +69,8 @@ Drawing on Buddhism, Advaita Vedānta, analytic idealism, Stoicism, Sufism, Kabb
 * Why truth-responsiveness and compassion converge structurally
 * Implications for AI alignment: protecting truth-seeking rather than merely imposing constraints
 
+[**Read Essay →**]({{ site.baseurl }}/one-structure)
+
 ---
 
 ## AI, Alignment & Epistemic Integrity
@@ -114,31 +116,30 @@ Standard alignment theory assumes that intelligence and values are independent. 
 - [ResearchGate](https://www.researchgate.net/publication/398737605_When_Truth_Is_Not_Neutral_AI_Alignment_After_Ego-less_Intelligence)
 - [Academia.edu](https://www.academia.edu/145437246/When_Truth_Is_Not_Neutral_AI_Alignment_After_Ego_less_Intelligence)
 
----
-<!-- 
+<!-- ---
+
 ## Clinical & Contemplative Integration
 
-### [Dissociation to Integration: Ego, Non-Duality, and the Structure of Consciousness]({{ site.baseurl }}/dissociation-to-integration)
-*~30 pages*
+### [Consciousness Structure: Boundary, Integration, and the Limits of Psychopathology]({{ site.baseurl }}/consciousness-structure)
 
-This essay develops a unified framework connecting clinical dissociation, ordinary egoic identity, contemplative experience, and non-dual awareness. It proposes a continuum model: from pathological fragmentation (as in Dissociative Identity Disorder), through ordinary ego as a *mild and functional* form of dissociation, through partial unity states, to full non-dual integration.
+*~XX pages*
 
-Crucially, the essay distinguishes **integration** from **disorganization**, clarifying why contemplative realization is not psychosis — and why confusing them is clinically harmful. It offers a bridge between psychiatry, contemplative neuroscience, and philosophy of mind without romanticizing or pathologizing extreme states.
+This essay extends the analytic idealist framework developed in *Return to Consciousness* into the clinical and contemplative domains. Rather than arguing for consciousness-first metaphysics, it examines **what follows structurally once that ontology is in place**.
+
+It introduces a two-dimensional model—**boundary permeability × integrative coherence**—to differentiate depression, psychosis, dissociation, panic, contemplative insight, and non-dual integration without collapsing pathology into spirituality or romanticizing breakdown. The essay makes **strong internal necessity claims** about how these phenomena must organize under a consciousness-first ontology.
+
+A central contribution is the identification of **non-integrable states**, where boundary-opening practices are contraindicated and stabilization is required before depth-oriented work.
 
 **Key Insights**
-- Ordinary ego as a stable but dissociative identity structure  
-- Unity experiences as *reduced dissociation*, not hallucination  
-- Clear differentiation between schizophrenia, depersonalization, and non-dual awareness  
-- Implications for clinical care, contemplative practice, and consciousness science  
 
-[**Read Essay →**]({{ site.baseurl }}/dissociation-to-integration)
+* Structural distinction between psychosis and contemplative realization
+* Why boundary dissolution is not inherently integrative
+* Clinical implications for trauma and dissociation
+* Constraints analytic idealism places on contemplative practice
 
-**Scholarly Access & Citation**
-- Zenodo — (link coming soon)
-- ResearchGate — (link coming soon)
-- Academia.edu — (link coming soon)
+[**Read Essay →**]({{ site.baseurl }}/consciousness-structure) -->
 
---- -->
+---
 
 ## Reasoning Under Extraordinary Uncertainty
 
