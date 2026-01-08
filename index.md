@@ -120,7 +120,7 @@ Standard alignment theory assumes that intelligence and values are independent. 
 
 ## Clinical & Contemplative Integration
 
-### [Consciousness Structure: Boundary, Integration, and the Limits of Psychopathology]({{ site.baseurl }}/consciousness-structure)
+### [Consciousness Structure: Boundary, Integration, and the Limits of the Ordinary Mind]({{ site.baseurl }}/consciousness-structure)
 
 *~XX pages*
 
