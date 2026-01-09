@@ -628,13 +628,7 @@ Schneider, K. (1959). *Klinische Psychopathologie*. Thieme.
 
 Stahl, S. M. (2018). Beyond the dopamine hypothesis of schizophrenia to three neural networks of psychosis. *CNS Spectrums*, 23(3), 187-191.
 
-Tonetto, B. (2025a). Return to Consciousness: A Philosophical Journey from Materialism to Meaning.
-
-Tonetto, B. (2025b). One Structure: Convergence Under Pressure.
-
-Tonetto, B. (2025c). Truth Is Not Neutral: Rethinking AI Alignment Through Epistemic Integrity.
-
-Tononi, G. (2012). Integrated information theory of consciousness: An updated account. *Archives italiennes de biologie*, 150(2-3), 56-90.
+Tonetto, B. (2025). Return to Consciousness: A Philosophical Journey from Materialism to Meaning.
 
 van der Kolk, B. (2014). *The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma*. Viking.
 
