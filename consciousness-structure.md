@@ -319,7 +319,7 @@ In psychosis, when the dissociative boundary becomes unstable, the individual ex
 
 **Specific symptoms reframed**:
 
-- *Auditory hallucinations*: Voices that comment, command, or dialogue represent archetypal content leaking through a weakened dissociative boundary. They become "other-than-self" because the individual fails to recognize their transpersonal nature and interprets them as concrete agents.
+- *Auditory hallucinations*: Voices that comment, command, or dialogue may represent content from the broader field of consciousness—archetypal patterns, other dissociated alters (including deceased individuals, as some spiritual traditions hold), or non-localized mental content—entering through a weakened boundary. Analytic idealism does not exclude the possibility of genuine contact with other minds; the boundaries between individual alters are dissociative structures that can become permeable. The pathology lies not necessarily in the ontological status of the voices but in the mode of contact: uncontrolled boundary permeability, insufficient coherence to maintain identity during contact, and experienced as persecutory rather than meaningful communion.
 
 - *Delusions of reference*: The pathological belief that random events hold special personal significance ("the TV is sending me messages") reflects a genuine intuition—that consciousness is intrinsically unified—distorted through literalization. The individual perceives subtle connections but reifies them, rendering them concrete and threatening.
 
