@@ -564,6 +564,9 @@
     position: relative;
     padding-left: 50%;
     text-align: left;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    white-space: normal;
   }
 
   .page-content table td::before {
@@ -574,6 +577,9 @@
     padding-right: 10px;
     font-weight: 600;
     color: #1f2328;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    white-space: normal;
   }
 
   .page-content table td:first-child {
