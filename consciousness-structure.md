@@ -295,9 +295,11 @@ All three observed the same phenomenon. Only the contemplative traditions saw be
 
 The boundary-coherence framework allows psychopathological conditions to be understood as specific configurations within a unified space, rather than as categorically distinct diseases with unrelated etiologies.
 
-### Psychosis and Schizophrenia: Permeability Without Coherence
+### Psychosis: Permeability Without Coherence
 
-Psychosis represents a state of hyperpermeable boundaries combined with insufficient coherence. The boundary weakens—whether through neurochemical dysregulation, trauma, or other factors—and contents from the broader field of consciousness enter awareness. But without adequate coherence, these contents cannot be symbolically integrated. They are literalized, externalized, and experienced as persecutory or commanding agents.
+Psychosis is a syndrome—a constellation of symptoms including hallucinations, delusions, disorganized thinking, and loss of contact with shared reality. It is not a single disorder but a state that can arise from multiple etiologies: schizophrenia (chronic primary psychotic disorder), brief psychotic disorder, substance-induced psychosis, psychotic features in mood disorders, medical conditions, extreme stress, or spiritual emergency. This framework addresses the psychotic syndrome itself—the phenomenological and structural configuration—while remaining agnostic about underlying diagnostic categories.
+
+Psychosis, understood phenomenologically, represents a state of hyperpermeable boundaries combined with insufficient coherence. The boundary weakens—whether through neurochemical dysregulation, genetic vulnerability, trauma, psychoactive substances, or other factors—and contents from the broader field of consciousness enter awareness. But without adequate coherence, these contents cannot be symbolically integrated. They are literalized, externalized, and experienced as persecutory or commanding agents.
 
 **The neurochemical picture, reinterpreted**: Psychotomimetic substances like ketamine, LSD, and psilocybin provide a model for understanding psychotic mechanisms. Ketamine and PCP antagonize NMDA receptors on GABAergic interneurons, disinhibiting glutamatergic pyramidal neurons. LSD and psilocybin directly excite these neurons via 5-HT2A receptor activation. The resulting modulation of dopaminergic transmission—hyperactivity of mesolimbic pathways, hypoactivity of mesocortical pathways—produces hypofrontality and impaired thalamic gating.
 
@@ -325,7 +327,9 @@ In psychosis, when the dissociative boundary becomes unstable, the individual ex
 
 - *Grandiose delusions*: Interception of the archetype of the Cosmic Self, symbolizing totality and perfection. Instead of experiencing this as a transpersonal symbol—which for mystics engenders humility and service—the subject literalizes it, attributing it directly to their personal biography.
 
-- *Thought insertion and broadcasting*: Schneider's first-rank symptoms of schizophrenia. In thought insertion, the subject directly experiences the non-personal nature of universal mind but, lacking integrative capacity, perceives the thoughts as imposed, hostile inputs. In thought broadcasting, the subject correctly intuits mental non-separation but interprets this persecutorily, believing their mental privacy is violated.
+- *Thought insertion and broadcasting*: Schneider's first-rank symptoms, classically associated with schizophrenia. In thought insertion, the subject directly experiences the non-personal nature of universal mind but, lacking integrative capacity, perceives the thoughts as imposed, hostile inputs. In thought broadcasting, the subject correctly intuits mental non-separation but interprets this persecutorily, believing their mental privacy is violated.
+
+**Acute vs. chronic psychosis**: The boundary-coherence model applies to psychotic states regardless of duration, but temporal dynamics matter therapeutically. Acute psychosis (brief psychotic disorder, first-episode psychosis, substance-induced states) may represent temporary boundary failure with potential for full restoration. Chronic psychosis, particularly in schizophrenia, involves persistent structural alterations—possibly reflecting stable low-coherence configurations that resist simple boundary re-sealing. Negative symptoms in schizophrenia (flat affect, avolition, social withdrawal) may represent compensatory boundary rigidification following chronic permeability failure—a secondary defensive closure after the system has learned that openness leads to fragmentation. This suggests schizophrenia involves not merely hyperpermeability but dysregulated oscillation between pathological openness and pathological closure, with progressive loss of flexible regulation.
 
 ### The Critical Distinction: Psychosis vs. Mystical States
 
