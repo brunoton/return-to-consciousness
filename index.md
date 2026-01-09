@@ -116,28 +116,28 @@ Standard alignment theory assumes that intelligence and values are independent. 
 - [ResearchGate](https://www.researchgate.net/publication/398737605_When_Truth_Is_Not_Neutral_AI_Alignment_After_Ego-less_Intelligence)
 - [Academia.edu](https://www.academia.edu/145437246/When_Truth_Is_Not_Neutral_AI_Alignment_After_Ego_less_Intelligence)
 
-<!-- ---
+---
 
 ## Clinical & Contemplative Integration
 
-### [Consciousness Structure: Boundary, Integration, and the Limits of the Ordinary Mind]({{ site.baseurl }}/consciousness-structure)
+### [Consciousness Structure: Dissociation, Integration, and the Limits of the Ordinary Mind]({{ site.baseurl }}/consciousness-structure)
 
-*~XX pages*
+*~36 pages*
 
 This essay extends the analytic idealist framework developed in *Return to Consciousness* into the clinical and contemplative domains. Rather than arguing for consciousness-first metaphysics, it examines **what follows structurally once that ontology is in place**.
 
 It introduces a two-dimensional model—**boundary permeability × integrative coherence**—to differentiate depression, psychosis, dissociation, panic, contemplative insight, and non-dual integration without collapsing pathology into spirituality or romanticizing breakdown. The essay makes **strong internal necessity claims** about how these phenomena must organize under a consciousness-first ontology.
 
-A central contribution is the identification of **non-integrable states**, where boundary-opening practices are contraindicated and stabilization is required before depth-oriented work.
+A central contribution is the identification of **non-integrable states**, where boundary-opening practices are contraindicated and stabilization is required before depth-oriented work. Integration is shown to be fundamentally affective rather than cognitive—requiring compassion sufficient to host experience without rejection.
 
 **Key Insights**
 
-* Structural distinction between psychosis and contemplative realization
-* Why boundary dissolution is not inherently integrative
-* Clinical implications for trauma and dissociation
-* Constraints analytic idealism places on contemplative practice
+* Structural distinction between psychosis and mystical experience
+* Why the ordinary ego is itself a form of dissociation
+* Clinical implications for trauma therapy, DID, and psychedelic-assisted treatment
+* Why integration requires compassion as metabolic capacity, not merely cognitive understanding
 
-[**Read Essay →**]({{ site.baseurl }}/consciousness-structure) -->
+[**Read Essay →**]({{ site.baseurl }}/consciousness-structure)
 
 ---
 
