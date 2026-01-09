@@ -439,11 +439,11 @@ Boundary-loosening practices (psychedelics, intensive meditation, breathwork) ar
 
 ## VII. Integration Is Not Understanding—It Is Compassion
 
-A central claim of this framework is that integration is not cognitive insight, narrative reframing, or acceptance-through-explanation.
+A central claim of this framework is that integration is not merely cognitive insight, narrative reframing, or acceptance-through-explanation.
 
 **Integration is the capacity to host experience without rejection.**
 
-Understanding why something happened does not integrate it. Recognizing that trauma "wasn't your fault" does not metabolize the terror. Accepting intellectually that death is inevitable does not dissolve the fear. Cognitive understanding operates at the level of the ego, which is itself the structure that dissociates to survive.
+Understanding why something happened does not, by itself, integrate it. Recognizing that trauma "wasn't your fault" does not metabolize the terror. Accepting intellectually that death is inevitable does not dissolve the fear. Cognitive understanding can support integration but cannot replace it; understanding operates at the level of the ego, which is itself the structure that dissociates to survive.
 
 Extreme experiences—being torn apart, subjected to sadistic cruelty, annihilated in disaster—cannot be metabolized at the level of ordinary ego. The ego survives by exclusion. Some contents are dissociated precisely because they would destroy egoic identity if fully admitted.
 
