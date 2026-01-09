@@ -398,7 +398,7 @@ DID involves multiple internal dissociative partitions, each with local coherenc
 
 Each alter maintains its own coherent identity, memory continuity, and characteristic patterns. The system as a whole survives, but at the cost of unified experience. Therapeutic integration involves gradually dissolving internal boundaries while preserving coherence—a delicate process that cannot be rushed without risking destabilization.
 
-Psychedelics, which increase permeability, carry high risk for DID patients. They may dissolve internal boundaries faster than coherence can expand to hold the combined contents. The therapeutic principle—do not open what cannot be held—applies with particular force here.
+The framework predicts that psychedelics, which increase boundary permeability, may pose risks for DID patients by dissolving internal boundaries faster than coherence can expand to hold the combined contents. However, empirical evidence on psychedelic use specifically in DID populations is extremely limited, and clinical experience varies. The therapeutic principle—do not open what cannot be held—suggests caution is warranted, but this remains a theoretical prediction requiring further research rather than an established contraindication.
 
 ---
 
