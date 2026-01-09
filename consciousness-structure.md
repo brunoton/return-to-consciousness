@@ -410,7 +410,7 @@ Within analytic idealism, experiential information is not destroyed. Memory may 
 
 Traumatic memory is not stored in the same way as ordinary autobiographical memory. It is often fragmented, somatically encoded, and triggered by associative cues rather than voluntarily recalled. The framework suggests this reflects dissociative partitioning: the traumatic content is not integrated into the main alter's narrative because integration would have overwhelmed the system at the time of encoding.
 
-Therapeutic work with trauma involves gradual re-access to dissociated material with sufficient coherence to integrate it. The memory does not change; the capacity to hold it does. This is why trauma therapy often involves titrated exposure—small doses of previously dissociated content, processed with support, gradually expanding the range of what can be held.
+Therapeutic work with trauma involves gradual re-access to dissociated material with sufficient coherence and compassion to integrate it. The memory does not change; the affective capacity to hold it without rejection does. This is why trauma therapy often involves titrated exposure—small doses of previously dissociated content, processed with support, gradually expanding the range of what can be hosted with compassion rather than contracted against in fear.
 
 ### Transpersonal Memory
 
