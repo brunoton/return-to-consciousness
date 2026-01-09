@@ -398,7 +398,7 @@ The framework predicts that psychedelics, which increase boundary permeability, 
 
 ## VI. Memory, Trauma, and the Question of Veridicality
 
-Within analytic idealism, experiential information is not destroyed. Memory may be inaccessible due to dissociation rather than erased. This has significant implications for understanding trauma, and potentially for more exotic phenomena.
+Within analytic idealism, experiential information is not destroyed. Memory may be inaccessible due to dissociation rather than erased. This has significant implications for understanding trauma, and potentially for more exotic phenomena. But a crucial distinction must be maintained: **availability is not accuracy**.
 
 ### Dissociated Memory
 
@@ -419,15 +419,37 @@ If consciousness is fundamental and dissociation creates the appearance of separ
 
 Whether this occurs is an empirical question. The framework merely establishes that it is not a priori impossible—unlike in materialist frameworks where memory must be stored in individual brains.
 
+### Availability, Integration, and Accuracy
+
+A critical clarification: increased access to experiential content—whether autobiographical, symbolic, or transpersonal—does not entail increased epistemic reliability. Dissociation regulates the *availability* of experience, not its correspondence to historical fact. Integration concerns the capacity to host what arises without fragmentation or rejection; it does not require affirming the narrative form in which experience appears.
+
+This distinction is central to contemplative traditions, particularly Buddhism, where liberation is explicitly tied to *non-reification*: seeing phenomena as appearances rather than as intrinsically or literally real. Insight consists not in acquiring better stories about the self, but in releasing identification with stories altogether. From this perspective, suffering arises less from what is remembered than from the tendency to grasp memories—personal or transpersonal—as definitive accounts of "what actually happened."
+
+For clinical and philosophical clarity, three levels must be distinguished:
+
+1. **Phenomenological availability** — what contents arise into awareness when dissociative boundaries loosen
+2. **Affective integration** — the capacity to hold these contents with sufficient coherence and compassion, without fragmentation or literalization
+3. **Historical or factual accuracy** — whether the narrative corresponds to events that occurred in shared empirical reality
+
+Therapeutic integration operates primarily at levels (1) and (2). Healing does not require certainty about level (3). Indeed, insisting on factual resolution where none is available can obstruct integration by reinforcing compulsive narrative closure—the very grasping that contemplative traditions identify as the root of suffering.
+
+### Complementary Approaches
+
+Factual accuracy remains clinically and ethically relevant, even if not required for affective integration. Cognitive-behavioral approaches are particularly effective at this level: they address distorted beliefs, maladaptive inferences, and over-generalized narratives by testing them against evidence, alternative explanations, and functional outcomes. Within the present framework, CBT can be understood as a coherence-stabilizing intervention—one that reduces suffering by correcting false or rigid interpretations, even when deeper affective or dissociative work is not yet possible or appropriate.
+
+These approaches are complementary rather than opposed. Where coherence is fragile, cognitive-behavioral work may be essential for restoring basic reality testing and functional orientation. Where coherence is sufficient, deeper integrative or contemplative work may proceed without requiring narrative certainty. The skilled clinician assesses which level requires intervention and sequences accordingly.
+
 ### Clinical and Existential Prudence
 
-The clinical and existential relevance of such experiences does not depend on their historical accuracy. Even symbolic or non-local access to extreme suffering—genocide, predatory violence, mass death—can overwhelm an alter. The integrative challenge is the same whether the content reflects actual past events or imaginative elaboration.
+The clinical and existential relevance of experiential content does not depend on its historical accuracy. Even symbolic or non-local access to extreme suffering—genocide, predatory violence, mass death—can overwhelm an alter. The integrative challenge is the same whether the content reflects actual past events or imaginative elaboration.
+
+**Clinical safeguard**: Regardless of ontological stance, no memory—whether recovered, symbolic, or transpersonal—should be treated as factually authoritative without independent corroboration. Experiential intensity, emotional charge, or perceived meaning do not confer historical truth. The task of therapy is not to determine what did happen, but to enable the psyche to relate to what appears without distortion, reification, or harm.
 
 This yields a practical principle that applies regardless of metaphysical stance:
 
-> **Do not open what cannot be held.**
+> **Do not open what cannot be held, and do not reify what opens.**
 
-Boundary-loosening practices (psychedelics, intensive meditation, breathwork) are not inherently good or bad. Their value depends entirely on the relationship between what they open and the coherence available to integrate it. Opening to content that exceeds integrative capacity produces fragmentation, not healing.
+Boundary-loosening practices (psychedelics, intensive meditation, breathwork) are not inherently good or bad. Their value depends entirely on the relationship between what they open and the coherence available to integrate it. Opening to content that exceeds integrative capacity produces fragmentation, not healing. And treating the content that arises as literal truth—rather than as phenomenological material to be held with compassion and discernment—produces a different kind of fragmentation: epistemic confusion that can harm the individual and others.
 
 ---
 
