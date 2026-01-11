@@ -200,7 +200,7 @@ This dissociation is mild compared to DID, stable compared to psychosis, and ada
 
 The ego works by exclusion. "This is not me" is its fundamental operation. It maintains identity through repression of incompatible content, projection of disowned material, selective attention confirming existing identity, moralization defending the ego's goodness, and fear of death protecting boundary integrity.
 
-**The ego is a dissociative alter that mistakes itself for the whole.**
+**The ego is a localized perspective that does not recognize its own partiality**
 
 This is not pathology in the clinical sense—the ego functions well enough. But it is alienation in the existential sense: a contraction of consciousness experiencing itself as separate from what it actually is.
 
