@@ -622,6 +622,95 @@ This is not a conclusion that can be forced or rushed. It describes a possibilit
 
 ---
 
+## Epilogue: Religiosity, Spirituality, and Mental Health
+
+This epilogue situates the boundary-coherence framework in relation to the empirical literature on religiosity/spirituality (R/S) and mental health. The goal is compatibility without reduction: neither supernatural assertion nor materialist dismissal.
+
+### Empirical Regularities
+
+A substantial body of research documents associations between religiosity/spirituality and mental health outcomes:
+
+- Lower average risk of depression and suicide in religious populations
+- Better recovery trajectories after trauma
+- Lower substance use rates
+- Modest but consistent associations with subjective wellbeing and life satisfaction
+
+These findings are robust across many studies, but important caveats apply. Effects are heterogeneous and context-dependent, often small-to-moderate in magnitude. Critically, "religious/spiritual struggle"—doubt, guilt, perceived divine abandonment, conflict with religious community—reliably predicts *worse* outcomes. The same domain that correlates with protection can correlate with harm.
+
+These are associations, not metaphysical conclusions. The data establish that something is happening; they do not establish what.
+
+### Standard Explanations
+
+The dominant scientific framework explains R/S mental health correlates through psychosocial mediators:
+
+- **Social integration**: Religious communities provide support networks, belonging, and practical assistance
+- **Meaning-making**: Religious frameworks offer existential coherence, purpose, and narrative structure
+- **Moral regulation**: Shared behavioral norms reduce impulsivity and risky behavior
+- **Ritualized affect regulation**: Prayer, meditation, and liturgy provide structured emotional processing
+
+These mediators are real and measurable. But a methodological note is essential: these are the mediators current methods can model. Treating them as *exhaustive causes* is an ontological inference, not a scientific result. The data are compatible with multiple interpretive frameworks.
+
+### Reinterpretation Through Boundary and Coherence
+
+Within the present framework, each standard mediator can be reframed structurally:
+
+- **Social integration** → External scaffolding for coherence; the community holds what the individual cannot yet hold alone
+- **Meaning-making** → Narrative stabilization of identity; symbolic frameworks that organize experience without literalization
+- **Moral frameworks** → Constraint systems regulating boundary permeability; structures that prevent chaotic opening
+- **Ritual and prayer** → Rhythmic boundary regulation and affect containment; practices that titrate permeability within coherence capacity
+
+This reframing generates a clear structural prediction: religiosity/spirituality improves mental health **when it increases coherence and regulates permeability**. It worsens outcomes **when it fragments coherence or overwhelms boundaries**.
+
+### Why Effects Reverse: Religious Struggle
+
+The literature's mixed findings become intelligible through this lens. Religious struggle involves:
+
+- **Guilt and shame**: Internalized judgment that fragments self-coherence
+- **Fear of divine punishment**: Chronic threat state that destabilizes boundaries
+- **Persecution narratives**: Literalized content that cannot be symbolically integrated
+- **Authoritarian structures**: External control that prevents autonomous coherence development
+- **Spiritual crisis without support**: Permeability increase without adequate containment
+
+These conditions increase permeability without integration, or fragment the coherence that would enable integration. The same domain—religion—can function as containment or as trauma, depending on its effects on boundary regulation and coherence.
+
+This structural diagnosis accounts for denominational and cultural variability in R/S mental health correlates. Traditions emphasizing guilt, fear, and rigid literalism show weaker or negative associations; traditions emphasizing contemplative practice, community support, and symbolic flexibility show stronger positive associations. The variable is not "religion" as a category but the functional effects on coherence and permeability.
+
+### Ontological Non-Commitment
+
+The boundary-coherence framework interprets these findings without requiring metaphysical adjudication:
+
+**Materialist reading**: R/S variables are psychosocial factors affecting brain states through known mechanisms (social support, stress buffering, behavioral regulation). The correlates are fully explicable without reference to anything beyond neural and social processes.
+
+**Idealist reading**: These same variables are the extrinsic appearance of changes in how consciousness organizes itself. Social support scaffolds coherence; ritual regulates boundary permeability; meaning-making stabilizes dissociative structure. The neural correlates are appearances, not causes.
+
+The crucial point: **the data do not adjudicate between these interpretations**. Both frameworks can accommodate the empirical findings. What differs is not the data but what is taken to be fundamental. This essay develops the idealist interpretation without claiming the data require it.
+
+### Clinical Implications
+
+For clinicians working with religious/spiritual patients, this framework suggests assessing **function rather than belief content**:
+
+- Does this patient's spiritual framework increase coherence, or fragment it?
+- Does their practice regulate boundaries, or destabilize them?
+- Is their community providing scaffolding, or inducing chronic threat?
+- Are their beliefs symbolically flexible, or rigidly literalized?
+
+This approach avoids three errors:
+- **Romanticizing religiosity**: Assuming spiritual involvement is inherently beneficial
+- **Pathologizing spirituality**: Treating religious experience as symptom or defense
+- **Reducing meaning to mechanism**: Dismissing what matters to patients as "mere" social support
+
+The framework aligns with culturally sensitive psychiatry and phenomenology-informed care. It takes seriously what patients report while maintaining clinical utility regardless of the clinician's personal metaphysical commitments.
+
+### Closing Integration
+
+Religiosity and spirituality, viewed through the boundary-coherence framework, appear as population-level experiments in consciousness organization. Different traditions, practices, and communities represent different configurations of boundary regulation and coherence development. Their mental health correlates—positive, negative, and mixed—are intelligible as consequences of these structural configurations.
+
+This interpretation does not require supernatural claims. It does not justify reductionism. It offers a framework within which the empirical findings cohere, clinical assessment becomes tractable, and the meaning patients find in their spiritual lives is neither dismissed nor uncritically endorsed.
+
+The question is not *whether* spirituality matters for mental health—the data establish that it does. The question is *how* it organizes consciousness, and under what conditions that organization serves integration rather than fragmentation.
+
+---
+
 ## References
 
 Albahari, M. (2006). *Analytical Buddhism: The Two-Tiered Illusion of Self*. Palgrave Macmillan.
