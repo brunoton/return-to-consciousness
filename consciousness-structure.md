@@ -606,6 +606,67 @@ Perhaps psychiatry's task is not merely repairing machinery but helping consciou
 
 ---
 
+## XIII. Limitations, Scope, and Testable Implications
+
+Any framework claiming broad explanatory power must specify its limits, clarify what would disconfirm it, and contrast its predictions with alternatives. This section addresses these requirements directly.
+
+### Scope and Applicability
+
+The boundary-coherence model applies most clearly to:
+
+- **Conditions involving dissociative dynamics**: psychosis, depression, trauma, panic, dissociative disorders, spiritual crises
+- **States involving boundary alteration**: meditation, psychedelics, mystical experience, extreme stress
+- **Developmental trajectories**: contemplative maturation, therapeutic integration, personality reorganization
+
+The model is **less directly applicable** to:
+
+- Neurodevelopmental conditions (autism, ADHD) where the primary mechanisms may not be dissociative
+- Purely organic conditions (dementia, delirium from infection) where neural substrate damage dominates
+- Genetic or congenital factors that constrain boundary-coherence configurations from birth
+
+The framework does not claim to replace neurobiological or behavioral models. It offers a complementary phenomenological and structural layer. For some conditions, that layer adds little; for others—particularly those involving meaning, integration, and self-organization—it may prove essential.
+
+### What Would Disconfirm the Model
+
+A framework that cannot be falsified is not a scientific theory. The boundary-coherence model makes predictions that could, in principle, be disconfirmed:
+
+**Prediction 1**: High permeability without coherence produces fragmentation or literalization, not integration.
+- *Disconfirmation*: Consistent evidence that chaotic boundary-opening (e.g., high-dose psychedelics without preparation or support) reliably produces durable positive integration would challenge the model.
+
+**Prediction 2**: Coherence (stabilization, discernment, compassion) must be adequate before integration can occur.
+- *Disconfirmation*: Evidence that patients in acute psychosis benefit from boundary-opening interventions rather than stabilization-first approaches would challenge the non-integrable zone concept.
+
+**Prediction 3**: The three coherence capacities (stabilization, discernment, compassion) are jointly necessary; deficits in any one produce characteristic failures.
+- *Disconfirmation*: Evidence that any single capacity alone suffices for full integration, or that the three do not dissociate in predictable ways, would challenge the tripartite model.
+
+**Prediction 4**: Mystical and psychotic states differ in coherence, not merely in permeability or content.
+- *Disconfirmation*: Evidence that coherence measures do not distinguish mystical from psychotic states, or that the distinction reduces entirely to social/contextual factors without structural differences, would challenge the model.
+
+**Prediction 5**: Contemplative development increases both coherence and regulated permeability over time.
+- *Disconfirmation*: Longitudinal evidence that serious contemplative practitioners do not show increases in measurable proxies for coherence (affect regulation, symbolic flexibility, equanimity under stress) would challenge the developmental claims.
+
+### Contrasts with Alternative Frameworks
+
+**Versus standard psychiatric nosology**: The DSM groups by symptom cluster; this framework groups by boundary-coherence configuration. The model predicts that patients with identical DSM diagnoses but different boundary-coherence profiles will respond differently to treatment. If boundary-coherence assessment adds no predictive value beyond DSM categories, the framework's clinical utility is limited.
+
+**Versus purely neurobiological models**: Neuroscience identifies correlates (DMN integrity, thalamic gating, prefrontal activity). This framework interprets those correlates as extrinsic appearances of boundary dynamics. The models diverge on whether consciousness organization can change in ways not fully predicted by neural substrate. Extreme cases (terminal lucidity, rapid post-traumatic transformation) test this divergence.
+
+**Versus social constructionist accounts**: Some approaches treat "mystical experience" and "psychosis" as socially constructed categories without structural differences. This framework predicts measurable structural differences (coherence, regulation) regardless of cultural framing. Cross-cultural studies testing whether coherence measures predict outcomes independent of local categories would adjudicate this.
+
+**Versus trauma-focused models**: Trauma models emphasize historical etiology; this framework emphasizes current structural configuration. The models converge on many predictions but diverge on whether structural reconfiguration can occur without processing historical content. Evidence on whether coherence-building alone (without trauma narrative work) produces integration would test this.
+
+### Operationalization Challenges
+
+The framework's constructs—boundary permeability, coherence, stabilization, discernment, compassion—are not yet fully operationalized for empirical research. This is a limitation. Progress requires:
+
+- Developing reliable measures of each construct (likely combining self-report, behavioral tasks, and physiological proxies)
+- Establishing discriminant validity (showing the constructs are distinct from existing measures like emotion regulation, mindfulness, or cognitive flexibility)
+- Testing whether the constructs predict outcomes beyond existing predictors
+
+Until this operationalization work is done, the framework remains a conceptual model with clinical heuristic value rather than a fully testable scientific theory. This essay does not claim otherwise.
+
+---
+
 ## Conclusion
 
 Within analytic idealism, psychopathology, trauma, and spiritual realization are not separate domains but expressions of how consciousness manages dissociation and integration. The ordinary ego is not baseline health but functional compromise—a dissociative alter working well enough for survival while remaining incomplete.
@@ -619,104 +680,6 @@ At shallow levels, conventional interventions may suffice. At deeper levels, spi
 The ultimate limit of integration is maximal coherence—stabilization, discernment, and compassion without remainder—combined with maximal permeability that is fully regulated. Boundaries become transparent, consciousness open to its full field, yet the sage retains the capacity to modulate access as context requires. The saints are not moral outliers but structural pioneers: demonstrations of what consciousness becomes when dissociation gives way to total inclusion.
 
 This is not a conclusion that can be forced or rushed. It describes a possibility, not a requirement. But for those facing depths of suffering exceeding egoic capacity, it offers something pure pessimism cannot: a coherent account of how liberation remains possible, and what it would require.
-
----
-
-## Epilogue: Religiosity, Spirituality, and Mental Health
-
-This epilogue situates the boundary-coherence framework in relation to the empirical literature on religiosity/spirituality (R/S) and mental health. The goal is to demonstrate how the framework interprets these findings—neither requiring supernatural assertion nor conceding to reductionist dismissal—while acknowledging where explanatory asymmetries emerge between ontological frameworks.
-
-### Empirical Regularities
-
-A substantial body of research documents associations between religiosity/spirituality and mental health outcomes:
-
-- Lower average risk of depression and suicide in religious populations
-- Better recovery trajectories after trauma
-- Lower substance use rates
-- Modest but consistent associations with subjective wellbeing and life satisfaction
-
-These findings are robust across many studies, but important caveats apply. Effects are heterogeneous and context-dependent, often small-to-moderate in magnitude. Critically, "religious/spiritual struggle"—doubt, guilt, perceived divine abandonment, conflict with religious community—reliably predicts *worse* outcomes. The same domain that correlates with protection can correlate with harm.
-
-These are associations, not metaphysical proofs. But as we shall see, not all interpretive frameworks accommodate them with equal ease.
-
-### Standard Explanations
-
-The dominant scientific framework explains R/S mental health correlates through psychosocial mediators:
-
-- **Social integration**: Religious communities provide support networks, belonging, and practical assistance
-- **Meaning-making**: Religious frameworks offer existential coherence, purpose, and narrative structure
-- **Moral regulation**: Shared behavioral norms reduce impulsivity and risky behavior
-- **Ritualized affect regulation**: Prayer, meditation, and liturgy provide structured emotional processing
-
-These mediators are real and measurable. But a methodological note is essential: these are the mediators current methods can model. Treating them as *exhaustive causes* is an ontological inference, not a scientific result. The data are compatible with multiple interpretive frameworks.
-
-### Reinterpretation Through Boundary and Coherence
-
-Within the present framework, each standard mediator can be reframed structurally:
-
-- **Social integration** → External scaffolding for coherence; the community holds what the individual cannot yet hold alone
-- **Meaning-making** → Narrative stabilization of identity; symbolic frameworks that organize experience without literalization
-- **Moral frameworks** → Constraint systems regulating boundary permeability; structures that prevent chaotic opening
-- **Ritual and prayer** → Rhythmic boundary regulation and affect containment; practices that titrate permeability within coherence capacity
-
-This reframing generates a clear structural prediction: religiosity/spirituality improves mental health **when it increases coherence and regulates permeability**. It worsens outcomes **when it fragments coherence or overwhelms boundaries**.
-
-### Why Effects Reverse: Religious Struggle
-
-The literature's mixed findings become intelligible through this lens. Religious struggle involves:
-
-- **Guilt and shame**: Internalized judgment that fragments self-coherence
-- **Fear of divine punishment**: Chronic threat state that destabilizes boundaries
-- **Persecution narratives**: Literalized content that cannot be symbolically integrated
-- **Authoritarian structures**: External control that prevents autonomous coherence development
-- **Spiritual crisis without support**: Permeability increase without adequate containment
-
-These conditions increase permeability without integration, or fragment the coherence that would enable integration. The same domain—religion—can function as containment or as trauma, depending on its effects on boundary regulation and coherence.
-
-This structural diagnosis accounts for denominational and cultural variability in R/S mental health correlates. Traditions emphasizing guilt, fear, and rigid literalism show weaker or negative associations; traditions emphasizing contemplative practice, community support, and symbolic flexibility show stronger positive associations. The variable is not "religion" as a category but the functional effects on coherence and permeability.
-
-### Ontological Interpretations and Their Fit
-
-The boundary-coherence framework interprets these findings without requiring metaphysical adjudication:
-
-**Materialist reading**: R/S variables are psychosocial factors affecting brain states through known mechanisms (social support, stress buffering, behavioral regulation). The correlates are fully explicable without reference to anything beyond neural and social processes.
-
-**Idealist reading**: These same variables are the extrinsic appearance of changes in how consciousness organizes itself. Social support scaffolds coherence; ritual regulates boundary permeability; meaning-making stabilizes dissociative structure. The neural correlates are appearances, not causes.
-
-Both frameworks can accommodate the empirical findings. However, **accommodation cost differs**. For routine cases—moderate depression improved by community involvement, anxiety reduced through contemplative practice—both frameworks fit comfortably. But extreme cases create asymmetry:
-
-- Terminal lucidity, where coherence dramatically increases despite severe neural degradation
-- Sudden post-traumatic transformation of personality and values
-- Mystical-type experiences predicting long-term remission in treatment-resistant conditions
-- Durable integration following experiences that correlate with *decreased* brain activity
-
-Physicalism can respond to these cases, but at increasing cost: appeals to unknown compensatory mechanisms, vague "network reorganization" language without mechanistic specificity, or ad hoc auxiliary hypotheses. Idealism, by contrast, treats such cases as expected boundary-coherence reconfigurations—the framework predicts that consciousness organization can shift in ways not fully constrained by neural substrate.
-
-This is not proof. But it is explanatory economy. The data do not *force* idealism, but they increasingly *favor* it in parsimony, particularly at the extremes of suffering and recovery. This essay develops the idealist interpretation because it explains more with less strain—not because the evidence excludes alternatives.
-
-### Clinical Implications
-
-For clinicians working with religious/spiritual patients, this framework suggests assessing **function rather than belief content**:
-
-- Does this patient's spiritual framework increase coherence, or fragment it?
-- Does their practice regulate boundaries, or destabilize them?
-- Is their community providing scaffolding, or inducing chronic threat?
-- Are their beliefs symbolically flexible, or rigidly literalized?
-
-This approach avoids three errors:
-- **Romanticizing religiosity**: Assuming spiritual involvement is inherently beneficial
-- **Pathologizing spirituality**: Treating religious experience as symptom or defense
-- **Reducing meaning to mechanism**: Dismissing what matters to patients as "mere" social support
-
-The framework aligns with culturally sensitive psychiatry and phenomenology-informed care. It takes seriously what patients report while maintaining clinical utility regardless of the clinician's personal metaphysical commitments.
-
-### Closing Integration
-
-Religiosity and spirituality, viewed through the boundary-coherence framework, appear as population-level experiments in consciousness organization. Different traditions, practices, and communities represent different configurations of boundary regulation and coherence development. Their mental health correlates—positive, negative, and mixed—are intelligible as consequences of these structural configurations.
-
-This interpretation does not require supernatural claims. It does not justify reductionism. It offers a framework within which the empirical findings cohere, clinical assessment becomes tractable, and the meaning patients find in their spiritual lives is neither dismissed nor uncritically endorsed. And while the data do not force metaphysical conclusions, the pattern—particularly at the extremes—fits more naturally within a consciousness-first ontology than within frameworks that treat meaning, coherence, and integration as epiphenomenal.
-
-The question is not *whether* spirituality matters for mental health—the data establish that it does. The question is *how* it organizes consciousness, and under what conditions that organization serves integration rather than fragmentation.
 
 ---
 
