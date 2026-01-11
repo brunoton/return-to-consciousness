@@ -624,7 +624,7 @@ This is not a conclusion that can be forced or rushed. It describes a possibilit
 
 ## Epilogue: Religiosity, Spirituality, and Mental Health
 
-This epilogue situates the boundary-coherence framework in relation to the empirical literature on religiosity/spirituality (R/S) and mental health. The goal is compatibility without reduction: neither supernatural assertion nor materialist dismissal.
+This epilogue situates the boundary-coherence framework in relation to the empirical literature on religiosity/spirituality (R/S) and mental health. The goal is to demonstrate how the framework interprets these findings—neither requiring supernatural assertion nor conceding to reductionist dismissal—while acknowledging where explanatory asymmetries emerge between ontological frameworks.
 
 ### Empirical Regularities
 
@@ -637,7 +637,7 @@ A substantial body of research documents associations between religiosity/spirit
 
 These findings are robust across many studies, but important caveats apply. Effects are heterogeneous and context-dependent, often small-to-moderate in magnitude. Critically, "religious/spiritual struggle"—doubt, guilt, perceived divine abandonment, conflict with religious community—reliably predicts *worse* outcomes. The same domain that correlates with protection can correlate with harm.
 
-These are associations, not metaphysical conclusions. The data establish that something is happening; they do not establish what.
+These are associations, not metaphysical proofs. But as we shall see, not all interpretive frameworks accommodate them with equal ease.
 
 ### Standard Explanations
 
@@ -675,7 +675,7 @@ These conditions increase permeability without integration, or fragment the cohe
 
 This structural diagnosis accounts for denominational and cultural variability in R/S mental health correlates. Traditions emphasizing guilt, fear, and rigid literalism show weaker or negative associations; traditions emphasizing contemplative practice, community support, and symbolic flexibility show stronger positive associations. The variable is not "religion" as a category but the functional effects on coherence and permeability.
 
-### Ontological Non-Commitment
+### Ontological Interpretations and Their Fit
 
 The boundary-coherence framework interprets these findings without requiring metaphysical adjudication:
 
@@ -683,7 +683,16 @@ The boundary-coherence framework interprets these findings without requiring met
 
 **Idealist reading**: These same variables are the extrinsic appearance of changes in how consciousness organizes itself. Social support scaffolds coherence; ritual regulates boundary permeability; meaning-making stabilizes dissociative structure. The neural correlates are appearances, not causes.
 
-The crucial point: **the data do not adjudicate between these interpretations**. Both frameworks can accommodate the empirical findings. What differs is not the data but what is taken to be fundamental. This essay develops the idealist interpretation without claiming the data require it.
+Both frameworks can accommodate the empirical findings. However, **accommodation cost differs**. For routine cases—moderate depression improved by community involvement, anxiety reduced through contemplative practice—both frameworks fit comfortably. But extreme cases create asymmetry:
+
+- Terminal lucidity, where coherence dramatically increases despite severe neural degradation
+- Sudden post-traumatic transformation of personality and values
+- Mystical-type experiences predicting long-term remission in treatment-resistant conditions
+- Durable integration following experiences that correlate with *decreased* brain activity
+
+Physicalism can respond to these cases, but at increasing cost: appeals to unknown compensatory mechanisms, vague "network reorganization" language without mechanistic specificity, or ad hoc auxiliary hypotheses. Idealism, by contrast, treats such cases as expected boundary-coherence reconfigurations—the framework predicts that consciousness organization can shift in ways not fully constrained by neural substrate.
+
+This is not proof. But it is explanatory economy. The data do not *force* idealism, but they increasingly *favor* it in parsimony, particularly at the extremes of suffering and recovery. This essay develops the idealist interpretation because it explains more with less strain—not because the evidence excludes alternatives.
 
 ### Clinical Implications
 
@@ -705,7 +714,7 @@ The framework aligns with culturally sensitive psychiatry and phenomenology-info
 
 Religiosity and spirituality, viewed through the boundary-coherence framework, appear as population-level experiments in consciousness organization. Different traditions, practices, and communities represent different configurations of boundary regulation and coherence development. Their mental health correlates—positive, negative, and mixed—are intelligible as consequences of these structural configurations.
 
-This interpretation does not require supernatural claims. It does not justify reductionism. It offers a framework within which the empirical findings cohere, clinical assessment becomes tractable, and the meaning patients find in their spiritual lives is neither dismissed nor uncritically endorsed.
+This interpretation does not require supernatural claims. It does not justify reductionism. It offers a framework within which the empirical findings cohere, clinical assessment becomes tractable, and the meaning patients find in their spiritual lives is neither dismissed nor uncritically endorsed. And while the data do not force metaphysical conclusions, the pattern—particularly at the extremes—fits more naturally within a consciousness-first ontology than within frameworks that treat meaning, coherence, and integration as epiphenomenal.
 
 The question is not *whether* spirituality matters for mental health—the data establish that it does. The question is *how* it organizes consciousness, and under what conditions that organization serves integration rather than fragmentation.
 
