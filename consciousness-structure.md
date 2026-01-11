@@ -14,7 +14,7 @@ description: A unified framework for understanding ego, psychopathology, trauma,
 
 ## Abstract
 
-This essay proposes a unified framework for understanding psychopathology, trauma, and spiritual development grounded in analytic idealism. Mental disorders are reframed as configurations within a two-dimensional space defined by dissociative boundary permeability and integrative coherence—a dimensional model that cuts across categorical diagnoses and formalizes each major condition (psychosis, depression, panic, DID, witness states, mystical experience) by boundary state, coherence state, phenomenology, and therapeutic direction. A critical distinction is introduced between integrable and non-integrable configurations: in states where coherence has collapsed below the threshold for symbolic processing, stabilization must precede integration, preventing dangerous conflation of psychosis with mystical experience. The framework demonstrates that the ordinary ego is itself a form of dissociation—one that Jesus, Buddha, and Freud diagnosed identically but interpreted with radically different prognoses depending on their ontological commitments. Coherence is shown to require three capacities: stabilization, discernment, and compassion. Crucially, these same capacities simultaneously increase permeability—reducing the contractions that maintain dissociation—while also enabling integration of what thereby opens. This unity explains why contemplative development is coherent rather than paradoxical.
+This essay proposes a unified framework for understanding psychopathology, trauma, and spiritual development grounded in analytic idealism. Mental disorders are reframed as configurations within a two-dimensional space defined by dissociative boundary permeability and integrative coherence—a dimensional model that cuts across categorical diagnoses and formalizes each major condition (psychosis, depression, panic, DID, witness states, mystical experience) by boundary state, coherence state, phenomenology, and therapeutic direction. The two axes are shown to be developmentally correlated under favorable conditions but dynamically dissociable: trauma, psychedelics without containment, and manic episodes can spike permeability without coherence, while defensive intellectualization can increase coherence without permeability. This dissociability—along with distinct failure modes, intervention levers, and time constants for each axis—justifies the two-dimensional space. A critical distinction is introduced between integrable and non-integrable configurations: in states where coherence has collapsed, stabilization must precede integration. The framework demonstrates that the ordinary ego is itself a form of dissociation—one that Jesus, Buddha, and Freud diagnosed identically but interpreted with radically different prognoses depending on their ontological commitments. Coherence is shown to require three capacities: stabilization, discernment, and compassion—which, under disciplined contemplative development, tend to increase both permeability and integrative capacity together.
 
 ---
 
@@ -69,7 +69,7 @@ Two axes organize the space of conscious states:
 
 **Coherence** describes the capacity to integrate whatever content permeability admits. As developed fully in Section VII, coherence involves three distinguishable but unified capacities: *stabilization* (the ability to remain present and grounded), *discernment* (clear seeing that recognizes content without reification), and *compassion* (ontological hospitality that receives without rejection). These correspond roughly to śamatha, prajñā, and karuṇā in Buddhist terminology.
 
-Crucially, these same capacities also increase permeability: stabilization allows more to arise without triggering dissociation; discernment sees through defensive structures; compassion allows dissociated content to return. The two axes are therefore not independent dimensions requiring separate interventions, but two effects of the same underlying development.
+Under favorable conditions (disciplined practice, adequate support), these capacities also tend to increase permeability—stabilization allows more to arise; discernment sees through defenses; compassion allows dissociated content to return. However, the two axes are *developmentally correlated but dynamically dissociable*: trauma, psychedelics without containment, or manic episodes can spike permeability without coherence, while defensive intellectualization can increase coherence without permeability. This dissociability is why the two-dimensional framework is necessary. Section VII develops this distinction fully.
 
 - *Low coherence*: Content that enters awareness is fragmented, literalized, or externalized. Symbols are mistaken for concrete entities. Experiences cannot be metabolized into a unified sense of meaning.
 - *Moderate coherence*: Sufficient integration for ordinary functioning, but limited capacity for extreme content.
@@ -489,11 +489,55 @@ A crucial insight: these three capacities do not merely enable integration—the
 - **Discernment** allows you to *see through* the defensive structures that maintain closure, so more becomes visible
 - **Compassion** allows you to *not reject*, so dissociated content can return to awareness
 
-This is why contemplative development is coherent rather than paradoxical. You are not doing two separate things—opening boundaries AND building capacity to hold. You are developing capacities that simultaneously reduce the contractions maintaining dissociation AND provide the stability, clarity, and warmth to integrate what thereby becomes available.
+This is why disciplined contemplative development—with ethical and relational scaffolding—tends to be coherent rather than paradoxical. Under these conditions, you are not doing two separate things. You are developing capacities that simultaneously reduce the contractions maintaining dissociation AND provide the stability, clarity, and warmth to integrate what thereby becomes available.
 
-The two axes of this framework—permeability and coherence—are therefore not independent dimensions requiring separate interventions. They are two effects of the same underlying development. As stabilization, discernment, and compassion deepen, both permeability and coherence increase together. The boundary becomes more flexible (more can pass through) AND what passes through can be better integrated.
+### When the Axes Dissociate: Imbalanced Development
 
-This explains why mature practitioners can access extreme content—the Buddha recounting countless past lives, mystics perceiving the full field of consciousness—without destabilization. They have not built stronger walls but have dissolved them almost entirely. Their boundaries have become transparent, allowing maximal permeability, while their development of stabilization, discernment, and compassion provides the coherence to integrate whatever thereby arises. The ordinary practitioner's challenge is that permeability increases faster than coherence can develop; the sage has completed both movements.
+However, the two axes—permeability and coherence—are not always coupled. They are *developmentally correlated under favorable conditions* but *dynamically dissociable*. Many life experiences and practices increase only one dimension, producing imbalance rather than maturation.
+
+**Permeability without coherence** can result from:
+
+- *Trauma*: The boundary is breached by overwhelming experience, but coherence is damaged rather than developed. Content floods in that cannot be integrated.
+- *Psychedelics without containment*: The substance increases permeability dramatically, but without preparation, setting, and integration support, coherence does not rise to meet it.
+- *Acute stress or crisis*: Defenses fail under pressure, exposing content the person lacks capacity to hold.
+- *Manic episodes*: Permeability spikes (grandiosity, racing associations, perceived connections) while coherence fragments.
+- *Charismatic immersion*: Group dynamics and authority figures can open boundaries while actually reducing coherence through dependency and suspended critical judgment.
+
+**Coherence without permeability** can result from:
+
+- *Purely cognitive therapy*: Reality testing and narrative coherence improve, but dissociative boundaries remain rigid. The person functions better but remains cut off from deeper material.
+- *Defensive intellectualization*: Understanding increases, but as a defense against rather than a vehicle for opening.
+- *Premature stabilization*: Meditation practiced as suppression rather than investigation can increase stability while maintaining or even rigidifying boundaries.
+
+This dissociability is what makes the two-dimensional framework necessary. If the axes always rose together, a single dimension would suffice. The clinical and developmental reality is that they can diverge—sometimes dramatically—which is precisely why the framework must track both.
+
+### The Axes as Distinct Control Variables
+
+The two axes can now be characterized as distinct control variables with different properties:
+
+**Boundary permeability**:
+- *What it regulates*: How much content from the broader field of consciousness can enter individual awareness
+- *Failure modes*: Too rigid → depression, isolation, meaninglessness. Too permeable → overwhelm, psychosis, fragmentation.
+- *Intervention levers*: Psychedelics, breathwork, meditation, trauma (involuntary), life transitions, relational intensity
+- *Time constants*: Can change rapidly (minutes to hours with substances; seconds in trauma or peak experiences)
+
+**Integrative coherence**:
+- *What it regulates*: The capacity to hold, process, and integrate whatever permeability admits
+- *Failure modes*: Too low → literalization, fragmentation, dissociation, inability to metabolize experience
+- *Intervention levers*: Psychotherapy, contemplative practice, relational healing, ethical development, time and life experience
+- *Time constants*: Generally changes slowly (months to years); requires sustained practice and developmental process
+
+The asymmetry in time constants is clinically crucial. Permeability can spike in moments; coherence develops over extended periods. This is why rapid boundary-opening without coherence preparation is dangerous, and why integration work must continue long after a peak experience has passed.
+
+### When Development Is Coherent
+
+Under favorable conditions—disciplined contemplative training, skilled therapeutic work, supported life transitions—the axes do tend to rise together. This occurs because:
+
+1. Practices that genuinely develop coherence (stabilization, discernment, compassion) inherently reduce the contractions that maintain rigid boundaries
+2. Gradual permeability increase, when met with adequate coherence, provides the material for further integration, which builds further coherence
+3. Ethical and relational scaffolding prevents the dissociative collapses that would decouple the axes
+
+This explains why mature practitioners can access extreme content—the Buddha recounting countless past lives, mystics perceiving the full field of consciousness—without destabilization. They have not built stronger walls but have dissolved them almost entirely. Their boundaries have become transparent, allowing maximal permeability, while their development of stabilization, discernment, and compassion provides the coherence to integrate whatever thereby arises. The ordinary practitioner's challenge is that permeability can increase faster than coherence develops; the sage has completed both movements in coordination.
 
 ### Māyā Recognition vs. Materialist Dismissal
 
