@@ -14,7 +14,7 @@ description: A unified framework for understanding ego, psychopathology, trauma,
 
 ## Abstract
 
-This essay proposes a unified framework for understanding psychopathology, trauma, and spiritual development grounded in analytic idealism. Mental disorders are reframed as configurations within a two-dimensional space defined by dissociative boundary permeability and integrative coherence—axes derived as distinct control variables with different failure modes, intervention levers, and time constants. Permeability regulates how much content enters awareness and can change rapidly; coherence regulates the capacity to integrate that content and develops slowly. The axes are developmentally correlated under favorable conditions but dynamically dissociable, justifying the two-dimensional model. Coherence requires three capacities: stabilization, discernment, and compassion. A critical distinction separates integrable from non-integrable configurations: where coherence has collapsed, stabilization must precede integration—preventing dangerous conflation of psychosis with mystical experience. The framework demonstrates that the ordinary ego is itself a form of dissociation, one that Jesus, Buddha, and Freud diagnosed identically but interpreted with radically different prognoses depending on their ontological commitments. For mature practitioners, both axes reach maximal development together: boundaries become transparent while coherence integrates whatever thereby arises.
+This essay proposes a unified framework for understanding psychopathology, trauma, and spiritual development grounded in analytic idealism. Mental disorders are reframed as configurations within a two-dimensional space defined by dissociative boundary permeability and integrative coherence—axes derived as distinct control variables with different failure modes, intervention levers, and time constants. Permeability regulates how much content enters awareness and can change rapidly; coherence regulates the capacity to integrate that content and develops slowly. The axes are developmentally correlated under favorable conditions but dynamically dissociable, justifying the two-dimensional model. Coherence requires three capacities: stabilization, discernment, and compassion. A critical distinction separates integrable from non-integrable configurations: where coherence has collapsed, stabilization must precede integration—preventing dangerous conflation of psychosis with mystical experience. The framework demonstrates that the ordinary ego is itself a form of dissociation, one that Jesus, Buddha, and Freud diagnosed identically but interpreted with radically different prognoses depending on their ontological commitments. For mature practitioners, both axes reach maximal development together: boundaries become transparent yet fully regulated, consciousness open to its full field while retaining capacity to modulate access as context requires.
 
 ---
 
@@ -69,13 +69,14 @@ Two axes organize the space of conscious states. These axes are derived as disti
 
 *Failure modes*: 
 - Too rigid → depression, isolation, meaninglessness, cut off from vitality
-- Too permeable → overwhelm, psychosis, fragmentation, loss of coherent identity
+- Too permeable *without coherence* → overwhelm, psychosis, fragmentation, loss of coherent identity
+- (High permeability *with* coherence → mystical experience, non-dual realization)
 
 *Intervention levers*: Psychedelics, breathwork, meditation, trauma (involuntary), life transitions, relational intensity, certain medications.
 
 *Time constants*: Can change rapidly—minutes to hours with substances, seconds in trauma or peak experiences.
 
-The spectrum runs from rigid/impermeable (the boundary admits little from outside established identity) through flexible/regulated (controlled exchange with broader fields) to hyperpermeable/unstable (the boundary fails to filter incoming content).
+The spectrum runs from rigid/impermeable (the boundary admits little from outside established identity) through flexible/regulated (controlled exchange with broader fields) to hyperpermeable (the boundary admits most or all content—unstable and chaotic in psychosis, fluid and regulated in non-dual realization).
 
 ### Axis Two: Integrative Coherence
 
@@ -126,7 +127,7 @@ Under favorable conditions—disciplined contemplative training with ethical and
 2. Gradual permeability increase, met with adequate coherence, provides material for further integration, building further coherence
 3. Ethical and relational scaffolding prevents dissociative collapses that would decouple the axes
 
-Mature practitioners achieve maximal development on both axes: boundaries become essentially transparent, allowing access to the full field of consciousness (the Buddha recounting countless past lives, mystics perceiving universal mind), while their development of stabilization, discernment, and compassion provides coherence to integrate whatever arises. The ordinary practitioner's challenge is that permeability can increase faster than coherence develops; the sage has completed both movements in coordination.
+Mature practitioners achieve maximal development on both axes: boundaries become essentially transparent and fully regulated, allowing voluntary access to the full field of consciousness (the Buddha recounting countless past lives, mystics perceiving universal mind), while their development of stabilization, discernment, and compassion provides coherence to integrate whatever arises. Unlike psychotic permeability, which is chaotic and involuntary, the sage's openness is fluid and responsive—they can modulate access as context requires. The ordinary practitioner's challenge is that permeability can increase faster than coherence develops; the sage has completed both movements in coordination.
 
 ### The Boundary-Coherence Space: A Formal Map
 
@@ -135,11 +136,11 @@ Mature practitioners achieve maximal development on both axes: boundaries become
 | **Ordinary ego** | Moderately rigid | Moderate | Separation, anxiety, projection | Increase flexibility; build coherence |
 | **Depression** | Rigid, over-sealed | Variable | Isolation, emptiness, anhedonia | Carefully increase permeability |
 | **Panic** | Acute rupture | Insufficient | Terror, annihilation anxiety | Restore containment; build coherence |
-| **Psychosis** | Hyperpermeable | Low/collapsed | Literalization, fragmentation | Restore boundary; *then* build coherence |
+| **Psychosis** | Hyperpermeable, unregulated | Low/collapsed | Literalization, fragmentation | Restore boundary; *then* build coherence |
 | **DID** | Internally partitioned | Local but unintegrated | Fragmented identity, amnesia | Gradual internal boundary dissolution |
 | **Witness states** | Moderately permeable | High | Observing awareness, equanimity | Deepen non-identification |
 | **Mystical states** | Temporarily open | High | Unity, meaning, ego transcendence | Integration; grounded return |
-| **Non-dual realization** | Dissolved/transparent | Maximal | No separation, spontaneous compassion | Stabilization; embodied expression |
+| **Non-dual realization** | Transparent, regulated | Maximal | No separation, spontaneous compassion | Embodied expression |
 
 The path from ordinary ego to non-dual realization requires *coordinated* development: coherence must expand to match permeability increases. Jumping ahead on permeability without corresponding coherence produces pathology, not liberation.
 
@@ -256,7 +257,7 @@ The boundary-coherence framework allows psychopathological conditions to be unde
 
 Psychosis is a syndrome—hallucinations, delusions, disorganized thinking, loss of contact with shared reality—arising from multiple etiologies. This framework addresses the phenomenological configuration while remaining agnostic about diagnostic categories.
 
-Psychosis represents hyperpermeable boundaries combined with insufficient coherence. Contents from the broader field enter awareness but cannot be symbolically integrated. They are literalized and experienced as persecutory or commanding agents.
+Psychosis represents hyperpermeable *and unregulated* boundaries combined with insufficient coherence. Contents from the broader field enter awareness chaotically, without voluntary control, and cannot be symbolically integrated. They are literalized and experienced as persecutory or commanding agents.
 
 **Archetypes literalized**: Within analytic idealism, archetypes are recurrent organizational structures of universal consciousness—dynamical attractors, constraints on experiential morphology, the "shapes" awareness naturally assumes. In psychosis, these patterns penetrate without mediation a psyche incapable of integrating them. The problem is not that content is "unreal" but that it is not symbolically processed.
 
@@ -267,9 +268,9 @@ Specific symptoms reframed:
 - *Persecutory delusions*: Contact with the Shadow archetype, translated into tangible enemies rather than recognized as symbolic content.
 - *Grandiose delusions*: Interception of the Cosmic Self archetype, literalized into personal biography rather than experienced as transpersonal symbol.
 
-**The psychosis-mysticism distinction**: Both involve increased permeability. The difference lies in coherence.
+**The psychosis-mysticism distinction**: Both involve increased permeability. The differences lie in coherence and regulation.
 
-In mystical states, the individual recognizes content as *māyā*—real as appearance, empty of inherent existence—and returns to a cohesive ego. In psychosis, content is literalized, producing fragmentation. The difference is not in what is accessed but in how it is held: with stabilization, discernment, and compassion (mysticism) or without (psychosis).
+In mystical states, the individual recognizes content as *māyā*—real as appearance, empty of inherent existence—and returns to a cohesive ego. Permeability is high but regulated. In psychosis, content is literalized, permeability is chaotic and uncontrolled, producing fragmentation. The difference is not in what is accessed but in how it is held: with stabilization, discernment, and compassion (mysticism) or without (psychosis). In non-dual realization, permeability becomes maximal and stably regulated—the boundary transparent but the sage retaining full capacity to function and modulate access as needed.
 
 **Clinical safety imperative**: Confusing psychosis with mystical experience—treating a patient in the non-integrable zone as needing "integration support" rather than stabilization—causes serious harm. The proper question is not "Is this psychosis or mysticism?" but "What is the coherence state, and does it permit integration?"
 
@@ -537,7 +538,7 @@ Healing is not achieved by eliminating content or forcibly opening boundaries, b
 
 At shallow levels, conventional interventions may suffice. At deeper levels, spiritual development becomes structurally necessary—not optional enhancement but the only adequate response to what integration demands. This involves not only healing personal dissociations but progressively accepting reality as it is: impermanent, groundless, marked by suffering, inclusive of death.
 
-The ultimate limit of integration is maximal coherence—stabilization, discernment, and compassion without remainder—combined with maximal permeability—boundaries become transparent, consciousness open to its full field. The saints are not moral outliers but structural pioneers: demonstrations of what consciousness becomes when dissociation gives way to total inclusion.
+The ultimate limit of integration is maximal coherence—stabilization, discernment, and compassion without remainder—combined with maximal permeability that is fully regulated. Boundaries become transparent, consciousness open to its full field, yet the sage retains the capacity to modulate access as context requires. The saints are not moral outliers but structural pioneers: demonstrations of what consciousness becomes when dissociation gives way to total inclusion.
 
 This is not a conclusion that can be forced or rushed. It describes a possibility, not a requirement. But for those facing depths of suffering exceeding egoic capacity, it offers something pure pessimism cannot: a coherent account of how liberation remains possible, and what it would require.
 
