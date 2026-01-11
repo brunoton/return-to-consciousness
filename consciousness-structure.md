@@ -608,7 +608,7 @@ Perhaps psychiatry's task is not merely repairing machinery but helping consciou
 
 ## XIII. Limitations, Scope, and Testable Implications
 
-Any framework claiming broad explanatory power must specify its limits, clarify what would disconfirm it, and contrast its predictions with alternatives. This section addresses these requirements directly.
+Any framework claiming broad explanatory power must specify its limits, clarify what would disconfirm it, and articulate predictions that could guide research and clinical decision-making. This section addresses these requirements directly.
 
 ### Scope and Applicability
 
@@ -626,44 +626,90 @@ The model is **less directly applicable** to:
 
 The framework does not claim to replace neurobiological or behavioral models. It offers a complementary phenomenological and structural layer. For some conditions, that layer adds little; for others—particularly those involving meaning, integration, and self-organization—it may prove essential.
 
-### What Would Disconfirm the Model
+### Testable Predictions
 
-A framework that cannot be falsified is not a scientific theory. The boundary-coherence model makes predictions that could, in principle, be disconfirmed:
+The boundary-coherence model generates specific predictions that could, in principle, be tested and disconfirmed:
 
-**Prediction 1**: High permeability without coherence produces fragmentation or literalization, not integration.
-- *Disconfirmation*: Consistent evidence that chaotic boundary-opening (e.g., high-dose psychedelics without preparation or support) reliably produces durable positive integration would challenge the model.
+**Prediction 1: Permeability-coherence interaction determines outcome.**
+- High permeability with high coherence → integration, insight, durable positive change
+- High permeability with low coherence → fragmentation, literalization, adverse events
+- *Test*: In psychedelic-assisted therapy, pre-treatment coherence measures should predict outcome better than dose, substance, or diagnosis alone. Patients with low baseline coherence should show higher rates of adverse events and lower rates of durable benefit.
 
-**Prediction 2**: Coherence (stabilization, discernment, compassion) must be adequate before integration can occur.
-- *Disconfirmation*: Evidence that patients in acute psychosis benefit from boundary-opening interventions rather than stabilization-first approaches would challenge the non-integrable zone concept.
+**Prediction 2: The non-integrable zone is real and clinically relevant.**
+- Boundary-opening interventions in low-coherence states produce harm, not healing.
+- *Test*: Patients in acute psychosis or severe dissociative crisis who receive integration-focused interventions (rather than stabilization-first) should show worse outcomes. Retrospective analysis of adverse events in psychedelic trials should find low pre-treatment coherence as a risk factor.
 
-**Prediction 3**: The three coherence capacities (stabilization, discernment, compassion) are jointly necessary; deficits in any one produce characteristic failures.
-- *Disconfirmation*: Evidence that any single capacity alone suffices for full integration, or that the three do not dissociate in predictable ways, would challenge the tripartite model.
+**Prediction 3: The three coherence capacities dissociate and predict differentially.**
+- Stabilization deficits → overwhelm, inability to remain present, dissociation under stress
+- Discernment deficits → literalization, reification, inability to hold content as symbolic
+- Compassion deficits → rejection, coldness, intellectual understanding without metabolic integration
+- *Test*: Factor analysis of coherence-related measures should yield three distinguishable components. Deficits in each should predict characteristic failure modes in therapy and contemplative practice.
 
-**Prediction 4**: Mystical and psychotic states differ in coherence, not merely in permeability or content.
-- *Disconfirmation*: Evidence that coherence measures do not distinguish mystical from psychotic states, or that the distinction reduces entirely to social/contextual factors without structural differences, would challenge the model.
+**Prediction 4: Boundary-coherence configuration predicts treatment response beyond diagnosis.**
+- Patients with identical DSM diagnoses but different boundary-coherence profiles should respond differently to identical treatments.
+- *Test*: Within a diagnostic category (e.g., treatment-resistant depression), boundary-coherence assessment at baseline should predict response to psychedelic-assisted therapy, meditation-based interventions, or intensive psychotherapy better than symptom severity alone.
 
-**Prediction 5**: Contemplative development increases both coherence and regulated permeability over time.
-- *Disconfirmation*: Longitudinal evidence that serious contemplative practitioners do not show increases in measurable proxies for coherence (affect regulation, symbolic flexibility, equanimity under stress) would challenge the developmental claims.
+**Prediction 5: Mystical and psychotic states are structurally distinguishable.**
+- Both involve high permeability; they differ in coherence and regulation.
+- *Test*: Real-time or retrospective coherence measures during mystical versus psychotic states should show systematic differences. The Mystical Experience Questionnaire factors (unity, transcendence, noetic quality) should correlate with coherence measures; the Psychotic Symptom Rating Scales should correlate inversely.
+
+**Prediction 6: Contemplative development follows the model's trajectory.**
+- Long-term practitioners should show increased coherence AND increased regulated permeability.
+- *Test*: Longitudinal studies of meditators should find concurrent increases in coherence proxies (affect regulation, equanimity, symbolic flexibility) and permeability proxies (access to subtle experience, reduced DMN dominance, openness to anomalous content)—with the ratio favoring coherence in well-supported practice.
 
 ### Contrasts with Alternative Frameworks
 
-**Versus standard psychiatric nosology**: The DSM groups by symptom cluster; this framework groups by boundary-coherence configuration. The model predicts that patients with identical DSM diagnoses but different boundary-coherence profiles will respond differently to treatment. If boundary-coherence assessment adds no predictive value beyond DSM categories, the framework's clinical utility is limited.
+**Versus standard psychiatric nosology**: The DSM groups by symptom cluster; this framework groups by boundary-coherence configuration. The critical test: does boundary-coherence assessment add predictive value beyond DSM categories? If two patients with "Major Depressive Disorder" differ in boundary-coherence profile, do they respond differently to the same treatment? If boundary-coherence adds nothing, the framework's clinical utility is limited.
 
-**Versus purely neurobiological models**: Neuroscience identifies correlates (DMN integrity, thalamic gating, prefrontal activity). This framework interprets those correlates as extrinsic appearances of boundary dynamics. The models diverge on whether consciousness organization can change in ways not fully predicted by neural substrate. Extreme cases (terminal lucidity, rapid post-traumatic transformation) test this divergence.
+**Versus purely neurobiological models**: Neuroscience identifies correlates (DMN integrity, thalamic gating, prefrontal activity). This framework interprets those correlates as extrinsic appearances of boundary dynamics. The models diverge on whether consciousness organization can change in ways not fully predicted by neural substrate. Extreme cases—terminal lucidity with severe neural degradation, rapid post-traumatic transformation, durable change from single psychedelic sessions—test this divergence.
 
-**Versus social constructionist accounts**: Some approaches treat "mystical experience" and "psychosis" as socially constructed categories without structural differences. This framework predicts measurable structural differences (coherence, regulation) regardless of cultural framing. Cross-cultural studies testing whether coherence measures predict outcomes independent of local categories would adjudicate this.
+**Versus social constructionist accounts**: Some approaches treat "mystical experience" and "psychosis" as socially constructed categories without structural differences. This framework predicts measurable structural differences (coherence, regulation) regardless of cultural framing. Cross-cultural studies testing whether coherence measures predict outcomes independent of local diagnostic categories would adjudicate this.
 
-**Versus trauma-focused models**: Trauma models emphasize historical etiology; this framework emphasizes current structural configuration. The models converge on many predictions but diverge on whether structural reconfiguration can occur without processing historical content. Evidence on whether coherence-building alone (without trauma narrative work) produces integration would test this.
+**Versus trauma-focused models**: Trauma models emphasize historical etiology; this framework emphasizes current structural configuration. The models converge on many predictions but diverge on whether structural reconfiguration can occur without processing historical content. Evidence on whether coherence-building interventions (without explicit trauma narrative work) produce durable integration would test this.
 
-### Operationalization Challenges
+### Toward Operationalization
 
-The framework's constructs—boundary permeability, coherence, stabilization, discernment, compassion—are not yet fully operationalized for empirical research. This is a limitation. Progress requires:
+The framework's two core constructs—boundary permeability and integrative coherence—require operationalization for empirical research. This section sketches plausible measurement approaches:
 
-- Developing reliable measures of each construct (likely combining self-report, behavioral tasks, and physiological proxies)
-- Establishing discriminant validity (showing the constructs are distinct from existing measures like emotion regulation, mindfulness, or cognitive flexibility)
-- Testing whether the constructs predict outcomes beyond existing predictors
+**Boundary permeability** (how much content enters awareness):
+- *Self-report*: Absorption scales, transliminal experience measures, openness to anomalous experience
+- *Behavioral*: Perceptual tasks measuring filtering/gating, susceptibility to priming from subliminal stimuli
+- *Physiological*: DMN connectivity/integrity, thalamic gating indices, EEG entropy measures
+- *Phenomenological*: Structured interviews assessing access to symbolic, somatic, or transpersonal content
 
-Until this operationalization work is done, the framework remains a conceptual model with clinical heuristic value rather than a fully testable scientific theory. This essay does not claim otherwise.
+**Integrative coherence** (capacity to hold and process what enters):
+
+Coherence is operationalized through its three constituent capacities:
+
+*Stabilization* (remaining present without overwhelm):
+- Self-report: Grounding capacity, dissociation scales (inverse), state stability measures
+- Behavioral: Persistence with difficult tasks, physiological regulation under stress
+- Existing proxies: Distress tolerance scales, window of tolerance assessments
+
+*Discernment* (seeing clearly without reification):
+- Self-report: Decentering subscales of mindfulness measures, cognitive flexibility scales
+- Behavioral: Ability to hold multiple interpretations, resistance to literalization in ambiguous scenarios
+- Existing proxies: Metacognitive awareness, reality testing measures (non-pathological range)
+
+*Compassion* (receiving without rejection):
+- Self-report: Self-compassion scales, acceptance measures, non-reactivity subscales
+- Behavioral: Approach versus avoidance of difficult emotional content, willingness to engage shadow material
+- Existing proxies: Experiential avoidance (inverse), affect tolerance measures
+
+*Coherence as composite*:
+- Combined indices from the three sub-components
+- Global measures: Meaning-making capacity, narrative coherence, tolerance of ambiguity
+- Behavioral: Performance under cognitive-emotional load, recovery from perturbation
+- Physiological: Heart rate variability, cortisol recovery, prefrontal-limbic connectivity
+- Clinical: Therapist ratings of integration capacity, response to trial interpretations
+
+**Discriminant validity requirements**: The boundary-coherence constructs must be shown to be distinct from existing measures (emotion regulation, mindfulness, cognitive flexibility, psychological flexibility) while potentially overlapping with them. The framework predicts that boundary-coherence assessment will add explanatory power beyond these existing constructs, particularly for predicting response to boundary-altering interventions.
+
+### Current Status
+
+Until operationalization and validation work is complete, the framework remains a conceptual model with clinical heuristic value rather than a fully testable scientific theory. This essay does not claim otherwise.
+
+However, the framework is not merely speculative. It generates specific, falsifiable predictions; it identifies where existing measures might serve as proxies; and it specifies what empirical findings would challenge its core claims. The pathway from conceptual model to testable theory is visible, even if not yet traversed.
 
 ---
 
