@@ -90,13 +90,13 @@ Two axes organize the space of conscious states. These axes are derived as disti
 *Failure modes*: 
 - Too rigid → depression, isolation, meaninglessness, cut off from vitality
 - Too permeable *without coherence* → overwhelm, psychosis, fragmentation, loss of coherent identity
-- (High permeability *with* coherence → mystical experience, non-dual realization)
+- (High permeability *with* coherence → mystical experience, awakening)
 
 *Intervention levers*: Psychedelics, breathwork, meditation, trauma (involuntary), life transitions, relational intensity, certain medications.
 
 *Time constants*: Can change rapidly—minutes to hours with substances, seconds in trauma or peak experiences.
 
-The spectrum runs from rigid/impermeable (the boundary admits little from outside established identity) through flexible/regulated (controlled exchange with broader fields) to hyperpermeable (the boundary admits most or all content—unstable and chaotic in psychosis, fluid and regulated in non-dual realization).
+The spectrum runs from rigid/impermeable (the boundary admits little from outside established identity) through flexible/regulated (controlled exchange with broader fields) to hyperpermeable (the boundary admits most or all content—unstable and chaotic in psychosis, fluid and regulated in awakening).
 
 ### Axis Two: Integrative Coherence
 
@@ -160,9 +160,9 @@ Mature practitioners achieve maximal development on both axes: boundaries become
 | **DID** | Internally partitioned | Local but unintegrated | Fragmented identity, amnesia | Gradual internal boundary dissolution |
 | **Witness states** | Moderately permeable | High | Observing awareness, equanimity | Deepen non-identification |
 | **Mystical states** | Temporarily open | High | Unity, meaning, ego transcendence | Integration; grounded return |
-| **Non-dual realization** | Transparent, regulated | Maximal | No separation, spontaneous compassion | Embodied expression |
+| **Awakening (non-dual realization)** | Transparent, regulated | Maximal | No separation, spontaneous compassion | Embodied expression |
 
-The path from ordinary ego to non-dual realization requires *coordinated* development: coherence must expand to match permeability increases. Jumping ahead on permeability without corresponding coherence produces pathology, not liberation.
+The path from ordinary ego to awakening requires *coordinated* development: coherence must expand to match permeability increases. Jumping ahead on permeability without corresponding coherence produces pathology, not liberation.
 
 ### The Non-Integrable Zone
 
@@ -200,7 +200,7 @@ This dissociation is mild compared to DID, stable compared to psychosis, and ada
 
 The ego works by exclusion. "This is not me" is its fundamental operation. It maintains identity through repression of incompatible content, projection of disowned material, selective attention confirming existing identity, moralization defending the ego's goodness, and fear of death protecting boundary integrity.
 
-Within this framework, the ego is a dissociative structure—a bounded, localized perspective that maintains itself through exclusion while experiencing itself as the totality of the self.
+**Within this framework, the ego is a dissociative structure—a bounded, localized perspective that maintains itself through exclusion while experiencing itself as the totality of the self.**
 
 This is not pathology in the clinical sense—the ego functions well enough. But it is alienation in the existential sense: a contraction of consciousness experiencing itself as separate from what it actually is.
 
@@ -288,7 +288,7 @@ Specific symptoms reframed:
 
 **The psychosis-mysticism distinction**: Both involve increased permeability. The differences lie in coherence and regulation.
 
-In mystical states, the individual recognizes content as *māyā*—real as appearance, empty of inherent existence—and returns to a cohesive ego. Permeability is high but regulated. In psychosis, content is literalized, permeability is chaotic and uncontrolled, producing fragmentation. The difference is not in what is accessed but in how it is held: with stabilization, discernment, and compassion (mysticism) or without (psychosis). In non-dual realization, permeability becomes maximal and stably regulated—the boundary transparent but the sage retaining full capacity to function and modulate access as needed.
+In mystical states, the individual recognizes content as *māyā*—real as appearance, empty of inherent existence—and returns to a cohesive ego. Permeability is high but regulated. In psychosis, content is literalized, permeability is chaotic and uncontrolled, producing fragmentation. The difference is not in what is accessed but in how it is held: with stabilization, discernment, and compassion (mysticism) or without (psychosis). In awakening, permeability becomes maximal and stably regulated—the boundary transparent but the sage retaining full capacity to function and modulate access as needed.
 
 **Clinical safety imperative**: Confusing psychosis with mystical experience—treating a patient in the non-integrable zone as needing "integration support" rather than stabilization—causes serious harm. The proper question is not "Is this psychosis or mysticism?" but "What is the coherence state, and does it permit integration?"
 
