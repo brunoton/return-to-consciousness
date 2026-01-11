@@ -493,7 +493,7 @@ This is why contemplative development is coherent rather than paradoxical. You a
 
 The two axes of this framework—permeability and coherence—are therefore not independent dimensions requiring separate interventions. They are two effects of the same underlying development. As stabilization, discernment, and compassion deepen, both permeability and coherence increase together. The boundary becomes more flexible (more can pass through) AND what passes through can be better integrated.
 
-This explains why mature practitioners can hold extreme content without destabilization: they have not merely built stronger walls (which would decrease permeability) but have developed capacities that allow openness and integration simultaneously.
+This explains why mature practitioners can access extreme content—the Buddha recounting countless past lives, mystics perceiving the full field of consciousness—without destabilization. They have not built stronger walls but have dissolved them almost entirely. Their boundaries have become transparent, allowing maximal permeability, while their development of stabilization, discernment, and compassion provides the coherence to integrate whatever thereby arises. The ordinary practitioner's challenge is that permeability increases faster than coherence can develop; the sage has completed both movements.
 
 ### Māyā Recognition vs. Materialist Dismissal
 
