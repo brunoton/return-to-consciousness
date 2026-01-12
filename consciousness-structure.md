@@ -206,7 +206,7 @@ This is not pathology in the clinical sense—the ego functions well enough. But
 
 Within the boundary-coherence model, the ordinary ego has moderately rigid boundaries and coherence sufficient for survival but insufficient for truth. Its characteristic affects are anxiety, guilt, resentment, and craving.
 
-This explains why normal people feel chronically dissatisfied even when material needs are met, why morality must be externally enforced, why projection dominates politics and religion, why compassion feels heroic rather than natural, and why fear of death resists rational argument.
+This explains why normal people feel chronically dissatisfied even when material needs are met, why morality must be externally enforced, why projection dominates politics and religion, why compassion feels heroic rather than natural.
 
 The ego is not evil. It is incomplete. Its characteristic distortions are structural consequences of dissociative contraction, not moral failures.
 
