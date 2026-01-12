@@ -447,7 +447,7 @@ This does not mean their path is immediately available or that falling short is 
 
 ## IX. Spiritual Development as Structural Necessity
 
-Spiritual development is not belief acquisition, metaphysical speculation, or moral conformity. It is progressive development of stabilization, discernment, and compassion—the capacities constituting coherence.
+Spiritual development is not belief acquisition, metaphysical speculation, or moral conformity. It is coordinated movement along both axes: increasing coherence (stabilization, discernment, compassion) and increasing regulated permeability—the progressive dissolution of the contractions that maintain dissociative closure.
 
 ### Limits of Conventional Intervention
 
