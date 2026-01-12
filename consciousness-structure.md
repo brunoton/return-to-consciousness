@@ -36,7 +36,7 @@ This essay is part of the broader *Return to Consciousness* project, which explo
 
 ### The Ontological Assumption
 
-This framework adopts analytic idealism as its ontological ground: consciousness is the sole fundamental reality; what we call matter and brains are the extrinsic appearance of mental processes within consciousness. Individual minds are dissociated centers of experience within a universal field of subjectivity.
+This framework adopts analytic idealism as its ontological ground: consciousness is the sole fundamental reality; what we call matter and brains are the extrinsic appearance of mental processes within consciousness. Individual minds are dissociated centers of experience within a universal field of consciousness.
 
 **This ontology is assumed, not argued.** The philosophical case for idealism is developed elsewhere in the *Return to Consciousness* project. This essay explores what follows *if* idealism is true—how psychopathology, trauma, and spiritual development would be understood within that framework. No exclusivity claim is made here; the essay does not argue that materialism is false, only that idealism offers a coherent alternative worth developing.
 
@@ -196,7 +196,7 @@ The ego is a dissociative boundary that:
 - maintains survival-oriented identity,
 - enforces narrative continuity through selective memory and attention.
 
-This dissociation is mild compared to DID, stable compared to psychosis, and adaptive for social survival. But it is incomplete with respect to total reality.
+This dissociation is mild compared to DID (Dissociative Identity Disorder), stable compared to psychosis, and adaptive for social survival. But it is incomplete with respect to total reality.
 
 The ego works by exclusion. "This is not me" is its fundamental operation. It maintains identity through repression of incompatible content, projection of disowned material, selective attention confirming existing identity, moralization defending the ego's goodness, and fear of death protecting boundary integrity.
 
@@ -216,7 +216,7 @@ Even within the ordinary ego, dissociation is not monolithic. Jung's *complexes*
 
 Complexes are **meso-level dissociative structures**: partial dissociations within the already-dissociated ego. When activated—when someone "loses their temper" or is "triggered"—the ego temporarily loses executive control. The complex acts with its own agenda and affects.
 
-Complexes bridge ordinary ego and DID. The difference is quantitative: in DID, barriers between complexes become strong enough to produce distinct identities with separate memory streams; in ordinary functioning, complexes influence but do not supplant egoic identity.
+Complexes bridge ordinary ego and DID (Dissociative Identity Disorder). The difference is quantitative: in DID, barriers between complexes become strong enough to produce distinct identities with separate memory streams; in ordinary functioning, complexes influence but do not supplant egoic identity.
 
 Much of psychotherapy involves working with complexes: making patterns conscious, reducing autonomous activation, integrating emotional charge. This occurs within the egoic level but demonstrates that integration is relevant even for ordinary psychological health.
 
@@ -253,7 +253,7 @@ Like Jesus, the Buddha treats the ordinary human condition as a curable illness.
 
 Freud observed similar structural features: the ego is not sovereign but buffeted by unconscious forces; repression is endemic to egoic functioning; aggression and sexuality are structurally persistent at the egoic level; civilization is built on managed neurosis.
 
-Given materialist ontology where the brain produces consciousness and the ego is the highest organizing principle, these observations lead to more pessimistic conclusions: human beings are incurably divided, happiness is limited, therapy is amelioration rather than transformation.
+Given materialist ontology where the brain produces consciousness and the ego is the highest organizing principle, these observations lead to more pessimistic conclusions: human beings are incurably divided, happiness is limited, therapy is relief rather than transformation.
 
 Freud's pessimism was consistent within his metaphysical framework. The contemplative traditions, operating from different ontological assumptions, reached different conclusions about what transformation is possible.
 
@@ -261,7 +261,7 @@ Freud's pessimism was consistent within his metaphysical framework. The contempl
 |-------------|----------------------|------------------------|
 | **Jesus** | Egoic contraction, separation | Spiritual blindness; awakening possible |
 | **Buddha** | Egoic contraction, separation | Ignorance generating suffering; liberation possible |
-| **Freud** | Egoic contraction, conflict | Inevitable instinctual conflict; amelioration possible |
+| **Freud** | Egoic contraction, conflict | Inevitable instinctual conflict; relief possible |
 
 The convergence is in observation; the divergence is in what each framework permits imagining as possible.
 
@@ -301,7 +301,7 @@ Depression is characterized by an over-sealed dissociative boundary. The ego bec
 - **Phenomenology**: Emptiness, anhedonia, loss of meaning
 - **Therapeutic direction**: Carefully increase permeability while building coherence
 
-In depression, the DMN shows excessive internal coherence and reduced connectivity—the neural appearance of an over-sealed boundary, the ego talking only to itself.
+In depression, the DMN (Default Mode Network) shows excessive internal coherence and reduced connectivity—the neural appearance of an over-sealed boundary, the ego talking only to itself.
 
 **Psychedelic therapy**: Psilocybin (20-30 mg/70kg) in controlled settings has shown efficacy for treatment-resistant depression. Within this framework, these agents transiently increase boundary permeability, facilitating renewed access to meaning and connectedness. The therapeutic effect correlates with experience depth, particularly mystical-type experiences of unity.
 
@@ -315,7 +315,7 @@ This explains why sages do not fear physical death: their identity is no longer 
 
 ### DID: Partitioned Coherence
 
-DID involves multiple internal dissociative partitions, each with local coherence but limited cross-integration. The psyche fragments to survive overwhelming experience—typically severe childhood trauma exceeding the developing ego's integrative capacity.
+Dissociative Identity Disorder involves multiple internal dissociative partitions, each with local coherence but limited cross-integration. The psyche fragments to survive overwhelming experience—typically severe childhood trauma exceeding the developing ego's integrative capacity.
 
 Each alter maintains coherent identity and memory continuity. The system survives at the cost of unified experience. Therapeutic integration involves gradually dissolving internal boundaries while preserving coherence—a process that cannot be rushed.
 
@@ -333,7 +333,7 @@ Therapeutic work involves gradual re-access with sufficient coherence to integra
 
 ### Transpersonal Memory
 
-The framework accommodates—but does not require belief in—veridicality of experiences involving past-life memories, collective trauma residues, terminal lucidity, or near-death phenomena. If dissociation creates the appearance of separate individuals, boundaries between "my" memory and "collective" memory may be less absolute than assumed.
+The framework accommodates—but does not require belief in—veridicality of experiences involving past-life memories, collective trauma residues, terminal lucidity, or near-death experience. If dissociation creates the appearance of separate individuals, boundaries between "my" memory and "collective" memory may be less absolute than assumed.
 
 Whether this occurs is empirical. The framework establishes it is not a priori impossible—unlike materialism where memory must be stored in individual brains.
 
@@ -433,7 +433,7 @@ When identity is no longer confined to the individual alter, that alter's dissol
 
 ### Descents into Hell
 
-Many traditions describe the sage's capacity to enter extreme suffering without destruction. Christ's descent into hell, the bodhisattva's vow to remain in samsara until all beings are liberated, the shaman's journey through dismemberment—these describe what maximal coherence makes possible.
+Many traditions describe the sage's capacity to enter extreme suffering without destruction. Christ's descent into hell, the Buddha's direct perception of the hell realms and hungry ghost realms, the shaman's journey through dismemberment—these describe what maximal coherence makes possible.
 
 The sage holds what the ordinary ego cannot: full intensity of suffering without contraction. This is not masochism but metabolic capacity. Content is fully experienced and integrated.
 
