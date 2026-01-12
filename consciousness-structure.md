@@ -463,15 +463,25 @@ This is not criticism of psychotherapy or psychiatry but recognition of scope. E
 
 ### Spiritual Development as Expanded Capacity
 
-Spiritual development expands integrative capacity beyond egoic limits:
+Spiritual development expands capacity along both axes:
 
-- Cultivation of stabilization—remaining present without overwhelm
-- Cultivation of discernment—seeing clearly without reification
-- Cultivation of compassion—holding without rejection
-- Gradual dissolution of rigid boundary identification
-- Integration of previously dissociated contents (shadow, complexes, trauma)
-- Progressive acceptance of reality as it is (impermanence, groundlessness, suffering, death)
-- Re-identification with what survives egoic dissolution
+Coherence development:
+
+* Cultivation of stabilization—remaining present without overwhelm
+* Cultivation of discernment—seeing clearly without reification
+* Cultivation of compassion—holding without rejection
+
+Permeability development:
+
+* Gradual dissolution of rigid boundary identification
+* Integration of previously dissociated contents (shadow, complexes, trauma)
+* Progressive acceptance of reality as it is (impermanence, groundlessness, suffering, death)
+* Increasing access to subtle, archetypal, or transpersonal content
+
+The integration of both:
+
+* Re-identification with what survives egoic dissolution
+* Capacity to modulate permeability voluntarily rather than being subject to it
 
 The traditions mapping this territory—Buddhist, Christian mystical, Sufi, Vedantic, indigenous shamanic—offer technologies for expansion. Meditation, contemplative prayer, ethical discipline, service, plant medicine under proper conditions—these are means of structural transformation.
 
