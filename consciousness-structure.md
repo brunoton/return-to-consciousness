@@ -181,6 +181,9 @@ The non-integrable zone is not permanent. With stabilization, coherence can be r
 
 This distinction prevents the dangerous romanticization of psychosis as "failed mysticism needing better integration support." Psychosis and mysticism share increased permeability but differ decisively in coherence.
 
+![Consciousness Structure: Boundary-Coherence Space](consciousness-structure.jpeg)
+*Figure 1: The two-dimensional boundary-coherence framework mapping states from ordinary ego through psychopathology to awakening.*
+
 ---
 
 ## III. The Ordinary Ego as Normative Dissociation
