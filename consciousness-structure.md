@@ -491,6 +491,18 @@ This framework does not advocate spiritual bypass—using spiritual concepts to 
 
 The framework predicts bypass is unstable. Dissociated content does not disappear because spiritually reframed. It remains, generating symptoms and erupting under pressure. Genuine development requires confronting what has been dissociated, not floating above it.
 
+### Pride as Frozen Coherence
+
+A distinct failure mode emerges at higher levels of development: pride, understood not morally but structurally as *false or frozen coherence*—an over-integrated self-narrative that resists updating even as permeability continues to increase.
+
+This creates a dangerous condition: interpretive openness outpaces error-correction capacity. The practitioner has access to expanded content (high permeability) but interprets it through a crystallized framework that cannot accommodate disconfirmation. The result is literalization of a different kind—not the naive literalization of psychosis, but the sophisticated literalization of someone who *knows* they have attained insight and filters all experience through that certainty.
+
+Structurally, pride is a coherence that has stopped being responsive. Genuine coherence involves ongoing integration—the capacity to hold new content, revise interpretations, and update self-understanding. Frozen coherence holds its shape by rejecting what would require change. This explains why advanced contemplative or spiritual development can sometimes correlate with increased epistemic brittleness rather than clarity: the very success of early integration becomes a template that subsequent experience must fit.
+
+Within the framework, **humility functions not as a moral virtue but as a structural requirement**: as permeability increases, the system requires proportionally greater epistemic flexibility to avoid interpretive inflation and resistance to corrective feedback. Humility is the ongoing willingness to have one's interpretations revised by what arises—the opposite of frozen coherence.
+
+Related distortions—addiction to spiritual experiences, compulsive drama, identification with victimhood, motivational collapse—can be understood as coherence failures under stress. But pride is distinct in that it scales with apparent success rather than failure. It is the shadow of genuine attainment, and therefore harder to recognize from within.
+
 ### The Unavoidable Demand
 
 For those facing extreme suffering, the demand for spiritual development is not optional. Reality contains intensities that cannot be integrated without transformation of identity itself.
