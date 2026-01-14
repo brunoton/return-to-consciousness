@@ -34,6 +34,8 @@ The standard answer is methodological caution. We should be conservative about o
 
 This essay argues that what presents itself as neutral methodological restraint is actually a hidden philosophical stance—one that systematically excludes consciousness from fundamental status. Understanding this asymmetry matters because it shapes which questions we ask, which solutions we can imagine, and which problems we condemn ourselves to endlessly defer.
 
+The argument has practical stakes. There now exists a rigorous consciousness-first framework adequate to contemporary philosophical dialogue: *analytic idealism*, developed most systematically by Bernardo Kastrup. This isn't mysticism or speculation but carefully argued metaphysics that dissolves problems physicalism has failed to solve for decades. Whether analytic idealism deserves serious consideration depends on whether the rules excluding it are genuinely neutral—or whether they encode a hidden physicalism that forecloses inquiry before it begins.
+
 ---
 
 ## I. What Underdetermination Means and Why It Matters
@@ -162,7 +164,7 @@ Notice how this stance sits uneasily with the principles we articulated:
 
 ---
 
-## V. The Alternative: Ontological Revision Under Pressure
+## V. The Alternative: Analytic Idealism
 
 If AMR is not neutral, what's the alternative?
 
@@ -174,11 +176,13 @@ This is not a call for certainty or dogmatism. It's the recognition that restrai
 
 Consider what consciousness-first frameworks offer:
 
-**On consciousness itself.** Rather than treating subjective experience as an inexplicable add-on to a fundamentally non-experiential world, these frameworks take experience as basic. The hard problem dissolves because there's no gap to bridge—consciousness doesn't need to emerge from non-consciousness.
+**On consciousness itself.** Rather than treating subjective experience as an inexplicable add-on to a fundamentally non-experiential world, these frameworks take experience as basic. The hard problem dissolves because there's no gap to bridge—consciousness doesn't need to emerge from non-consciousness because non-consciousness was never fundamental.
 
-**On quantum mechanics.** The measurement problem asks why observation seems to play a special role in quantum theory. If consciousness is fundamental, this role becomes intelligible rather than mysterious. We're not explaining why consciousness affects physics; we're recognizing that consciousness and physics were never separate to begin with.
+**On quantum mechanics.** The measurement problem asks why observation seems to play a special role in quantum theory. Under analytic idealism for example, this role becomes intelligible: what we call "physical reality" is itself a representation within consciousness, and measurement is a particular kind of interaction between dissociated conscious perspectives. We're not explaining how consciousness affects physics from outside; we're recognizing that physics describes patterns within consciousness.
 
-**On the unity of knowledge.** First-person and third-person methods become complementary rather than competing. Phenomenology and physics investigate the same reality from different angles. The integration crisis—the gap between how we experience the world and how science describes it—finds resolution.
+**On the unity of knowledge.** First-person and third-person methods become complementary rather than competing. Phenomenology and physics investigate the same reality from different angles—the intrinsic nature of experience and its extrinsic appearance. The integration crisis—the gap between how we experience the world and how science describes it—finds resolution.
+
+**On anomalous phenomena.** Terminal lucidity (cognitive clarity in dying patients with severely damaged brains), near-death experiences, and other phenomena that strain physicalist assumptions become intelligible rather than embarrassing. If the brain is a process of dissociation rather than a generator of consciousness, reduced brain function might correlate with expanded rather than diminished awareness under certain conditions.
 
 ### Explanatory Economy
 
@@ -200,7 +204,82 @@ Given our shared principles—that coherence matters, that bruteness is costly, 
 
 ---
 
-## VI. Objections and Responses
+## VI. The Landscape of Consciousness-First Frameworks
+
+"Consciousness-first" is not a single position but a family of frameworks, each with distinct commitments, strengths, and challenges. A reader persuaded that these options deserve serious consideration should know what's on offer.
+
+### Analytic Idealism
+
+**Core claim:** Consciousness is the sole fundamental reality. What we call "matter" is the extrinsic appearance of mental processes—how experience looks from the outside rather than what it is in itself. Individual minds are dissociated centers within a universal field of consciousness, analogous to how dissociative identity disorder produces apparently separate personalities within one mind.
+
+**Key proponents:** Bernardo Kastrup has developed the most systematic contemporary version, drawing on Schopenhauer and integrating findings from neuroscience, physics, and depth psychology.
+
+**Strengths:** Dissolves the hard problem entirely (consciousness doesn't emerge from non-consciousness because there is no non-consciousness). Makes sense of why brain damage correlates with altered experience (it alters the dissociative boundary, not the producer of experience). Provides a framework for interpreting anomalous phenomena like terminal lucidity.
+
+**Challenges:** Must explain why the world appears so consistently law-governed if it's fundamentally mental. Must clarify the relationship between individual minds and universal consciousness.
+
+### Panpsychism
+
+**Core claim:** Consciousness is a fundamental and ubiquitous feature of reality. Rather than emerging at some level of complexity, experiential properties are present at all levels—perhaps even in fundamental physics.
+
+**Key proponents:** Philip Goff, Galen Strawson, David Chalmers (who takes panpsychism seriously though doesn't fully endorse it). Historical precedents include Leibniz, Whitehead, and aspects of William James.
+
+**Variants:**
+- *Micropsychism*: Fundamental physical entities have micro-experiences; macro-consciousness somehow emerges from combinations of these.
+- *Cosmopsychism*: The universe as a whole is conscious; individual minds are aspects or fragments of cosmic consciousness.
+- *Panprotopsychism*: Fundamental entities have proto-conscious properties that aren't fully experiential but ground consciousness when organized appropriately.
+
+**Strengths:** Takes consciousness as fundamental without eliminating the physical world. Potentially compatible with physics as currently understood. Avoids the radical revisionism of pure idealism.
+
+**Challenges:** The "combination problem"—how do micro-experiences combine to form unified macro-experience? This is sometimes called "the hard problem turned upside down."
+
+### Neutral Monism
+
+**Core claim:** Reality is fundamentally neither mental nor physical but some neutral "stuff" that can appear as either depending on how it's organized or viewed. Mind and matter are two aspects of the same underlying reality.
+
+**Key proponents:** Historical versions from Spinoza, William James, Bertrand Russell (in some phases). Contemporary versions connect to structural realism and information-theoretic approaches.
+
+**Strengths:** Avoids privileging either mind or matter. Potentially dissolves the mind-body problem by denying the initial dualism. Compatible with scientific practice while leaving room for consciousness.
+
+**Challenges:** The "neutral" substrate can seem obscure—what is it, if neither mental nor physical? Risks collapsing into either physicalism or idealism depending on how the neutral base is characterized.
+
+### Dual-Aspect Monism
+
+**Core claim:** Mind and matter are two aspects of a single underlying reality, neither reducible to the other. Every physical event has a mental aspect; every mental event has a physical aspect. They're not causally related because they're not separate things.
+
+**Key proponents:** Connects to Spinoza's metaphysics. Contemporary versions in some interpretations of quantum mechanics (Pauli-Jung conjecture) and in integrated information theory.
+
+**Strengths:** Preserves the reality of both physical science and mental life. Explains mind-brain correlation without reduction. Avoids interaction problems that plague substance dualism.
+
+**Challenges:** Must clarify what "aspects" means. Can seem to merely redescribe the problem rather than solve it.
+
+### Cosmopsychism and Priority Monism
+
+**Core claim:** The cosmos as a whole is the fundamental conscious entity; individual minds are derivative. This inverts the usual building-block approach where wholes are constructed from parts.
+
+**Key proponents:** Philip Goff has explored this as a response to the combination problem. Connections to certain interpretations of Advaita Vedanta and other non-dual traditions.
+
+**Strengths:** Avoids the combination problem by starting with unified consciousness and explaining differentiation rather than combination. Coheres with certain interpretations of quantum entanglement and non-locality.
+
+**Challenges:** Must explain how individual minds emerge as apparently separate. Can seem to conflict with the apparent causal closure of local physical systems.
+
+### What They Share
+
+Despite differences, these frameworks share key features that distinguish them from standard physicalism:
+
+1. **Consciousness is not derived.** It's either fundamental or co-fundamental with matter, not an emergent product of non-conscious processes.
+
+2. **First-person evidence matters.** Phenomenology is taken seriously as a source of knowledge about reality, not merely as data to be explained away.
+
+3. **The hard problem is addressed, not deferred.** Each framework offers a positive account of why there is experience, rather than treating it as a puzzle for future science.
+
+4. **Integration is possible.** These frameworks aim to unify first-person and third-person perspectives rather than treating them as irreconcilable.
+
+The choice among them involves further philosophical work. But the first step—recognizing that serious options exist and deserve evaluation on their merits—is what asymmetric restraint prevents.
+
+---
+
+## VII. Objections and Responses
 
 ### "But consciousness-first is unfalsifiable!"
 
@@ -220,7 +299,7 @@ Some consciousness-first positions may deserve this critique. But the serious ve
 
 ---
 
-## VII. Why This Matters
+## VIII. Why This Matters
 
 The asymmetry in methodological restraint isn't merely an academic curiosity. It shapes which research programs receive funding, which questions young scholars dare to ask, which phenomena get taken seriously, and which solutions remain invisible.
 
