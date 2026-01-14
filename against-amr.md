@@ -1,10 +1,10 @@
 ---
 layout: essay
-title: The Hidden Rules of Acceptable Metaphysics
+title: Asymmetric Methodological Restraint
 description: Why "staying neutral" on consciousness is itself a philosophical stance—and what it costs us.
 ---
 
-# The Hidden Rules of Acceptable Metaphysics: Why Restraint About Consciousness Isn't Neutral
+# Asymmetric Methodological Restraint: Reassessing Consciousness-First Ontology
 
 **Author:** Bruno Tonetto  
 **Authorship Note:** This essay is co-authored with AI in order to expand interdisciplinary reach and refine reasoning. AI is used as a disciplined thinking instrument—not as a replacement for judgment. The collaboration explicitly prioritizes epistemic integrity, avoids sycophancy, and treats truth-seeking as a moral responsibility.  
