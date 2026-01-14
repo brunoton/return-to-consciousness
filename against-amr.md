@@ -34,7 +34,7 @@ The standard answer is methodological caution. We should be conservative about o
 
 This essay argues that what presents itself as neutral methodological restraint is actually a hidden philosophical stance—one that systematically excludes consciousness from fundamental status. Understanding this asymmetry matters because it shapes which questions we ask, which solutions we can imagine, and which problems we condemn ourselves to endlessly defer.
 
-By "asymmetric methodological restraint" (AMR), I mean the practice of treating underdetermination as a decisive barrier to ontological revision when consciousness is proposed as fundamental, while permitting equally speculative ontological commitments grounded in third-person structure under comparable evidential conditions. The asymmetry is the key: if restraint were applied consistently, it would block many-worlds interpretations and mathematical Platonism just as firmly as consciousness-first ontologies. It isn't. That selective application reveals that something other than methodological caution is at work.
+By "asymmetric methodological restraint" (AMR), I mean the practice of treating underdetermination as a decisive barrier to ontological revision when consciousness is proposed as fundamental, while permitting equally speculative ontological commitments grounded in third-person structure under comparable evidential conditions. AMR should be distinguished from general skepticism or quietism; it permits robust metaphysical commitment in many domains, but restricts it selectively with respect to consciousness. The asymmetry is the key: if restraint were applied consistently, it would block many-worlds interpretations and mathematical Platonism just as firmly as consciousness-first ontologies. It isn't. That selective application reveals that something other than methodological caution is at work.
 
 ---
 
@@ -85,19 +85,21 @@ What these positions share: they involve substantial metaphysical commitments th
 
 Now consider proposals that face systematic resistance:
 
-**Consciousness as fundamental.** The suggestion that consciousness might be a basic feature of reality—not reducible to or derived from physical processes—triggers immediate suspicion. Despite the persistent failure of physicalist theories to explain why there is subjective experience at all, despite the acknowledged "hard problem" that has resisted solution for decades, proposals that take consciousness as ontologically basic are treated as giving up rather than making progress.
+**Consciousness as fundamental.** The suggestion that consciousness might be a basic feature of reality—not reducible to or derived from physical processes—triggers immediate suspicion. Despite the persistent failure of physicalist theories to explain why there is subjective experience at all, despite the acknowledged "hard problem" that has resisted solution for decades, proposals that take consciousness as ontologically basic are treated as giving up rather than making progress—despite being motivated by the same explanatory criteria (coherence, unification, parsimony) that justify speculative commitments elsewhere.
 
 **Mind in physics.** Interpretations of quantum mechanics that give consciousness a constitutive role—not merely as an observer but as participating in how quantum states become definite—are marginalized despite their historical pedigree and despite the fact that they address puzzles that other interpretations merely relocate.
 
 **Phenomenology as evidence.** First-person experience, investigated with discipline and precision, is systematically downgraded as a source of knowledge. While third-person methods (measurement, experiment, publicly observable data) are treated as paradigmatic of knowledge, first-person methods (introspection, contemplative investigation, phenomenological analysis) are treated as merely subjective—interesting perhaps, but not genuinely evidential.
 
-**Anomalous phenomena.** Research on near-death experiences, terminal lucidity, or other phenomena that sit uneasily with physicalist assumptions faces extraordinary barriers: funding difficulties, publication resistance, professional stigma. The bar for evidence is raised selectively; the demand for rigor is applied asymmetrically.
+**Anomalous phenomena.** Research on near-death experiences, terminal lucidity, or other phenomena that sit uneasily with physicalist assumptions faces extraordinary barriers: funding difficulties, publication resistance, professional stigma. The bar for evidence is raised selectively; the demand for rigor is applied asymmetrically. The argument here does not depend on accepting any particular interpretation of these phenomena, only on the asymmetry with which they are excluded a priori.
 
 ### The Pattern
 
 The pattern is clear: ontological commitments grounded in third-person structural considerations (physics, mathematics, logic) are permitted under underdetermination. Ontological commitments grounded in first-person phenomenological considerations (consciousness, experience, mind) are blocked.
 
 To be clear: the point is not that sociological bias determines truth. Institutional resistance to an idea doesn't make it correct, and mainstream acceptance doesn't make something wrong. But persistent institutional asymmetry reveals an underlying epistemic rule about what kinds of explanations are permitted—and that rule is what requires examination. The question is whether the rule is justified or whether it encodes a hidden metaphysics.
+
+The background physicalism at work here is rarely explicit or defended; it functions instead as a default constraint on admissible explanation. This is not an accusation of bad faith. Most researchers operating within this constraint are simply following the conventions of their fields. But conventions can embody philosophical commitments, and those commitments can be examined.
 
 This is not neutral methodology. It's a substantive philosophical stance masquerading as caution.
 
@@ -166,7 +168,7 @@ Notice how this stance sits uneasily with the principles we articulated:
 
 ---
 
-## V. The Alternative: Consciousness-First Ontology
+## V. The Alternative: Analytic Idealism
 
 If AMR is not neutral, what's the alternative?
 
@@ -327,7 +329,7 @@ This means treating consciousness-first frameworks as genuine competitors, not a
 
 The choice before us is not between certainty and uncertainty. It's between different ways of distributing epistemic risk. We can continue paying the costs of a framework that cannot solve its central problems, or we can invest in alternatives that might.
 
-Genuine intellectual honesty requires that this choice be made explicitly, not foreclosed by rules that pretend to be neutral while encoding a particular answer in advance.
+Genuine intellectual honesty requires that this choice be made explicitly, not foreclosed by rules that pretend to be neutral while encoding a particular answer in advance. Once asymmetric methodological restraint is made explicit, the exclusion of consciousness-first ontology can no longer be defended as mere caution.
 
 ---
 
