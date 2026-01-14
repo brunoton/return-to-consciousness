@@ -34,7 +34,7 @@ The standard answer is methodological caution. We should be conservative about o
 
 This essay argues that what presents itself as neutral methodological restraint is actually a hidden philosophical stance—one that systematically excludes consciousness from fundamental status. Understanding this asymmetry matters because it shapes which questions we ask, which solutions we can imagine, and which problems we condemn ourselves to endlessly defer.
 
-The argument has practical stakes. There now exists a rigorous consciousness-first framework adequate to contemporary philosophical dialogue: *analytic idealism*, developed most systematically by Bernardo Kastrup. This isn't mysticism or speculation but carefully argued metaphysics that dissolves problems physicalism has failed to solve for decades. Whether analytic idealism deserves serious consideration depends on whether the rules excluding it are genuinely neutral—or whether they encode a hidden physicalism that forecloses inquiry before it begins.
+By "asymmetric methodological restraint" (AMR), I mean the practice of treating underdetermination as a decisive barrier to ontological revision when consciousness is proposed as fundamental, while permitting equally speculative ontological commitments grounded in third-person structure under comparable evidential conditions. The asymmetry is the key: if restraint were applied consistently, it would block many-worlds interpretations and mathematical Platonism just as firmly as consciousness-first ontologies. It isn't. That selective application reveals that something other than methodological caution is at work.
 
 ---
 
@@ -77,7 +77,7 @@ Consider some ontological commitments that flourish in contemporary intellectual
 
 **The multiverse.** Cosmological theories increasingly posit vast ensembles of universes with different physical constants, most of which are unobservable in principle. These proposals are motivated by fine-tuning considerations and inflationary cosmology, but they commit us to extraordinarily rich ontologies on the basis of indirect theoretical considerations.
 
-**Many-worlds quantum mechanics.** As noted above, this interpretation posits infinitely many branching universes, each as real as ours, none detectable from the others. It's gained significant traction in physics and philosophy despite—or perhaps because of—its ontological extravagance.
+**Many-worlds quantum mechanics.** As noted above, this interpretation posits infinitely many branching universes, each as real as ours, none detectable from the others. Proponents rightly emphasize its mathematical elegance and preservation of unitarity—but these virtues are theoretical, not empirically forced. It's gained significant traction in physics and philosophy despite—or perhaps because of—its ontological extravagance.
 
 What these positions share: they involve substantial metaphysical commitments that go beyond what evidence strictly requires. They're grounded in considerations of theoretical elegance, explanatory coherence, or mathematical fruitfulness. And they're considered legitimate moves in intellectual discourse.
 
@@ -96,6 +96,8 @@ Now consider proposals that face systematic resistance:
 ### The Pattern
 
 The pattern is clear: ontological commitments grounded in third-person structural considerations (physics, mathematics, logic) are permitted under underdetermination. Ontological commitments grounded in first-person phenomenological considerations (consciousness, experience, mind) are blocked.
+
+To be clear: the point is not that sociological bias determines truth. Institutional resistance to an idea doesn't make it correct, and mainstream acceptance doesn't make something wrong. But persistent institutional asymmetry reveals an underlying epistemic rule about what kinds of explanations are permitted—and that rule is what requires examination. The question is whether the rule is justified or whether it encodes a hidden metaphysics.
 
 This is not neutral methodology. It's a substantive philosophical stance masquerading as caution.
 
@@ -164,7 +166,7 @@ Notice how this stance sits uneasily with the principles we articulated:
 
 ---
 
-## V. The Alternative: Analytic Idealism
+## V. The Alternative: Consciousness-First Ontology
 
 If AMR is not neutral, what's the alternative?
 
@@ -318,6 +320,8 @@ These are not small stakes.
 The argument of this essay is not that consciousness-first ontology is certainly true. Certainty isn't available in foundational inquiry. The argument is that *asymmetric methodological restraint* is not the neutral, cautious position it presents itself as. It embodies substantive philosophical commitments that systematically exclude certain possibilities before inquiry begins.
 
 Given shared epistemic principles—that coherence matters, that brute facts are costly, that all evidence comes through consciousness—the rational response to decades of explanatory failure is not indefinite restraint. It's willingness to take ontological risk in pursuit of explanatory progress.
+
+The question is not whether consciousness-first ontology involves risk—it does. The question is whether that risk is greater than the cost of indefinitely preserving a framework that cannot resolve its central explanatory failures. Risk attaches to both options; the asymmetry lies in pretending that only one side bears it.
 
 This means treating consciousness-first frameworks as genuine competitors, not as lapses in intellectual seriousness. It means applying the same standards of evaluation—elegance, coherence, explanatory power—that we apply to speculative physics. It means acknowledging that the "neutral" position isn't neutral at all.
 
