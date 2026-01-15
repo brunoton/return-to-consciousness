@@ -34,7 +34,7 @@ The standard answer is methodological caution. We should be conservative about o
 
 This essay argues that what presents itself as neutral methodological restraint is actually a hidden philosophical stance—one that systematically excludes consciousness from fundamental status. Understanding this asymmetry matters because it shapes which questions we ask, which solutions we can imagine, and which problems we condemn ourselves to endlessly defer.
 
-By "asymmetric methodological restraint" (AMR), I mean the practice of treating underdetermination as a decisive barrier to ontological revision when consciousness is proposed as fundamental, while permitting equally speculative ontological commitments grounded in third-person structure under comparable evidential conditions. AMR should be distinguished from general skepticism or quietism; it permits robust metaphysical commitment in many domains, but restricts it selectively with respect to consciousness. The asymmetry is the key: if restraint were applied consistently, it would block many-worlds interpretations and mathematical Platonism just as firmly as consciousness-first ontologies. It isn't. That selective application reveals that something other than methodological caution is at work.
+By "asymmetric methodological restraint" (AMR), I mean the practice of treating underdetermination as a decisive barrier to ontological revision when consciousness is proposed as fundamental, while permitting equally speculative ontological commitments grounded in third-person structure under comparable evidential conditions. AMR should be distinguished from general skepticism or quietism; it permits robust metaphysical commitment in many domains, but restricts it selectively with respect to consciousness. The asymmetry is the key: if restraint were applied consistently, it would block many-worlds interpretations, mathematical Platonism, and information-theoretic ontologies just as firmly as consciousness-first frameworks. It isn't. That selective application reveals that something other than methodological caution is at work.
 
 ---
 
@@ -78,6 +78,8 @@ Consider some ontological commitments that flourish in contemporary intellectual
 **The multiverse.** Cosmological theories increasingly posit vast ensembles of universes with different physical constants, most of which are unobservable in principle. These proposals are motivated by fine-tuning considerations and inflationary cosmology, but they commit us to extraordinarily rich ontologies on the basis of indirect theoretical considerations.
 
 **Many-worlds quantum mechanics.** As noted above, this interpretation posits infinitely many branching universes, each as real as ours, none detectable from the others. Proponents rightly emphasize its mathematical elegance and preservation of unitarity—but these virtues are theoretical, not empirically forced. It's gained significant traction in physics and philosophy despite—or perhaps because of—its ontological extravagance.
+
+**Information-theoretic ontologies.** An increasingly influential family of views treats *information* as ontologically fundamental. John Wheeler's "it from bit" proposes that physical reality emerges from information-theoretic processes. Digital physics suggests the universe is fundamentally computational. Integrated Information Theory (IIT) posits that consciousness *is* integrated information, measurable by the quantity φ. These frameworks treat an abstract structure—information—as more fundamental than matter, yet they're welcomed into mainstream discourse in ways that consciousness-first views are not. The irony is sharp: information, understood rigorously, requires interpretation—and interpretation implies a subject. Information *for no one* is arguably more mysterious than experience itself. Yet "it from bit" is celebrated as visionary physics, while "it from consciousness" triggers immediate resistance.
 
 What these positions share: they involve substantial metaphysical commitments that go beyond what evidence strictly requires. They're grounded in considerations of theoretical elegance, explanatory coherence, or mathematical fruitfulness. And they're considered legitimate moves in intellectual discourse.
 
@@ -141,7 +143,7 @@ With these principles in hand, we can now see why asymmetric restraint is not ne
 
 The position we might call *Asymmetric Methodological Restraint* (AMR) says: when ontological frameworks are underdetermined by evidence, we should suspend commitment—but especially when revision involves consciousness or phenomenology.
 
-The key word is "especially." If restraint were applied generally, it would forbid the many-worlds interpretation, modal realism, and mathematical Platonism just as much as consciousness-first ontologies. But it isn't. These proposals are evaluated on their theoretical merits—their elegance, their explanatory power, their coherence with other commitments.
+The key word is "especially." If restraint were applied generally, it would forbid the many-worlds interpretation, modal realism, mathematical Platonism, and information-theoretic ontologies just as much as consciousness-first frameworks. But it isn't. These proposals are evaluated on their theoretical merits—their elegance, their explanatory power, their coherence with other commitments.
 
 Consciousness-first proposals are treated differently. They're not rejected because they've been examined and found wanting. They're dismissed because they violate an implicit boundary: whatever else we revise, we must not elevate consciousness to fundamental status.
 
@@ -168,7 +170,7 @@ Notice how this stance sits uneasily with the principles we articulated:
 
 ---
 
-## V. The Alternative: Analytic Idealism
+## V. The Alternative: Ontological Revision Under Pressure
 
 If AMR is not neutral, what's the alternative?
 
@@ -287,7 +289,7 @@ The choice among them involves further philosophical work. But the first step—
 
 ### "But consciousness-first is unfalsifiable!"
 
-This objection proves too much. Many-worlds quantum mechanics is unfalsifiable—we can never observe other branches. Modal realism is unfalsifiable—we can't visit other possible worlds. Mathematical Platonism is unfalsifiable—we can't detect the abstract realm. If unfalsifiability were grounds for dismissal, the asymmetry would apply to these positions equally. The fact that it doesn't reveals that something other than falsifiability is driving the resistance.
+This objection proves too much. Many-worlds quantum mechanics is unfalsifiable—we can never observe other branches. Modal realism is unfalsifiable—we can't visit other possible worlds. Mathematical Platonism is unfalsifiable—we can't detect the abstract realm. "It from bit" is unfalsifiable—we can't observe information as ontologically prior to physics. If unfalsifiability were grounds for dismissal, the asymmetry would apply to these positions equally. The fact that it doesn't reveals that something other than falsifiability is driving the resistance.
 
 ### "We just need more neuroscience."
 
