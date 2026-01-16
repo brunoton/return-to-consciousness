@@ -291,6 +291,16 @@ The choice among them involves further philosophical work. But the first step—
 
 This objection proves too much. Many-worlds quantum mechanics is unfalsifiable—we can never observe other branches. Modal realism is unfalsifiable—we can't visit other possible worlds. Mathematical Platonism is unfalsifiable—we can't detect the abstract realm. "It from bit" is unfalsifiable—we can't observe information as ontologically prior to physics. If unfalsifiability were grounds for dismissal, the asymmetry would apply to these positions equally. The fact that it doesn't reveals that something other than falsifiability is driving the resistance.
 
+### "But physicalism has proven empirically fruitful."
+
+A common defense of the asymmetry is that physicalist programs have driven extraordinary empirical progress—technologies, predictions, explanatory successes—in a way that consciousness-first alternatives have not. But this misidentifies the source of fruitfulness.
+
+Analytic idealism, for example, entails exactly the same empirical predictions as physicalism in all domains already explored by science. It takes the physical world to be the extrinsic appearance of mental processes rather than an independent substance. The equations of physics, the technologies they enable, the predictions they generate—all are preserved intact. What changes is the interpretation of *why* those regularities exist and *why* they correlate with experience.
+
+Empirical fruitfulness is therefore not a differential advantage for physicalism; it is shared. Consciousness-first frameworks inherit the full empirical payoff while dissolving problems (hard problem, measurement problem, combination problem) that physicalism leaves as brute or indefinitely deferred. The "fruitfulness" argument reduces to either: (1) a historical point ("physicalism drove progress so far"), which does not justify blocking ontological revision when explanatory failures persist; or (2) a covert commitment to physicalism as the default ontology—which is precisely what AMR hides.
+
+Moreover, the appeal to empirical fruitfulness sits uneasily with the *a priori* dismissal of anomalous phenomena noted earlier. Research into terminal lucidity, near-death experiences, and other consciousness-related anomalies faces systematic barriers—not because such research has been conducted and found wanting, but because the phenomena are ruled out in advance as incompatible with physicalist assumptions. One cannot simultaneously claim empirical fruitfulness as a virtue while blocking the empirical investigation of inconvenient data. The asymmetry here is not merely interpretive; it actively shapes which evidence gets collected.
+
 ### "We just need more neuroscience."
 
 This response assumes what it needs to prove: that the hard problem is merely hard rather than pointing to a categorical limitation. Decades of sophisticated neuroscience have mapped neural correlates of consciousness in impressive detail without making progress on why any of it is accompanied by experience. More of the same approach is unlikely to bridge a gap that may be conceptual rather than empirical.
