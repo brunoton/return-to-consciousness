@@ -293,19 +293,23 @@ This objection proves too much. Many-worlds quantum mechanics is unfalsifiable�
 
 ### "But physicalism has proven empirically fruitful."
 
-This objection has real weight and deserves a careful response.
+This objection rests on a category error that deserves careful unpacking.
 
-Physicalism has not merely accommodated empirical findings; it has actively generated novel predictions, guided research programs, and produced technological breakthroughs across centuries of inquiry. This heuristic fertility is genuine, and consciousness-first frameworks have not yet demonstrated comparable generativity at scale. The asymmetry in track record is real.
+What has proven empirically fruitful is *objective empiricism*—the methodology of studying nature through quantitative analysis of reproducible, intersubjectively verifiable patterns. Mathematical description, experimental method, prediction, technological application—these constitute the engine of scientific success. The question is whether this engine requires *metaphysical materialism* (the ontological claim that reality is fundamentally unconscious matter) to run.
 
-However, several distinctions matter here.
+It doesn't. Objective empiricism requires only:
+- That observable phenomena contain stable, quantifiable patterns
+- That mathematical relationships can describe these patterns
+- That reproducible experiments can test hypotheses
+- That intersubjective verification of measurements is possible
 
-First, the source of fruitfulness must be correctly identified. The empirical successes of modern science derive from mathematical description of regularities, experimental method, and quantitative prediction—not from the metaphysical claim that consciousness is derivative. Analytic idealism, for example, entails exactly the same empirical predictions as physicalism in all domains already explored. It takes the physical world to be the extrinsic appearance of mental processes rather than an independent substance. The equations, technologies, and predictions are preserved intact. What changes is the interpretation of *why* those regularities exist and *why* they correlate with experience. Empirical fruitfulness is therefore shared at the level of what has already been achieved.
+None of these requirements entail that consciousness is derivative, that mental phenomena reduce to physical processes, or that mind-independent matter exists beyond all possible experience. These are *additions* that metaphysical materialism makes to the methodology—additions that generate the hard problem, the measurement problem, and other persistent failures.
 
-Second, historical priority does not establish permanent superiority. Physicalism's head start of several centuries explains much of the asymmetry in demonstrated fertility. Consciousness-first frameworks have operated under systematic institutional disadvantage—marginal funding, professional stigma, exclusion from mainstream journals—that makes comparison of "track records" less straightforward than it appears. The question is not which framework has produced more so far, but which deserves continued investment given persistent explanatory failures.
+Consciousness-first frameworks preserve the methodology entirely. Under analytic idealism, mathematical relationships still hold (as patterns in how experience unfolds), measurement still works (instruments operate as stable patterns within the same conscious field), prediction remains possible (regular patterns enable forecasting regardless of their ultimate nature), and technology functions (by exploiting reliable experiential regularities). The empirical content transfers completely; what doesn't transfer are the metaphysical assumptions that create more problems than they solve.
 
-Third, the appeal to empirical fruitfulness sits uneasily with the *a priori* dismissal of anomalous phenomena noted earlier. Research into terminal lucidity, near-death experiences, and other consciousness-related anomalies faces systematic barriers—not because such research has been conducted and found wanting, but because the phenomena are ruled out in advance as incompatible with physicalist assumptions. One cannot simultaneously claim empirical fruitfulness as a virtue while blocking the empirical investigation of inconvenient data.
+This matters for the asymmetry argument: if empirical fruitfulness belongs to the *method* rather than the *metaphysics*, it cannot justify treating physicalism as the default ontology. Consciousness-first frameworks inherit the same methodological fertility while dissolving problems physicalism leaves as brute.
 
-The honest summary: physicalism has earned its reputation for empirical fertility, and consciousness-first frameworks have not yet matched it. But this is a challenge to be met, not a reason to foreclose inquiry. The question is whether the asymmetric restraint is *justified* by this track record, or whether it *perpetuates* the very conditions that prevent alternatives from demonstrating their potential.
+One further point: the appeal to empirical fruitfulness sits uneasily with the *a priori* dismissal of anomalous phenomena. Research into terminal lucidity, near-death experiences, and other consciousness-related anomalies faces barriers—not because such research has been conducted and found wanting, but because the phenomena are ruled incompatible with physicalist assumptions in advance. One cannot claim empirical fruitfulness as a virtue while blocking empirical investigation of inconvenient data.
 
 ### "We just need more neuroscience."
 
