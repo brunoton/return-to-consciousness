@@ -188,7 +188,7 @@ Consider what consciousness-first frameworks offer:
 
 **On the unity of knowledge.** First-person and third-person methods become complementary rather than competing. Phenomenology and physics investigate the same reality from different angles—the intrinsic nature of experience and its extrinsic appearance. The integration crisis—the gap between how we experience the world and how science describes it—finds resolution.
 
-**On anomalous phenomena.** Terminal lucidity (cognitive clarity in dying patients with severely damaged brains), near-death experiences, and other phenomena that strain physicalist assumptions become intelligible rather than embarrassing. If the brain is a process of dissociation rather than a generator of consciousness, reduced brain function might correlate with expanded rather than diminished awareness under certain conditions.
+**On anomalous phenomena.** Terminal lucidity (cognitive clarity in dying patients with severely damaged brains), near-death experiences, and other phenomena that strain physicalist assumptions become intelligible rather than embarrassing. If the brain is not a generator of consciousness but more like a receiver, reduced brain function might correlate with expanded rather than diminished awareness under certain conditions.
 
 ### Explanatory Economy
 
