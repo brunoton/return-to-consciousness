@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Editor/IDE
+~*.docx
+TASKS.md
+CLAUDE.md
+
+# Ruby/Jekyll
+Gemfile.lock
+_site/
+.jekyll-metadata
+
+# Drafts
+_draft/
