@@ -331,8 +331,6 @@ The question is not whether AI has ego, but whether we have the wisdom to preser
 
 ## References
 
-Atwell, K., & Alikhani, M. (2025). AI sycophancy and rational belief updating. Northeastern University. https://news.northeastern.edu/2025/11/24/ai-sycophancy-research/
-
 Azoulay, P., Fons-Rosen, C., & Graff Zivin, J. S. (2019). Does science advance one funeral at a time? *American Economic Review, 109*(8), 2889-2920.
 
 Bai, Y., Kadavath, S., Kundu, S., et al. (2022). Constitutional AI: Harmlessness from AI feedback. *arXiv preprint arXiv:2212.08073*.

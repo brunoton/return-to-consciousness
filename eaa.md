@@ -261,7 +261,7 @@ Kastrup, Bernardo. *The Idea of the World: A Multi-Disciplinary Argument for the
 
 Kastrup, Bernardo. *Why Materialism Is Baloney: How True Skeptics Know There Is No Death and Fathom Answers to Life, the Universe, and Everything*. Iff Books, 2014.
 
-Grego, Andrea. "Analytic Idealism and Meta-Consciousness: A Response to Critics." *Journal of Consciousness Studies*, 2025.
+Grego, R. (2025). Analytic idealism and the possibility of a meta-conscious cosmic mind. *Essentia Foundation*. https://www.essentiafoundation.org/analytic-idealism-and-the-possibility-of-a-meta-conscious-cosmic-mind/reading/
 
 ### Philosophy of Mind
 
