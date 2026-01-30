@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <!-- SEO Meta Tags -->
+  <title>{% if page.title %}{{ page.title | escape }} | {{ site.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <meta name="description" content="{{ page.description | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  <meta name="author" content="{{ site.author }}">
+  <meta name="keywords" content="consciousness, philosophy, artificial intelligence, idealism, materialism, quantum physics, AI safety, spirituality, science">
+  
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:title" content="{% if page.title %}{{ page.title | escape }} | {{ site.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
+  <meta property="og:description" content="{{ page.description | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary">
+  <meta property="twitter:url" content="{{ page.url | absolute_url }}">
+  <meta property="twitter:title" content="{% if page.title %}{{ page.title | escape }} | {{ site.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
+  <meta property="twitter:description" content="{{ page.description | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  
+  <!-- Canonical URL -->
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  
+  <!-- Favicons -->
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ '/favicon/apple-touch-icon.png' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/favicon/favicon-32x32.png' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ '/favicon/favicon-16x16.png' | relative_url }}">
+  <link rel="manifest" href="{{ '/favicon/site.webmanifest' | relative_url }}">
+  <link rel="icon" type="image/x-icon" href="{{ '/favicon/favicon.ico' | relative_url }}">
+  
+  <!-- CSS -->
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  
+  <!-- Jekyll SEO Tag -->
+  {% seo %}
+  
+  <!-- RSS Feed -->
+  {% feed_meta %}
+</head>
+
+<body>
+  <header class="site-header">
+    <div class="wrapper">
+      <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
+      <nav class="site-nav">
+        <button class="menu-toggle" aria-label="Toggle navigation menu" aria-expanded="false">
+          <span class="hamburger-icon">
+            <span></span>
+            <span></span>
+            <span></span>
+          </span>
+        </button>
+        <div class="nav-menu">
+          <a class="page-link" href="{{ '/' | relative_url }}">Home</a>
+          {% for path in site.header_pages %}
+            {% assign my_page = site.pages | where: "path", path | first %}
+            {% if my_page.title %}
+            {% comment %}Add category labels before first item of each group{% endcomment %}
+            {% if path == "rtc.md" %}<span class="nav-category">Foundational</span>{% endif %}
+            {% if path == "apc.md" %}<span class="nav-category">Extensions</span>{% endif %}
+            {% if path == "mmn.md" %}<span class="nav-category">Gatekeepers</span>{% endif %}
+            {% if path == "ela.md" %}<span class="nav-category">Applied</span>{% endif %}
+            {% if path == "tcj.md" %}<span class="nav-category">Boundary</span>{% endif %}
+            {% if path == "cac.md" %}<span class="nav-category">Reference</span>{% endif %}
+            <a class="page-link" href="{{ my_page.url | relative_url }}">
+              {% if path == "readers-guide.md" %}Reader's Guide
+              {% elsif path == "rtc.md" %}Return to Consciousness (rtc)
+              {% elsif path == "apc.md" %}Anomalous Phenomena (apc)
+              {% elsif path == "bse.md" %}Beyond Survival (bse)
+              {% elsif path == "ost.md" %}One Structure (ost)
+              {% elsif path == "bio.md" %}Biological Competency (bio)
+              {% elsif path == "mmn.md" %}Metaphysical Neutrality (mmn)
+              {% elsif path == "eop.md" %}Emergence of Physicalism (eop)
+              {% elsif path == "amr.md" %}Asymmetric Restraint (amr)
+              {% elsif path == "wes.md" %}Where Explanation Stops (wes)
+              {% elsif path == "eaa.md" %}Epistemic Authority (eaa)
+              {% elsif path == "raw.md" %}Reflexive Awareness (raw)
+              {% elsif path == "ela.md" %}Ego-less Intelligence (ela)
+              {% elsif path == "tin.md" %}Truth Is Not Neutral (tin)
+              {% elsif path == "aam.md" %}Abundance and Meaning (aam)
+              {% elsif path == "cst.md" %}Consciousness Structure (cst)
+              {% elsif path == "tcj.md" %}The Cosmic Journey (tcj)
+              {% elsif path == "tes.md" %}Taking ET Seriously (tes)
+              {% elsif path == "cac.md" %}Consciousness Catalog (cac)
+              {% else %}{{ my_page.title | escape }}{% endif %}
+            </a>
+            {% endif %}
+          {% endfor %}
+        </div>
+      </nav>
+    </div>
+  </header>
+
+  <script>
+    // Hamburger menu toggle and responsive tables
+    document.addEventListener('DOMContentLoaded', function() {
+      const menuToggle = document.querySelector('.menu-toggle');
+      const navMenu = document.querySelector('.nav-menu');
+
+      menuToggle.addEventListener('click', function() {
+        const isExpanded = menuToggle.getAttribute('aria-expanded') === 'true';
+        menuToggle.setAttribute('aria-expanded', !isExpanded);
+        navMenu.classList.toggle('active');
+        menuToggle.classList.toggle('active');
+      });
+
+      // Close menu when clicking outside
+      document.addEventListener('click', function(event) {
+        if (!event.target.closest('.site-nav')) {
+          navMenu.classList.remove('active');
+          menuToggle.classList.remove('active');
+          menuToggle.setAttribute('aria-expanded', 'false');
+        }
+      });
+
+      // Close menu when clicking a link
+      navMenu.querySelectorAll('.page-link').forEach(function(link) {
+        link.addEventListener('click', function() {
+          navMenu.classList.remove('active');
+          menuToggle.classList.remove('active');
+          menuToggle.setAttribute('aria-expanded', 'false');
+        });
+      });
+
+      // Make tables responsive by adding data-label attributes
+      const tables = document.querySelectorAll('.page-content table');
+      tables.forEach(function(table) {
+        const headers = Array.from(table.querySelectorAll('thead th')).map(function(th) {
+          return th.textContent.trim();
+        });
+
+        table.querySelectorAll('tbody tr').forEach(function(row) {
+          Array.from(row.querySelectorAll('td')).forEach(function(cell, index) {
+            if (headers[index]) {
+              cell.setAttribute('data-label', headers[index]);
+            }
+          });
+        });
+      });
+    });
+  </script>
+
+  <main class="page-content" aria-label="Content">
+    <div class="wrapper">
+      {{ content }}
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrapper">
+      <div class="footer-col-wrapper">
+        <div class="footer-col">
+          <p>{{ site.description | escape }}</p>
+          <p>Licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> - Free to share and adapt with attribution</p>
+        </div>
+        <div class="footer-col">
+          <ul class="social-media-list">
+            {% if site.linkedin_username %}
+            <li>
+              <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}">
+                <span class="username">LinkedIn</span>
+              </a>
+            </li>
+            {% endif %}
+            <li>
+              <a href="{{ '/' | absolute_url }}">
+                <span class="username">Website</span>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Schema.org structured data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "{{ page.title | default: site.title }}",
+    "description": "{{ page.description | default: site.description }}",
+    "author": {
+      "@type": "Person",
+      "name": "{{ site.author }}",
+      "url": "https://www.linkedin.com/in/{{ site.linkedin_username }}"
+    },
+    "datePublished": "2025-08-16",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "url": "{{ page.url | absolute_url }}",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "{{ page.url | absolute_url }}"
+    }
+  }
+  </script>
+</body>
+</html>
