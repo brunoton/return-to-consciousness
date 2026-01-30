@@ -148,7 +148,7 @@ Rather than choosing between the comfort of promised survival and the stark hone
 
 This reframing has practical implications beyond philosophical speculation. How we understand consciousness and death shapes how we live, how we face our own mortality, and how we relate to the suffering of others. Individual-transforming worldviews suggest approaches to dying that are neither denial nor despair but curious openness to the ultimate mystery of what we are and what we might become.
 
-This inquiry leads us to one of the most profound questions facing human consciousness: What are we, really, and what happens to us when we die? The answer may be that we are something far more interesting than either materialist science or conventional spirituality has yet imagined - patterns of experience that neither simply end nor simply continue but transform in ways that transcend our current conceptual categories.
+This inquiry leads us to one of the most profound questions facing human consciousness: What are we, really, and what happens to us when we die? The answer may be that we are something far more interesting than either materialism or conventional spirituality has yet imagined - patterns of experience that neither simply end nor simply continue but transform in ways that transcend our current conceptual categories.
 
 In moving beyond the binary of survival versus extinction, we open space for a more mature and nuanced engagement with mortality - one that honors both the genuine poignancy of loss and the profound mystery of consciousness itself.
 
