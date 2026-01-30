@@ -23,7 +23,18 @@ document.addEventListener('DOMContentLoaded', function() {
     // Toggle TOC collapse/expand
     tocHeader.addEventListener('click', function() {
         toc.classList.toggle('collapsed');
-        
+
+        // Close nav menu when expanding TOC
+        if (!toc.classList.contains('collapsed')) {
+          const navMenu = document.querySelector('.nav-menu');
+          const menuToggle = document.querySelector('.menu-toggle');
+          if (navMenu) {
+            navMenu.classList.remove('active');
+            menuToggle.classList.remove('active');
+            menuToggle.setAttribute('aria-expanded', 'false');
+          }
+        }
+
         // Save state to localStorage
         const isCollapsed = toc.classList.contains('collapsed');
         localStorage.setItem('tocCollapsed', isCollapsed);
